@@ -1,11 +1,16 @@
 {
   "name": "ethereum-dex-worker",
   "version": "1.0.0",
-  "description": "An API wrapper for the most popular Ethereum decentralized exchanges",
+  "description": "An API wrapper that fetches prices from the most popular Ethereum decentralized exchanges",
   "main": "main.js",
   "author": "graham@fluidity.io",
   "license": "MIT",
+  "scripts": {
+    "dev": "node main.js",
+    "debug": "node --inspect-brk main.js"
+  },
   "dependencies": {
+    "eslint": "^5.10.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   }
