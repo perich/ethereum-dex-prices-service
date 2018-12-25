@@ -1,4 +1,5 @@
 const IDEX = require('./exchanges/IDEX.js')
+const Kyber = require('./exchanges/Kyber.js')
 
 // canonical order book interface
 const exampleBook = {
@@ -19,19 +20,18 @@ const exampleBook = {
 // given a token symbol and amount, return offers from all dexes
 // sorted descending by best price
 function main(symbol, amount) {
-  const dexes = [new IDEX()]
+  const dexes = [new IDEX(), new Kyber()]
   const promises = []
 
   dexes.forEach(dex => {
     promises.push(dex.computePrice(symbol, amount))
   })
-
   Promise.all(promises).then(results => {
-    console.log(results[0])
+    console.log(results)
   })
 }
 
-main('AURA', 1000000000000000)
+main('OMG', 500)
 
 // const options = {
 //   uri: `${PARADEX_URL}/ticker?market=weth-dai`,

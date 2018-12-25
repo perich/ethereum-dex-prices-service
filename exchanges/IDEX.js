@@ -65,7 +65,7 @@ module.exports = class IDEX {
     const book = await this.createCanonicalOrderBook(symbol)
     let result = {}
     if (!book) {
-      return {
+      result = {
         [this.name]: new Error(
           `no price data found on ${this.name} for ${symbol}`,
         ),
@@ -73,7 +73,7 @@ module.exports = class IDEX {
     } else {
       const { asks } = book
       let avgPrice = 0
-
+      let totalPrice
       for (let i = 0; i < asks.length; i++) {
         const ask = asks[i]
         const prevAsk = asks[i - 1]
@@ -87,7 +87,7 @@ module.exports = class IDEX {
           break
         }
         const remainder = desiredAmount - prevAsk.lotAmount
-        const totalPrice = prevAsk.lotPrice + remainder * ask.levelPrice
+        totalPrice = prevAsk.lotPrice + remainder * ask.levelPrice
         avgPrice = totalPrice / desiredAmount
         break
       }
@@ -99,13 +99,14 @@ module.exports = class IDEX {
         )
       } else {
         result = {
+          lotPrice: totalPrice,
           amount: desiredAmount,
           symbol,
           avgPrice,
         }
       }
-
-      return { [this.name]: result }
     }
+
+    return { [this.name]: result }
   }
 }
