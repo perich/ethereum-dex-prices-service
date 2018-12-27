@@ -62,20 +62,20 @@ module.exports = class Kyber {
       const currencies = await this.getCurrencies()
       const tokenObj = currencies.find(token => token.symbol === symbol)
 
-      if (tokenObj === null) {
+      if (!tokenObj) {
         throw new Error(`${symbol} is not available on ${this.name}`)
       }
 
       const [buyRate] = await this.getBuyRate(tokenObj.id, desiredAmount)
-      const { src_qty, dst_qty } = buyRate
-      const [sourceQuantity] = src_qty
-      const [destinationQuantity] = dst_qty
+      const { src_qty, dst_qty } = buyRate // eslint-disable-line camelcase
+      const [sourceQuantity] = src_qty // eslint-disable-line camelcase
+      const [destinationQuantity] = dst_qty // eslint-disable-line camelcase
       const avgPrice = sourceQuantity / destinationQuantity
 
       result = {
-        lotPrice: sourceQuantity,
-        amount: destinationQuantity,
-        symbol,
+        totalPrice: sourceQuantity,
+        tokenAmount: destinationQuantity,
+        tokenSymbol: symbol,
         avgPrice,
       }
     } catch (e) {

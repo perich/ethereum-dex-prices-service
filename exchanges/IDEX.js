@@ -28,21 +28,6 @@ module.exports = class IDEX {
   async createCanonicalOrderBook(symbol) {
     let lotPrice = 0
     let lotAmount = 0
-    function walkBook(level) {
-      const levelPrice = parseFloat(level.price)
-      const levelAmount = parseFloat(level.amount)
-
-      lotAmount += levelAmount
-      lotPrice += levelPrice * levelAmount
-
-      const avgUnitPrice = lotPrice / lotAmount
-      return {
-        levelPrice,
-        levelAmount,
-        lotPrice,
-        lotAmount,
-      }
-    }
 
     return new Promise(async resolve => {
       try {
@@ -50,14 +35,32 @@ module.exports = class IDEX {
         const { asks, bids } = book
 
         const formattedAsks = asks.map(walkBook)
+
         lotPrice = 0
         lotAmount = 0
+
         const formattedBids = bids.map(walkBook)
+
         resolve({ asks: formattedAsks, bids: formattedBids })
       } catch (error) {
         resolve(null)
       }
     })
+
+    function walkBook(level) {
+      const levelPrice = parseFloat(level.price)
+      const levelAmount = parseFloat(level.amount)
+
+      lotAmount += levelAmount
+      lotPrice += levelPrice * levelAmount
+
+      return {
+        levelPrice,
+        levelAmount,
+        lotPrice,
+        lotAmount,
+      }
+    }
   }
 
   // compute the average token price based on DEX liquidity and desired token amount
@@ -74,7 +77,7 @@ module.exports = class IDEX {
       const { asks } = book
       let avgPrice = 0
       let totalPrice
-      for (let i = 0; i < asks.length; i++) {
+      for (let i = 0; i < asks.length; i += 1) {
         const ask = asks[i]
         const prevAsk = asks[i - 1]
 
@@ -99,9 +102,9 @@ module.exports = class IDEX {
         )
       } else {
         result = {
-          lotPrice: totalPrice,
-          amount: desiredAmount,
-          symbol,
+          totalPrice,
+          tokenAmount: desiredAmount,
+          tokenSymbol: symbol,
           avgPrice,
         }
       }

@@ -11,6 +11,11 @@
   },
   "dependencies": {
     "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "ethers": "^4.0.20",
+    "prettier": "^1.15.3",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   }
