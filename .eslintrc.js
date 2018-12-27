@@ -14,6 +14,7 @@ module.exports = {
     'no-use-before-define': 'off',
     'no-mixed-operators': 'off',
     'max-len': 'off',
+    'implicit-arrow-linebreak': 'off',
     semi: ['error', 'never'],
   },
 }
