@@ -31,7 +31,7 @@ function main(symbol, amount) {
       const [aData] = Object.values(a)
       const [bData] = Object.values(b)
 
-      if (aData.totalPrice && !bData.totalPrice) return 1
+      if (aData.totalPrice && !bData.totalPrice) return -1
       if (!aData.totalPrice && bData.totalPrice) return 1
       if (aData.totalPrice && bData.totalPrice) {
         if (aData.totalPrice > bData.totalPrice) return 1
