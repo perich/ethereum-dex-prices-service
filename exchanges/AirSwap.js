@@ -28,6 +28,7 @@ module.exports = class AirSwap {
     this.TIMEOUTS = {}
 
     this.getOrders = this.getOrders.bind(this)
+    this.disconnect = this.disconnect.bind(this)
   }
 
   getTokenMetadata() {
@@ -45,9 +46,7 @@ module.exports = class AirSwap {
       const tokenMetadata = await this.getTokenMetadata()
       const tokenObj = tokenMetadata.find(token => token.symbol === symbol)
       const noOrderError = new Error('No one responded with an order')
-      const unavailableError = new Error(
-        `${symbol} is not available on ${this.name}`,
-      )
+      const unavailableError = new Error(`${symbol} is not available on ${this.name}`)
       let decimalAdjustedAmount
 
       if (!tokenObj) throw unavailableError
@@ -55,17 +54,11 @@ module.exports = class AirSwap {
       if (tokenObj.decimals === '0') {
         decimalAdjustedAmount = desiredAmount
       } else {
-        decimalAdjustedAmount = utils.parseUnits(
-          desiredAmount,
-          tokenObj.decimals,
-        )
+        decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), tokenObj.decimals)
       }
 
       await this.connect()
-      const intents = await this.findIntents(
-        [tokenObj.address],
-        ['0x0000000000000000000000000000000000000000'],
-      )
+      const intents = await this.findIntents([tokenObj.address], ['0x0000000000000000000000000000000000000000'])
 
       if (!intents || !intents.length) throw unavailableError
 
@@ -79,9 +72,7 @@ module.exports = class AirSwap {
         if (a.makerAmount && !b.makerAmount) return -1
         if (b.makerAmount && !a.makerAmount) return 1
         if (a.makerAmount && b.makerAmount) {
-          return parseInt(a.makerAmount, 10) > parseInt(b.makerAmount, 10)
-            ? -1
-            : 1
+          return parseInt(a.makerAmount, 10) > parseInt(b.makerAmount, 10) ? -1 : 1
         }
         return 0
       })
@@ -90,15 +81,12 @@ module.exports = class AirSwap {
         throw noOrderError
       }
 
-      const formattedMakerAmount = utils.formatUnits(
-        bestOrder.makerAmount,
-        tokenObj.decimals,
-      )
+      const formattedMakerAmount = utils.formatUnits(bestOrder.makerAmount, tokenObj.decimals)
       const formattedTakerAmount = utils.formatUnits(bestOrder.takerAmount, 18)
 
       result = {
-        totalPrice: formattedTakerAmount,
-        tokenAmount: formattedMakerAmount,
+        totalPrice: parseFloat(formattedTakerAmount),
+        tokenAmount: parseFloat(formattedMakerAmount),
         tokenSymbol: symbol,
         avgPrice: formattedTakerAmount / formattedMakerAmount,
       }
@@ -243,10 +231,7 @@ module.exports = class AirSwap {
             }
           } else if (message.id) {
             // We have received a response from a method call.
-            const isError = Object.prototype.hasOwnProperty.call(
-              message,
-              'error',
-            )
+            const isError = Object.prototype.hasOwnProperty.call(message, 'error')
 
             if (!isError && message.result) {
               // Resolve the call if a resolver exists.
@@ -272,7 +257,7 @@ module.exports = class AirSwap {
 
   // Disconnect from AirSwap by closing websocket
   disconnect() {
-    this.socket.close(1000)
+    if (this.socket) this.socket.close(1000)
   }
 
   // Interacting with the Indexer
@@ -290,9 +275,7 @@ module.exports = class AirSwap {
       role,
     })
 
-    return new Promise((resolve, reject) =>
-      this.call(INDEXER_ADDRESS, payload, resolve, reject),
-    )
+    return new Promise((resolve, reject) => this.call(INDEXER_ADDRESS, payload, resolve, reject))
   }
 
   // Make a JSON-RPC `getOrder` call on a maker and recieve back a signed order (or a timeout if they fail to respond)
@@ -331,9 +314,7 @@ module.exports = class AirSwap {
         })
         // `Promise.all` will return a complete array of resolved promises, or just the first rejection if a promise fails.
         // To mitigate this, we `catch` errors on individual promises so that `Promise.all` always returns a complete array
-        return new Promise((res, rej) =>
-          this.call(address, payload, res, rej),
-        ).catch(e => e)
+        return new Promise((res, rej) => this.call(address, payload, res, rej)).catch(e => e)
       }),
     )
   }

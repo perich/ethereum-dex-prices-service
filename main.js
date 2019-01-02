@@ -17,6 +17,7 @@ if (!USER_AMOUNT || !USER_SYMBOL) {
 // sorted descending by best price
 function main(symbol, amount) {
   const dexes = [new IDEX(), new DDEX(), new Kyber(), new AirSwap()]
+  // Bancor requires users to specify token decimals to use the API
   if (USER_DECIMALS) {
     dexes.push(new Bancor())
   }
@@ -26,8 +27,29 @@ function main(symbol, amount) {
     promises.push(dex.computePrice(symbol, amount))
   })
   Promise.all(promises).then(results => {
-    console.log(results)
+    const sortedResults = results.sort((a, b) => {
+      const [aData] = Object.values(a)
+      const [bData] = Object.values(b)
+
+      if (aData.totalPrice && !bData.totalPrice) return 1
+      if (!aData.totalPrice && bData.totalPrice) return 1
+      if (aData.totalPrice && bData.totalPrice) {
+        if (aData.totalPrice > bData.totalPrice) return 1
+        if (aData.totalPrice < bData.totalPrice) return -1
+      }
+      return 0
+    })
+    const bestPriceDex = sortedResults[0]
+    const [bestDexName, bestDexData] = Object.entries(bestPriceDex)[0]
+    if (bestDexData.totalPrice) {
+      console.log('✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨')
+      console.log(`You can find the best price on ${bestDexName}! (${bestDexData.avgPrice} ${symbol}/ETH)`)
+      console.log('✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨')
+    } else {
+      console.log('No good orders found! 😢')
+    }
+    console.log(sortedResults)
   })
 }
 
-main(USER_SYMBOL, USER_AMOUNT)
+main(USER_SYMBOL, parseFloat(USER_AMOUNT))

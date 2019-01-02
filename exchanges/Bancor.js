@@ -50,7 +50,7 @@ module.exports = class Bancor {
     if (USER_DECIMALS === '0') {
       decimalAdjustedAmount = desiredAmount
     } else {
-      decimalAdjustedAmount = utils.parseUnits(desiredAmount, USER_DECIMALS)
+      decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), USER_DECIMALS)
     }
 
     const config = {
@@ -77,9 +77,7 @@ module.exports = class Bancor {
     let result = {}
     try {
       const currencies = await this.getCurrencies()
-      const matchedSymbol = Object.keys(currencies).find(
-        tickerSymbol => tickerSymbol === symbol,
-      )
+      const matchedSymbol = Object.keys(currencies).find(tickerSymbol => tickerSymbol === symbol)
 
       if (matchedSymbol === null) {
         throw new Error(`${symbol} is not available on ${this.name}`)
@@ -97,8 +95,8 @@ module.exports = class Bancor {
       const avgPrice = totalPrice / desiredAmount
 
       result = {
-        totalPrice,
-        tokenAmount: desiredAmount,
+        totalPrice: parseFloat(totalPrice),
+        tokenAmount: parseFloat(desiredAmount),
         tokenSymbol: symbol,
         avgPrice,
       }

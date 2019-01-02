@@ -28,18 +28,12 @@ module.exports = class OrderBookExchange {
     let result = {}
     if (book === '_createCanonicalOrderBook not implemented') {
       result = {
-        [this.name]: new Error(
-          `The method _createCanonicalOrderBook must be implemented in the ${
-            this.name
-          } class`,
-        ),
+        [this.name]: new Error(`The method _createCanonicalOrderBook must be implemented in the ${this.name} class`),
       }
     }
     if (!book) {
       result = {
-        [this.name]: new Error(
-          `no price data found on ${this.name} for ${symbol}`,
-        ),
+        [this.name]: new Error(`no price data found on ${this.name} for ${symbol}`),
       }
     } else {
       const { asks } = book
@@ -55,6 +49,7 @@ module.exports = class OrderBookExchange {
 
         if (i === 0) {
           avgPrice = ask.levelPrice
+          totalPrice = ask.levelPrice * desiredAmount
           break
         }
         const remainder = desiredAmount - prevAsk.lotAmount
@@ -65,9 +60,7 @@ module.exports = class OrderBookExchange {
 
       // book didn't have enough liquidity for this size order
       if (avgPrice === 0) {
-        result = new Error(
-          `not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`,
-        )
+        result = new Error(`not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`)
       } else {
         result = {
           totalPrice,
