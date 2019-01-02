@@ -11,7 +11,7 @@ module.exports = class IDEX {
   getRawOrderBook(symbol) {
     const body = {
       market: `ETH_${symbol}`,
-      count: 50,
+      count: 100,
     }
     const config = {
       uri: this.url,
