@@ -6,14 +6,22 @@
   "author": "graham@fluidity.io",
   "license": "MIT",
   "scripts": {
-    "dev": "node main.js",
+    "search": "node main.js",
+    "lint": "eslint **.js",
+    "prettier:check": "prettier **.js -l",
+    "prettier:fix": "prettier **.js --write",
     "debug": "node --inspect-brk main.js"
   },
+  "pre-commit": [
+    "lint",
+    "prettier:check"
+  ],
   "dependencies": {
     "eslint": "^5.10.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^3.3.0",
     "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.0.1",
     "ethers": "^4.0.20",
     "prettier": "^1.15.3",
     "request": "^2.88.0",

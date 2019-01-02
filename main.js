@@ -1,4 +1,5 @@
 const IDEX = require('./exchanges/IDEX.js')
+const DDEX = require('./exchanges/DDEX.js')
 const Kyber = require('./exchanges/Kyber.js')
 const Bancor = require('./exchanges/Bancor.js')
 const AirSwap = require('./exchanges/AirSwap.js')
@@ -15,7 +16,7 @@ if (!USER_AMOUNT || !USER_SYMBOL) {
 // given a token symbol and amount, return offers from all dexes
 // sorted descending by best price
 function main(symbol, amount) {
-  const dexes = [new IDEX(), new Kyber(), new AirSwap()]
+  const dexes = [new IDEX(), new DDEX(), new Kyber(), new AirSwap()]
   if (USER_DECIMALS) {
     dexes.push(new Bancor())
   }
