@@ -5,7 +5,7 @@ const uuid = require('uuid4')
 const { AIRSWAP_TOKEN_METADATA_URL } = require('../constants.js')
 
 const { Wallet, utils } = ethers
-const TIMEOUT = 12000
+const TIMEOUT = 3000
 const INDEXER_ADDRESS = '0x0000000000000000000000000000000000000000'
 
 module.exports = class AirSwap {
