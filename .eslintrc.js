@@ -15,6 +15,7 @@ module.exports = {
     'no-mixed-operators': 'off',
     'max-len': 'off',
     'implicit-arrow-linebreak': 'off',
+    'no-underscore-dangle': 'off',
     semi: ['error', 'never'],
   },
 }

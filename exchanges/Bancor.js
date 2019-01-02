@@ -92,7 +92,7 @@ module.exports = class Bancor {
         throw new Error(`${symbol} is not available on ${this.name}`)
       }
 
-      const tokenId = tokenObj._id // eslint-disable-line no-underscore-dangle
+      const tokenId = tokenObj._id
       const totalPrice = await this.getBuyRate(tokenId, desiredAmount)
       const avgPrice = totalPrice / desiredAmount
 
