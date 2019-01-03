@@ -52,4 +52,4 @@ function main(symbol, amount) {
   })
 }
 
-main(USER_SYMBOL, parseFloat(USER_AMOUNT))
+main(USER_SYMBOL.toUpperCase(), parseFloat(USER_AMOUNT))

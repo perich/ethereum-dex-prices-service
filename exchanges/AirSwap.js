@@ -47,14 +47,15 @@ module.exports = class AirSwap {
       const tokenObj = tokenMetadata.find(token => token.symbol === symbol)
       const noOrderError = new Error('No one responded with an order')
       const unavailableError = new Error(`${symbol} is not available on ${this.name}`)
+      const tokenDecimals = parseInt(tokenObj.decimals, 10)
       let decimalAdjustedAmount
 
       if (!tokenObj) throw unavailableError
 
-      if (tokenObj.decimals === '0') {
+      if (tokenDecimals === 0) {
         decimalAdjustedAmount = desiredAmount
       } else {
-        decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), tokenObj.decimals)
+        decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), tokenDecimals)
       }
 
       await this.connect()
@@ -81,7 +82,7 @@ module.exports = class AirSwap {
         throw noOrderError
       }
 
-      const formattedMakerAmount = utils.formatUnits(bestOrder.makerAmount, tokenObj.decimals)
+      const formattedMakerAmount = utils.formatUnits(bestOrder.makerAmount, tokenDecimals)
       const formattedTakerAmount = utils.formatUnits(bestOrder.takerAmount, 18)
 
       result = {
