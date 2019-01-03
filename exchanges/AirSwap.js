@@ -5,7 +5,7 @@ const uuid = require('uuid4')
 const { AIRSWAP_TOKEN_METADATA_URL } = require('../constants.js')
 
 const { Wallet, utils } = ethers
-const TIMEOUT = 3000
+const TIMEOUT = 6000
 const INDEXER_ADDRESS = '0x0000000000000000000000000000000000000000'
 
 module.exports = class AirSwap {
@@ -44,7 +44,7 @@ module.exports = class AirSwap {
     let result = {}
     try {
       const tokenMetadata = await this.getTokenMetadata()
-      const tokenObj = tokenMetadata.find(token => token.symbol === symbol)
+      const tokenObj = tokenMetadata.find(token => !token.banned && token.symbol === symbol)
       const noOrderError = new Error('No one responded with an order')
       const unavailableError = new Error(`${symbol} is not available on ${this.name}`)
       const tokenDecimals = parseInt(tokenObj.decimals, 10)
