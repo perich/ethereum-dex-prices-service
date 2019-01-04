@@ -14,9 +14,10 @@ The end goal of this project is to provide an open source utility for anyone in 
 - Install yarn if you haven't already with `brew install yarn`
 - Install dependencies in this directory with `yarn install`
 - Search for prices with `yarn search <AMOUNT> <SYMBOL> <DECIMALS>`. `<DECIMALS>` are optional. Providing them enables support for searching more DEXes (same APIs require them).
-  **Examples:**
-  - `yarn search 500 OMG 18`
-  - `yarn search 2000 DAI`
+  **Working Examples:**
+  - `yarn search BUY 500 OMG 18`
+  - `yarn search BUY 2000 AST 4`
+  - `yarn search sell 2500 BAT`
 
 #### Contributing
 

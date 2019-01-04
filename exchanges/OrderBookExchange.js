@@ -23,7 +23,7 @@ module.exports = class OrderBookExchange {
   }
 
   // compute the average token price based on DEX liquidity and desired token amount
-  async computePrice(symbol, desiredAmount) {
+  async computePrice(symbol, desiredAmount, isSell) {
     const book = await this._createCanonicalOrderBook(symbol)
     let result = {}
     if (book === '_createCanonicalOrderBook not implemented') {
@@ -35,7 +35,42 @@ module.exports = class OrderBookExchange {
       result = {
         [this.name]: new Error(`no price data found on ${this.name} for ${symbol}`),
       }
+    } else if (isSell) {
+      const { bids } = book
+      let avgPrice = 0
+      let totalPrice
+      for (let i = 0; i < bids.length; i += 1) {
+        const bid = bids[i]
+        const prevBid = bids[i - 1]
+
+        if (desiredAmount > bid.lotAmount) {
+          continue
+        }
+
+        if (i === 0) {
+          avgPrice = bid.levelPrice
+          totalPrice = bid.levelPrice * desiredAmount
+          break
+        }
+        const remainder = desiredAmount - prevBid.lotAmount
+        totalPrice = prevBid.lotPrice + remainder * bid.levelPrice
+        avgPrice = totalPrice / desiredAmount
+        break
+      }
+
+      // book didn't have enough liquidity for this size order
+      if (avgPrice === 0) {
+        result = new Error(`not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`)
+      } else {
+        result = {
+          totalPrice,
+          tokenAmount: desiredAmount,
+          tokenSymbol: symbol,
+          avgPrice,
+        }
+      }
     } else {
+      // it's a buy
       const { asks } = book
       let avgPrice = 0
       let totalPrice

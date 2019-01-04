@@ -40,7 +40,7 @@ module.exports = class AirSwap {
     return rp(config)
   }
 
-  async computePrice(symbol, desiredAmount) {
+  async computePrice(symbol, desiredAmount, isSell) {
     let result = {}
     try {
       const tokenMetadata = await this.getTokenMetadata()
@@ -59,15 +59,16 @@ module.exports = class AirSwap {
       }
 
       await this.connect()
-      const intents = await this.findIntents([tokenObj.address], ['0x0000000000000000000000000000000000000000'])
 
+      const intents = isSell
+        ? await this.findIntents(['0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'], [tokenObj.address])
+        : await this.findIntents([tokenObj.address], ['0x0000000000000000000000000000000000000000'])
       if (!intents || !intents.length) throw unavailableError
 
-      const orders = await this.getOrders(intents, decimalAdjustedAmount)
-
-      if (!orders || !orders.length) {
-        throw noOrderError
-      }
+      const orders = isSell
+        ? await this.getOrders(intents, null, decimalAdjustedAmount)
+        : await this.getOrders(intents, decimalAdjustedAmount)
+      if (!orders || !orders.length) throw noOrderError
 
       const [bestOrder] = orders.sort((a, b) => {
         if (a.makerAmount && !b.makerAmount) return -1
@@ -82,14 +83,18 @@ module.exports = class AirSwap {
         throw noOrderError
       }
 
-      const formattedMakerAmount = utils.formatUnits(bestOrder.makerAmount, tokenDecimals)
-      const formattedTakerAmount = utils.formatUnits(bestOrder.takerAmount, 18)
+      const formattedMakerAmount = isSell
+        ? utils.formatUnits(bestOrder.makerAmount, 18)
+        : utils.formatUnits(bestOrder.makerAmount, tokenDecimals)
+      const formattedTakerAmount = isSell
+        ? utils.formatUnits(bestOrder.takerAmount, tokenDecimals)
+        : utils.formatUnits(bestOrder.takerAmount, 18)
 
       result = {
-        totalPrice: parseFloat(formattedTakerAmount),
-        tokenAmount: parseFloat(formattedMakerAmount),
+        totalPrice: parseFloat(isSell ? formattedMakerAmount : formattedTakerAmount),
+        tokenAmount: parseFloat(isSell ? formattedTakerAmount : formattedMakerAmount),
         tokenSymbol: symbol,
-        avgPrice: formattedTakerAmount / formattedMakerAmount,
+        avgPrice: isSell ? formattedMakerAmount / formattedTakerAmount : formattedTakerAmount / formattedMakerAmount,
       }
     } catch (e) {
       result = e
@@ -301,18 +306,25 @@ module.exports = class AirSwap {
   }
 
   // Given an array of trade intents, make a JSON-RPC `getOrder` call for each `intent`
-  getOrders(intents, makerAmount) {
-    if (!Array.isArray(intents) || !makerAmount) {
-      throw new Error('bad arguments passed to getOrders')
+  getOrders(intents, makerAmount, takerAmount) {
+    if (!Array.isArray(intents) || (!makerAmount && !takerAmount)) {
+      throw new Error(
+        'bad arguments passed to getOrders; must pass array of intents and 1 of either makerAmount or takerAmount',
+      )
     }
     return Promise.all(
       intents.map(({ address, makerToken, takerToken }) => {
-        const payload = AirSwap.makeRPC('getOrder', {
+        const params = {
           makerToken,
           takerToken,
           takerAddress: this.wallet.address.toLowerCase(),
-          makerAmount: String(makerAmount),
-        })
+        }
+        if (makerAmount) {
+          params.makerAmount = String(makerAmount)
+        } else if (takerAmount) {
+          params.takerAmount = String(takerAmount)
+        }
+        const payload = AirSwap.makeRPC('getOrder', params)
         // `Promise.all` will return a complete array of resolved promises, or just the first rejection if a promise fails.
         // To mitigate this, we `catch` errors on individual promises so that `Promise.all` always returns a complete array
         return new Promise((res, rej) => this.call(address, payload, res, rej)).catch(e => e)

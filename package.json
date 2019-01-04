@@ -13,8 +13,8 @@
     "debug": "node --inspect-brk main.js"
   },
   "pre-commit": [
-    "lint",
-    "prettier:check"
+    "yarn lint",
+    "yarn prettier:check"
   ],
   "dependencies": {
     "eslint": "^5.10.0",

@@ -3,7 +3,7 @@ const { utils } = require('ethers')
 
 const { BANCOR_URL } = require('../constants.js')
 
-const USER_DECIMALS = process.argv[4]
+const USER_DECIMALS = process.argv[5]
 
 module.exports = class Bancor {
   constructor() {
@@ -72,8 +72,35 @@ module.exports = class Bancor {
     }
   }
 
+  async getSellRate(id, desiredAmount) {
+    let decimalAdjustedAmount
+    if (USER_DECIMALS === '0') {
+      decimalAdjustedAmount = desiredAmount
+    } else {
+      decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), USER_DECIMALS)
+    }
+
+    const config = {
+      uri: `${
+        this.priceUrl
+      }/${id}/value?toCurrencyId=5937d635231e97001f744267&fromAmount=${decimalAdjustedAmount.toString()}`,
+      method: 'GET',
+      json: true,
+    }
+    const sellRateResponse = await rp(config)
+    const { data } = sellRateResponse
+    if (!data) {
+      throw new Error(`error fetching buy rate from ${this.name}`)
+    } else {
+      if (USER_DECIMALS === '0') {
+        return data
+      }
+      return utils.formatUnits(data, USER_DECIMALS)
+    }
+  }
+
   // compute the average token price based on DEX liquidity and desired token amount
-  async computePrice(symbol, desiredAmount) {
+  async computePrice(symbol, desiredAmount, isSell) {
     let result = {}
     try {
       const currencies = await this.getCurrencies()
@@ -91,7 +118,9 @@ module.exports = class Bancor {
       }
 
       const tokenId = tokenObj._id
-      const totalPrice = await this.getBuyRate(tokenId, desiredAmount)
+      const totalPrice = isSell
+        ? await this.getSellRate(tokenId, desiredAmount)
+        : await this.getBuyRate(tokenId, desiredAmount)
       const avgPrice = totalPrice / desiredAmount
 
       result = {
