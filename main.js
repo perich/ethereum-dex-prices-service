@@ -3,6 +3,7 @@ const DDEX = require('./exchanges/DDEX.js')
 const Kyber = require('./exchanges/Kyber.js')
 const Bancor = require('./exchanges/Bancor.js')
 const AirSwap = require('./exchanges/AirSwap.js')
+const RadarRelay = require('./exchanges/RadarRelay.js')
 
 // BUY or SELL
 const USER_METHOD = process.argv[2]
@@ -23,7 +24,7 @@ function main(symbol, amount, direction) {
   if (direction !== 'BUY' && direction !== 'SELL') {
     throw new Error(`must specify BUY or SELL. you specified "${direction}"`)
   }
-  const dexes = [new IDEX(), new DDEX(), new Kyber(), new AirSwap()]
+  const dexes = [new IDEX(), new DDEX(), new Kyber(), new AirSwap(), new RadarRelay()]
   const promises = []
   // Bancor requires users to specify token decimals to use the API
   if (USER_DECIMALS) {
