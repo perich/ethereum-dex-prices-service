@@ -56,7 +56,7 @@ module.exports = class RadarRelay extends OrderBookExchange {
 
         resolve({ asks: formattedAsks, bids: formattedBids })
       } catch (error) {
-        resolve(error)
+        resolve(null)
       }
     })
 

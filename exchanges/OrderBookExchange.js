@@ -30,11 +30,6 @@ module.exports = class OrderBookExchange {
       result = {
         [this.name]: new Error(`The method _createCanonicalOrderBook must be implemented in the ${this.name} class`),
       }
-    }
-    if (book instanceof Error) {
-      result = {
-        [this.name]: book,
-      }
     } else if (!book) {
       result = {
         [this.name]: new Error(`no price data found on ${this.name} for ${symbol}`),

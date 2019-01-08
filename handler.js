@@ -85,13 +85,13 @@ module.exports = {
 
     // don't use Promise.all.. we don't want these to run concurrently
     // calls are intentionally staggered to avoid API rate limits
-    await doWorkForPriceLevel(0)
-    await doWorkForPriceLevel(1)
-    await doWorkForPriceLevel(2)
-    return results
+    try {
+      await doWorkForPriceLevel(0)
+      await doWorkForPriceLevel(1)
+      await doWorkForPriceLevel(2)
+      callback(null, results)
+    } catch (error) {
+      callback(error, null)
+    }
   },
-}
-
-const obj = {
-  0: { BNB: [], AST: [] },
 }
