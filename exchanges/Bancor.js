@@ -3,10 +3,9 @@ const { utils } = require('ethers')
 
 const { BANCOR_URL } = require('../constants.js')
 
-const USER_DECIMALS = process.argv[5]
-
 module.exports = class Bancor {
-  constructor() {
+  constructor(decimals) {
+    this.tokenDecimals = decimals
     this.pairsUrl = `${BANCOR_URL}/currencies/convertiblePairs`
     this.priceUrl = `${BANCOR_URL}/currencies`
     this.tokenDataUrl = `${BANCOR_URL}/currencies/tokens?limit=100&skip=0&fromCurrencyCode=ETH&includeTotal=true&orderBy=liquidityDepth&sortOrder=desc`
@@ -47,10 +46,10 @@ module.exports = class Bancor {
 
   async getBuyRate(id, desiredAmount) {
     let decimalAdjustedAmount
-    if (USER_DECIMALS === '0') {
+    if (this.tokenDecimals === '0') {
       decimalAdjustedAmount = desiredAmount
     } else {
-      decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), USER_DECIMALS)
+      decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), this.tokenDecimals)
     }
 
     const config = {
@@ -65,19 +64,19 @@ module.exports = class Bancor {
     if (!data) {
       throw new Error(`error fetching buy rate from ${this.name}`)
     } else {
-      if (USER_DECIMALS === '0') {
+      if (this.tokenDecimals === '0') {
         return data
       }
-      return utils.formatUnits(data, USER_DECIMALS)
+      return utils.formatUnits(data, this.tokenDecimals)
     }
   }
 
   async getSellRate(id, desiredAmount) {
     let decimalAdjustedAmount
-    if (USER_DECIMALS === '0') {
+    if (this.tokenDecimals === '0') {
       decimalAdjustedAmount = desiredAmount
     } else {
-      decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), USER_DECIMALS)
+      decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), this.tokenDecimals)
     }
 
     const config = {
@@ -92,10 +91,10 @@ module.exports = class Bancor {
     if (!data) {
       throw new Error(`error fetching buy rate from ${this.name}`)
     } else {
-      if (USER_DECIMALS === '0') {
+      if (this.tokenDecimals === '0') {
         return data
       }
-      return utils.formatUnits(data, USER_DECIMALS)
+      return utils.formatUnits(data, this.tokenDecimals)
     }
   }
 

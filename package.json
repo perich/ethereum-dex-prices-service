@@ -6,11 +6,12 @@
   "author": "graham@fluidity.io",
   "license": "MIT",
   "scripts": {
-    "search": "node main.js",
+    "search": "node cli.js",
     "lint": "eslint **.js",
     "prettier:check": "prettier **.js -l",
     "prettier:fix": "prettier **.js --write",
-    "debug": "node --inspect-brk main.js"
+    "debug": "node --inspect-brk cli.js",
+    "serve": "serverless offline start"
   },
   "pre-commit": [
     "yarn lint",
@@ -28,5 +29,13 @@
     "request-promise": "^4.2.2",
     "uuid4": "^1.1.4",
     "ws": "^6.1.2"
+  },
+  "devDependencies": {
+    "serverless-content-encoding": "^1.1.0",
+    "serverless-domain-manager": "^2.6.10",
+    "serverless-log-forwarding": "^1.3.0",
+    "serverless-offline": "^3.31.3",
+    "serverless-plugin-tracing": "^2.0.0",
+    "serverless-ssm-fetch": "^1.0.1"
   }
 }

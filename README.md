@@ -1,6 +1,6 @@
 ## Ethereum DEX Worker
 
-A NodeJS service that finds the best prices across popular Ethereum decentralized exchanges and marketplaces.
+A modular NodeJS service that finds the best prices across popular Ethereum decentralized exchanges.
 
 #### Under Construction
 
