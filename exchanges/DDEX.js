@@ -35,7 +35,7 @@ module.exports = class DDEX extends OrderBookExchange {
           data: { orderBook },
         } = await this._getRawOrderBook(symbol)
 
-        const { asks, bids } = orderBook
+        const { asks, bids } = symbol === 'DAI' ? DDEX._flipBook(orderBook) : orderBook
 
         if (!asks.length || !bids.length) {
           throw new Error()

@@ -31,6 +31,25 @@ module.exports = class RadarRelay extends OrderBookExchange {
     return rp(config)
   }
 
+  // invert the orderbook so that the quote asset becomes the base asset and visa versa
+  // e.g. convert an ETH/DAI book to a DAI/ETH book
+  static _flipBook(book) {
+    const { asks, bids } = book
+    const flipLevel = level => {
+      const flippedPrice = 1 / parseFloat(level.price)
+      const flippedAmount = level.remainingQuoteTokenAmount
+      level.price = flippedPrice // eslint-disable-line no-param-reassign
+      level.remainingBaseTokenAmount = flippedAmount // eslint-disable-line no-param-reassign
+      return level
+    }
+    const flippedAsks = asks.map(flipLevel)
+    const flippedBids = bids.map(flipLevel)
+    book.asks = flippedBids // eslint-disable-line no-param-reassign
+    book.bids = flippedAsks // eslint-disable-line no-param-reassign
+
+    return book
+  }
+
   // create an order book that conforms to the generalized order book interface
   async _createCanonicalOrderBook(symbol) {
     let lotPrice = 0
@@ -45,7 +64,7 @@ module.exports = class RadarRelay extends OrderBookExchange {
           throw new Error(`${marketId} is not available on ${this.name}`)
         }
         const book = await this._getRawOrderBook(symbol)
-        const { asks, bids } = book
+        const { asks, bids } = symbol === 'DAI' ? RadarRelay._flipBook(book) : book
 
         const formattedAsks = asks.map(walkBook)
 

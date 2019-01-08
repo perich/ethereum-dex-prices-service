@@ -22,6 +22,25 @@ module.exports = class OrderBookExchange {
     return '_createCanonicalOrderBook not implemented'
   }
 
+  // invert the orderbook so that the quote asset becomes the base asset and visa versa
+  // e.g. convert an ETH/DAI book to a DAI/ETH book
+  static _flipBook(book) {
+    const { asks, bids } = book
+    const flipLevel = level => {
+      const flippedPrice = 1 / parseFloat(level.price)
+      const flippedAmount = parseFloat(level.amount) / flippedPrice
+      level.price = flippedPrice // eslint-disable-line no-param-reassign
+      level.amount = flippedAmount // eslint-disable-line no-param-reassign
+      return level
+    }
+    const flippedAsks = asks.map(flipLevel)
+    const flippedBids = bids.map(flipLevel)
+    book.asks = flippedBids // eslint-disable-line no-param-reassign
+    book.bids = flippedAsks // eslint-disable-line no-param-reassign
+
+    return book
+  }
+
   // compute the average token price based on DEX liquidity and desired token amount
   async computePrice(symbol, desiredAmount, isSell) {
     const book = await this._createCanonicalOrderBook(symbol)
