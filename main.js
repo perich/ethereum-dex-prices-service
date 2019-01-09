@@ -13,16 +13,8 @@ module.exports = {
     if (direction !== 'BUY' && direction !== 'SELL') {
       throw new Error(`must specify BUY or SELL. you specified "${direction}"`)
     }
-    const dexes = [new IDEX(), new DDEX(), new Kyber(), new AirSwap(), new RadarRelay()]
-    const promises = []
-    // Bancor requires users to specify token decimals to use the API
-    if (decimals) {
-      dexes.push(new Bancor(decimals))
-    }
-
-    dexes.forEach(dex => {
-      promises.push(dex.computePrice(symbol, amount, direction === 'SELL'))
-    })
+    const dexes = [new IDEX(), new DDEX(), new Kyber(), new AirSwap(), new RadarRelay(), new Bancor(decimals)]
+    const promises = dexes.map(dex => dex.computePrice(symbol, amount, direction === 'SELL'))
 
     return Promise.all(promises).then(results => {
       const sortedResults = direction === 'BUY' ? results.sort(sortAsks) : results.sort(sortBids)

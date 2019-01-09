@@ -4,7 +4,7 @@ const { utils } = require('ethers')
 const { BANCOR_URL } = require('../constants.js')
 
 module.exports = class Bancor {
-  constructor(decimals) {
+  constructor(decimals = null) {
     this.tokenDecimals = decimals
     this.pairsUrl = `${BANCOR_URL}/currencies/convertiblePairs`
     this.priceUrl = `${BANCOR_URL}/currencies`
@@ -102,6 +102,7 @@ module.exports = class Bancor {
   async computePrice(symbol, desiredAmount, isSell) {
     let result = {}
     try {
+      if (!this.tokenDecimals) throw new Error('must specify token decimals to enable Bancor API support')
       const currencies = await this.getCurrencies()
       const matchedSymbol = Object.keys(currencies).find(tickerSymbol => tickerSymbol === symbol)
 
