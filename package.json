@@ -6,12 +6,14 @@
   "author": "graham@fluidity.io",
   "license": "MIT",
   "scripts": {
-    "search": "node cli.js",
+    "search": "node entrypoints/cli.js",
     "lint": "eslint **.js",
     "prettier:check": "prettier **.js -l",
     "prettier:fix": "prettier **.js --write",
-    "debug": "node --inspect-brk cli.js",
-    "serve": "serverless offline start"
+    "debug:cli": "node --inspect-brk entrypoints/cli.js",
+    "debug:server": "node --inspect-brk entrypoints/server.js",
+    "serve:express": "node entrypoints/server.js",
+    "serve:serverless": "serverless offline start"
   },
   "pre-commit": [
     "yarn lint",
@@ -24,6 +26,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-prettier": "^3.0.1",
     "ethers": "^4.0.20",
+    "express": "^4.16.4",
     "prettier": "^1.15.3",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
