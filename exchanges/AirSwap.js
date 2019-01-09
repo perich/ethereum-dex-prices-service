@@ -96,7 +96,7 @@ module.exports = class AirSwap {
         avgPrice: isSell ? formattedMakerAmount / formattedTakerAmount : formattedTakerAmount / formattedMakerAmount,
       }
     } catch (e) {
-      result = e
+      result = e.message
     }
     this.disconnect()
     return { [this.name]: result }

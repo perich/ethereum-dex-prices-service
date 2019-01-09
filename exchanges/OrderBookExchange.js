@@ -46,13 +46,9 @@ module.exports = class OrderBookExchange {
     const book = await this._createCanonicalOrderBook(symbol)
     let result = {}
     if (book === '_createCanonicalOrderBook not implemented') {
-      result = {
-        [this.name]: new Error(`The method _createCanonicalOrderBook must be implemented in the ${this.name} class`),
-      }
+      result = `The method _createCanonicalOrderBook must be implemented in the ${this.name} class`
     } else if (!book) {
-      result = {
-        [this.name]: new Error(`no price data found on ${this.name} for ${symbol}`),
-      }
+      result = `no price data found on ${this.name} for ${symbol}`
     } else if (isSell) {
       const { bids } = book
       let avgPrice = 0
@@ -78,7 +74,7 @@ module.exports = class OrderBookExchange {
 
       // book didn't have enough liquidity for this size order
       if (avgPrice === 0) {
-        result = new Error(`not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`)
+        result = `not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`
       } else {
         result = {
           totalPrice,
@@ -113,7 +109,7 @@ module.exports = class OrderBookExchange {
 
       // book didn't have enough liquidity for this size order
       if (avgPrice === 0) {
-        result = new Error(`not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`)
+        result = `not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`
       } else {
         result = {
           totalPrice,

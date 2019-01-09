@@ -129,7 +129,7 @@ module.exports = class Bancor {
         avgPrice,
       }
     } catch (e) {
-      result = e
+      result = e.message
     }
     return { [this.name]: result }
   }
