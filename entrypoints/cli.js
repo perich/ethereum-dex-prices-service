@@ -1,5 +1,5 @@
-const { main } = require('./main')
-const { pipeResultsToCommandLine } = require('./helpers')
+const { main } = require('../main')
+const { pipeResultsToCommandLine } = require('../helpers')
 
 // BUY or SELL
 let USER_METHOD = process.argv[2]
