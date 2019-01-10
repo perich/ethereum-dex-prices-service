@@ -137,6 +137,8 @@ module.exports = class Bancor {
         exchangeName: this.name,
         timestamp: Date.now(),
         error: e.message,
+        tokenAmount: parseFloat(desiredAmount),
+        tokenSymbol: symbol,
       }
     }
     return { [this.name]: result }

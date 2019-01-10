@@ -103,6 +103,8 @@ module.exports = class AirSwap {
         exchangeName: this.name,
         timestamp: Date.now(),
         error: e.message,
+        tokenSymbol: symbol,
+        tokenAmount: desiredAmount,
       }
     }
     this.disconnect()

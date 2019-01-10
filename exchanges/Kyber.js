@@ -88,6 +88,8 @@ module.exports = class Kyber {
         exchangeName: this.name,
         timestamp: Date.now(),
         error: e.message,
+        tokenSymbol: symbol,
+        tokenAmount: parseFloat(desiredAmount),
       }
     }
     return { [this.name]: result }

@@ -47,6 +47,8 @@ module.exports = class OrderBookExchange {
     let result = {
       exchangeName: this.name,
       timestamp: Date.now(),
+      tokenSymbol: symbol,
+      tokenAmount: desiredAmount,
     }
     if (book === '_createCanonicalOrderBook not implemented') {
       result.error = `The method _createCanonicalOrderBook must be implemented in the ${this.name} class`
