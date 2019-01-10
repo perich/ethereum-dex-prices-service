@@ -20,6 +20,7 @@
     "yarn prettier:check"
   ],
   "dependencies": {
+    "cors": "^2.8.5",
     "eslint": "^5.10.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^3.3.0",

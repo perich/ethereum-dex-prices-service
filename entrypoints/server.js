@@ -1,9 +1,12 @@
 const express = require('express')
+const cors = require('cors')
+
 const { main } = require('../main.js')
 
 const app = express()
 const port = 1337
 
+app.use(cors())
 app.use(express.urlencoded({ extended: false }))
 
 app.get('/buy', (req, res) => {
