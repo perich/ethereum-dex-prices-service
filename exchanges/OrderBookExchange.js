@@ -44,11 +44,14 @@ module.exports = class OrderBookExchange {
   // compute the average token price based on DEX liquidity and desired token amount
   async computePrice(symbol, desiredAmount, isSell) {
     const book = await this._createCanonicalOrderBook(symbol)
-    let result = {}
+    let result = {
+      exchangeName: this.name,
+      timestamp: Date.now(),
+    }
     if (book === '_createCanonicalOrderBook not implemented') {
-      result = `The method _createCanonicalOrderBook must be implemented in the ${this.name} class`
+      result.error = `The method _createCanonicalOrderBook must be implemented in the ${this.name} class`
     } else if (!book) {
-      result = `no price data found on ${this.name} for ${symbol}`
+      result.error = `no price data found on ${this.name} for ${symbol}`
     } else if (isSell) {
       const { bids } = book
       let avgPrice = 0
@@ -74,13 +77,16 @@ module.exports = class OrderBookExchange {
 
       // book didn't have enough liquidity for this size order
       if (avgPrice === 0) {
-        result = `not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`
+        result.error = `not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`
       } else {
         result = {
+          exchangeName: this.name,
           totalPrice,
           tokenAmount: desiredAmount,
           tokenSymbol: symbol,
           avgPrice,
+          timestamp: Date.now(),
+          error: null,
         }
       }
     } else {
@@ -109,13 +115,16 @@ module.exports = class OrderBookExchange {
 
       // book didn't have enough liquidity for this size order
       if (avgPrice === 0) {
-        result = `not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`
+        result.error = `not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`
       } else {
         result = {
+          exchangeName: this.name,
           totalPrice,
           tokenAmount: desiredAmount,
           tokenSymbol: symbol,
           avgPrice,
+          timestamp: Date.now(),
+          error: null,
         }
       }
     }

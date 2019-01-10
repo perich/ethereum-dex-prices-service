@@ -124,13 +124,20 @@ module.exports = class Bancor {
       const avgPrice = totalPrice / desiredAmount
 
       result = {
+        exchangeName: this.name,
         totalPrice: parseFloat(totalPrice),
         tokenAmount: parseFloat(desiredAmount),
         tokenSymbol: symbol,
         avgPrice,
+        timestamp: Date.now(),
+        error: null,
       }
     } catch (e) {
-      result = e.message
+      result = {
+        exchangeName: this.name,
+        timestamp: Date.now(),
+        error: e.message,
+      }
     }
     return { [this.name]: result }
   }

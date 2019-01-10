@@ -90,13 +90,20 @@ module.exports = class AirSwap {
         : utils.formatUnits(bestOrder.takerAmount, 18)
 
       result = {
+        exchangeName: this.name,
         totalPrice: parseFloat(isSell ? formattedMakerAmount : formattedTakerAmount),
         tokenAmount: parseFloat(isSell ? formattedTakerAmount : formattedMakerAmount),
         tokenSymbol: symbol,
         avgPrice: isSell ? formattedMakerAmount / formattedTakerAmount : formattedTakerAmount / formattedMakerAmount,
+        timestamp: Date.now(),
+        error: null,
       }
     } catch (e) {
-      result = e.message
+      result = {
+        exchangeName: this.name,
+        timestamp: Date.now(),
+        error: e.message,
+      }
     }
     this.disconnect()
     return { [this.name]: result }

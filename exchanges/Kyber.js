@@ -75,13 +75,20 @@ module.exports = class Kyber {
       const avgPrice = isSell ? destinationQuantity / sourceQuantity : sourceQuantity / destinationQuantity
 
       result = {
+        exchangeName: this.name,
         totalPrice: isSell ? destinationQuantity : sourceQuantity,
         tokenAmount: isSell ? sourceQuantity : destinationQuantity,
         tokenSymbol: symbol,
         avgPrice,
+        timestamp: Date.now(),
+        error: null,
       }
     } catch (e) {
-      result = e.message
+      result = {
+        exchangeName: this.name,
+        timestamp: Date.now(),
+        error: e.message,
+      }
     }
     return { [this.name]: result }
   }
