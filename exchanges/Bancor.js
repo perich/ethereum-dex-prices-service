@@ -8,6 +8,7 @@ module.exports = class Bancor {
     this.tokenDecimals = decimals
     this.pairsUrl = `${BANCOR_URL}/currencies/convertiblePairs`
     this.priceUrl = `${BANCOR_URL}/currencies`
+    this.converterInfoUrl = `${BANCOR_URL}/converters`
     this.tokenDataUrl = `${BANCOR_URL}/currencies/tokens?limit=100&skip=0&fromCurrencyCode=ETH&includeTotal=true&orderBy=liquidityDepth&sortOrder=desc`
     this.name = 'Bancor'
   }
@@ -26,6 +27,19 @@ module.exports = class Bancor {
       },
     } = tokenDataResponse
     return page
+  }
+
+  async getTokenDataForSymbol(symbol) {
+    const config = {
+      uri: `${this.converterInfoUrl}?code=${symbol}`,
+      method: 'GET',
+      json: true,
+    }
+    const tokenDataResponse = await rp(config)
+    const {
+      data: { page },
+    } = tokenDataResponse
+    return page[0]
   }
 
   // fetch all supported tokens traded on Bancor
@@ -102,7 +116,6 @@ module.exports = class Bancor {
   async computePrice(symbol, desiredAmount, isSell) {
     let result = {}
     try {
-      if (!this.tokenDecimals) throw new Error('must specify token decimals to enable Bancor API support')
       const currencies = await this.getCurrencies()
       const matchedSymbol = Object.keys(currencies).find(tickerSymbol => tickerSymbol === symbol)
 
@@ -112,10 +125,11 @@ module.exports = class Bancor {
 
       const tokenData = await this.getAllTokenData()
       const tokenObj = tokenData.find(token => token.code === symbol)
-
       if (!tokenObj) {
         throw new Error(`${symbol} is not available on ${this.name}`)
       }
+      const tokenDetails = await this.getTokenDataForSymbol(symbol)
+      this.tokenDecimals = String(tokenDetails.numDecimalDigits)
 
       const tokenId = tokenObj._id
       const totalPrice = isSell

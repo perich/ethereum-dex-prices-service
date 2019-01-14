@@ -17,7 +17,7 @@ module.exports = class AirSwap {
 
     // Set the websocket url based on environment
     this.socketUrl = 'wss://connect.airswap-api.com/websocket'
-    this.metadataUrl = AIRSWAP_TOKEN_METADATA_URL
+    this.metadataUrl = `${AIRSWAP_TOKEN_METADATA_URL}/tokens`
 
     // Websocket authentication state
     this.isAuthenticated = false

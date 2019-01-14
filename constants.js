@@ -5,7 +5,7 @@ const BANCOR_URL = 'https://api.bancor.network/0.1'
 const DDEX_URL = 'https://api.ddex.io/v3'
 const RADAR_RELAY_URL = 'https://api.radarrelay.com/v2'
 
-const AIRSWAP_TOKEN_METADATA_URL = 'https://token-metadata.production.airswap.io/tokens'
+const AIRSWAP_TOKEN_METADATA_URL = 'https://token-metadata.production.airswap.io'
 
 const TOP_TOKENS_DECIMAL_MAP = {
   BNB: { decimals: 18, levels: calculateLevels(20) },
