@@ -12,6 +12,7 @@ module.exports = class Kyber {
   // fetch all supported tokens traded on kyber
   async getCurrencies() {
     const config = {
+      timeout: 3000,
       uri: this.currenciesUrl,
       method: 'GET',
       json: true,
@@ -27,6 +28,7 @@ module.exports = class Kyber {
 
   async getBuyRate(id, desiredAmount) {
     const config = {
+      timeout: 3000,
       uri: `${this.buyRateUrl}?id=${id}&qty=${desiredAmount}`,
       method: 'GET',
       json: true,
@@ -42,6 +44,7 @@ module.exports = class Kyber {
 
   async getSellRate(id, desiredAmount) {
     const config = {
+      timeout: 3000,
       uri: `${this.sellRateUrl}?id=${id}&qty=${desiredAmount}`,
       method: 'GET',
       json: true,

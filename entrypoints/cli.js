@@ -7,7 +7,6 @@ let USER_METHOD = process.argv[2]
 let USER_AMOUNT = process.argv[3]
 // Token ticker symbol
 let USER_SYMBOL = process.argv[4]
-// optionally specify token decimals to enable Bancor support
 const USER_DECIMALS = process.argv[5]
 
 if (!USER_METHOD || !USER_AMOUNT || !USER_SYMBOL) {

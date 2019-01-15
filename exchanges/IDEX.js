@@ -16,6 +16,7 @@ module.exports = class IDEX extends OrderBookExchange {
       count: 100,
     }
     const config = {
+      timeout: 3000,
       uri: this.url,
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },

@@ -16,6 +16,7 @@ module.exports = class Bancor {
   // get token data so we can lookup unique token IDs
   async getAllTokenData() {
     const config = {
+      timeout: 3000,
       uri: this.tokenDataUrl,
       method: 'GET',
       json: true,
@@ -31,6 +32,7 @@ module.exports = class Bancor {
 
   async getTokenDataForSymbol(symbol) {
     const config = {
+      timeout: 3000,
       uri: `${this.converterInfoUrl}?code=${symbol}`,
       method: 'GET',
       json: true,
@@ -45,6 +47,7 @@ module.exports = class Bancor {
   // fetch all supported tokens traded on Bancor
   async getCurrencies() {
     const config = {
+      timeout: 3000,
       uri: this.pairsUrl,
       method: 'GET',
       json: true,
@@ -67,6 +70,7 @@ module.exports = class Bancor {
     }
 
     const config = {
+      timeout: 3000,
       uri: `${
         this.priceUrl
       }/5937d635231e97001f744267/value?toCurrencyId=${id}&toAmount=${decimalAdjustedAmount.toString()}`,
@@ -94,6 +98,7 @@ module.exports = class Bancor {
     }
 
     const config = {
+      timeout: 3000,
       uri: `${
         this.priceUrl
       }/${id}/value?toCurrencyId=5937d635231e97001f744267&fromAmount=${decimalAdjustedAmount.toString()}`,

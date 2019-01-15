@@ -16,6 +16,7 @@ module.exports = class DDEX extends OrderBookExchange {
       uri = `${this.url}/WETH-${symbol}/orderbook?level=2`
     }
     const config = {
+      timeout: 3000,
       uri,
       method: 'GET',
       json: true,

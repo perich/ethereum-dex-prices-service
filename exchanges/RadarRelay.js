@@ -11,6 +11,7 @@ module.exports = class RadarRelay extends OrderBookExchange {
 
   getAvailableMarkets() {
     const config = {
+      timeout: 3000,
       uri: this.marketsUrl,
       method: 'GET',
       json: true,
@@ -23,6 +24,7 @@ module.exports = class RadarRelay extends OrderBookExchange {
   _getRawOrderBook(symbol) {
     const marketId = symbol === 'DAI' ? 'WETH-DAI' : `${symbol}-WETH`
     const config = {
+      timeout: 3000,
       uri: `${this.marketsUrl}/${marketId.toLowerCase()}/book`,
       method: 'GET',
       json: true,
