@@ -134,7 +134,7 @@ module.exports = class Bancor {
         throw new Error(`${symbol} is not available on ${this.name}`)
       }
       const tokenDetails = await this.getTokenDataForSymbol(symbol)
-      this.tokenDecimals = String(tokenDetails.numDecimalDigits)
+      this.tokenDecimals = String(tokenDetails.details[0].decimals)
 
       const tokenId = tokenObj._id
       const totalPrice = isSell
