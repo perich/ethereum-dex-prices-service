@@ -26,7 +26,7 @@ The service is composed of modular ES6 classes. Each decentralized exchange or "
   "exchangeName": "Bancor",
   "totalPrice": 2.5494668914843825,
   "tokenAmount": 300,
-  "tokenSymbol": "DAI",
+  "tokenSymbol": "MKR",
   "avgPrice": 0.008498222971614608,
   "timestamp": 1548101818616,
   "error": null
