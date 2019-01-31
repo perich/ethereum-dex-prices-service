@@ -12,7 +12,7 @@ module.exports = class IDEX extends OrderBookExchange {
   // fetch the raw order book from the exchange
   _getRawOrderBook(symbol) {
     const body = {
-      market: `ETH_${symbol}`,
+      market: symbol === 'WBTC' ? 'WBTC_ETH' : `ETH_${symbol}`,
       count: 100,
     }
     const config = {
@@ -35,7 +35,7 @@ module.exports = class IDEX extends OrderBookExchange {
     return new Promise(async resolve => {
       try {
         const book = await this._getRawOrderBook(symbol)
-        const { asks, bids } = book
+        const { asks, bids } = symbol === 'WBTC' ? IDEX._flipBook(book) : book
 
         const formattedAsks = asks.map(walkBook)
 
