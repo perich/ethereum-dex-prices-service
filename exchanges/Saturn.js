@@ -9,7 +9,7 @@ module.exports = class SaturnNetwork extends OrderBookExchange {
     super()
     this.currenciesUrl = `${SATURN_URL}/dashboard/${chain}.json`
     this.chain = chain
-    this.name = 'Saturn'
+    this.name = 'Saturn Network'
   }
 
   async _getCurrencies() {
