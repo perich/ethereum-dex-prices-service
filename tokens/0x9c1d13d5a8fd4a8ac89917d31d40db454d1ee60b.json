@@ -1,0 +1,25 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "ELUNCH",
+  "addr": "0x9c1d13d5a8fd4a8ac89917d31d40db454d1ee60b",
+  "decimals": 18,
+  "description": "creat your ethereum token in simple click with our token creator application",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2332250"
+    },
+    {
+      "Email": "mailto:launcher@laposte.net"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/teamslauncher/"
+    },
+    {
+      "Twitter": "https://twitter.com/elauncherdev"
+    },
+    {
+      "Website": "http://launchertoken.xyz/"
+    }
+  ],
+  "name": "ethereum launcher",
+  "symbol": "elunch"
+}

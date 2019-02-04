@@ -1,0 +1,24 @@
+{
+  "addr": "0x814cafd4782d2e728170fda68257983f03321c58",
+  "decimals": 0,
+  "description": "Post a unique idea, thought, or concept and request IDEA tokens to reveal it to either a single or multiple users.\nRequest answers, solutions, or concepts from members of the community, or group within it, by awarding IDEA tokens to the selected response.\nAllow the &ldquo;sharing&rdquo; of your ideas by providing easy to use attribution links and revenue share settings.\nRate and review the IDEAs to help promote helpful and accurate users.\nSearch for existing ideas in various categories or upon tags and keywords. (even if they are not yet revealed)",
+  "links": [
+    {
+      "Email": "mailto:james@embermine.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/IDEA-Token-195695784302309/"
+    },
+    {
+      "Telegram": "https://t.me/IdeaToken"
+    },
+    {
+      "Twitter": "https://twitter.com/IdeaToken"
+    },
+    {
+      "Website": "http://www.ideatoken.io/"
+    }
+  ],
+  "name": "IDEA Token",
+  "symbol": "IDEA"
+}

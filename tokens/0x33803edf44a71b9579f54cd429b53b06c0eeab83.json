@@ -1,0 +1,27 @@
+{
+  "addr": "0x33803edf44a71b9579f54cd429b53b06c0eeab83",
+  "decimals": 8,
+  "description": "GOLDGATE Platform is a new revolution in the digital technology where users and businesses gather to seek great income stability in a fluctuating environment. It is the new generation of gold-backed cryptoassets.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2459301.0"
+    },
+    {
+      "Email": "mailto:support@goldgate.io"
+    },
+    {
+      "Github": "https://github.com/goldgate/GoldGateToken/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/AAAAAE3wo-p3tPPTHt-_HQ"
+    },
+    {
+      "Website": "https://goldgate.io/"
+    },
+    {
+      "Whitepaper": "https://goldgate.io/whitepaper/"
+    }
+  ],
+  "name": "GoldGate",
+  "symbol": "BGG"
+}

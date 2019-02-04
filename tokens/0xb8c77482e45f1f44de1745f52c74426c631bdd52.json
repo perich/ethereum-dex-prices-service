@@ -1,0 +1,27 @@
+{
+  "addr": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+  "decimals": 18,
+  "description": "币安交易平台是由赵长鹏（CZ）领导的一群数字资产爱好者创建而成的一个专注区块链资产的交易平台。为用户提供更加安全、便捷的数字货币兑换服务，聚合全球优质数字货币，致力于打造世界级的区块链资产交易平台。",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/binance-coin/"
+    },
+    {
+      "Email": "mailto:support@binance.zendesk.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/binance2017/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/binance/"
+    },
+    {
+      "Twitter": "https://twitter.com/binance_2017"
+    },
+    {
+      "Website": "https://www.binance.com/"
+    }
+  ],
+  "name": "BNB",
+  "symbol": "BNB"
+}

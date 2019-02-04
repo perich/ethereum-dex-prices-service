@@ -1,0 +1,48 @@
+{
+  "addr": "0x37d40510a2f5bc98aa7a0f7bf4b3453bcfb90ac1",
+  "decimals": 18,
+  "description": "Beluga Pay provides merchant tools to accept cryptocurrency, credit and cash.\nBeluga bank infrastructure, BBI tokens can be used as gas to move transactions faster or to access quicker, instant merchant loans across cryptocurrency or fiat. BBI tokens receive a portion of the transaction fees, enforced via smart-contracts and BBI token-holders receive a portion of the transaction fees.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2270648.0"
+    },
+    {
+      "Blog": "https://medium.com/@BelugaPay"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/belugapay/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/belugapay/"
+    },
+    {
+      "Email": "mailto:support@belugapay.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/BelugaPay/"
+    },
+    {
+      "Instagram": "https://www.instagram.com/beluga_pay/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/belugapay"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BelugaPay/"
+    },
+    {
+      "Telegram": "https://t.me/belugapay/"
+    },
+    {
+      "Twitter": "https://twitter.com/belugapay"
+    },
+    {
+      "Website": "https://belugapay.com"
+    },
+    {
+      "Whitepaper": "https://belugapay.com/assets/ENGLISH_BELUGAPAY.pdf"
+    }
+  ],
+  "name": "Beluga Banking Infrastructure Token",
+  "symbol": "BBI"
+}

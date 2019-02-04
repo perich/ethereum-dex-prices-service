@@ -1,0 +1,27 @@
+{
+  "addr": "0x80e7a4d750ade616da896c49049b7ede9e04c191",
+  "decimals": 4,
+  "description": "Asteroid, Ltd. will Democratize Space through a new BlockChain mechanism called BlockClaim&reg;. A BlockClaim&reg; will allow any private individual, company and nation state the ability to lay claim to and share in the vast wealth within our celestial orbit.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@ASTRcoin"
+    },
+    {
+      "Email": "mailto:jwalshjr@asteroidltd.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ASTRcoin/"
+    },
+    {
+      "Website": "https://www.astrcoin.io"
+    },
+    {
+      "Website": "https://www.astrcoin.io/"
+    },
+    {
+      "Whitepaper": "https://www.astrcoin.io/documents/AsteroidWhitePaper.pdf"
+    }
+  ],
+  "name": "AstrCoin",
+  "symbol": "ASTR"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0xc80c5e40220172b36adee2c951f26f2a577810c5",
+  "decimals": 8,
+  "description": "Bankera is developing a bank to be the bridge between the traditional financial world and the blockchain technology. Bankera is working towards its goal of becoming a blockchain-based bank.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2091093.0"
+    },
+    {
+      "Blog": "https://blog.bankera.com/"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/bankera/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bankera/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bankeracom/"
+    },
+    {
+      "Github": "https://github.com/Bankera-token/BNK-ETH-Contract"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Bankera/"
+    },
+    {
+      "Telegram": "https://t.me/bankera"
+    },
+    {
+      "Twitter": "https://twitter.com/bankeracom"
+    },
+    {
+      "Website": "https://bankera.com/"
+    },
+    {
+      "Whitepaper": "https://icorating.com/upload/whitepaper/YLuetfjRzqDjwWwCnfi8BN3IcZ3l2ytV6AtTBz1M.pdf"
+    }
+  ],
+  "name": "Banker Token",
+  "symbol": "BNK"
+}

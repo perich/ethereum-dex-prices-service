@@ -1,0 +1,24 @@
+{
+  "addr": "0x5f54c1512d036a0dd92744ee0a55ed183dde0484",
+  "decimals": 18,
+  "description": "StatiCoin, a stable digital currency. The _S tokens are the stable tokens, the _R tokens are the risk tokens.",
+  "links": [
+    {
+      "Email": "mailto:genkifs@gmail.com"
+    },
+    {
+      "Github": "https://github.com/genkifs/staticoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/genki_paul"
+    },
+    {
+      "Website": "http://staticoin.com/"
+    },
+    {
+      "Whitepaper": "http://staticoin.com/whitepaper.pdf"
+    }
+  ],
+  "name": "JPY Static",
+  "symbol": "JPY_S"
+}

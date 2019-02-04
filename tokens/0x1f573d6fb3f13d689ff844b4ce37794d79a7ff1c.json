@@ -1,0 +1,33 @@
+{
+  "addr": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+  "decimals": 18,
+  "description": "Bancor Protocol is a standard for a new generation of cryptocurrencies called Smart Tokens",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1789222.0"
+    },
+    {
+      "Blog": "https://blog.bancor.network/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bancor/"
+    },
+    {
+      "Email": "https://bancor.network/contact"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Bancor/"
+    },
+    {
+      "Slack": "https://bancor-slack-invite.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/bancornetwork"
+    },
+    {
+      "Website": "https://bancor.network/"
+    }
+  ],
+  "name": "Bancor Network Token",
+  "symbol": "BNT"
+}

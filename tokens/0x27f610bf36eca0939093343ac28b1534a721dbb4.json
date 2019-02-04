@@ -1,0 +1,39 @@
+{
+  "addr": "0x27f610bf36eca0939093343ac28b1534a721dbb4",
+  "decimals": 18,
+  "description": "Token trading",
+  "links": [
+    {
+      "Blog": "https://blog.wandx.co/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/wandx/"
+    },
+    {
+      "Email": "mailto:marketing@wandx.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/wandx.co/"
+    },
+    {
+      "Github": "https://github.com/WandXDapp"
+    },
+    {
+      "Slack": "https://wandx.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/F6XgGg5dwEqB8oZElsOiUw"
+    },
+    {
+      "Twitter": "https://twitter.com/WandXDapp"
+    },
+    {
+      "Website": "https://www.wandx.co/"
+    },
+    {
+      "Whitepaper": "https://www.gitbook.com/book/wandxdapp/wandx-whitepaper/details"
+    }
+  ],
+  "name": "Wand Token",
+  "symbol": "WAND"
+}

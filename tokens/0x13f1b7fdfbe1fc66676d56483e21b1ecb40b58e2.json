@@ -1,0 +1,33 @@
+{
+  "addr": "0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2",
+  "decimals": 18,
+  "description": "The Accelerator Token is the only method of payment accepted by the Accelerator Network. It is a proof-of-stake smart contract on Ethereum. The Accelerator Token allows holders to mine more Accelerator Tokens at pre-defined rate. Then, spend them for services offered by the Accelerator Network.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/accelerator-network/"
+    },
+    {
+      "Email": "mailto:help@accelerator.network"
+    },
+    {
+      "Github": "https://github.com/acceleratornetwork/accelerator-token"
+    },
+    {
+      "Slack": "http://slack.accelerator.network/"
+    },
+    {
+      "Twitter": "https://twitter.com/Accelerator_Net"
+    },
+    {
+      "Website": "http://accelerator.network/"
+    },
+    {
+      "Website": "http://accelerator.network"
+    },
+    {
+      "Whitepaper": "https://accelerator.network/whitepaper.pdf"
+    }
+  ],
+  "name": "Accelerator",
+  "symbol": "ACC"
+}

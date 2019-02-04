@@ -1,0 +1,39 @@
+{
+  "addr": "0x7f1e2c7d6a69bf34824d72c53b4550e895c0d8c2",
+  "decimals": 8,
+  "description": "BlockOptions.io aims to build an independent and decentralized platform for binary options industry.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2047320"
+    },
+    {
+      "Blog": "https://medium.com/@blockoptions"
+    },
+    {
+      "Email": "mailto:support@blockoptions.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Blockoptions-1282191258569444/"
+    },
+    {
+      "Github": "https://github.com/blockoptions/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/blockoptions/"
+    },
+    {
+      "Slack": "http://slack.blockoptions.io/"
+    },
+    {
+      "Twitter": "https://twitter.com/blockoptions_io"
+    },
+    {
+      "Website": "http://blockoptions.io/"
+    },
+    {
+      "Whitepaper": "https://github.com/blockoptions/blockoptions/blob/master/whitepaper/whitepaper.md"
+    }
+  ],
+  "name": "blockoptions",
+  "symbol": "BOP"
+}

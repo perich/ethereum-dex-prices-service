@@ -1,0 +1,30 @@
+{
+  "addr": "0x38968746147bbaeb882f356ad9a57594bb158235",
+  "decimals": 8,
+  "description": "BenjaCoin is the official token of the Benja merchandise ad network, which facilitates advertising transactions between top-tier partners like the National Football League, Barstool Sports, Patagonia, and more.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2029610.0"
+    },
+    {
+      "Email": "mailto:coin@benja.co"
+    },
+    {
+      "Facebook": "http://facebook.com/benjacoin"
+    },
+    {
+      "Github": "https://t.me/joinchat/Gh_TwkM_EdmnGbxwiFVscA"
+    },
+    {
+      "Twitter": "http://twitter.com/benjacoin"
+    },
+    {
+      "Website": "https://www.benjacoin.com/"
+    },
+    {
+      "Whitepaper": "https://www.benjacoin.com/s/benjacoin_EN_072917compressed.pdf"
+    }
+  ],
+  "name": "benjaCoin",
+  "symbol": "BENJA"
+}

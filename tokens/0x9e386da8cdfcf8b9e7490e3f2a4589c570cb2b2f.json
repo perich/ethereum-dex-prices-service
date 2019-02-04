@@ -1,0 +1,27 @@
+{
+  "addr": "0x9e386da8cdfcf8b9e7490e3f2a4589c570cb2b2f",
+  "decimals": 8,
+  "description": "Red Pill Is a Cryptocurrency developed to allow fans to support creators. It prevents creators from ever losing access to fan funding. With Red Pill, you are the bank. There is no middle man. You can securely send and receive Red Pills which can be stored on virtually any device. Red Pill is designed for people who love to create and consume content. It is an excellent currency that can be used to support your favorite creators and communities.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2208946"
+    },
+    {
+      "Blog": "https://redpillcoin.com/blog/"
+    },
+    {
+      "Email": "mailto:support@redpillcoin.com"
+    },
+    {
+      "Twitter": "https://twitter.com/redpillcoin"
+    },
+    {
+      "Website": "https://redpillcoin.com/"
+    },
+    {
+      "Whitepaper": "https://redpillcoin.com/wp-content/uploads/2017/08/RedPillCoin-02.pdf"
+    }
+  ],
+  "name": "RedPill",
+  "symbol": "RPIL"
+}

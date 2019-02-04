@@ -1,0 +1,27 @@
+{
+  "addr": "0x671abbe5ce652491985342e85428eb1b07bc6c64",
+  "decimals": 8,
+  "description": "The aim of the Quantum project is to bring institutional grade liquidity to cryptocurrency and digital asset markets.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/quantum/"
+    },
+    {
+      "Email": "mailto:support@quantumproject.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/QAUProject/"
+    },
+    {
+      "Twitter": "https://twitter.com/QAUProject"
+    },
+    {
+      "Website": "http://www.quantumproject.org/"
+    },
+    {
+      "Whitepaper": "http://www.quantumproject.org/s/whitepaper.pdf"
+    }
+  ],
+  "name": "Quantum",
+  "symbol": "QAU"
+}

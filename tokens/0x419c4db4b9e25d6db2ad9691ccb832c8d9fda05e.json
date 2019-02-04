@@ -1,0 +1,36 @@
+{
+  "addr": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+  "decimals": 18,
+  "description": "Be a part of the most secure, flexible, and business ready blockchain platform, and ecosystem.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2096284.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/dragonchain/"
+    },
+    {
+      "Email": "mailto:tokensale@dragonchain.com"
+    },
+    {
+      "Github": "https://github.com/dragonchain/dragonchain"
+    },
+    {
+      "Slack": "https://dragonchain.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/dragontalk"
+    },
+    {
+      "Twitter": "https://twitter.com/dragonchaingang"
+    },
+    {
+      "Website": "https://dragonchain.com/"
+    },
+    {
+      "Whitepaper": "https://dragonchain.com/assets/Dragonchain_Business_Summary.pdf"
+    }
+  ],
+  "name": "Dragon",
+  "symbol": "DRGN"
+}

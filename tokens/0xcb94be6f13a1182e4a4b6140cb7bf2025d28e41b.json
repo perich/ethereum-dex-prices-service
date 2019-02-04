@@ -1,0 +1,39 @@
+{
+  "addr": "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b",
+  "decimals": 6,
+  "description": "A platform for Trusted Lending Circles, powered by people and blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1773367"
+    },
+    {
+      "Blog": "https://medium.com/wetrust-blog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/trust/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/wetrustplatform"
+    },
+    {
+      "Github": "https://github.com/WeTrustPlatform"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/WeTrustPlatform/"
+    },
+    {
+      "Slack": "https://www.wetrust.io/#home-section-slack"
+    },
+    {
+      "Twitter": "https://twitter.com/wetrustplatform"
+    },
+    {
+      "Website": "https://www.wetrust.io/"
+    },
+    {
+      "Whitepaper": "https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf"
+    }
+  ],
+  "name": "Trustcoin",
+  "symbol": "TRST"
+}

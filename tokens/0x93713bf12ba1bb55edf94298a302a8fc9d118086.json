@@ -1,0 +1,27 @@
+{
+  "addr": "0x93713bf12ba1bb55edf94298a302a8fc9d118086",
+  "decimals": 0,
+  "description": "Asterion Space is an open-source initiative to build a virtual reality world. It uses blockchain technology to claim and transfer virtual land, keeping a permanent record of ownership and will enable to create virtual communities in the near future. A public Virtual Reality world should be ruled by open standards, shielded from the agenda of any central organization.",
+  "links": [
+    {
+      "Website": "https://www.asterion.space/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1996941.0"
+    },
+    {
+      "Facebook": "https://www.facebook.com/asterionspace/"
+    },
+    {
+      "Blog": "https://medium.com/@Asterion_World"
+    },
+    {
+      "Slack": "https://asterionworld.slack.com"
+    },
+    {
+      "Telegram": "https://t.me/Asterionspace"
+    }
+  ],
+  "name": "AsterionWorldToken",
+  "symbol": "ATR"
+}

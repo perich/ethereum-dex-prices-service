@@ -1,0 +1,13 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "MPESA",
+  "addr": "0xfb4752ad1b7153e1dbd2e6662651a11c7fc14083",
+  "decimals": 8,
+  "description": "ERC20 token based on ETHEREUM NETWORK",
+  "links": [
+    {
+      "Website": "http://www.mpesa.world/"
+    }
+  ],
+  "name": "MPESA",
+  "symbol": "mPESA"
+}

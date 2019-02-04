@@ -1,0 +1,27 @@
+{
+  "addr": "0x3a371d4fff12931ff784c18df7ea6741b0fa971f",
+  "decimals": 18,
+  "description": "Veritaseum enables software-driven P2P capital markets without brokerages, banks or traditional exchanges. This token is a subtoken of the parent company Veritaseum. It represents 1 gram of .999 pure gold, redeemable in physical gold after KYC procedure.",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/reggiemiddletonfintech/?fref=ts"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/G_22OhA7UgN6b-7hTSFSTA"
+    },
+    {
+      "Twitter": "https://twitter.com/reggiemiddleton"
+    },
+    {
+      "Website": "https://veritas.veritaseum.com/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCjVEF7ABJwyzw_8pb5frVmg"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/VeritaseumCommunity/"
+    }
+  ],
+  "name": "Ve Gold G1",
+  "symbol": "VGLG1"
+}

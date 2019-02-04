@@ -1,0 +1,39 @@
+{
+  "addr": "0xb97048628db6b661d4c2aa833e95dbe1a905b280",
+  "decimals": 18,
+  "description": "TenX connects your blockchain assets for everyday use. TenX&rsquo;s debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1953612.0"
+    },
+    {
+      "Blog": "https://medium.com/tenx-wallet"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/tenx/"
+    },
+    {
+      "Email": "mailto:team@tenx.tech"
+    },
+    {
+      "Facebook": "https://www.facebook.com/tenxwallet/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/TenX/"
+    },
+    {
+      "Slack": "https://ten-x.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/tenxwallet"
+    },
+    {
+      "Website": "http://www.tenx.tech/"
+    },
+    {
+      "Whitepaper": "http://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf"
+    }
+  ],
+  "name": "TenX Pay Token",
+  "symbol": "PAY"
+}

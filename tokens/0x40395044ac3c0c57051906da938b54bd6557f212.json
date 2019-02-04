@@ -1,0 +1,33 @@
+{
+  "addr": "0x40395044ac3c0c57051906da938b54bd6557f212",
+  "decimals": 8,
+  "description": "The First Crypto-Centric Mobile Gaming Platform and Store For In-Game Purchases.",
+  "links": [
+    {
+      "Blog": "https://mobilego.io/blog/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/mobilego/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/MobileGo-ICO-1967836613444499/"
+    },
+    {
+      "Slack": "https://gamecredits.com/slack.html"
+    },
+    {
+      "Telegram": "https://t.me/mobilego"
+    },
+    {
+      "Twitter": "https://twitter.com/MobileGoIco"
+    },
+    {
+      "Website": "https://mobilego.io/"
+    },
+    {
+      "Whitepaper": "https://mobilego.io/pdf/MobileGo-Whitepaper.pdf"
+    }
+  ],
+  "name": "MobileGo Token",
+  "symbol": "MGO"
+}

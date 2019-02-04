@@ -1,0 +1,45 @@
+{
+  "addr": "0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c",
+  "decimals": 18,
+  "description": "The Gibraltar Blockchain Exchange (GBX) aims to be a world-leading institutional-grade token sale platform and cryptocurrency exchange coupled with a comprehensive listing process, AML/KYC best practices and public consensus within a governed environment.\nThe Rock Token (RKT) is an ERC-20 compliant utility token for use within the GBX/GSX ecosystem. Its primary use will be as a preferred medium of exchange. It will also be used to pay for fees within the full-service ecosystem, used for sponsor/issuer staking, and early access and possible discounts for future token sales on the platform.\nPlease refer to part G of the Whitepaper for more detailed description.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2684176"
+    },
+    {
+      "Blog": "https://medium.com/@Gibraltar.Blockchain.Exchange"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/rock/"
+    },
+    {
+      "Email": "mailto:info@gbx.gi"
+    },
+    {
+      "Facebook": "https://www.facebook.com/GibBlockEx/"
+    },
+    {
+      "Github": "https://github.com/Gibraltar-Blockchain-Exchange"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/gibraltar-blockchain-exchange"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/GBXCommunity/"
+    },
+    {
+      "Telegram": "https://t.me/GBXCommunity"
+    },
+    {
+      "Twitter": "https://twitter.com/GibBlockEx"
+    },
+    {
+      "Website": "https://gbx.gi/"
+    },
+    {
+      "Whitepaper": "https://gbx.gi/token-sales/GBX-Whitepaper.pdf"
+    }
+  ],
+  "name": "Rock Token",
+  "symbol": "RKT"
+}

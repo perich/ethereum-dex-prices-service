@@ -1,0 +1,27 @@
+{
+  "addr": "0x9b68bfae21df5a510931a262cecf63f41338f264",
+  "decimals": 18,
+  "description": "Decent.bet is a transparent and verifiable sports betting and gambling platform hosted on Smart Contracts in the Ethereum blockchain.",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/decentbet/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/decentbet/"
+    },
+    {
+      "Slack": "https://decentbet-slack.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/decent_bet/"
+    },
+    {
+      "Website": "https://www.decent.bet/"
+    },
+    {
+      "Whitepaper": "https://www.decent.bet/whitepaper/"
+    }
+  ],
+  "name": "Decent.Bet Token",
+  "symbol": "DBET"
+}

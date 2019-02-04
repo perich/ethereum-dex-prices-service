@@ -1,0 +1,42 @@
+{
+  "addr": "0x64be6b77cc723e5518687a04b4e62824e89fd8bb",
+  "decimals": 18,
+  "description": "StopTheFakes, the world’s first decentralized service designed to detect counterfeiting and infringement of intellectual property rights, copyright, and related rights. Our project aims to bring together right holders and consumers in their fight against piracy products and content.\nSTF is a functional token that allows participants in the StopTheFakes.io platform to receive and send signals informing of infringements.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2370534"
+    },
+    {
+      "Blog": "https://medium.com/@stopthefakes"
+    },
+    {
+      "Email": "mailto:info@stopthefakes.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/www.stopthefakes.io/"
+    },
+    {
+      "Github": "https://github.com/StopTheFakes"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/stopthefakes"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/stopthefakes/"
+    },
+    {
+      "Telegram": "https://t.me/stopthefakes"
+    },
+    {
+      "Twitter": "https://twitter.com/stopthefakes_io"
+    },
+    {
+      "Website": "https://stopthefakes.io/"
+    },
+    {
+      "Whitepaper": "https://stopthefakes.io/wp-content/uploads/2018/05/wp_en-1.pdf"
+    }
+  ],
+  "name": "STFCoin",
+  "symbol": "STF"
+}

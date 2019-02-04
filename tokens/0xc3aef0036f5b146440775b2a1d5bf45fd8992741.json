@@ -1,0 +1,19 @@
+{
+  "addr": "0xc3aef0036f5b146440775b2a1d5bf45fd8992741",
+  "decimals": 4,
+  "description": "ROICOIN is a standard ERC20 token powered by Ethereum smart contracts. ROICOIN offers you a very simple and easy way to make a profitable investment by buying & Holding ROI tokens on the platform. Any coins that you have sitting on the platform will automatically earn you the new ROI coin according to the number of coins you hold on the platform. The profit is added immediately and continuously. No minimum balance is required.",
+  "links": [
+    {
+      "Github": "https://github.com/officialroicoin/roicoin"
+    },
+    {
+      "Twitter": "https://twitter.com/officialroicoin"
+    },
+    {
+      "Website": "https://www.roicoin.io/"
+    }
+  ],
+  "notice": "The last couple of months the ROICOIN team has been working hard to perform a ROICOIN upgrade. What this upgrade is all about? <a href=\"https://www.roicoin.io/blog.html\">Read the announcement.</a>",
+  "name": "ROICOIN",
+  "symbol": "ROI"
+}

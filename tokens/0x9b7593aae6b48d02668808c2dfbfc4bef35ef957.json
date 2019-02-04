@@ -1,0 +1,21 @@
+{
+  "addr": "0x9b7593aae6b48d02668808c2dfbfc4bef35ef957",
+  "decimals": 18,
+  "description": "The DVN project develops a Q&amp;A portal with an integrated DVN tip system, where deferential conversation leads to profit for everyone.",
+  "links": [
+    {
+      "Email": "mailto:info@dvn-token.net"
+    },
+    {
+      "Telegram": "https://t.me/dvntoken"
+    },
+    {
+      "Twitter": "https://twitter.com/DVNToken"
+    },
+    {
+      "Website": "https://dvn-project.net"
+    }
+  ],
+  "name": "Developer Network Token",
+  "symbol": "DVN"
+}

@@ -1,0 +1,27 @@
+{
+  "addr": "0x55a0dd2f1b1d8034894c99507b6439eca479cf62",
+  "decimals": 18,
+  "description": "Money Tree is an ethereum game dapp that has many fantastic features. You grow a tree from a seed and harvest its fruit (various ERC20+ tokens). It makes use of a fully player-run economy and auction house system.",
+  "links": [
+    {
+      "Website": "https://www.moneytree.pw"
+    },
+    {
+      "Twitter": "https://twitter.com/MoneyTreeJCC"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2964762.0"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FdjtVEwqLR950fHH_hvtxg"
+    },
+    {
+      "Whitepaper": "https://docs.wixstatic.com/ugd/3c8e40_c5521de2d338410eab644ac7a35e0ee0.pdf"
+    },
+    {
+      "Discord": "https://discord.gg/7u3a57R"
+    }
+  ],
+  "name": "Jade Cash Coin",
+  "symbol": "JCC"
+}

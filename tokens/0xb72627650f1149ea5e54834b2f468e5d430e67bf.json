@@ -1,0 +1,39 @@
+{
+  "addr": "0xb72627650f1149ea5e54834b2f468e5d430e67bf",
+  "decimals": 8,
+  "description": "OPEN-SOURCE MERCHANT SERVICES",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2027565.0"
+    },
+    {
+      "Blog": "https://medium.com/@bitsoko"
+    },
+    {
+      "Email": "mailto:support@bitsoko.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bitsoko/"
+    },
+    {
+      "Github": "https://github.com/bitsoko-services/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/Bitsoko/"
+    },
+    {
+      "Twitter": "https://twitter.com/Bitsoko"
+    },
+    {
+      "Website": "https://bitsoko.co.ke/"
+    },
+    {
+      "Website": "https://bitsoko.co.ke/home/index.html"
+    },
+    {
+      "Whitepaper": "https://bitsoko.co.ke/home/Bitsoko-Whitepaper.docx.pdf"
+    }
+  ],
+  "name": "Bitsoko Community",
+  "symbol": "BITS"
+}

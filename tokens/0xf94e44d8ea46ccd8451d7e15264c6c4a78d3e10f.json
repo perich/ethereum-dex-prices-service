@@ -1,0 +1,39 @@
+{
+  "addr": "0xf94e44d8ea46ccd8451d7e15264c6c4a78d3e10f",
+  "decimals": 18,
+  "description": "A cross-platform app monetization platform",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1975416.msg19671890#msg19671890"
+    },
+    {
+      "Email": "mailto:support@krosscoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/krosscoin/"
+    },
+    {
+      "Github": "https://github.com/krosscoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/Krosscoin"
+    },
+    {
+      "Slack": "https://krosscoin.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/krosscoin_team"
+    },
+    {
+      "Website": "https://krosscoin.io/"
+    },
+    {
+      "Website": "https://krosscoin.io"
+    },
+    {
+      "Whitepaper": "https://krosscoin.io/whitepaper/Krosscoin_WP.pdf"
+    }
+  ],
+  "name": "Krosscoin",
+  "symbol": "KSS"
+}

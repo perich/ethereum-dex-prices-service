@@ -1,0 +1,27 @@
+{
+  "addr": "0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
+  "decimals": 8,
+  "description": "1World is revolutionizing online media with blockchain technology and incentives for audience engagement.",
+  "links": [
+    {
+      "Email": "mailto:support@1worldonline.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/1WorldOnlineInc"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Fu2jLgtH-b2obpp1FO5jyQ"
+    },
+    {
+      "Twitter": "https://twitter.com/1World_Online"
+    },
+    {
+      "Website": "https://ico.1worldonline.com/"
+    },
+    {
+      "Whitepaper": "https://ico.1worldonline.com/1WO_white_paper.pdf?locale=en"
+    }
+  ],
+  "name": "1World",
+  "symbol": "1WO"
+}

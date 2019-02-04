@@ -1,0 +1,24 @@
+{
+  "addr": "0x73dd069c299a5d691e9836243bcaec9c8c1d8734",
+  "decimals": 8,
+  "description": "Bitcoineum (BTE) is an ERC20 token completely controlled by a trustless and autonomous decentralized application on the Ethereum network. Bitcoineum replicates the value semantics of Bitcoin through a novel user-centric mining algorithm while enhancing it with all of Ethereum&rsquo;s native capabilities. Instead of grafting smart contracts and other advanced functionality onto the Bitcoin network, Bitcoineum builds a store of value directly into Ethereum. This new token will have desirable properties vs Ether, but maintains native interoperability and transfer capabilities on Ethereum. Further it will have faster transaction times and lower fees than the native Bitcoin network and be the anchor for an entire ecosystme of value-preserving tokens. A token has unique properties that a base currency does not, it is instructional to think of Bitcoineum as a modular component of a larger currency system where the token represents a fair web-minable base unit that can be used to bootstrap other functionality.",
+  "links": [
+    {
+      "Email": "mailto:bitcoineum@protonmail.ch"
+    },
+    {
+      "Github": "https://gitlab.com/mbrix/bitcoineum"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Bitcoineum/"
+    },
+    {
+      "Website": "http://www.bitcoineum.com/"
+    },
+    {
+      "Whitepaper": "http://www.bitcoineum.com/assets/Bitcoineum.pdf"
+    }
+  ],
+  "name": "Bitcoineum",
+  "symbol": "BTE"
+}

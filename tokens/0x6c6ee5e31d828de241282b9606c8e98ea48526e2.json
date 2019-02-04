@@ -1,0 +1,72 @@
+{
+  "addr": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+  "decimals": 18,
+  "description": "Holo is a decentralized hosting platform that enables fully-functional decentralized applications to serve mainstream Internet users, and provides the massively scalable crypto-accounting infrastructure required to host and manage these applications at such enormous volumes of usage.\nHoloTokens (HOT) are temporary ERC20 tokens purchased with ETH which will become exchangeable for Holo fuel when the Holo ecosystem launches later in 2018.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2963267.0"
+    },
+    {
+      "Blog": "https://medium.com/h-o-l-o"
+    },
+    {
+      "Blog": "https://medium.com/holochain"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/holo/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/holo/"
+    },
+    {
+      "Email": "mailto:help@holo.host"
+    },
+    {
+      "Facebook": "https://www.facebook.com/holochain.design/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/holohost/"
+    },
+    {
+      "Github": "https://github.com/Holo-Host"
+    },
+    {
+      "Github": "https://github.com/holochain"
+    },
+    {
+      "Github": "https://github.com/holochain/benchmarks"
+    },
+    {
+      "Github": "https://github.com/holochain/holochain-proto"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/holochain/"
+    },
+    {
+      "Telegram": "https://t.me/channelHolo"
+    },
+    {
+      "Twitter": "https://twitter.com/h_o_l_o_"
+    },
+    {
+      "Twitter": "https://twitter.com/holochain"
+    },
+    {
+      "Website": "https://holochain.org"
+    },
+    {
+      "Website": "https://holo.host"
+    },
+    {
+      "Whitepaper": "https://holo.host/whitepapers/"
+    },
+    {
+      "Whitepaper": "https://github.com/holochain/holochain-proto/blob/whitepaper/holochain.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=ipn6EZu6tNg"
+    }
+  ],
+  "name": "HoloToken",
+  "symbol": "HOT"
+}

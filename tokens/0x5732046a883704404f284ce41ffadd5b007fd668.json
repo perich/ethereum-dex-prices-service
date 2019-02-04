@@ -1,0 +1,36 @@
+{
+  "addr": "0x5732046a883704404f284ce41ffadd5b007fd668",
+  "decimals": 18,
+  "description": "Bluzelle is an Ethereum-based database service for dApps. Bluzelle's protocol allows renting individuals' computer storage space to earn tokens while dApp developers use tokens to have their dApp's data stored and managed.",
+  "links": [
+    {
+      "Blog": "https://blog.bluzelle.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bluzelle/"
+    },
+    {
+      "Github": "https://github.com/bluzelle"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Bluzelle/"
+    },
+    {
+      "Telegram": "https://t.me/bluzelle"
+    },
+    {
+      "Twitter": "https://twitter.com/bluzellehq"
+    },
+    {
+      "Website": "https://bluzelle.com/"
+    },
+    {
+      "Whitepaper": "https://bluzelle.com/wp-content/uploads/2017/10/bluzelle-whitepaper-english1-4.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCzhJz9g-T5BWjbPeJLKY_jw"
+    }
+  ],
+  "name": "Bluzelle Token",
+  "symbol": "BLZ"
+}

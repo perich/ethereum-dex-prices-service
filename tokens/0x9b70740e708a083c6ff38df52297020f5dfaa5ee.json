@@ -1,0 +1,42 @@
+{
+  "addr": "0x9b70740e708a083c6ff38df52297020f5dfaa5ee",
+  "decimals": 10,
+  "description": "Daneel assists you in your daily crypto investment.\nDaneel is a personal assistant using IBM Watson technology, one of the most efficient artificial intelligence platforms on the market. Daneel has your back, supporting you by offering daily assistance in the world of cryptocurrency.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@daneel_project"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/daneel/"
+    },
+    {
+      "Email": "mailto:contact@daneel.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/daneelproject"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Daneel_Project/"
+    },
+    {
+      "Telegram": "https://t.me/projectdaneel"
+    },
+    {
+      "Telegram": "https://t.me/DaneelCommunity"
+    },
+    {
+      "Telegram": "https://t.me/Daneelcustomersupport"
+    },
+    {
+      "Twitter": "https://twitter.com/daneelproject"
+    },
+    {
+      "Website": "https://daneel.io/"
+    },
+    {
+      "Whitepaper": "https://daneel.io/whitepaper"
+    }
+  ],
+  "name": "Daneel",
+  "symbol": "DAN"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0x77faed976e187f26b49e78be8418ab074a341f26",
+  "decimals": 18,
+  "description": "Integrative Wallet will be an application to store all your cryptocurrencies and to make payments instantly to other wallets. In addition to having the option of a debit card.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2039562"
+    },
+    {
+      "Github": "https://github.com/iwtoken"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/iwtoken"
+    },
+    {
+      "Telegram": "https://t.me/iwtoken"
+    },
+    {
+      "Twitter": "https://twitter.com/iwtoken"
+    },
+    {
+      "Website": "https://iwtoken.com/"
+    },
+    {
+      "Website": "https://iwtoken.com/en/"
+    },
+    {
+      "Whitepaper": "https://iwtoken.com/whitepaper.pdf"
+    }
+  ],
+  "name": "Integrative Wallet Token",
+  "symbol": "IWT"
+}

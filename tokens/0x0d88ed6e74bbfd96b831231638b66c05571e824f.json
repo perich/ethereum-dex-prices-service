@@ -1,0 +1,36 @@
+{
+  "addr": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+  "decimals": 18,
+  "description": "A REVOLUTIONARY GLOBAL STANDARD FOR A MORE FAIR, SECURE, AND TRANSPARENT TICKETING INDUSTRY.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2047321.0"
+    },
+    {
+      "Blog": "https://medium.com/aventus"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/aventus/"
+    },
+    {
+      "Github": "https://github.com/AventusSystems"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Aventus/"
+    },
+    {
+      "Slack": "https://slack.aventus.io/"
+    },
+    {
+      "Twitter": "https://twitter.com/AventusSystems"
+    },
+    {
+      "Website": "https://aventus.io/"
+    },
+    {
+      "Whitepaper": "https://aventus.io/doc/whitepaper.pdf"
+    }
+  ],
+  "name": "AVENTUS",
+  "symbol": "AVT"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0xd850942ef8811f2a866692a623011bde52a462c1",
+  "decimals": 18,
+  "description": "VeChain is a global information transformation platform based on blockchain technology. It digitalizes real people, products or events, by linking API with the system's application layer connecting blockchain with real-world information. We make use of Smart Contracts focused on real industrial operations. VeChain achieves collaboration and value transferring between different use cases. Hence, it maps the real world activities to blockchain. VeChain is creating a brand new business model, which provides 'trust service' to all collaboration parties across all platforms, entities, industries and consumers.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/vechain/"
+    },
+    {
+      "Email": "mailto:support@vechain.com"
+    },
+    {
+      "Github": "https://github.com/vechain/"
+    },
+    {
+      "Slack": "https://vechainofficial.slack.com/"
+    },
+    {
+      "WeChat": "http://u.wechat.com/MH_e7eabTidsPXiG842RsHM"
+    },
+    {
+      "Website": "https://tokensale.vechain.com/en/"
+    },
+    {
+      "Website": "https://www.vechain.com/"
+    },
+    {
+      "Whitepaper": "https://cdn.vechain.com/vechain_ico_ideas_of_development_en.pdf"
+    }
+  ],
+  "name": "VeChain Token",
+  "symbol": "VEN"
+}

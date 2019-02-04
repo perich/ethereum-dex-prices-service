@@ -1,0 +1,39 @@
+{
+  "addr": "0x29d75277ac7f0335b2165d0895e8725cbf658d73",
+  "decimals": 8,
+  "description": "BitDice Casino is a established and profitably operating cryptocurrency casino that wants to transform itself into a new-generation platform for online gaming experience.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2047543.0"
+    },
+    {
+      "Blog": "https://medium.com/@bitdice"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bitdice/"
+    },
+    {
+      "Email": "mailto:contact@bitdice.me"
+    },
+    {
+      "Github": "https://github.com/bitdice-me/csno"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BitDiceCasino/"
+    },
+    {
+      "Telegram": "https://t.me/bitdice_casino"
+    },
+    {
+      "Twitter": "https://twitter.com/bitdice"
+    },
+    {
+      "Website": "https://ico.bitdice.me/en/"
+    },
+    {
+      "Whitepaper": "https://ico.bitdice.me/prospectus_en.pdf"
+    }
+  ],
+  "name": "BitDice CSNO",
+  "symbol": "CSNO"
+}

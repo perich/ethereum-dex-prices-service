@@ -1,0 +1,36 @@
+{
+  "addr": "0x009e864923b49263c7f10d19b7f8ab7a9a5aad33",
+  "decimals": 18,
+  "description": "Fort Knoxster is an all in one encrypted messaging platform across multiple devices. The FKX token is used as a utility to power the platform's services.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2326058.0"
+    },
+    {
+      "Blog": "https://medium.com/fortknoxster"
+    },
+    {
+      "Facebook": "https://www.facebook.com/FortKnoxster"
+    },
+    {
+      "Github": "https://github.com/FortKnoxster"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/FortKnoxster/"
+    },
+    {
+      "Telegram": "https://t.me/FortKnoxster"
+    },
+    {
+      "Twitter": "https://twitter.com/FortKnoxster"
+    },
+    {
+      "Website": "https://fortknoxster.com/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCZB8URO26cktviSxp3SeHig/videos"
+    }
+  ],
+  "name": "Knoxstertoken",
+  "symbol": "FKX"
+}

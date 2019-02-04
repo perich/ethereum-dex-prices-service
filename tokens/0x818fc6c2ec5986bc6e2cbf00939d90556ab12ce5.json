@@ -1,0 +1,36 @@
+{
+  "addr": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
+  "decimals": 18,
+  "description": "Kin by Kik - A decentralized ecosystem of digital services for daily life.",
+  "links": [
+    {
+      "Blog": "https://medium.com/kinfoundation"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/kin/"
+    },
+    {
+      "Email": "mailto:kin@kik.com"
+    },
+    {
+      "Github": "https://github.com/kikinteractive/kin-token"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/KinFoundation"
+    },
+    {
+      "Slack": "http://kinfoundation.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/@kin_foundation"
+    },
+    {
+      "Website": "https://kin.kik.com/"
+    },
+    {
+      "Whitepaper": "https://kin.kik.com/papers/Kin_Whitepaper_V1_English.pdf?ver=3"
+    }
+  ],
+  "name": "Kin",
+  "symbol": "KIN"
+}

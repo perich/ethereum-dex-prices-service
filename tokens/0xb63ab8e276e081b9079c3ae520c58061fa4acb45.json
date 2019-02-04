@@ -1,0 +1,15 @@
+{
+  "addr": "0xb63ab8e276e081b9079c3ae520c58061fa4acb45",
+  "decimals": 18,
+  "description": "TRUST is a ERC20 smart contract built on the Ethereum blockchain. TRUST incorporates all the benefits of a cryptocurrency, combined with tangible real estate investments. The capital raised from our initial distribution will be used to purchase investment real estate which will provide 6 monthly bonuses for TRUST token holders.",
+  "links": [
+    {
+      "Website": "https://www.TrustEtherCoin.com"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2963414"
+    }
+  ],
+  "name": "TRUST",
+  "symbol": "TEC"
+}

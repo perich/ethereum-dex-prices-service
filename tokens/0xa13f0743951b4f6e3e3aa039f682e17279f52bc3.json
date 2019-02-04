@@ -1,0 +1,45 @@
+{
+  "addr": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3",
+  "decimals": 18,
+  "description": "The Sentinel Chain is a B2B marketplace specifically designed to provide affordable and secure financial services to the unbanked.",
+  "links": [
+    {
+      "Blog": "https://medium.com/sentinelchain"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/sentinel-chain/"
+    },
+    {
+      "Email": "mailto:support@sentinel-chain.org"
+    },
+    {
+      "Facebook": "https://facebook.com/sentinelchain/"
+    },
+    {
+      "Github": "https://github.com/InfoCorp-Technologies/sentinel-chain"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SentinelChain/"
+    },
+    {
+      "Telegram": "https://t.me/sentinelchain"
+    },
+    {
+      "Twitter": "https://twitter.com/sentinelchain"
+    },
+    {
+      "Website": "https://www.sentinel-chain.org"
+    },
+    {
+      "Whitepaper": "https://sentinel-chain.org/Sentinel.Chain.Whitepaper.v0_31.1.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCvfvoCTvnH2OMAArfwXLaLA"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2797679"
+    }
+  ],
+  "name": "Sentinel Chain Token",
+  "symbol": "SENC"
+}

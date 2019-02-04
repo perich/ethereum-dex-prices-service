@@ -1,0 +1,45 @@
+{
+  "addr": "0xa89b5934863447f6e4fc53b315a93e873bda69a3",
+  "decimals": 18,
+  "description": "Lumino Coin",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2625501.0"
+    },
+    {
+      "Blog": "https://medium.com/@LuminoCoin"
+    },
+    {
+      "Email": "mailto:info@luminocoin.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/luminocoin/"
+    },
+    {
+      "Github": "https://github.com/LuminoCoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/luminocoin"
+    },
+    {
+      "Slack": "https://luminocoin.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/LuminoCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/LuminoCoin"
+    },
+    {
+      "Website": "https://www.luminocoin.com/"
+    },
+    {
+      "Website": "https://www.luminocoin.com/start"
+    },
+    {
+      "Whitepaper": "https://luminocoin.com/images/whitepaper.pdf"
+    }
+  ],
+  "name": "LuminoCoin",
+  "symbol": "LUM"
+}

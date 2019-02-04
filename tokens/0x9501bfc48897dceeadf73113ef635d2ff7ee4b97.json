@@ -1,0 +1,33 @@
+{
+  "addr": "0x9501bfc48897dceeadf73113ef635d2ff7ee4b97",
+  "decimals": 18,
+  "description": "EMT is an ERC-20 utility token used on the easyMINE cryptocurrency mine management platform. It is the sole form of payment for premium-level easyMINE services.",
+  "links": [
+    {
+      "Email": "mailto:contact@easymine.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Easymine.io/"
+    },
+    {
+      "Github": "https://github.com/easyMINE"
+    },
+    {
+      "Slack": "https://slack.easymine.io/"
+    },
+    {
+      "Twitter": "https://twitter.com/easymineio"
+    },
+    {
+      "Website": "https://easymine.io/"
+    },
+    {
+      "Website": "https://easymine.io"
+    },
+    {
+      "Whitepaper": "https://ico.easymine.io/easyMINE_Whitepaper.pdf"
+    }
+  ],
+  "name": "easyMINE Token",
+  "symbol": "EMT"
+}

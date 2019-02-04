@@ -1,0 +1,45 @@
+{
+  "addr": "0xba5f11b16b155792cf3b2e6880e8706859a8aeb6",
+  "decimals": 8,
+  "description": "Aeron&rsquo;s solution relies on blockchain technology to track aircraft maintenance and pilot logs. Aeron is constructing a database and an online system that is decentralized, hosting global data on aircraft, flight schools and pilots. This electronic logging system would enable pilots to have logs that can be verified online, making aviation safer for everyone involved.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2078239.0"
+    },
+    {
+      "Blog": "https://medium.com/@aeronaero"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/aeron/"
+    },
+    {
+      "Email": "mailto:info@aeron.aero"
+    },
+    {
+      "Facebook": "https://www.facebook.com/aeronpublic/"
+    },
+    {
+      "Github": "https://github.com/aeronaero/aeron"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/aeronaero"
+    },
+    {
+      "Telegram": "https://t.me/aeronaero"
+    },
+    {
+      "Twitter": "https://twitter.com/aeron_aero"
+    },
+    {
+      "Website": "https://aeron.aero/"
+    },
+    {
+      "Website": "https://aeron.aero"
+    },
+    {
+      "Whitepaper": "https://aeron.aero/AeronWhitepaper.pdf"
+    }
+  ],
+  "name": "Aeron",
+  "symbol": "ARN"
+}

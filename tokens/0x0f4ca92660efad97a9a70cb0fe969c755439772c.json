@@ -1,0 +1,45 @@
+{
+  "addr": "0x0f4ca92660efad97a9a70cb0fe969c755439772c",
+  "decimals": 9,
+  "description": "Leverj is a Consensus-supported project that has raised over $11 Million in presale. It is a pseudo-decentralized exchange that does ordermatching and handling centralized while the funds custody is decentralized. The LEV token can be used to earn FEE tokens which allow the user to pay for trading fees in the Leverj platform. The platform is already built to facilitate trading on Bitcoin, it is only a matter of porting the system over to Ethereum, which Leverj has already designed and partially implemented.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2258761.0"
+    },
+    {
+      "Blog": "https://blog.leverj.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/leverj/"
+    },
+    {
+      "Email": "mailto:info@leverj.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/leverj.io/"
+    },
+    {
+      "Github": "https://github.com/leverj"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Leverj/"
+    },
+    {
+      "Telegram": "https://t.me/leverj"
+    },
+    {
+      "Twitter": "https://twitter.com/Leverj_io"
+    },
+    {
+      "Website": "https://leverj.io/"
+    },
+    {
+      "Website": "https://www.leverj.io/"
+    },
+    {
+      "Whitepaper": "https://leverj.io/whitepaper.pdf"
+    }
+  ],
+  "name": "Leverj",
+  "symbol": "LEV"
+}

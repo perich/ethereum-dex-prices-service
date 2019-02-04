@@ -1,0 +1,33 @@
+{
+  "addr": "0xd234bf2410a0009df9c3c63b610c09738f18ccd7",
+  "decimals": 8,
+  "description": "A trading platform",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2339770"
+    },
+    {
+      "Blog": "https://medium.com/@tokensnet"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/dynamic-trading-rights/"
+    },
+    {
+      "Email": "mailto:info@tokens.net"
+    },
+    {
+      "Facebook": "https://www.facebook.com/tokens.net"
+    },
+    {
+      "Twitter": "https://twitter.com/TokensNet"
+    },
+    {
+      "Website": "https://www.tokens.net/"
+    },
+    {
+      "Whitepaper": "https://www.tokens.net/pdf/whitepaper.pdf"
+    }
+  ],
+  "name": "Dynamic Trading Rights",
+  "symbol": "DTR"
+}

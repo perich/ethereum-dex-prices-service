@@ -1,0 +1,57 @@
+{
+  "addr": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
+  "decimals": 18,
+  "description": "XYO Network is blockchain's first crypto-location oracle network",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3020460.msg3107053"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3040825.0"
+    },
+    {
+      "Blog": "https://medium.com/@XYOracleNetwork"
+    },
+    {
+      "Blog": "https://medium.com/xyonetwork"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/xyo-network/"
+    },
+    {
+      "Email": "mailto:community@xyo.network"
+    },
+    {
+      "Facebook": "https://www.facebook.com/xyonetwork"
+    },
+    {
+      "Github": "https://github.com/XYOracleNetwork"
+    },
+    {
+      "Instagram": "https://www.instagram.com/xyoraclenetwork/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/18486755/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/XYONetwork/"
+    },
+    {
+      "Telegram": "https://t.me/xyonetwork"
+    },
+    {
+      "Twitter": "https://twitter.com/xyoraclenetwork"
+    },
+    {
+      "Website": "https://xyo.network/"
+    },
+    {
+      "Whitepaper": "https://docs.xyo.network/XYO-White-Paper.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCyZDqb9pgntVHJVt1pxXtsw"
+    }
+  ],
+  "name": "XY Oracle",
+  "symbol": "XYO"
+}

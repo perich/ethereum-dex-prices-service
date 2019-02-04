@@ -1,0 +1,45 @@
+{
+  "addr": "0x96a65609a7b84e8842732deb08f56c3e21ac6f8a",
+  "decimals": 18,
+  "description": "Centra Tokens are ERC20 tokens that are spendable on the Centra Card, Wallet, and cBay Platform. Centra Tech has designed the worlds first 8+ Multi-Blockchain Debit Card with 0% exchange fees using our Currency Conversion Engine (CCE) Module to provide rapid transactions using our liquidity pool. We have a line of Centra Financial Products designed to build a bridge from commerce to cryptocurrencies.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2114806"
+    },
+    {
+      "Blog": "https://www.medium.com/@Centra"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/centra/"
+    },
+    {
+      "Email": "mailto:support@centra.tech"
+    },
+    {
+      "Facebook": "http://www.facebook.com/CentraCard"
+    },
+    {
+      "Github": "https://github.com/CentraTech/smart-contract"
+    },
+    {
+      "Slack": "https://centratech.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/CentraTech"
+    },
+    {
+      "Twitter": "http://www.twitter.com/Centra_Card"
+    },
+    {
+      "Website": "https://www.centra.tech/"
+    },
+    {
+      "Website": "https://www.centra.tech"
+    },
+    {
+      "Whitepaper": "https://www.centra.tech/CentraWhitepaper.pdf"
+    }
+  ],
+  "name": "Centra",
+  "symbol": "CTR"
+}

@@ -1,0 +1,13 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "WETOLD",
+  "addr": "0x76195ffd0cfedf68625b3e5b64c7bd904eeb9d6c",
+  "decimals": 18,
+  "description": "Decentralized platform for the registration and distribution of content that certifies the authorship and license of any work or creation making them indelible.",
+  "links": [
+    {
+      "Website": "http://wellieat.com/"
+    }
+  ],
+  "name": "wellieat",
+  "symbol": "WET"
+}

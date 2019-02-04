@@ -1,0 +1,39 @@
+{
+  "addr": "0x0200412995f1bafef0d3f97c4e28ac2515ec1ece",
+  "decimals": 18,
+  "description": "Follow Coin is a new platform that wants to make the crypto world accessible to everyone. Our goal is to lower the barriers of crypto investment markets by providing tools and services that make interacting, handling and trading crypto coins easy. For people that are new to the world of cryptocurrency it is often difficult to know when to buy which coin. Now Follow Coin is here to help you out. As a beginning trader it is a real challenge to maintain an overview of the market. The learning curve for investing in crypto assets is extremely steep. That&rsquo;s why Follow Coin connects (inexperienced) users with influencers that know everything about the cryptocurrency world. We have a working mobile app available in the app-stores, under the name Follow Coin, feel free to take a look!",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2303917.0"
+    },
+    {
+      "Blog": "https://medium.com/@followcoin"
+    },
+    {
+      "Email": "mailto:info@followcoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/followcoin/"
+    },
+    {
+      "Github": "https://github.com/FollowCoin/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Followcoin/"
+    },
+    {
+      "Telegram": "https://t.me/FollowCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/FollowCoinbv"
+    },
+    {
+      "Website": "https://followcoin.io/"
+    },
+    {
+      "Whitepaper": "https://followcoin.io/docs/followcoin-whitepaper.pdf"
+    }
+  ],
+  "name": "Follow Coin",
+  "symbol": "FLLW"
+}

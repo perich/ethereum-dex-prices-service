@@ -1,0 +1,33 @@
+{
+  "addr": "0x37f014c64d186eaf879c0033846b51924ce42584",
+  "decimals": 0,
+  "description": "EtherFlip is a random number game where you place bets in Ether. MDT can be won while playing EtherFlip and these tokens will control bonus features in the smart contract. At a 49.21% win rate, it's the best on Ethereum. Every number roll is powered by Oraclize and is provably fair, provably random.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2214549.0"
+    },
+    {
+      "Email": "mailto:etherflip@gmail.com"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/EtherFlip/"
+    },
+    {
+      "Slack": "https://etherflip.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/etherflip_co"
+    },
+    {
+      "Website": "http://www.etherflip.co/"
+    },
+    {
+      "Website": "http://www.etherflip.co"
+    },
+    {
+      "Whitepaper": "http://www.etherflip.co/img/WhitePaper.pdf"
+    }
+  ],
+  "name": "MillionDollarToken",
+  "symbol": "MDT"
+}

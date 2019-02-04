@@ -1,0 +1,33 @@
+{
+  "addr": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
+  "decimals": 18,
+  "description": "Stox is an open source, Bancor based prediction market platform. Using the wisdom of the crowd, every day people will be able to predict and trade the outcome of events in almost any imaginable category: Finance, sports, politics and even the weather.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/stox/"
+    },
+    {
+      "Github": "https://github.com/stx-technologies/stox-token"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/STOX/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/DByWw0Pnq9BAy4FqPv_Lyg"
+    },
+    {
+      "Twitter": "https://twitter.com/stx_coin"
+    },
+    {
+      "Website": "https://www.stox.com/"
+    },
+    {
+      "Website": "https://www.stox.com"
+    },
+    {
+      "Whitepaper": "https://www.stox.com/assets/stox-whitepaper.pdf"
+    }
+  ],
+  "name": "Stox",
+  "symbol": "STX"
+}

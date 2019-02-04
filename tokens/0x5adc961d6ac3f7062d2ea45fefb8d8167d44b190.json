@@ -1,0 +1,51 @@
+{
+  "addr": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+  "decimals": 18,
+  "description": "Dether is a peer-to-peer ecosystem of crypto buyers, sellers and physical shops that aims to make cryptocurrency commerce less time consuming, less complicated, and less exclusionary towards unbanked peoples. Dether’s ether based network is designed to allow users to buy ether with cash over and spend it at nearby stores, all via mobile phones with internet access. Dether’s token, DTH, offers utility functions.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2043651.0"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2620895"
+    },
+    {
+      "Blog": "https://medium.com/dether"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/dether/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/dether/"
+    },
+    {
+      "Email": "mailto:hello@dether.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/dether.io/"
+    },
+    {
+      "Github": "https://github.com/dethertech"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Dether/"
+    },
+    {
+      "Slack": "https://dether.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww"
+    },
+    {
+      "Twitter": "https://twitter.com/dether_io"
+    },
+    {
+      "Website": "https://dether.io"
+    },
+    {
+      "Whitepaper": "https://whitepaper.dether.io/"
+    }
+  ],
+  "name": "Dether",
+  "symbol": "DTH"
+}

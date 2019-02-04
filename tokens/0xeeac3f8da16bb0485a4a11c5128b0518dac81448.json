@@ -1,0 +1,39 @@
+{
+  "addr": "0xeeac3f8da16bb0485a4a11c5128b0518dac81448",
+  "decimals": 18,
+  "description": "A crypto currency that propels ships",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2057994"
+    },
+    {
+      "Blog": "https://medium.com/@300cubits"
+    },
+    {
+      "Email": "mailto:info@300cubits.tech"
+    },
+    {
+      "Facebook": "https://www.facebook.com/300cubits.tech"
+    },
+    {
+      "Github": "https://github.com/300cubits"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/F_3VmEOalqkahP3H-DbKBw"
+    },
+    {
+      "Twitter": "https://twitter.com/300cubits_tech"
+    },
+    {
+      "WeChat": "http://weixin.qq.com/r/8jjE3PjEc6UMrby-923g"
+    },
+    {
+      "Website": "https://300cubits.tech/"
+    },
+    {
+      "Whitepaper": "https://300cubits.tech/pdf/whitepaper.pdf"
+    }
+  ],
+  "name": "20-footEqvUnit",
+  "symbol": "TEU"
+}

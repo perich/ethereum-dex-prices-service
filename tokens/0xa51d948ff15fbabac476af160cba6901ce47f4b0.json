@@ -1,0 +1,30 @@
+{
+  "addr": "0xa51d948ff15fbabac476af160cba6901ce47f4b0",
+  "decimals": 18,
+  "description": "Deploy smart companies that navigate web based and blockchain applications allowing for cross platform interaction eg. facebook, twitter, reddit, slack. companies and fully customizable with administrative powers, voting, capital management ect. Lynx provides applications by default like the Academy where users can learn and share info, a Marketplace where individuals and companies can do business for a small fee. all fees collected go to a global pool to be managed by the global governance protocol. By default all ETH is used to replace fees from users allowing free interaction with Ethereum.",
+  "links": [
+    {
+      "Blog": "https://medium.com/lynx-network"
+    },
+    {
+      "Email": "mailto:contact@lynxnetwork.org"
+    },
+    {
+      "Telegram": "http://telegram.me/lynx_network"
+    },
+    {
+      "Twitter": "https://twitter.com/Lynx_Network"
+    },
+    {
+      "Website": "https://www.lynxnetwork.org/platform"
+    },
+    {
+      "Website": "https://www.lynxnetwork.org"
+    },
+    {
+      "Whitepaper": "https://www.dropbox.com/s/264gqstkg4xw7t2/whitepaperV.1.pdf"
+    }
+  ],
+  "name": "Lynx",
+  "symbol": "LNT"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
+  "decimals": 18,
+  "description": "ArcBlock, the world’s first blockchain ecosystem for building and deploying decentralized applications.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2699379"
+    },
+    {
+      "Email": "mailto:support@arcblock.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/arcblock.io/"
+    },
+    {
+      "Github": "https://github.com/arcblock"
+    },
+    {
+      "Instagram": "https://www.instagram.com/arcblock/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/18355951/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/arcblock/"
+    },
+    {
+      "Telegram": "https://t.me/ArcBlock"
+    },
+    {
+      "Twitter": "https://twitter.com/ArcBlock_io"
+    },
+    {
+      "Website": "https://www.arcblock.io/"
+    },
+    {
+      "Whitepaper": "https://www.arcblock.io/file/whitepaper/WhitePaperEnV2_en-US.pdf"
+    }
+  ],
+  "name": "ArcBlock",
+  "symbol": "ABT"
+}

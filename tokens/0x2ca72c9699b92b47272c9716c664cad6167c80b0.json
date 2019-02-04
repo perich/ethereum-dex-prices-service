@@ -1,0 +1,36 @@
+{
+  "addr": "0x2ca72c9699b92b47272c9716c664cad6167c80b0",
+  "decimals": 18,
+  "description": "GeoFounders is a software collective focused on building blockchain-related applications and services. Smart contracts and trusted oracles are used as the underpinning mechanisms which automate software infrastructure and grow the collective's overall value. GeoFounders has a three-year development roadmap to develop apps spanning multiple blockchains and genres ranging from casual gaming to enterprise communication.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@geofounders"
+    },
+    {
+      "Email": "mailto:staff@geofounders.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/geofounders"
+    },
+    {
+      "Github": "https://github.com/GeoFounders"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/geofounders/"
+    },
+    {
+      "Slack": "https://geofounders.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/geofounders"
+    },
+    {
+      "Website": "http://www.geofounders.com/"
+    },
+    {
+      "Whitepaper": "http://www.geofounders.com/GeoFoundersWhitePaper.pdf"
+    }
+  ],
+  "name": "GeoUnits",
+  "symbol": "GUNS"
+}

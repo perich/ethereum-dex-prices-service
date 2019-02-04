@@ -1,0 +1,30 @@
+{
+  "addr": "0x408e41876cccdc0f92210600ef50372656052a38",
+  "decimals": 18,
+  "description": "Republic Protocol is an open-source decentralized dark pool exchange. It facilitates cross-chain atomic trades on a hidden order book over the Ethereum and Bitcoin networks.",
+  "links": [
+    {
+      "Website": "https://republicprotocol.com/"
+    },
+    {
+      "Github": "https://github.com/republicprotocol"
+    },
+    {
+      "Twitter": "https://twitter.com/republicorg"
+    },
+    {
+      "Telegram": "https://t.me/republicprotocol"
+    },
+    {
+      "Telegram": "https://t.me/republicprotocolannouncements"
+    },
+    {
+      "Whitepaper": "https://republicprotocol.github.io/whitepaper/republic-whitepaper.pdf"
+    },
+    {
+      "Blog": "https://medium.com/republicprotocol"
+    }
+  ],
+  "name": "Republic Token",
+  "symbol": "REN"
+}

@@ -1,0 +1,57 @@
+{
+  "addr": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
+  "decimals": 18,
+  "description": "What MyBit does is enable ownership of a specific IoT asset to be easily distributed among several owners (investors). With the rise of the upcoming machine economy, our vision is to have machines owned by people all over the world, rather than centralized parties maintaining ownership and the resulting revenue streams.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1797720"
+    },
+    {
+      "Blog": "https://medium.com/mybit-dapp"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/mybit-token/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/mybit-token/"
+    },
+    {
+      "Email": "mailto:info@mybit.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/MyBitDApp/"
+    },
+    {
+      "Github": "https://github.com/MyBitFoundation"
+    },
+    {
+      "Github": "https://github.com/MyBitFoundation/MyBitDapp"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/mybit/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/MyBitToken/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/MyBit_DApp/"
+    },
+    {
+      "Telegram": "https://t.me/mybitio"
+    },
+    {
+      "Twitter": "https://twitter.com/mybit_dapp"
+    },
+    {
+      "Website": "https://mybit.io"
+    },
+    {
+      "Whitepaper": "https://mybit.io/static/files/MyBit_Whitepaper_v3.0.0.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCtLn7Vi-3VbsY5F9uF1RJYg"
+    }
+  ],
+  "name": "MyBit",
+  "symbol": "MYB"
+}

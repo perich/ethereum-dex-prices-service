@@ -1,0 +1,45 @@
+{
+  "addr": "0x5102791ca02fc3595398400bfe0e33d7b6c82267",
+  "decimals": 18,
+  "description": "LeadCoin empowers businesses to sell their unused leads and buy hot leads from other businesses. Sellers automatically share their unused leads in real-time. LeadCoin’s matching algorithm then analyzes and matches leads to buyers. Leads who didn’t match one business, are now the perfect match for another.​​",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2728016.0"
+    },
+    {
+      "Blog": "https://blog.leadcoin.network/"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/leadcoin/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/leadcoin/"
+    },
+    {
+      "Email": "mailto:info@leadcoin.network"
+    },
+    {
+      "Github": "https://github.com/LeadcoinNetwork"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/leadcoin/"
+    },
+    {
+      "Telegram": "https://t.me/LeadCoinNetwork"
+    },
+    {
+      "TokenMarket": "https://tokenmarket.net/blockchain/ethereum/assets/leadcoin/"
+    },
+    {
+      "Twitter": "https://twitter.com/leadcoinnetwork"
+    },
+    {
+      "Website": "https://www.leadcoin.network"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/1YlZhHsvHuD0K0XRDz_W1M6xdhLvSZPcx/view"
+    }
+  ],
+  "name": "LEADCOIN",
+  "symbol": "LDC"
+}

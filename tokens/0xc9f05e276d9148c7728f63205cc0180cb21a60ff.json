@@ -1,0 +1,27 @@
+{
+  "addr": "0xc9f05e276d9148c7728f63205cc0180cb21a60ff",
+  "decimals": 18,
+  "description": "First targeted advertisement database on blockchain.",
+  "links": [
+    {
+      "Website": "https://dato.asia/"
+    },
+    {
+      "Github": "https://github.com/datoasia"
+    },
+    {
+      "Twitter": "https://twitter.com/DATO53474167"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/HsI8eErvWpJWUBYZ0DFV8g"
+    },
+    {
+      "Whitepaper": "https://docs.wixstatic.com/ugd/4be2b1_47671fc8eacf4a779b7784df8514f773.pdf"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2839784.0"
+    }
+  ],
+  "name": "DATO token",
+  "symbol": "DATO"
+}

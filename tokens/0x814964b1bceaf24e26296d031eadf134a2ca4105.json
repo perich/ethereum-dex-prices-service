@@ -1,0 +1,27 @@
+{
+  "addr": "0x814964b1bceaf24e26296d031eadf134a2ca4105",
+  "decimals": 0,
+  "description": "Newbium (NEWB) is the official cryptocurrrency of the Newbium crypto market information and news platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1418497.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/newbium/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Newbium-602104359952009"
+    },
+    {
+      "Twitter": "https://twitter.com/newbiumcoin"
+    },
+    {
+      "Website": "https://coins.newbium.com"
+    },
+    {
+      "Website": "http://newbium.com/"
+    }
+  ],
+  "name": "Newbium",
+  "symbol": "NEWB"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0xa7f976c360ebbed4465c2855684d1aae5271efa9",
+  "decimals": 8,
+  "description": "A fair blockchain-based lottery",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1928663.60"
+    },
+    {
+      "Blog": "https://steemit.com/@trueflip"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/trueflip/"
+    },
+    {
+      "Email": "mailto:info@trueflip.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/TrueFlip.io/"
+    },
+    {
+      "Github": "https://github.com/TrueFlip"
+    },
+    {
+      "Reddit": "http://reddit.com/r/TrueFlip"
+    },
+    {
+      "Slack": "https://trueflip.io/slack"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/AAAAAELcwT-fgH2zG7xEng"
+    },
+    {
+      "Website": "https://trueflip.io/"
+    },
+    {
+      "Whitepaper": "https://trueflip.io/TrueFlip_WP.pdf"
+    }
+  ],
+  "name": "TrueFlip",
+  "symbol": "TFL"
+}

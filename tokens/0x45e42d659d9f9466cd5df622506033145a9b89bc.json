@@ -1,0 +1,19 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "NXC",
+  "addr": "0x45e42d659d9f9466cd5df622506033145a9b89bc",
+  "decimals": 3,
+  "description": "Beyond the Void is a competitive One vs One Game. Lead your army with your powerful mother ship, conquer the solar system and defeat your opponents.\nThe Nexium is the Token of Beyond the void. It will be used in our shop to trade items.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/nexium/"
+    },
+    {
+      "Website": "https://beyond-the-void.net/"
+    },
+    {
+      "Website": "http://beyond-the-void.net"
+    }
+  ],
+  "name": "Nexium",
+  "symbol": "NxC"
+}

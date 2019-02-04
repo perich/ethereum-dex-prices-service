@@ -1,0 +1,21 @@
+{
+  "addr": "0xb203b5495109c6c85615ebb2056f98301d470507",
+  "decimals": 3,
+  "description": "Someone's Garbage is Someone's Treasure! Trash cash is a decentralised peer to peer cryptocurrency to exchange all the garbage dumped in your wallet into a single token which can be traded in exchanges. Instead of having hundreds of them and have the headache of managing them individually, now you can keep all the trash in one place!",
+  "links": [
+    {
+      "Email": "mailto:mail@trash.cash"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Trash-Cash-125463424816911/"
+    },
+    {
+      "Twitter": "https://twitter.com/TrashCash_ERC20"
+    },
+    {
+      "Website": "https://www.trash.cash/"
+    }
+  ],
+  "name": "TRASH CASH",
+  "symbol": "TRASH"
+}

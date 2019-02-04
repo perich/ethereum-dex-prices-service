@@ -1,0 +1,45 @@
+{
+  "addr": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+  "decimals": 18,
+  "description": "Providing world-class decentralized programs on the Blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2129993"
+    },
+    {
+      "Blog": "https://medium.com/@blockmason"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/blockmason/"
+    },
+    {
+      "Email": "mailto:info@blockmason.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/blockmasonio/"
+    },
+    {
+      "Github": "https://github.com/blockmason"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/blockmason/"
+    },
+    {
+      "Telegram": "https://t.me/blockmason"
+    },
+    {
+      "Twitter": "https://twitter.com/blockmasonio"
+    },
+    {
+      "Website": "https://blockmason.io/projects/creditprotocol/"
+    },
+    {
+      "Website": "https://blockmason.io"
+    },
+    {
+      "Whitepaper": "https://blockmason.io/cp-whitepaper.pdf"
+    }
+  ],
+  "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
+  "symbol": "BCPT"
+}

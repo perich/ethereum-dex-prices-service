@@ -1,0 +1,18 @@
+{
+  "addr": "0xa645264c5603e96c3b0b078cdab68733794b0a71",
+  "decimals": 8,
+  "description": "Mysterium foundation is developing Mysterium Network &ndash; an Open source software, powering a Decentralized Network of VPN Nodes.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/mysterium/"
+    },
+    {
+      "Website": "https://mysterium.network"
+    },
+    {
+      "Website": "https://mysterium.network/"
+    }
+  ],
+  "name": "Mysterium",
+  "symbol": "MYST"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",
+  "decimals": 18,
+  "description": "FirstBlood.io (\"FirstBlood\") is a decentralized esports gaming platform that will allow individuals to test their skill and compete in 1v1 and team vs team matches for popular online games, such as League of Legends, Dota 2, and Counter-Strike: Global Offensive.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1543891.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/firstblood/"
+    },
+    {
+      "Email": "mailto:team@firstblood.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/firstbloodio"
+    },
+    {
+      "Github": "https://github.com/firstbloodio"
+    },
+    {
+      "Slack": "https://firstbloodio.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/firstbloodio"
+    },
+    {
+      "Website": "https://firstblood.io/"
+    },
+    {
+      "Whitepaper": "https://coss.io/documents/white-papers/first-blood.pdf"
+    }
+  ],
+  "name": "Firstblood",
+  "symbol": "1ST"
+}

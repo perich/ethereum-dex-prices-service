@@ -1,0 +1,42 @@
+{
+  "addr": "0x767ba2915ec344015a7938e3eedfec2785195d05",
+  "decimals": 18,
+  "description": "REALISTO is a decentralized, global platform dedicated to crowdfunding the world’s best real estate opportunities. Using blockchain technology, the REALISTO platform operates as a two-sided marketplace allowing real estate experts to present unique projects, tokenize them, and offer them as curated investment opportunities.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2353634.0"
+    },
+    {
+      "Blog": "https://medium.com/@realisto"
+    },
+    {
+      "Email": "mailto:contact@realisto.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/REALISTOICO/"
+    },
+    {
+      "Github": "https://github.com/realisto"
+    },
+    {
+      "Telegram": "https://www.t.me/realisto_official"
+    },
+    {
+      "Telegram": "https://t.me/realistochat"
+    },
+    {
+      "Twitter": "https://twitter.com/REALISTO_TOKEN"
+    },
+    {
+      "Website": "https://realisto.io/"
+    },
+    {
+      "Whitepaper": "https://realisto.io/files/papers/Whitepaper/REALISTO_Whitepaper_V1.2_EN.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCJOB3-igfaxah5HWuyiuA8w"
+    }
+  ],
+  "name": "Realisto Token",
+  "symbol": "REA"
+}

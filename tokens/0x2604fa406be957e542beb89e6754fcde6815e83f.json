@@ -1,0 +1,42 @@
+{
+  "addr": "0x2604fa406be957e542beb89e6754fcde6815e83f",
+  "decimals": 18,
+  "description": "PKT is a cryptocurrency that will be used to buy and sell cloud gaming subscriptions as well as other Playkey services and future products. It will be the unit of account for all economic transactions within the Playkey Ecosystem, and will be used as a basis for interaction with other digital services.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2073668.0"
+    },
+    {
+      "Blog": "https://medium.com/@playkey"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/playkey/"
+    },
+    {
+      "Email": "mailto:support@playkey.net"
+    },
+    {
+      "Facebook": "https://www.facebook.com/groups/playkeyICO/"
+    },
+    {
+      "Github": "https://github.com/Playkey/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Playkey/"
+    },
+    {
+      "Telegram": "https://t.me/playkey_io"
+    },
+    {
+      "Twitter": "https://twitter.com/Playkey_EN"
+    },
+    {
+      "Website": "https://playkey.io/"
+    },
+    {
+      "Whitepaper": "https://cdn.playkey.net/img/playkeynet/ico/Whitepaper.pdf"
+    }
+  ],
+  "name": "Playkey",
+  "symbol": "PKT"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0x4de2573e27e648607b50e1cfff921a33e4a34405",
+  "decimals": 18,
+  "description": "Lendroid is a non-rent seeking protocol partnering with 0x Project Relayers that enables Margin Trading and short selling of ERC20 tokens without having to give custody of funds to a centralized service.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2480036.0"
+    },
+    {
+      "Blog": "https://blog.lendroid.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/lendroid-support-token/"
+    },
+    {
+      "Email": "mailto:connect@lendroid.com"
+    },
+    {
+      "Github": "https://github.com/lendroidproject"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/lendroidproject/"
+    },
+    {
+      "Telegram": "https://t.me/lendroidofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/lendroidproject"
+    },
+    {
+      "Website": "https://lendroid.com/"
+    },
+    {
+      "Whitepaper": "https://lendroid.com/assets/whitepaper-margin-trading.pdf"
+    }
+  ],
+  "name": "Lendroid Support Token",
+  "symbol": "LST"
+}

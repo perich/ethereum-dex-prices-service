@@ -1,0 +1,45 @@
+{
+  "addr": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+  "decimals": 8,
+  "description": "Tierion is using the blockchain to transform how the world secures and shares data.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2027510.0"
+    },
+    {
+      "Blog": "https://medium.com/@WayneVaughan"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/tierion/"
+    },
+    {
+      "Email": "mailto:tokensale@tierion.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/TierionInc/"
+    },
+    {
+      "Github": "https://github.com/Tierion"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/tierion/"
+    },
+    {
+      "Telegram": "https://t.me/tierion"
+    },
+    {
+      "Twitter": "https://twitter.com/Tierion"
+    },
+    {
+      "Website": "https://tokensale.tierion.com/"
+    },
+    {
+      "Website": "https://tierion.com/"
+    },
+    {
+      "Whitepaper": "https://tokensale.tierion.com/whitepaper"
+    }
+  ],
+  "name": "Tierion Network Token",
+  "symbol": "TNT"
+}

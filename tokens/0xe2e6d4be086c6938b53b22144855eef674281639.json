@@ -1,0 +1,36 @@
+{
+  "addr": "0xe2e6d4be086c6938b53b22144855eef674281639",
+  "decimals": 18,
+  "description": "We are a firm dedicated to promote, offer and integrate Ethereum platform to any individual or corporation wanting to make a whole improvement of their business structure to join the new generation era taking advantage of this technology and surpass their competitors.",
+  "links": [
+    {
+      "Blog": "https://www.medium.com/@ethlink"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/link-platform/"
+    },
+    {
+      "Email": "mailto:support@ethereum.link"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ethereumlink/"
+    },
+    {
+      "Github": "https://github.com/ethlink"
+    },
+    {
+      "Slack": "https://ethereum.link/invite.php"
+    },
+    {
+      "Twitter": "https://www.twitter.com/linkplatform"
+    },
+    {
+      "Website": "https://ethereum.link/"
+    },
+    {
+      "Whitepaper": "https://ethereum.link/files/Whitepaper1.03.pdf"
+    }
+  ],
+  "name": "Link Platform",
+  "symbol": "LNK"
+}

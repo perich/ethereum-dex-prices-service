@@ -1,0 +1,34 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "ARXAI",
+  "addr": "0xb0d926c1bc3d78064f3e1075d5bd9a24f35ae6c5",
+  "decimals": 18,
+  "description": "Our ARX token is built into our Augmented Reality products and is used to redeem in-world and in-app items, such as access to paid content or public paid AR-zones in World 1, or custom job-roles in our Profession App. Our apps are already released in Alpha to corporate clients who expect to use the ARX token on the blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2217180"
+    },
+    {
+      "Email": "mailto:staff@aronline.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/AssistiveReality/"
+    },
+    {
+      "Github": "https://github.com/AssistiveReality/ico/"
+    },
+    {
+      "Telegram": "https://t.me/AssistiveReality_ARX"
+    },
+    {
+      "Twitter": "https://twitter.com/aronline_io/"
+    },
+    {
+      "Website": "https://aronline.io/"
+    },
+    {
+      "Whitepaper": "https://github.com/assistivereality/ico/raw/master/whitepaper/Assistive%20Reality%20aronline.io%20Whitepaper%20and%20ICO%20v1.8.pdf"
+    }
+  ],
+  "name": "Assistive Reality ARX",
+  "symbol": "ARX"
+}

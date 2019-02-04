@@ -1,0 +1,27 @@
+{
+  "addr": "0x5ca71ea65acb6293e71e62c41b720698b0aa611c",
+  "decimals": 18,
+  "description": "Open-source, decentralized, derivatives trading platform",
+  "links": [
+    {
+      "Email": "mailto:office@bbod.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/groups/131208830847524"
+    },
+    {
+      "Github": "https://github.com/BBODTradingPlatform/BBOD"
+    },
+    {
+      "Twitter": "https://twitter.com/BBODTrading"
+    },
+    {
+      "Website": "http://bbod.io/"
+    },
+    {
+      "Whitepaper": "http://bbod.io/wp-content/uploads/whitepaper.pdf"
+    }
+  ],
+  "name": "BlockChain Board Of Derivatives Token",
+  "symbol": "BBD"
+}

@@ -1,0 +1,18 @@
+{
+  "addr": "0x4e260e3ca268e40133c84b142de73108a7c1ec99",
+  "decimals": 0,
+  "description": "Yoshi Coin is a novelty ethereum token created by \"YoshiDev\" in response to a thread in /biz/ on August 9th 2017. https://boards.4chan.org/biz/thread/2994407. Total supply capped at 372 coins. This cap represents the total number of yoshi coins (aka dragon coins) in Super Mario World released in 1991(NA) for the super Nintendo entertainment system.",
+  "links": [
+    {
+      "Email": "mailto:yoshicoineth@gmail.com"
+    },
+    {
+      "Slack": "https://yoshicoin.slack.com/join/shared_invite/MjIzNTgyODY0MTkzLTE1MDIyNjIyNjctNzIwMzc4NTE2Mg"
+    },
+    {
+      "Website": "https://yoshicoineth.wixsite.com/yoshicoin"
+    }
+  ],
+  "name": "YoshiCoin",
+  "symbol": "YC"
+}

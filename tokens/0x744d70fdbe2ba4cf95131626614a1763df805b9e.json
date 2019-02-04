@@ -1,0 +1,36 @@
+{
+  "addr": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+  "decimals": 18,
+  "description": "Status is an open source messaging platform and mobile browser to interact with decentralized applications that run on the Ethereum Network.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/status/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ethstatus"
+    },
+    {
+      "Github": "https://github.com/status-im"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/statusim/"
+    },
+    {
+      "Slack": "http://slack.status.im/"
+    },
+    {
+      "Twitter": "https://twitter.com/ethstatus"
+    },
+    {
+      "Website": "https://status.im/"
+    },
+    {
+      "Website": "http://status.im/"
+    },
+    {
+      "Whitepaper": "https://status.im/whitepaper.pdf"
+    }
+  ],
+  "name": "Status Network",
+  "symbol": "SNT"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0x347c099f110ca6761779329d2879957b606b6ace",
+  "decimals": 18,
+  "description": "Joint Ventures is building blockchain applications for leading online publishers. Our aim is to create an economy for online publishers that rewards every participant of the network, including authors, commenters and advertisers alike, and minimize third-party commissions.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2940988.0"
+    },
+    {
+      "Blog": "https://medium.com/jointventures"
+    },
+    {
+      "Email": "mailto:ahmet@jointventures.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/jointventuresio/"
+    },
+    {
+      "Github": "https://github.com/JointVentures/"
+    },
+    {
+      "Github": "https://github.com/JointVentures/JointContracts"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/jointventure-io/"
+    },
+    {
+      "Telegram": "https://t.me/jointventures"
+    },
+    {
+      "Twitter": "https://twitter.com/jointventuresio"
+    },
+    {
+      "Website": "https://jointventures.io"
+    },
+    {
+      "Whitepaper": "https://jointventures.io/wp.pdf"
+    }
+  ],
+  "name": "JOINT",
+  "symbol": "JOINT"
+}

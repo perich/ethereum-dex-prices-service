@@ -1,0 +1,36 @@
+{
+  "addr": "0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a",
+  "decimals": 2,
+  "description": "Substratum is an open-source network that allows anyone to allocate their spare computing resources to make the internet a free and fair place for the entire world. The Substratum Network will bring the decentralized web worldwide without the need of special software for the average internet user. We will be able to serve Substratum Requests directly to the default browser (Safari, Firefox, Chrome, Internet Explorer) without any special software installed on the average consuming users computer. Substratum is developing an open-source foundation for the decentralized web, providing free and unrestricted access to content for a new Web 3.0 The Substratum Network is a worldwide collection of nodes that uses industryleading cryptography to deliver secure content anywhere, all without the need for VPNs or Tor. Substratum will revolutionize the hosting industry with per-request billing via microtransactions, all handled by blockchain technology and artificial intelligence.",
+  "links": [
+    {
+      "Blog": "http://substratum.net/blog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/substratum/"
+    },
+    {
+      "Email": "mailto:justin@substratum.net"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SubstratumNetwork/"
+    },
+    {
+      "Slack": "https://substratumcoin.slack.com/join/shared_invite/MjI3Nzc5NzExNDg4LTE1MDMwNDY5ODItODlkYjNiYzhkZg"
+    },
+    {
+      "Twitter": "https://twitter.com/SubstratumNet"
+    },
+    {
+      "Website": "http://substratum.net/"
+    },
+    {
+      "Website": "https://substratum.net/"
+    },
+    {
+      "Whitepaper": "http://substratum.net/wp-content/uploads/2017/08/substratum_whitepaper.pdf"
+    }
+  ],
+  "name": "Substratum",
+  "symbol": "SUB"
+}

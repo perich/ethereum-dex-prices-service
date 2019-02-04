@@ -1,0 +1,39 @@
+{
+  "addr": "0xb8742486c723793cf5162bb5d3425ed9cd73d049",
+  "decimals": 8,
+  "description": "TCASH is Ethereum ERC-20 Smart Contract Token",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2357581"
+    },
+    {
+      "Email": "mailto:etherflyerofficial@gmail.com"
+    },
+    {
+      "Github": "https://github.com/EtherFlyer"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/EtherFlyer/"
+    },
+    {
+      "Slack": "https://etherflyer.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/etherflyer"
+    },
+    {
+      "Twitter": "https://twitter.com/etherflyercom"
+    },
+    {
+      "Website": "https://tcash.io/"
+    },
+    {
+      "Website": "http://tcash.io"
+    },
+    {
+      "Whitepaper": "https://tcash.io/pdf/tcash_whitepaper_en.pdf"
+    }
+  ],
+  "name": "Tcash",
+  "symbol": "TCASH"
+}

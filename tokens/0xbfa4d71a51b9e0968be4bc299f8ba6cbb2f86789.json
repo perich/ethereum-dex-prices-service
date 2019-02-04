@@ -1,0 +1,12 @@
+{
+  "addr": "0xbfa4d71a51b9e0968be4bc299f8ba6cbb2f86789",
+  "decimals": 18,
+  "description": "<strong>\"Mayweather to win against McGregor by Aug. 27, 2017\"</strong>\nPredictionToken mints prediction market tokens on the Ethereum blockchain. PredictionTokens have value tied to future outcomes, using Reality Keys as the source of truth.",
+  "links": [
+    {
+      "Website": "https://predictiontoken.github.io/#MAY"
+    }
+  ],
+  "name": "Mayweather Yes",
+  "symbol": "MAYY"
+}

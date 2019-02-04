@@ -1,0 +1,27 @@
+{
+  "addr": "0x4a42d2c580f83dce404acad18dab26db11a1750e",
+  "decimals": 18,
+  "description": "Relex is the world's 1st cryptocurrency based real estate developer opportunity.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2075473.0"
+    },
+    {
+      "Email": "mailto:kehilden@protonmail.ch"
+    },
+    {
+      "Facebook": "https://www.facebook.com/RelexTalk"
+    },
+    {
+      "Slack": "http://relextalk.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/relextalk"
+    },
+    {
+      "Website": "https://www.relex.io/"
+    }
+  ],
+  "name": "Relex",
+  "symbol": "RLX"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
+  "decimals": 18,
+  "description": "UnikoinGold is an ERC20 token that will serve as an entry to a new version of the existing Unikrn spectator betting system, and it will also become the exclusive token used on our new skill-based betting platform. It will power both wagering and non-wagering experiences throughout the Unikrn platform, thus creating a first viable esports eco-system that will reward the players, content-creators and spectators alike.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2206150.40"
+    },
+    {
+      "Blog": "https://news.unikrn.com/topic/UnikoinGold"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/unikoin-gold/"
+    },
+    {
+      "Email": "mailto:support@unikoingold.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/UnikoinGold/"
+    },
+    {
+      "Github": "https://github.com/unikoingold/"
+    },
+    {
+      "Slack": "https://community.unikrn.com/"
+    },
+    {
+      "Website": "https://unikoingold.com/"
+    },
+    {
+      "Whitepaper": "https://unikoingold.com/whitepaper"
+    }
+  ],
+  "name": "UnikoinGold",
+  "symbol": "UKG"
+}

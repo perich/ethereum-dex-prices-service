@@ -1,0 +1,30 @@
+{
+  "addr": "0xe531642e9bb5d027e9c20e03284287b97919a9a5",
+  "decimals": 8,
+  "description": "EtherFaith is the only secure ERC20 token embedded with prayer and bible verses. Words of God written in a token smart contract.\nFaithCoin aims to be introduced to people of faith as the main coin to be used in trading and online transactions while spreading the words of God in all and every transactions done.\nFaithCoin is designed and intended to empower cryptocurrency users and boost their trust in trading using our coin. It is embedded with bible verses that will remind them of God’s words. Every transaction done is like passing through God’s message to everyone while experiencing a convenient way of trading without unnecessary cost and delays. We would like to bring peace of mind to our investors and traders, making FaithCoin as a gateway to do online transactions that are parallel to their moral compass.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2664744.0"
+    },
+    {
+      "Facebook": "https://www.facebook.com/FaithCoin-245043902699847/"
+    },
+    {
+      "Github": "https://github.com/MyFaithCoin/FaithCoinToken"
+    },
+    {
+      "Telegram": "https://t.me/FaithCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/MyFaithCoin"
+    },
+    {
+      "Website": "https://myfaithcoin.info/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCmoJRu93HXTUWTDX4PKbUIQ"
+    }
+  ],
+  "name": "FaithCoin",
+  "symbol": "FAITH"
+}

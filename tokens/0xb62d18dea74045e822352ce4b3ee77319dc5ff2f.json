@@ -1,0 +1,42 @@
+{
+  "addr": "0xb62d18dea74045e822352ce4b3ee77319dc5ff2f",
+  "decimals": 18,
+  "description": "EventChain token is an ERC20 token powering a unique smart contract ticketing system (EventChain SmartTickets&trade;). EventChain tokens solve many of the problems with current event ticketing systems available today while providing the additional benefits to EVC Token holders. EVC Tokens fuel the EventChain system by allowing users to create events, purchase tickets, access VIP amenities and enable extra ticket resale market features.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1978714"
+    },
+    {
+      "Blog": "https://blog.eventchain.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/eventchain/"
+    },
+    {
+      "Email": "mailto:team@eventchain.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/EventChain"
+    },
+    {
+      "Slack": "https://join.slack.com/t/eventchain/shared_invite/MjI5MTYyMzg2OTMyLTE1MDMyNDEwMzEtZWJmNjFlZmQxYQ"
+    },
+    {
+      "Telegram": "https://www.t.me/EventChain"
+    },
+    {
+      "Twitter": "https://twitter.com/eventchain_io"
+    },
+    {
+      "Website": "https://eventchain.io/"
+    },
+    {
+      "Website": "https://eventchain.io"
+    },
+    {
+      "Whitepaper": "https://eventchain.io/whitepaper.pdf"
+    }
+  ],
+  "name": "EventChain",
+  "symbol": "EVC"
+}

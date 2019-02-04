@@ -1,0 +1,36 @@
+{
+  "addr": "0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4",
+  "decimals": 8,
+  "description": "JET8 is a decentralized mobile engagement network connecting influencers, audiences and brands through the value of social currency.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@jet8"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/jet8/"
+    },
+    {
+      "Email": "mailto:token@jet8.io"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/JET8/"
+    },
+    {
+      "Telegram": "https://t.me/Jet8_ecosystem"
+    },
+    {
+      "Twitter": "https://twitter.com/jet8app"
+    },
+    {
+      "Website": "https://jet8.io/"
+    },
+    {
+      "Whitepaper": "https://jet8.io/downloads/180223_J8T_Whitepaper_ENG.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=f93gjf5Zl8o"
+    }
+  ],
+  "name": "J8T Token",
+  "symbol": "J8T"
+}

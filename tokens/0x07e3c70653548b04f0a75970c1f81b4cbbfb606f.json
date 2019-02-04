@@ -1,0 +1,36 @@
+{
+  "addr": "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f",
+  "decimals": 18,
+  "description": "Agrello provides an AI powered interface allowing you to build smart contract-based legal agreements on the blockchain. No coding or legal skills required.",
+  "links": [
+    {
+      "Blog": "https://blog.agrello.org/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/agrello-delta/"
+    },
+    {
+      "Email": "mailto:info@agrello.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/agrellofoundation/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Agrello/"
+    },
+    {
+      "Telegram": "https://t.me/agrello"
+    },
+    {
+      "Twitter": "https://twitter.com/AgrelloOfficial"
+    },
+    {
+      "Website": "https://www.agrello.org/"
+    },
+    {
+      "Whitepaper": "https://docs.agrello.org/Agrello-Self-Aware_Whitepaper-English.pdf"
+    }
+  ],
+  "name": "Delta",
+  "symbol": "DLT"
+}

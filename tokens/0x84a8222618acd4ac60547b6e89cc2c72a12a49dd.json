@@ -1,0 +1,30 @@
+{
+  "addr": "0x84a8222618acd4ac60547b6e89cc2c72a12a49dd",
+  "decimals": 18,
+  "description": "Capital Token is an investment token with a mechanism for raising prices and values. In essence, it is an investment fund based on the principles of openness and transparency.",
+  "links": [
+    {
+      "Instagram": "https://www.instagram.com/capital_token/"
+    },
+    {
+      "Telegram": "https://t.me/capital_token"
+    },
+    {
+      "Website": "http://capitaltoken.io/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCcWbER52yhdS4YAtQEZXv7A"
+    },
+    {
+      "Whitepaper": "http://portfolio.capitaltoken.io/web/whitepaper_rus.pdf"
+    },
+    {
+      "Blog": "http://capt.fund"
+    },
+    {
+      "Facebook": "https://www.facebook.com/capitaltoken"
+    }
+  ],
+  "name": "Capital Token",
+  "symbol": "CAPT"
+}

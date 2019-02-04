@@ -1,0 +1,45 @@
+{
+  "addr": "0x4c567c3363cc42c5a42c6d8bf01503fd1d0b91cd",
+  "decimals": 18,
+  "description": "Elementh is a blockchain for e-commerce, which is a register of ownership of goods with the ability to write specialized smart contracts and use of the nomenclature standard to quickly create various decentralized and centralized applications for e-commerce.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2590603.new#new"
+    },
+    {
+      "Blog": "https://medium.com/@Elementh.io"
+    },
+    {
+      "Email": "mailto:info@elementh.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Elementh-1371154296341075/"
+    },
+    {
+      "Github": "https://github.com/ElementhFoundation"
+    },
+    {
+      "Instagram": "https://www.instagram.com/elementhio/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/elementhfoundation/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Elementh/"
+    },
+    {
+      "Telegram": "https://t.me/elementh_community"
+    },
+    {
+      "Website": "https://elementh.io/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCNoPrTYvQvu31ISDeUhxS3Q"
+    },
+    {
+      "Whitepaper": "https://github.com/ElementhFoundation/Documentation/blob/master/ElementhWhitepaperEN_v.2.md"
+    }
+  ],
+  "name": "Elementh Token",
+  "symbol": "EEE"
+}

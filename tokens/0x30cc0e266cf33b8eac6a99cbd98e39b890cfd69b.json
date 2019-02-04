@@ -1,0 +1,31 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "CLASSY",
+  "addr": "0x30cc0e266cf33b8eac6a99cbd98e39b890cfd69b",
+  "decimals": 16,
+  "description": "ClassyCoin is high value token, peer to peer decentralized digital currency controlled by community. ERC20 token deployed on Ethereum blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2380307.0"
+    },
+    {
+      "Email": "mailto:support@classycoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ClassyCoinCurrency/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/E7bGkULR97-OrNjgT7QaMQ"
+    },
+    {
+      "Twitter": "https://twitter.com/classycoin"
+    },
+    {
+      "Website": "http://www.classycoin.io/"
+    },
+    {
+      "Whitepaper": "http://www.classycoin.io/pdf/white_paper.pdf"
+    }
+  ],
+  "name": "ClassyCoin",
+  "symbol": "ClassyCoin"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+  "decimals": 18,
+  "description": "The first open blockchain platform that democratises access to Fine Art",
+  "links": [
+    {
+      "Blog": "https://medium.com/maecenas"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/maecenas/"
+    },
+    {
+      "Email": "mailto:contact@maecenas.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/maecenasart"
+    },
+    {
+      "Github": "https://github.com/cofoundit/cfi-maecenas"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Maecenas/"
+    },
+    {
+      "Slack": "https://slack.maecenas.co/"
+    },
+    {
+      "Twitter": "https://twitter.com/maecenasart"
+    },
+    {
+      "Website": "https://www.maecenas.co/"
+    },
+    {
+      "Whitepaper": "https://www.maecenas.co/Maecenas-WhitePaper.pdf"
+    }
+  ],
+  "name": "Maecenas ",
+  "symbol": "ART"
+}

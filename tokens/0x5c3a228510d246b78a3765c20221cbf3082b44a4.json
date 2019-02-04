@@ -1,0 +1,42 @@
+{
+  "addr": "0x5c3a228510d246b78a3765c20221cbf3082b44a4",
+  "decimals": 18,
+  "description": "Storiqa is a platform created for buyers and sellers all over the world. With an easy-to use online store builder, any seller is able to create their own storefront to sell their goods, while making use of the platform’s wide range of features for a minimal fee.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2233274"
+    },
+    {
+      "Blog": "https://medium.com/@storiqa"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/Storiqa/"
+    },
+    {
+      "Email": "mailto:info@storiqa.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/storiqa"
+    },
+    {
+      "Github": "https://github.com/Storiqa"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Storiqa/"
+    },
+    {
+      "Telegram": "https://t.me/storiqa_en"
+    },
+    {
+      "Twitter": "https://twitter.com/storiqa"
+    },
+    {
+      "Website": "https://storiqa.com/"
+    },
+    {
+      "Whitepaper": "https://crowdsale.storiqa.com/static/docs/TS-white-paper-EN.pdf"
+    }
+  ],
+  "name": "Storiqa Token",
+  "symbol": "STQ"
+}

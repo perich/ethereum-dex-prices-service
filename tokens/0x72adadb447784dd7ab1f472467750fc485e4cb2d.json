@@ -1,0 +1,42 @@
+{
+  "addr": "0x72adadb447784dd7ab1f472467750fc485e4cb2d",
+  "decimals": 6,
+  "description": "Well-established payment institution with $100M+ transaction volume in 2017",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2097832"
+    },
+    {
+      "Blog": "https://worldcore.eu/blog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/worldcore/"
+    },
+    {
+      "Email": "mailto:ico@worldcore.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/worldcoresocial"
+    },
+    {
+      "Slack": "https://worldcore.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/worldcore"
+    },
+    {
+      "Twitter": "https://twitter.com/worldcoresocial"
+    },
+    {
+      "Website": "https://worldcore.com/"
+    },
+    {
+      "Website": "https://worldcore.com"
+    },
+    {
+      "Whitepaper": "https://worldcore.com/Worldcore.pdf"
+    }
+  ],
+  "name": "Worldcore",
+  "symbol": "WRC"
+}

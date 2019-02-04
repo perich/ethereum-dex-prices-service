@@ -1,0 +1,42 @@
+{
+  "addr": "0xfb2f26f266fb2805a387230f2aa0a331b4d96fba",
+  "decimals": 18,
+  "description": "A new era of cloud computing services, powered by blockchain technology.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@daditech"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/dadi/"
+    },
+    {
+      "Email": "mailto:crowdsale@dadi.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/daditechnology"
+    },
+    {
+      "Github": "https://github.com/dadi"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/DADI/"
+    },
+    {
+      "Telegram": "https://t.me/daditech"
+    },
+    {
+      "Telegram": "https://t.me/dadichat"
+    },
+    {
+      "Twitter": "https://twitter.com/dadi"
+    },
+    {
+      "Website": "https://dadi.cloud/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2349363"
+    }
+  ],
+  "name": "DADI",
+  "symbol": "DADI"
+}

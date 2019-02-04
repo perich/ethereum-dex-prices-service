@@ -1,0 +1,30 @@
+{
+  "addr": "0xac2bd14654bbf22f9d8f20c7b3a70e376d3436b4",
+  "decimals": 8,
+  "description": "World's cutest cryptocurrency",
+  "name": "Kitten Coin",
+  "symbol": "KITTEN",
+  "links": [
+    {
+      "Email": "mailto:kitten.coin@gmail.com"
+    },
+    {
+      "Github": "https://github.com/realKittenCoin/KittenCoin"
+    },
+    {
+      "Reddit": "https://github.com/realKittenCoin/KittenCoin"
+    },
+    {
+      "Telegram": "https://t.me/Kitten_Coin"
+    },
+    {
+      "Twitter": "https://twitter.com/KittenCoin"
+    },
+    {
+      "Website": "https://kittencoin.org/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2346045"
+    }
+  ]
+}

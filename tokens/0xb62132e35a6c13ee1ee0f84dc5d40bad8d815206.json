@@ -1,0 +1,45 @@
+{
+  "addr": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+  "decimals": 18,
+  "description": "Nexo is a crypto overdraft system that allows users to avoid selling their crypto. You can use your crypto as collateral, then withdraw cash. You maintain access to your cryptocurrency – and the upside of your crypto holdings. At the same time, you can access the value of your crypto assets.",
+  "links": [
+    {
+      "Blog": "https://medium.com/nexo"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/nexo/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/nexo/"
+    },
+    {
+      "Email": "mailto:info@nexo.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/NexoFinance"
+    },
+    {
+      "Github": "https://github.com/nexofinance/NEXO-Token"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Nexo/"
+    },
+    {
+      "Telegram": "https://t.me/nexofinance"
+    },
+    {
+      "Twitter": "https://twitter.com/nexofinance"
+    },
+    {
+      "Website": "https://nexo.io"
+    },
+    {
+      "Whitepaper": "https://nexo.io/assets/downloads/Nexo-Whitepaper.pdf?=a"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=zQO7SPgFTPw"
+    }
+  ],
+  "name": "Nexo",
+  "symbol": "NEXO"
+}

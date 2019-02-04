@@ -1,0 +1,30 @@
+{
+  "addr": "0x9b11efcaaa1890f6ee52c6bb7cf8153ac5d74139",
+  "decimals": 8,
+  "description": "ATM ERC20 token is used in the open platform of ATMChain which is an ecosystem based on the block chain network. With focus on media advertising, it can provide the access to third-party information, cinema, social networking, entertainment, We Media and other applications through subsystem API, radiating media culture and ecology which integrates more offline industries. ATMChain is defined as a safe, anonymous trading system with free access to advertising, which is a system that combines block chain network and the platform of ATMChain as well as advertising distribution channel.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/attention-token-of-media/"
+    },
+    {
+      "Email": "mailto:dev@atmchain.io"
+    },
+    {
+      "Github": "https://github.com/ATMChain"
+    },
+    {
+      "Twitter": "https://twitter.com/ATMChainDev"
+    },
+    {
+      "Website": "https://www.atmchain.io/"
+    },
+    {
+      "Website": "https://www.atmchain.io/en.html"
+    },
+    {
+      "Whitepaper": "https://static.atmchain.io/static/english/ATMChain_Whitepaper(Genesis_Edition).pdf"
+    }
+  ],
+  "name": "Attention Token of Media",
+  "symbol": "ATM"
+}

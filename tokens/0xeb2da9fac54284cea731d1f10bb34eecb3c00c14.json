@@ -1,0 +1,12 @@
+{
+  "addr": "0xeb2da9fac54284cea731d1f10bb34eecb3c00c14",
+  "decimals": 18,
+  "description": "POW token is an ERC20 token which is dedicated to assisting Ethereum achieve mass market penetration. To that end, 231,802,823,220 POW are being distributed on a 'first come, most served basis' to every Internet user on the planet. All that is required to claim is a Facebook account. We will soon be integrating with other forms of social media to allow even wider distribution.",
+  "links": [
+    {
+      "Website": "#"
+    }
+  ],
+  "name": "POW Token",
+  "symbol": "POW"
+}

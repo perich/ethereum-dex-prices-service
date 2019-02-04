@@ -1,0 +1,33 @@
+{
+  "addr": "0xe8fc7e1973496848fcb486c5bb880f68487ea0bb",
+  "decimals": 8,
+  "description": "LiteCoinW Plus (LCWP) is a multipurpose cryptocurrency designed to meet the needs of various types of users, it has a green-marked verified Contract (ERC20). Due to its optimized code, free of bugs and warnings, LCWP has very low fees and very fast transactions.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2271631.0"
+    },
+    {
+      "Facebook": "https://www.facebook.com/litecoinw"
+    },
+    {
+      "Email": "mailto:info@litecoinwplus.com"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/G9zlzBIfc72mKF69f4OJ_A"
+    },
+    {
+      "Twitter": "https://twitter.com/LiteCoinW"
+    },
+    {
+      "Website": "https://litecoinwplus.com/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/LiteCoinW/"
+    },
+    {
+      "Whitepaper": "https://litecoinwplus.com/downloads/LiteCoinwPlus-Whitepaper-Rev1.pdf"
+    }
+  ],
+  "name": "LiteCoinW Plus",
+  "symbol": "LCWP"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0x6025f65f6b2f93d8ed1efedc752acfd4bdbcec3e",
+  "decimals": 18,
+  "description": "The new digital gold.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2253578.0"
+    },
+    {
+      "Email": "mailto:hello@egoldteam.org"
+    },
+    {
+      "Slack": "https://egoldtoken.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/eGoldToken"
+    },
+    {
+      "Twitter": "https://twitter.com/eGoldToken"
+    },
+    {
+      "Website": "http://egoldtoken.org/"
+    },
+    {
+      "Website": "http://egoldtoken.org"
+    }
+  ],
+  "name": "eGold",
+  "symbol": "EGOLD"
+}

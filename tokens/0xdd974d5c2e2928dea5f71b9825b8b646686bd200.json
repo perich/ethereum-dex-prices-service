@@ -1,0 +1,36 @@
+{
+  "addr": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+  "decimals": 18,
+  "description": "KyberNetwork is a new system which allows the exchange and conversion of digital assets.",
+  "links": [
+    {
+      "Blog": "https://blog.kyber.network"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/kyber-network/"
+    },
+    {
+      "Email": "mailto:hello@kyber.network"
+    },
+    {
+      "Github": "https://github.com/KyberNetwork"
+    },
+    {
+      "Slack": "https://kybernetwork.slack.com"
+    },
+    {
+      "Twitter": "https://twitter.com/KyberNetwork"
+    },
+    {
+      "Website": "https://kyber.network"
+    },
+    {
+      "Website": "https://kyber.network/"
+    },
+    {
+      "Whitepaper": "https://kyber.network/assets/KyberNetworkWhitepaper.pdf"
+    }
+  ],
+  "name": "Kyber Network Crystal",
+  "symbol": "KNC"
+}

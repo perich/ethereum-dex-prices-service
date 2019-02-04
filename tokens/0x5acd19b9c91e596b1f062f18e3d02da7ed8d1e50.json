@@ -1,0 +1,30 @@
+{
+  "addr": "0x5acd19b9c91e596b1f062f18e3d02da7ed8d1e50",
+  "decimals": 8,
+  "description": "BTC Lite is decentralized cryptocurrency that runs on Ethereum blockchain. It has same coin supply as Bitcoin but is much faster and lighter.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2471229.0"
+    },
+    {
+      "Blog": "https://medium.com/@btclite"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BTClite/"
+    },
+    {
+      "Telegram": "https://t.me/BTCLITE"
+    },
+    {
+      "Twitter": "https://twitter.com/BTCliteofficial"
+    },
+    {
+      "Website": "http://btclite.org/"
+    },
+    {
+      "Whitepaper": "http://btclite.org/whitepaper/"
+    }
+  ],
+  "name": "BTC LITE",
+  "symbol": "BTCL"
+}

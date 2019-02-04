@@ -1,0 +1,33 @@
+{
+  "addr": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+  "decimals": 18,
+  "description": "The Most Powerful Infrastructure for Decentralized Applications",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/eos/"
+    },
+    {
+      "Email": "mailto:eos@block.one"
+    },
+    {
+      "Facebook": "https://www.facebook.com/eosblockchain"
+    },
+    {
+      "Github": "https://github.com/eosio"
+    },
+    {
+      "Twitter": "https://twitter.com/eos_io"
+    },
+    {
+      "WeChat": "https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ"
+    },
+    {
+      "Website": "https://eos.io/"
+    },
+    {
+      "Whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md"
+    }
+  ],
+  "name": "EOS",
+  "symbol": "EOS"
+}

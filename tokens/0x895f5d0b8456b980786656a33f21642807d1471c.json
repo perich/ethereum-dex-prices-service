@@ -1,0 +1,24 @@
+{
+  "addr": "0x895f5d0b8456b980786656a33f21642807d1471c",
+  "decimals": 8,
+  "description": "We are a blockchain-technology company whose goal is to help creating a borderless digital society where collaboration brings success for all.",
+  "links": [
+    {
+      "Blog": "https://blog.blockhive.ee/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/blockhive/"
+    },
+    {
+      "Telegram": "https://t.me/blockhive"
+    },
+    {
+      "Twitter": "https://twitter.com/blockhive_ee"
+    },
+    {
+      "Website": "https://blockhive.ee"
+    }
+  ],
+  "name": "Hive token",
+  "symbol": "HIVE"
+}

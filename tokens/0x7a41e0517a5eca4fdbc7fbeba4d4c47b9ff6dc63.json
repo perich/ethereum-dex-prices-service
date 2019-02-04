@@ -1,0 +1,27 @@
+{
+  "addr": "0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63",
+  "decimals": 18,
+  "description": "Blockchain AI insurance solution",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/zeusshield/"
+    },
+    {
+      "Email": "mailto:info@zsc.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/shield.zeus"
+    },
+    {
+      "Twitter": "https://twitter.com/zeusshield"
+    },
+    {
+      "Website": "https://zsc.io/"
+    },
+    {
+      "Whitepaper": "https://zsc.io/files/ZSC_Whitepaper_en.pdf"
+    }
+  ],
+  "name": "Zeus Shield Coin",
+  "symbol": "ZSC"
+}

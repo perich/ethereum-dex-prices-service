@@ -1,0 +1,25 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "ERC20",
+  "addr": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+  "decimals": 18,
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2304875"
+    },
+    {
+      "Email": "mailto:erc20.space@gmail.com"
+    },
+    {
+      "Telegram": "https://t.me/erc20coin"
+    },
+    {
+      "Telegram": "https://t.me/erc20coins"
+    },
+    {
+      "Website": "https://belance.io/"
+    }
+  ],
+  "name": "ERC20",
+  "notice": "This is Belance latest contract. Announcement <a href=\"https://belance.io/exchange.html\">here</a>.",
+  "symbol": "ERC20"
+}

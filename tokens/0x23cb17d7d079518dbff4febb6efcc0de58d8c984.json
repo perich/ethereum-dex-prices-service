@@ -1,0 +1,27 @@
+{
+  "addr": "0x23cb17d7d079518dbff4febb6efcc0de58d8c984",
+  "decimals": 16,
+  "description": "Ticket booking in the blockchain",
+  "links": [
+    {
+      "Email": "mailto:info@travelcoins.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/TravelCoin/"
+    },
+    {
+      "Slack": "https://travelcoin.slack.com/join/shared_invite/MjA2MDUxMDQ2NzkwLTE0OTg2ODY2NjUtNjliYzUxMDIzMw"
+    },
+    {
+      "Twitter": "https://twitter.com/TravelCoins_"
+    },
+    {
+      "Website": "https://travelcoins.io/"
+    },
+    {
+      "Whitepaper": "https://www.travelcoins.io/wp-content/uploads/2017/07/Travelcoin_ICO_WhitePaper_2017.pdf"
+    }
+  ],
+  "name": "TravelCoin",
+  "symbol": "TRV"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0xa017ac5fac5941f95010b12570b812c974469c2c",
+  "decimals": 18,
+  "description": "PROXEUS is a utility token which can be used to design, publish and distribute workflows and documents which are registered on smart contracts. By making it possible to design a Dapp without having to program a single line of code PROXEUS aims to become the Wordpress for the blockchain.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@proxeusapp_4423"
+    },
+    {
+      "Facebook": "https://www.facebook.com/proxeusapp/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/proxeus/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Gj6qYUpY1XHgHGnQa9msvA"
+    },
+    {
+      "Twitter": "https://twitter.com/proxeusapp"
+    },
+    {
+      "Website": "https://proxeus.com"
+    },
+    {
+      "Whitepaper": "https://docs.google.com/document/d/1R3r2ZglmGHwjTfxKRy5omBge5fwjk8iF8euMhdlf1yY/edit?usp=sharing"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2903956"
+    }
+  ],
+  "name": "Proxeus",
+  "symbol": "XES"
+}

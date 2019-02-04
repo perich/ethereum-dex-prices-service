@@ -1,0 +1,27 @@
+{
+  "addr": "0xab95e915c123fded5bdfb6325e35ef5515f1ea69",
+  "decimals": 18,
+  "description": "An alternative implementation of the EOS project with widespread, non-ICO'd token distribution.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/xenon/"
+    },
+    {
+      "Email": "mailto:contact@xenon.network"
+    },
+    {
+      "Slack": "https://join.slack.com/t/xenonnetwork/shared_invite/enQtMjQ1NzQ2MTQ1OTA2LWI5MjkzZWQxNzRmYzNmOGE5Nzc2MWYyN2NjM2Y2MTZjNjA2MDUyNmI5ZGFkNjU3YzE5NGVjNjA0YzkzMDk5ZGU"
+    },
+    {
+      "Twitter": "https://twitter.com/XenonNet"
+    },
+    {
+      "Website": "https://xenon.network/"
+    },
+    {
+      "Whitepaper": "http://xenon.network/wp-content/uploads/2017/09/xenon-whitepaper.pdf"
+    }
+  ],
+  "name": "XENON",
+  "symbol": "XNN"
+}

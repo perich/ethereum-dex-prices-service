@@ -1,0 +1,39 @@
+{
+  "addr": "0x7b0c06043468469967dba22d1af33d77d44056c8",
+  "decimals": 4,
+  "description": "A full-service, global, automated, supply chain platform with an integrated cryptocurrency payment system utilizing blockchain technology.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@themorpheus"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/morpheus-network/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/themorpheusnetwork/"
+    },
+    {
+      "Github": "https://github.com/MorpheusNetwork"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/MorpheusNetwork/"
+    },
+    {
+      "Telegram": "https://t.me/themorpheusnetwork/"
+    },
+    {
+      "Twitter": "https://twitter.com/morphcrypto"
+    },
+    {
+      "Website": "https://morpheus.network/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=Z6ouZTTN62o"
+    },
+    {
+      "Whitepaper": "https://morpheus.network/whitepaper/"
+    }
+  ],
+  "name": "MORPH",
+  "symbol": "MORPH"
+}

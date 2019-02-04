@@ -1,0 +1,39 @@
+{
+  "addr": "0xd3c00772b24d997a812249ca637a921e81357701",
+  "decimals": 18,
+  "description": "Merging Blockchain Technology with eGaming",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?action=profile;u=1065611"
+    },
+    {
+      "Blog": "http://wildcrypto.com/wild-crypto-news/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/wild-crypto/"
+    },
+    {
+      "Email": "mailto:info@wildcrypto.com"
+    },
+    {
+      "Github": "https://github.com/WildCryptoICO/Wild-Crypto-Token"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/WildCrypto/"
+    },
+    {
+      "Slack": "https://wildcrypto.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/WildCrypto"
+    },
+    {
+      "Website": "https://wildcrypto.com/"
+    },
+    {
+      "Whitepaper": "http://wildcrypto.com/WildCryptoLimited-WhitePaper.pdf"
+    }
+  ],
+  "name": "WILD Token",
+  "symbol": "WILD"
+}

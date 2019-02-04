@@ -1,0 +1,39 @@
+{
+  "addr": "0x562952c749d05dca4cd004489a153c7ee7e58240",
+  "decimals": 18,
+  "description": "Pally is the first decentralised social travel ecosystem in the world. Our technology enables travellers to create friendships and access authentic experiences in new cities through local people - using direct peer-to-peer payment.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2100229"
+    },
+    {
+      "Blog": "https://medium.com/@Pally"
+    },
+    {
+      "Email": "mailto:info@pally.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/pallyapp/"
+    },
+    {
+      "Github": "https://github.com/merlox/pally"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Pally/"
+    },
+    {
+      "Telegram": "https://t.me/icopally"
+    },
+    {
+      "Twitter": "https://twitter.com/pally_app"
+    },
+    {
+      "Website": "https://www.pally.co/"
+    },
+    {
+      "Whitepaper": "https://www.pally.co/doc/en_whitepaper.pdf"
+    }
+  ],
+  "name": "PallyCoin",
+  "symbol": "PAL"
+}

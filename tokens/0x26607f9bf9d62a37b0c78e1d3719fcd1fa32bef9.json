@@ -1,0 +1,33 @@
+{
+  "addr": "0x26607f9bf9d62a37b0c78e1d3719fcd1fa32bef9",
+  "decimals": 18,
+  "description": "Crowdfunded cryptocurrency green mining center. Golden Fleece will be utilizing the cheap electricity prices of Georgia at just 0.053 USD per kW/h.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2040790.0;all"
+    },
+    {
+      "Email": "mailto:info@goldenfleece.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/GoldenFleeceToken/"
+    },
+    {
+      "Slack": "https://golden-fleece.slack.com/"
+    },
+    {
+      "Telegram": "https://twitter.com/GoldenFleece_co"
+    },
+    {
+      "Website": "https://www.goldenfleece.co/en/"
+    },
+    {
+      "Website": "https://www.goldenfleece.co/en"
+    },
+    {
+      "Whitepaper": "https://www.goldenfleece.co/en/-/~/m/u/ck/files/Golden%20Fleece%20White%20Paper%20v%203_0.pdf"
+    }
+  ],
+  "name": "Golden Fleece",
+  "symbol": "GFL"
+}

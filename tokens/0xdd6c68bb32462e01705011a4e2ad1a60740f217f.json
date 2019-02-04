@@ -1,0 +1,39 @@
+{
+  "addr": "0xdd6c68bb32462e01705011a4e2ad1a60740f217f",
+  "decimals": 15,
+  "description": "Decentralized content marketplace",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2041531.0"
+    },
+    {
+      "Blog": "https://medium.com/@jacobotoll/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/hubii-network/"
+    },
+    {
+      "Email": "mailto:info@hubii.com"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/hubiinetwork/"
+    },
+    {
+      "Slack": "https://slack.hubii.network/"
+    },
+    {
+      "Telegram": "https://t.me/hubiinetwork"
+    },
+    {
+      "Twitter": "https://twitter.com/hubiinetwork"
+    },
+    {
+      "Website": "https://www.hubii.network/"
+    },
+    {
+      "Whitepaper": "https://www.hubii.network/hubii-network-whitepaper-en.pdf"
+    }
+  ],
+  "name": "Hubiits",
+  "symbol": "HBT"
+}

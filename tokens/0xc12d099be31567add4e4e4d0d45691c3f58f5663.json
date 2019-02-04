@@ -1,0 +1,48 @@
+{
+  "addr": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
+  "decimals": 18,
+  "description": "Auctus is the world's first blockchain based retirement plan platform, which allows users to create diversified portfolios, consisting of traditional asset classes and cryptocurrencies.\nAUC token will act as the membership token, as well as the payment currency of the Auctus Platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2059117.0"
+    },
+    {
+      "Blog": "https://blog.auctus.org/"
+    },
+    {
+      "Chat": "https://chat.auctus.org/"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/auctus/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/auctus/"
+    },
+    {
+      "Email": "mailto:contact@auctus.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/AuctusProject"
+    },
+    {
+      "Github": "https://github.com/AuctusProject"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/AuctusProject/"
+    },
+    {
+      "Telegram": "https://t.me/AuctusProject"
+    },
+    {
+      "Twitter": "https://twitter.com/auctusproject"
+    },
+    {
+      "Website": "https://auctus.org"
+    },
+    {
+      "Whitepaper": "https://dl.auctus.org/Auctus_Whitepaper.pdf"
+    }
+  ],
+  "name": "Auctus Token",
+  "symbol": "AUC"
+}

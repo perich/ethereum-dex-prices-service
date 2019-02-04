@@ -1,0 +1,32 @@
+{
+  "addr": "0x8d6e79f25302dee4caaf9187fb1434c4a1465c3a",
+  "decimals": 18,
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3010716"
+    },
+    {
+      "Blog": "https://medium.com/@cryptosendd/"
+    },
+    {
+      "Email": "mailto:support@btcblue.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bitcoinblueorg"
+    },
+    {
+      "Telegram": "https://t.me/bitcoinblue"
+    },
+    {
+      "Twitter": "https://twitter.com/bitcoinblueorg"
+    },
+    {
+      "Website": "https://btcblue.org/"
+    },
+    {
+      "Whitepaper": "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxiaXRjb2luYmx1ZXBhcGVyfGd4OjU0NjU5ZGQ1YWE2OWUzYjQ"
+    }
+  ],
+  "name": "BITCOINBLUE",
+  "symbol": "BTCBLUE"
+}

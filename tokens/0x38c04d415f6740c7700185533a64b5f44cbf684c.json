@@ -1,0 +1,18 @@
+{
+  "addr": "0x38c04d415f6740c7700185533a64b5f44cbf684c",
+  "decimals": 18,
+  "description": "BITPARK (BTA) are utilized when giving compensation during the insurance screening process, and users can pool together their money with BitCoin or with unique tokens — known for their stable exchange rate.",
+  "links": [
+    {
+      "Website": "http://bitpark.bid"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/AAAAAEcOG-zP_HGhG_Hujw"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2993187"
+    }
+  ],
+  "name": "Bitpark",
+  "symbol": "BTA"
+}

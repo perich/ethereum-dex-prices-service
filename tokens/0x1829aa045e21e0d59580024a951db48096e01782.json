@@ -1,0 +1,45 @@
+{
+  "addr": "0x1829aa045e21e0d59580024a951db48096e01782",
+  "decimals": 18,
+  "description": "The FuzeX Ecosystem provides real-time exchange between crypto and fiat currencies. This means that you can now bridge the gap between your online wallet and the one in your pocket.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=4495101.80"
+    },
+    {
+      "Blog": "https://medium.com/fuzex"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/fuzex/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/fuzex/"
+    },
+    {
+      "Facebook": "https://facebook.com/fuzex.co"
+    },
+    {
+      "Github": "https://github.com/fuzex"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/fuzex/"
+    },
+    {
+      "Slack": "https://fuze-slack-inviter.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/fuzex_co"
+    },
+    {
+      "Website": "https://www.fuzex.co/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCKC_X1r-3yoBpVeuFcR8thQ"
+    },
+    {
+      "Whitepaper": "https://fuzex.co/wp-content/uploads/FuzeX_whitepaper_EN_Ver_1.8.pdf"
+    }
+  ],
+  "name": "FuzeX Token",
+  "symbol": "FXT"
+}

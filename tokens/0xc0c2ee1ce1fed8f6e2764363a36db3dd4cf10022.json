@@ -1,0 +1,24 @@
+{
+  "addr": "0xc0c2ee1ce1fed8f6e2764363a36db3dd4cf10022",
+  "decimals": 2,
+  "description": "Faceblock is a decentralized platform. Faceblock will be offering dozens of new features that traditional social platforms do not have or provide today. We aim to develop a social platform that is designed for everyone while providing utmost security &amp; privacy to our users.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2376452.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/faceblock/"
+    },
+    {
+      "Email": "mailto:team@faceblock.io"
+    },
+    {
+      "Twitter": "https://twitter.com/thefaceblock"
+    },
+    {
+      "Website": "https://faceblock.io/"
+    }
+  ],
+  "name": "Faceblock",
+  "symbol": "FBL"
+}

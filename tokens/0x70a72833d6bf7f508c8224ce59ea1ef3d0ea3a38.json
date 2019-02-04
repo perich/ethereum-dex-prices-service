@@ -1,0 +1,36 @@
+{
+  "addr": "0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38",
+  "decimals": 18,
+  "description": "UTRUST is a payment platform that empowers buyers to pay with cryptocurrencies while providing a groundbreaking purchase protection mechanism.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2078433.0"
+    },
+    {
+      "Blog": "https://medium.com/@UTRUST"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/utrust/"
+    },
+    {
+      "Email": "mailto:contact@utrust.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/utrust.io/"
+    },
+    {
+      "Telegram": "https://t.me/utrustofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/UTRUST_Official"
+    },
+    {
+      "Website": "https://utrust.io/"
+    },
+    {
+      "Whitepaper": "https://utrust.io/whitepaper"
+    }
+  ],
+  "name": "UTRUST Token",
+  "symbol": "UTK"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0xb444208cb0516c150178fcf9a52604bc04a1acea",
+  "decimals": 18,
+  "description": "GreenMed (GRMD) enables legal marijuana dispensaries to accept debit and credit cards through the use of GreenMed tokens.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2108848.0"
+    },
+    {
+      "Blog": "http://www.greenmed.io/blog/"
+    },
+    {
+      "Email": "mailto:info@greenmed.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/GreenmedApp/"
+    },
+    {
+      "Github": "https://github.com/GreenMed/Token"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/GreenMed/"
+    },
+    {
+      "Slack": "https://greenmed-ico.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/GreenMed_Team"
+    },
+    {
+      "Website": "https://www.greenmed.io/"
+    },
+    {
+      "Whitepaper": "https://www.greenmed.io/GreenMed-Whitepaper.pdf"
+    }
+  ],
+  "name": "GreenMed Coin",
+  "symbol": "GRMD"
+}

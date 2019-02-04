@@ -1,0 +1,27 @@
+{
+  "addr": "0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
+  "decimals": 18,
+  "description": "Datum is a global data marketplace that allows you to make money from your own data.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/datum/"
+    },
+    {
+      "Email": "mailto:hello@datum.org"
+    },
+    {
+      "Facebook": "https://facebook.com/datumnetwork"
+    },
+    {
+      "Telegram": "https://t.me/datumnetwork"
+    },
+    {
+      "Twitter": "https://twitter.com/datumnetwork"
+    },
+    {
+      "Website": "https://datum.org/"
+    }
+  ],
+  "name": "DAT Token",
+  "symbol": "DAT"
+}

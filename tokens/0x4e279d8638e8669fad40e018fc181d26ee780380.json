@@ -1,0 +1,25 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "ETV",
+  "addr": "0x4e279d8638e8669fad40e018fc181d26ee780380",
+  "decimals": 8,
+  "description": "Etelevision is a platform in development for streaming / uploading and watching unlimited uncensored video content for free.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2294466"
+    },
+    {
+      "Email": "mailto:etelevisiontoken@gmail.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ETelevision-Etv-371497376637952/"
+    },
+    {
+      "Website": "https://etelevision.org/"
+    },
+    {
+      "Website": "https://etelevision.org"
+    }
+  ],
+  "name": "eTelevision",
+  "symbol": "eTV"
+}

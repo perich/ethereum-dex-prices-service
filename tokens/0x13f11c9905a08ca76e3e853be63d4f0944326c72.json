@@ -1,0 +1,42 @@
+{
+  "addr": "0x13f11c9905a08ca76e3e853be63d4f0944326c72",
+  "decimals": 18,
+  "description": "Divi is the world's first five-tiered, one-click masternode protocol that offers a smart wallet, which allows users to transact in the real world with their earnings. By offering a passive earnings vehicle, providing real world use cases, and eliminating impossible-to-remember public and private keys by masking them with familiar usernames &amp; passwords, Divi aims initiate a trend of cryptocurrency mass adoption by providing an intuitive user experience that is easy to learn and use.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2270938.40"
+    },
+    {
+      "Blog": "https://medium.com/diviproject"
+    },
+    {
+      "Email": "mailto:info@diviproject.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/diviproject"
+    },
+    {
+      "Github": "https://github.com/Divicoin"
+    },
+    {
+      "Reddit": "https://reddit.com/r/diviproject"
+    },
+    {
+      "Slack": "https://diviproject.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/EAdiTQ3yZk_GkqU0IdG-Gg"
+    },
+    {
+      "Twitter": "https://twitter.com/diviproject"
+    },
+    {
+      "Website": "https://diviproject.org/"
+    },
+    {
+      "Whitepaper": "https://diviproject.org/files/DIVI-WP-UPDATED.pdf"
+    }
+  ],
+  "name": "Divi Exchange Token",
+  "symbol": "DIVX"
+}

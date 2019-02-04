@@ -1,0 +1,39 @@
+{
+  "addr": "0x00c4b398500645eb5da00a1a379a88b11683ba01",
+  "decimals": 18,
+  "description": "Eximchain’s public blockchain network enables privacy, scalability and security for the supply chain. Eximchain-powered supply chain solutions help enterprises to connect, transact, and share information more efficiently and securely.",
+  "links": [
+    {
+      "Blog": "https://medium.com/eximchain"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/eximchain/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/eximchain/"
+    },
+    {
+      "Email": "mailto:hello@eximchain.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/eximchain/"
+    },
+    {
+      "Github": "https://github.com/eximchain"
+    },
+    {
+      "Telegram": "https://t.me/eximchain"
+    },
+    {
+      "Twitter": "https://twitter.com/eximchainexc"
+    },
+    {
+      "Website": "https://eximchain.com"
+    },
+    {
+      "Whitepaper": "https://www.eximchain.com/documents/Whitepaper-Eximchain.pdf"
+    }
+  ],
+  "name": "Eximchain Token",
+  "symbol": "EXC"
+}

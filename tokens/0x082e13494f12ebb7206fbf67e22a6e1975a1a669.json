@@ -1,0 +1,42 @@
+{
+  "addr": "0x082e13494f12ebb7206fbf67e22a6e1975a1a669",
+  "decimals": 8,
+  "description": "ARTIS is a token designed for the upcoming Artis Turba cryptocurrency exchange. Artis Turba aims to simply the trading process by providing an intuitive User Interface along with Buy, Sell and Hold signals generated from our own unique algorithm that reads trends and cycles. Furthermore the ARTIS Affiliate Reward Program or AARP will reward ARTIS holders by sharing revenue generated on the Artis Turba exchange pro rata to the ARTIS they hold.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2539340.0"
+    },
+    {
+      "Blog": "https://artisturba.com/blog/"
+    },
+    {
+      "Email": "mailto:info@artisturba.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ArtisTurba/"
+    },
+    {
+      "Github": "https://github.com/artisturba"
+    },
+    {
+      "Instagram": "https://www.instagram.com/artisturba/"
+    },
+    {
+      "Telegram": "https://t.me/artisturba"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/HbNVngqZZnyHytw-9Xb5cg"
+    },
+    {
+      "Twitter": "https://twitter.com/ArtisTurba"
+    },
+    {
+      "Website": "https://artisturba.com/"
+    },
+    {
+      "Whitepaper": "https://artisturba.com/wp-content/uploads/2018/01/White_Paper_JanuaryV180114.pdf"
+    }
+  ],
+  "name": "ArtisTurba",
+  "symbol": "ARTIS"
+}

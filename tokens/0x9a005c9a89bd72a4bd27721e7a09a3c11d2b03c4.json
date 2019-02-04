@@ -1,0 +1,30 @@
+{
+  "addr": "0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4",
+  "decimals": 18,
+  "description": "CoinStarter is a first of its kind blockchain platform where users can launch a crowdfunding or coin based campaign in minutes. A first of its kind blockchain platform to help entrepreneurs, innovators and creators bring their ideas to life. From the launch of your campaign to the distribution of coins, we make every step easy and intuitive.",
+  "links": [
+    {
+      "Website": "https://coinstarter.com"
+    },
+    {
+      "Email": "mailto:support@coinstarter.com"
+    },
+    {
+      "Whitepaper": "https://coinstarter.com/whitepaper"
+    },
+    {
+      "Facebook": "https://www.facebook.com/CoinStarter-262622640900286/"
+    },
+    {
+      "Slack": "https://coinstarter.com/slack"
+    },
+    {
+      "Twitter": "https://twitter.com/realCoinStarter"
+    },
+    {
+      "Telegram": "https://t.me/startercoin"
+    }
+  ],
+  "name": "StarterCoin",
+  "symbol": "STAC"
+}

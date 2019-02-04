@@ -1,0 +1,30 @@
+{
+  "addr": "0x93e682107d1e9defb0b5ee701c71707a4b2e46bc",
+  "decimals": 8,
+  "description": "With MCAP tokens, our aim is to enable even the average user to earn huge returns in the long run by investing in one single coin rather than investing in multiple cryptocurrencies and hoping for their price to increase. Our token uses the ERC 20 protocol for peer-to-peer transactions. All MCAP transactions will be recorded to the Ethereum Blockchain to ensure immutability and transparency.",
+  "links": [
+    {
+      "Blog": "https://medium.com/mcap-labs"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/mcap/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/MCAPlabs/"
+    },
+    {
+      "Twitter": "https://twitter.com/MCAPlabs"
+    },
+    {
+      "Website": "http://mcaplabs.com/"
+    },
+    {
+      "Website": "https://bitcoingrowthfund.com/mcap"
+    },
+    {
+      "Whitepaper": "http://mcaplabs.com/white-paper/MCAP%20-%20Whitepaper%20-%20Blue-FINAL.pdf"
+    }
+  ],
+  "name": "MCAP",
+  "symbol": "MCAP"
+}

@@ -1,0 +1,48 @@
+{
+  "addr": "0x1b22c32cd936cb97c28c5690a0695a82abf688e6",
+  "decimals": 18,
+  "description": "MyWish platform is an ecosystem of smart contracts accumulating a complex of blockchain solutions designed to integrate high technologies into the real sector.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2059189.msg20545654#msg20545654"
+    },
+    {
+      "Blog": "https://medium.com/@VladimirTikhomirov"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/mywish/"
+    },
+    {
+      "Email": "mailto:support@mywish.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/MyWish.io/"
+    },
+    {
+      "Github": "https://github.com/mywishplatform"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ethereum/comments/765b86/mywish_exlastwill_weekly_development_status_1_dr/"
+    },
+    {
+      "Slack": "https://mywishteam.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/MyWish_EN"
+    },
+    {
+      "Twitter": "https://twitter.com/mywishplatform"
+    },
+    {
+      "Website": "https://mywish.io/index.html"
+    },
+    {
+      "Website": "https://mywish.io/"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/0B3ZY9oXSrdvjYjlCLUxra3oxZHM/view"
+    }
+  ],
+  "name": "MyWish Token",
+  "symbol": "WISH"
+}

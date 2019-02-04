@@ -1,0 +1,24 @@
+{
+  "addr": "0x05c7065d644096a4e4c3fe24af86e36de021074b",
+  "decimals": 18,
+  "description": "A new lending platform that combines all the cryptocurrency lending platforms in a way that simply makes sense. But we are not just \"another\" lending platform among all the other platforms. We are the one that combines the possibilities of the crypto lending platforms into one.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/lendconnect/"
+    },
+    {
+      "Email": "mailto:info@lendconnect.io"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/AAAAAE1W8wql5nyoOFx4QQ"
+    },
+    {
+      "Website": "https://lendconnect.io/"
+    },
+    {
+      "Whitepaper": "https://lendconnect.io/LendConnect_whitepaper.pdf"
+    }
+  ],
+  "name": "LendConnect Token",
+  "symbol": "LCT"
+}

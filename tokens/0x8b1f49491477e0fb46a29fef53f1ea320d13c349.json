@@ -1,0 +1,42 @@
+{
+  "addr": "0x8b1f49491477e0fb46a29fef53f1ea320d13c349",
+  "decimals": 6,
+  "description": "The MicroMoney token (AMM) (ERC20) is integral to our business model, and forms the core of the MicroMoney ecosystem. By purchasing AMM tokens, businesses will be able to access credit histories, analytics, and big data from our credit bureau. Our blockchain-based credit bureau is designed to serve two functions: Firstly, we provide ordinary people who are in a difficult situation with small loans (so-called micro- or nano-loans); Secondly, we provide banks with access to our credit records and lower their risks through our highly innovative blockchain model which incorporates a unique scoring model relevant to our clientele. In order to get access to the open source, big data, credit histories bureau, the company or individual must have a certain number of tokens in their account (see partnership levels). Anyone wishing to purchase personal data will have to do so using our tokens, AMM tokens. When these tokens are used to purchase personal data, we will use these tokens to personally reward data holders and improve our existing platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2199477.msg22113023#msg22113023"
+    },
+    {
+      "Blog": "https://medium.com/@micromoney.io"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/micromoney/"
+    },
+    {
+      "Email": "mailto:sales@micromoney.i"
+    },
+    {
+      "Facebook": "https://www.facebook.com/micromoneymyanmar/"
+    },
+    {
+      "Github": "https://github.com/micro-money/prime"
+    },
+    {
+      "Telegram": "https://t.me/micromoneyico"
+    },
+    {
+      "Twitter": "https://twitter.com/MicromoneyIO"
+    },
+    {
+      "Website": "http://www.micromoney.io/"
+    },
+    {
+      "Website": "https://www.micromoney.io/"
+    },
+    {
+      "Whitepaper": "https://www.micromoney.io/MicroMoney_whitepaper_ENG.pdf"
+    }
+  ],
+  "name": "MicroMoney",
+  "symbol": "AMM"
+}

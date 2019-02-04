@@ -1,0 +1,42 @@
+{
+  "addr": "0x71d01db8d6a2fbea7f8d434599c237980c234e4c",
+  "decimals": 8,
+  "description": "Gladius is the decentralized solution to protect against DDoS attacks by allowing you to connect to protection pools near you to provide better protection and accelerate your content. With an easy to use interface as well as powerful insight tools, Gladius enables anyone to protect and accelerate their website.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2217711"
+    },
+    {
+      "Blog": "https://medium.com/@gladiusio"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/gladius-token/"
+    },
+    {
+      "Email": "mailto:contact@gladius.io"
+    },
+    {
+      "Facebook": "https://facebook.com/gladiusio"
+    },
+    {
+      "Github": "https://github.com/gladiusio"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/GladiusNetwork/"
+    },
+    {
+      "Telegram": "https://t.me/gladiusio"
+    },
+    {
+      "Twitter": "https://twitter.com/gladiusio"
+    },
+    {
+      "Website": "https://gladius.io/"
+    },
+    {
+      "Whitepaper": "https://gladius.io/pdf/gladius-whitepaper.pdf"
+    }
+  ],
+  "name": "Gladius Token",
+  "symbol": "GLA"
+}

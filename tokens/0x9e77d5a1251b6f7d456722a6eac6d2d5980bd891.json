@@ -1,0 +1,30 @@
+{
+  "addr": "0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891",
+  "decimals": 8,
+  "description": "Use your own kinsman, yard serf",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2024699.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/brat/"
+    },
+    {
+      "Email": "mailto:info@brat.red"
+    },
+    {
+      "Telegram": "https://t.me/icobrat"
+    },
+    {
+      "Website": "http://www.brat.red/"
+    },
+    {
+      "Website": "http://brat.red/"
+    },
+    {
+      "Whitepaper": "http://brat.red/WHITE_PAPER_TOKEN_BRAT-EN.pdf"
+    }
+  ],
+  "name": "BRAT RED",
+  "symbol": "BRAT"
+}

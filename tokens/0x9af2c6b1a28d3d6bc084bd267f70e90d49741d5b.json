@@ -1,0 +1,30 @@
+{
+  "addr": "0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b",
+  "decimals": 8,
+  "description": "aXpire is a cloud-based and AI-enabled blockchain payment processing company, building the World's first blockchain based spend management system.",
+  "links": [
+    {
+      "Website": "https://www.axpire.io/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Axpire-537274833301303"
+    },
+    {
+      "Telegram": "https://t.me/AxpireOfficial"
+    },
+    {
+      "Twitter": "https://twitter.com/aXpire_official"
+    },
+    {
+      "Whitepaper": "https://www.axpire.io/downloads/aXpire_Whitepaper_v1.1.0.pdf"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/aXpire/"
+    },
+    {
+      "Blog": "https://medium.com/@aXpire/"
+    }
+  ],
+  "name": "aXpire Token",
+  "symbol": "AXP"
+}

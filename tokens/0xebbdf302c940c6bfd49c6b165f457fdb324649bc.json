@@ -1,0 +1,48 @@
+{
+  "addr": "0xebbdf302c940c6bfd49c6b165f457fdb324649bc",
+  "decimals": 18,
+  "description": "Hydro enables developers to seamlessly deploy blockchain in their existing applications, without the need to create expensive infrastructure.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2778123"
+    },
+    {
+      "Blog": "https://medium.com/@hydrogenapi"
+    },
+    {
+      "Email": "mailto:hydro@hydrogenplatform.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/hydrogenplatform"
+    },
+    {
+      "Github": "https://github.com/hydrogen-dev/smart-contract"
+    },
+    {
+      "Instagram": "https://instagram.com/hydrogenplatform"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/27129175/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ProjectHydro/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/H3uDdQ9JBFyV1UL35xX4VQ"
+    },
+    {
+      "Twitter": "https://twitter.com/HydrogenAPI"
+    },
+    {
+      "Twitter": "https://www.twitter.com/@hydrogenapi"
+    },
+    {
+      "Website": "https://www.hydrogenplatform.com/hydro"
+    },
+    {
+      "Whitepaper": "https://www.hydrogenplatform.com/Hydro_Raindrop_White_Paper.pdf"
+    }
+  ],
+  "name": "Hydro",
+  "symbol": "HYDRO"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0x47dd62d4d075dead71d0e00299fc56a2d747bebb",
+  "decimals": 18,
+  "description": "A Self-deflationary, Fairly Distributed, Multiplatform Utility Token. EQUAL aim's to facilitate an ecosystem of products and services that are either powered, funded or incentivised through the EQUAL ERC-20 token. What makes EQUAL special is it's rapidly growing community, future seed offering program and it's unique self-deflationary token design.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2814625"
+    },
+    {
+      "Blog": "https://medium.com/@EqualToken"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/equal/"
+    },
+    {
+      "Email": "mailto:hello@equaltoken.io"
+    },
+    {
+      "Reddit": "https://reddit.com/r/EQUAL_Network"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GtLjl1JMYiTHzhaQA5CGPw"
+    },
+    {
+      "Twitter": "https://twitter.com/EqualToken"
+    },
+    {
+      "Website": "https://www.equaltoken.io/"
+    },
+    {
+      "Whitepaper": "https://www.equaltoken.io/whitepaper_v2.pdf"
+    }
+  ],
+  "name": "EQUAL",
+  "symbol": "EQL"
+}

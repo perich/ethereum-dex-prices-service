@@ -1,0 +1,30 @@
+{
+  "addr": "0x3883f5e181fccaf8410fa61e12b59bad963fb645",
+  "decimals": 18,
+  "description": "Theta is a decentralized video delivery network, powered by users and an innovative new blockchain.",
+  "links": [
+    {
+      "Website": "https://www.thetatoken.org"
+    },
+    {
+      "Whitepaper": "https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf"
+    },
+    {
+      "Github": "https://github.com/thetatoken"
+    },
+    {
+      "Twitter": "https://twitter.com/thetatoken"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Gt6mbxJb-2XukwGA_atLjg"
+    },
+    {
+      "Facebook": "https://www.facebook.com/thetatoken"
+    },
+    {
+      "Blog": "https://medium.com/@ThetaLabs"
+    }
+  ],
+  "name": "Theta Token",
+  "symbol": "THETA"
+}

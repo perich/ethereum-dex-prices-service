@@ -1,0 +1,39 @@
+{
+  "addr": "0x147b51d82a6038607895e11c4191431335b257e3",
+  "decimals": 8,
+  "description": "Proxy has developed \"Proxy Wallet\", which features bio-metric security and is a NFC-enabled physical wallet, The proxy wallet will be the center of the Proxy merchant services ecosystem. The Proxy Ecosystem will consist of a marketplace, a chat messenger, and crypo-currency merchant services.\nThe Proxy wallet will enable you to safely store and spend crypto currencies at merchants that accept blockchain payments.\nThe ePRX token can be used by merchants to pay their merchant fees. Merchants will have the incentive to accept blockchain payments because merchants fees range from 0.5%-1.0% while visa networks is 1.5%-3.0%.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2206814"
+    },
+    {
+      "Blog": "https://blog.proxycard.io/"
+    },
+    {
+      "Email": "mailto:support@proxycard.io"
+    },
+    {
+      "Facebook": "https://facebook.com/CardProxy"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Proxycard/"
+    },
+    {
+      "Telegram": "https://t.me/proxycard"
+    },
+    {
+      "Twitter": "https://twitter.com/Proxy_Card"
+    },
+    {
+      "Website": "https://www.proxycard.io/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCHzLv5q-WRJOO91heM2LRQw"
+    },
+    {
+      "Whitepaper": "https://www.proxycard.io/whitepaper.pdf"
+    }
+  ],
+  "name": "eProxy",
+  "symbol": "ePRX"
+}

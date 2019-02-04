@@ -1,0 +1,28 @@
+{
+  "addr": "0xa701122c1b67220a8b6883d03c8ad67896b12466",
+  "decimals": 8,
+  "description": "Fan made promo meme token for the mineable BroFistCoin (BFC) cryptocurrency",
+  "name": "BroFistCoin",
+  "symbol": "PEW",
+  "links": [
+    {
+      "Email": "mailto:info@brofistcoin.io"
+    },
+    {
+      "Twitter": "https://twitter.com/Brofistcoin61"
+    },
+    {
+      "Website": "http://brofistcoin.io/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BrofistCoin/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/BroFistCoin/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=Jz50eTT6y8g"
+    }
+  ],
+  "notice": "PEW is a meme token and comes with no guarantees. It's a fan made joke token to honor PewDiePie who clearly knows de wae. It's essentially worthless and you should not invest anything in PEW token."
+}

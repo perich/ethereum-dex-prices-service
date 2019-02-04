@@ -1,0 +1,39 @@
+{
+  "addr": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+  "decimals": 18,
+  "description": "Pundi X aims to make spending cryptocurrency as easy as buying a bottle of water. They already serve 600 physical merchants where users can use the Pundi-Pundi app to pay cashless.",
+  "links": [
+    {
+      "Blog": "https://blog.pundix.com"
+    },
+    {
+      "Blog": "https://medium.com/pundix"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/pundi-x/"
+    },
+    {
+      "Email": "mailto:contact@pundix.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/pundixlabs/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/13423325/"
+    },
+    {
+      "Telegram": "https://t.me/pundix"
+    },
+    {
+      "Twitter": "https://twitter.com/pundixlabs"
+    },
+    {
+      "Website": "https://pundix.com/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCOIf6WeLEzZi3DQxzenTZeA"
+    }
+  ],
+  "name": "Pundi X Token",
+  "symbol": "NPXS"
+}

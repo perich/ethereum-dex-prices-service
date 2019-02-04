@@ -1,0 +1,21 @@
+{
+  "addr": "0x09debe702678140c1be278213109719fab98d0d8",
+  "decimals": 18,
+  "description": "Molik is a public Ethereum-based jewelry shopping platform for use in mainstream online mall, that enables real-time, peer-to-peer value exchange and payment services.",
+  "links": [
+    {
+      "Email": "mailto:help@molik.kr"
+    },
+    {
+      "Facebook": "https://www.facebook.com/molikjewelry/"
+    },
+    {
+      "Website": "https://molikcoin.imweb.me/"
+    },
+    {
+      "Website": "https://molikcoin.imweb.me"
+    }
+  ],
+  "name": "MolikToken",
+  "symbol": "MOL"
+}

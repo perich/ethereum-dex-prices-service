@@ -1,0 +1,24 @@
+{
+  "addr": "0xffc63b9146967a1ba33066fb057ee3722221acf0",
+  "decimals": 18,
+  "description": "Using the powerful Ethereum Network, Alpha Investing is offering a unique suite of products and services for navigating the Crypto-Currency Markets. From their Decentralized Investor Marketplace, to their Crypto Coin Fund (Named Coinbag), Alpha is your best choice for investing in the future of crypto.",
+  "links": [
+    {
+      "Email": "mailto:Devdrew@alphatoken.net"
+    },
+    {
+      "Telegram": "https://t.me/Alpha_Token_Official_News"
+    },
+    {
+      "Twitter": "https://twitter.com/Alpha_Token"
+    },
+    {
+      "Website": "https://alphatoken.net/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2813619"
+    }
+  ],
+  "name": "Alpha",
+  "symbol": "A"
+}

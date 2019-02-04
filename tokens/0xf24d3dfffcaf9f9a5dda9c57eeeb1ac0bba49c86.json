@@ -1,0 +1,40 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "XMAS",
+  "addr": "0xf24d3dfffcaf9f9a5dda9c57eeeb1ac0bba49c86",
+  "decimals": 18,
+  "description": "Santa created XMAS tokens to be an alternative to traditional gifts. XMAS is coming and Santa wants to bring holiday spirit in crypto community.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2309978"
+    },
+    {
+      "Blog": "https://steemit.com/@xmastoken"
+    },
+    {
+      "Email": "mailto:santa@xmastoken.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/xmasanta"
+    },
+    {
+      "Github": "https://github.com/XmasToken/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ico/comments/782qsk/xmas_is_right_around_the_corner_and_santa_claus/?st=j9tdhun9&sh=c65e517c"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/G7rg7CW"
+    },
+    {
+      "Twitter": "https://twitter.com/XmasToken"
+    },
+    {
+      "Website": "https://www.xmastoken.com/"
+    },
+    {
+      "Whitepaper": "http://www.xmastoken.com/XMAS%20WhitePaper.pdf"
+    }
+  ],
+  "name": "XmasToken",
+  "symbol": "xmas"
+}

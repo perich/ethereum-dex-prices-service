@@ -1,0 +1,24 @@
+{
+  "addr": "0xc9be9f75df438df3ef40e4bab816bf30e3f14b50",
+  "decimals": 0,
+  "description": "SmellyCoin's purpose is to let others know that they smell. Send to friends, wives, anybody that smells.",
+  "links": [
+    {
+      "Email": "mailto:admin@smellycoin.com"
+    },
+    {
+      "Telegram": "https://t.me/smellycoin"
+    },
+    {
+      "Twitter": "https://twitter.com/SmellyCoin"
+    },
+    {
+      "Website": "https://smellycoin.com"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2871113"
+    }
+  ],
+  "name": "SmellyCoin",
+  "symbol": "SMELLY"
+}

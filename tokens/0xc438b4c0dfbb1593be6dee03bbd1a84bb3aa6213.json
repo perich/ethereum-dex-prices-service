@@ -1,0 +1,42 @@
+{
+  "addr": "0xc438b4c0dfbb1593be6dee03bbd1a84bb3aa6213",
+  "decimals": 8,
+  "description": "Qchain is a decentralized advertising and analytics platform built on the Ethereum and NEM blockchains for flexible and efficient transactions between advertisers and publishers.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2264106.0"
+    },
+    {
+      "Blog": "https://medium.com/the-qchain-blog"
+    },
+    {
+      "Email": "mailto:team@qchain.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/QchainPlatform/"
+    },
+    {
+      "Github": "https://github.com/Q-chain/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/qchain"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/qchain/"
+    },
+    {
+      "Telegram": "https://t.me/qchainplatform"
+    },
+    {
+      "Twitter": "https://twitter.com/QchainPlatform"
+    },
+    {
+      "Website": "https://qchain.co/"
+    },
+    {
+      "Whitepaper": "https://qchain.co/files/Qchain_deck_web.pdf"
+    }
+  ],
+  "name": "Ethereum Qchain Token",
+  "symbol": "EQC"
+}

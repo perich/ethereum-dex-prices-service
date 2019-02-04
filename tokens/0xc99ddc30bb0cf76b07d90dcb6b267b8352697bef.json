@@ -1,0 +1,12 @@
+{
+  "addr": "0xc99ddc30bb0cf76b07d90dcb6b267b8352697bef",
+  "decimals": 18,
+  "description": "TDT is ToDogecoin Token. It is used to place adverts on ToDogecoin.biz etc. (current cost of one thousand impressions - 1 TDT). Also this token will be used for other purposes on the site. After the completion of ICO, the issue of new tokens will cease.",
+  "links": [
+    {
+      "Website": "http://todogecoin.biz/tdt/"
+    }
+  ],
+  "name": "TDT",
+  "symbol": "TDT"
+}

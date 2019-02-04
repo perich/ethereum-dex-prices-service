@@ -1,0 +1,27 @@
+{
+  "addr": "0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5",
+  "decimals": 18,
+  "description": "EDoge is the future of Doge and the revival of one of the most beloved communities",
+  "links": [
+    {
+      "Email": "mailto:doge@etherdoge.org"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/etherdoge/"
+    },
+    {
+      "Slack": "https://etherdoge.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/etherdoge"
+    },
+    {
+      "Website": "https://etherdoge.org/"
+    },
+    {
+      "Whitepaper": "https://etherdoge.org/whitepaper.html"
+    }
+  ],
+  "name": "EtherDoge",
+  "symbol": "EDOGE"
+}

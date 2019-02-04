@@ -1,0 +1,12 @@
+{
+  "addr": "0x779b7b713c86e3e6774f5040d9ccc2d43ad375f8",
+  "decimals": 8,
+  "description": "POS Mining Co. is launching an ICO to buy more coins to stake with. Unlike POW mining farms, POS mining requires lots of coins to stake with. We already have the facility, the encrypted servers, everything is ready to go from day 1. Our facility uses solar power which accounts for about 45% of our power needs. We are located in Southern California and have a loads of sun to keep the energy consumption to a minimum.",
+  "links": [
+    {
+      "Website": "http://stakepool.co/"
+    }
+  ],
+  "name": "StakePool",
+  "symbol": "POOL"
+}

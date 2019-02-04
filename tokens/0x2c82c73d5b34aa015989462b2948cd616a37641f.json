@@ -1,0 +1,48 @@
+{
+  "addr": "0x2c82c73d5b34aa015989462b2948cd616a37641f",
+  "decimals": 18,
+  "description": "SXUT (U for \"utility\") is a token by Spectre.ai, a financial prediction market platform backed by a tokenised liquidity pool. The SXUT is used by traders on the platform to gain extra privileges such has higher payouts, win-rates, access to assets and other in-platform advantages that give traders an edge.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2169122.0"
+    },
+    {
+      "Blog": "https://medium.com/teamspectreai"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/spectre-utility/"
+    },
+    {
+      "Email": "mailto:team@spectre.ai"
+    },
+    {
+      "Facebook": "https://www.facebook.com/spectrepage/"
+    },
+    {
+      "Github": "https://github.com/spectre-ai"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Spectre_ai/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GjkGkw7IfwUVuPiWxctD4g"
+    },
+    {
+      "Twitter": "https://twitter.com/SpectreAI"
+    },
+    {
+      "WeChat": "https://open.kakao.com/o/gesPdnC"
+    },
+    {
+      "Website": "https://www.spectre.ai/"
+    },
+    {
+      "Website": "https://spectre.ai/"
+    },
+    {
+      "Whitepaper": "https://d1zzssn32v8b7a.cloudfront.net/media/en/spectre_whitepaper_v_2_3.pdf"
+    }
+  ],
+  "name": "Spectre.ai U-Token",
+  "symbol": "SXUT"
+}

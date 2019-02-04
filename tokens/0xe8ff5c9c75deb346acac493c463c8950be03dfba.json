@@ -1,0 +1,33 @@
+{
+  "addr": "0xe8ff5c9c75deb346acac493c463c8950be03dfba",
+  "decimals": 18,
+  "description": "VIBEHub is the world's first crypto based virtual &amp; augmented reality marketplace and hub. While we are making concerts into the first killer-app for VR, we are also adding education streams, social experiences, gaming, and virtual dating. All decentralized on the platform designed for up to 1 billion users.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/vibe/"
+    },
+    {
+      "Email": "mailto:info@vibehub.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/vibehubvr/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/VibeHub/"
+    },
+    {
+      "Slack": "https://join.slack.com/t/vibehub/shared_invite/MjExNDM5MTcwMjU3LTE0OTk4ODk2ODYtNGM1YmU1OGU3YQ"
+    },
+    {
+      "Twitter": "https://twitter.com/VibeHubVR"
+    },
+    {
+      "Website": "http://vibehub.io/"
+    },
+    {
+      "Whitepaper": "http://vibehub.io/VibeHubWhitepaper2017.pdf"
+    }
+  ],
+  "name": "Vibe Coin",
+  "symbol": "VIBE"
+}

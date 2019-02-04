@@ -1,0 +1,30 @@
+{
+  "addr": "0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf",
+  "decimals": 18,
+  "description": "REBL is an Ethereum-based ERC 20 token. Instead of using the traditional Proof-of-Work system, Rebellious' ERC 20 token will utilise a Proof-of-Stake system in token format. REBL holders will earn interest on the REBL they hold in their wallets.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2357352.0"
+    },
+    {
+      "Email": "mailto:info@rebellious.io"
+    },
+    {
+      "Github": "https://github.com/RebelliousToken"
+    },
+    {
+      "Telegram": "https://t.me/RebelliousCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/RebelliousCoin"
+    },
+    {
+      "Website": "https://www.rebellious.io/"
+    },
+    {
+      "Whitepaper": "https://www.rebellious.io/Rebellious-Whitepaper_v10.pdf"
+    }
+  ],
+  "name": "Rebellious",
+  "symbol": "REBL"
+}

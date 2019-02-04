@@ -1,0 +1,33 @@
+{
+  "addr": "0x044dd17bbbcbf1cf65f543918561bf8cf8130e7b",
+  "decimals": 3,
+  "description": "A Trustworthy Distributed Platform for Copyright Registration and File Integrity Verification",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2294845"
+    },
+    {
+      "Blog": "https://medium.com/@engravedTech"
+    },
+    {
+      "Email": "mailto:info@engraved.tech"
+    },
+    {
+      "Github": "https://github.com/engravedTech"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GshO5UJrdVC_kZhqIK9LAw"
+    },
+    {
+      "Twitter": "https://twitter.com/engravedTech"
+    },
+    {
+      "Website": "https://engraved.tech"
+    },
+    {
+      "Whitepaper": "https://engraved.tech/files/whitepaper.pdf"
+    }
+  ],
+  "name": "Engraved Token",
+  "symbol": "EGR"
+}

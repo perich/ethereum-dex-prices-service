@@ -1,0 +1,45 @@
+{
+  "addr": "0x4355fc160f74328f9b383df2ec589bb3dfd82ba0",
+  "decimals": 18,
+  "description": "The world's first decentralised music platform built on Ethereum and IPFS",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2011065"
+    },
+    {
+      "Blog": "https://opus-foundation.org/index.php/blog/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/opus/"
+    },
+    {
+      "Email": "mailto:info@opus-foundation.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Opus-129701967624235/"
+    },
+    {
+      "Github": "https://github.com/Opus-foundation/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/opusfoundation/"
+    },
+    {
+      "Slack": "http://slack.opus-foundation.org/"
+    },
+    {
+      "Telegram": "https://t.me/opusfoundation"
+    },
+    {
+      "Twitter": "https://twitter.com/opusfoundation"
+    },
+    {
+      "Website": "http://opus-foundation.org/"
+    },
+    {
+      "Whitepaper": "https://opus-foundation.org/whitepaper.pdf"
+    }
+  ],
+  "name": "Opus Token",
+  "symbol": "OPT"
+}

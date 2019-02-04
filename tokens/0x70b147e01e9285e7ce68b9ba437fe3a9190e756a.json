@@ -1,0 +1,33 @@
+{
+  "addr": "0x70b147e01e9285e7ce68b9ba437fe3a9190e756a",
+  "decimals": 18,
+  "description": "Decentralized rewards for content creators on the web.\nBitFlux is a utility token designed to attribute value to the appreciation of content on the web through a decentralized reward system for content creators and viewers.",
+  "links": [
+    {
+      "Email": "mailto:tim@fluxproject.xyz"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/FLUXProject/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GZcBtg6Oi6mjkBAn-t9Z4A"
+    },
+    {
+      "Telegram": "https://t.me/fluxproject"
+    },
+    {
+      "Twitter": "https://twitter.com/flux_project"
+    },
+    {
+      "Website": "https://fluxproject.xyz"
+    },
+    {
+      "Whitepaper": "https://fluxproject.xyz/gallery/whitepaper_2.0_eng.pdf"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2704680.0"
+    }
+  ],
+  "name": "BitFlux",
+  "symbol": "FLX"
+}

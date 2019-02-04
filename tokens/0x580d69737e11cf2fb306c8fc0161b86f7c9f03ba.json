@@ -1,0 +1,18 @@
+{
+  "addr": "0x580d69737e11cf2fb306c8fc0161b86f7c9f03ba",
+  "decimals": 3,
+  "description": "This ERC20 Token connecting the blockchain using crosschain gateway built on Ethereum smart contracts. Neubulous enables secure transfers between differents blockchains and allows anyone to transact between them.",
+  "links": [
+    {
+      "Email": "mailto:dev@neubuloustoken.fr"
+    },
+    {
+      "Telegram": "https://twitter.com/DevNeubulous"
+    },
+    {
+      "Website": "https://www.neubuloustoken.fr/"
+    }
+  ],
+  "name": "Neubulous Token",
+  "symbol": "NEBO"
+}

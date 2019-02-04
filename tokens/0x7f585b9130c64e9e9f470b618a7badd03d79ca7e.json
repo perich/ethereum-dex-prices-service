@@ -1,0 +1,27 @@
+{
+  "addr": "0x7f585b9130c64e9e9f470b618a7badd03d79ca7e",
+  "decimals": 18,
+  "description": "A cryptocurrency immortalizing football legend; Cristiano Ronaldo on the blockchain forever.",
+  "links": [
+    {
+      "Email": "mailto:hello@cr7coin.org"
+    },
+    {
+      "Telegram": "https://telegram.me/CR7Coin"
+    },
+    {
+      "Twitter": "https://twitter.com/TheCR7Coin"
+    },
+    {
+      "Facebook": "https://facebook.com/CR7Coin"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2889573.0"
+    },
+    {
+      "Website": "https://cr7coin.org"
+    }
+  ],
+  "name": "CR7Coin",
+  "symbol": "CR7"
+}

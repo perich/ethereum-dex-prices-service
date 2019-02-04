@@ -1,0 +1,39 @@
+{
+  "addr": "0x8f0921f30555624143d427b340b1156914882c10",
+  "decimals": 18,
+  "description": "The instant crypto exchange, private and secure",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1952077.0"
+    },
+    {
+      "Blog": "https://steemit.com/@flypme"
+    },
+    {
+      "Email": "mailto:hello@flyp.me"
+    },
+    {
+      "Facebook": "https://www.facebook.com/flypme"
+    },
+    {
+      "Github": "https://github.com/flypme"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/flypme"
+    },
+    {
+      "Telegram": "hello@flyp.me"
+    },
+    {
+      "Twitter": "https://twitter.com/flyp_me"
+    },
+    {
+      "Website": "https://flyp.me/"
+    },
+    {
+      "Whitepaper": "https://flyp.me/whitepaper.pdf"
+    }
+  ],
+  "name": "Flyp.me Token",
+  "symbol": "FYP"
+}

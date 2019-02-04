@@ -1,0 +1,34 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "UAHOLD",
+  "addr": "0x5c5413bad5f6fdb0f4fcd1457e46ead8e01d73d3",
+  "decimals": 18,
+  "description": "UAHPay has launched a National Crypto Currency Bank, Coin &amp; Card Processor. UAHPAY is a Ukraine based Cryptocurrency exchange with Cryptocurrency payment debit card.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2198436"
+    },
+    {
+      "Email": "mailto:support@uahpay.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/UAHPAY/"
+    },
+    {
+      "Github": "https://github.com/uahpay/"
+    },
+    {
+      "Twitter": "https://twitter.com/uahpay"
+    },
+    {
+      "Website": "http://www.uahpay.com/"
+    },
+    {
+      "Website": "https://www.uahpay.com/"
+    },
+    {
+      "Whitepaper": "http://www.uahpay.com/uahpay-v1.pdf"
+    }
+  ],
+  "name": "UAHPAY",
+  "symbol": "UAH"
+}

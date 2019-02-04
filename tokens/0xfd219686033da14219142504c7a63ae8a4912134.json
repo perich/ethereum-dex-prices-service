@@ -1,0 +1,27 @@
+{
+  "addr": "0xfd219686033da14219142504c7a63ae8a4912134",
+  "decimals": 18,
+  "description": "eBTCS is a tokenised version of BitcoinSilver. eBTCS is currently a store of value, but our 'eBTCS Elite' development team will be working directly with our community members to develop creative use cases for eBitcoinSilver in the coming months. Our goal is to make eBitcoinSilver a platform that is broadly utilised by many people, in many ways. We envision eBTCS to be the most utilised and accessible e-token on the cryptocurrency market.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2576178.new#new"
+    },
+    {
+      "Email": "mailto:contact@ebtcs.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ebitcoinsilver"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GYkKIBD8rYJCg5j7rhI-Pg"
+    },
+    {
+      "Twitter": "https://twitter.com/eBitcoinSilver"
+    },
+    {
+      "Website": "https://www.ebtcs.io/"
+    }
+  ],
+  "name": "ebitcoinsilver",
+  "symbol": "eBTCS"
+}

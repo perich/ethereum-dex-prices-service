@@ -1,0 +1,39 @@
+{
+  "addr": "0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052",
+  "decimals": 18,
+  "description": "Invest spare fiat and cryptocurrency change into diversified crypto-related portfolios. Skraps is the first company to offer micro investing to the world of cryptocurrencies. The Skraps platform allows users to round up spare change from everyday fiat and cryptocurrency related purchases and invest the difference into diversified portfolios of cryptocurrencies and crypto assets. Customers can get started in 3 easy steps: Connect your debit/credit card or cryptocurrency wallet, spend like normal, and watch your spare change grow.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2520387"
+    },
+    {
+      "Blog": "https://medium.com/@SKRAPS_IO"
+    },
+    {
+      "Email": "mailto:info@skraps.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/SKRAPSAPP"
+    },
+    {
+      "Github": "https://github.com/SkrapsIO"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SKRAPSio/"
+    },
+    {
+      "Telegram": "https://t.me/SkrapsOfficial"
+    },
+    {
+      "Twitter": "https://twitter.com/SKRAPS_IO"
+    },
+    {
+      "Website": "https://skraps.io/"
+    },
+    {
+      "Whitepaper": "https://skraps.io/assets/files/SKRAPS_White_Paper.pdf"
+    }
+  ],
+  "name": "Skraps",
+  "symbol": "SKRP"
+}

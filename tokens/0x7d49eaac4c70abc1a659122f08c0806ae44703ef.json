@@ -1,0 +1,21 @@
+{
+  "addr": "0x7d49eaac4c70abc1a659122f08c0806ae44703ef",
+  "decimals": 18,
+  "description": "Dragon Exchange focusing on the exchange of Crypto-Currency commonly known as \"BitCoin\" and it's derivatives.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2241243.0"
+    },
+    {
+      "Email": "mailto:dragondev@dragonexchange.online"
+    },
+    {
+      "Website": "http://www.dragonexchange.online/"
+    },
+    {
+      "Website": "http://www.dragonexchange.online"
+    }
+  ],
+  "name": "Dragon Exchange",
+  "symbol": "DET"
+}

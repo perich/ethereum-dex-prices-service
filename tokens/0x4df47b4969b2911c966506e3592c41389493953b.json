@@ -1,0 +1,39 @@
+{
+  "addr": "0x4df47b4969b2911c966506e3592c41389493953b",
+  "decimals": 18,
+  "description": "FundRequest is an integrated platform to fund open source projects, thus financially incentivizing the open source community. The platform allows developers to fix bugs or to program additional features for an existing application.\nFundRequest will be developed on the Ethereum Blockchain, and aims to leverage upon a decentralized ecosystem as it reduces both operational and regulatory burdens and protects against organisational corruption such as fraud and embezzlement. FundRequest creates smart contracts to incentivize developers to solve a problem in the open source community.",
+  "links": [
+    {
+      "Blog": "https://blog.fundrequest.io/"
+    },
+    {
+      "Email": "mailto:info@fundrequest.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/FundRequestplatform"
+    },
+    {
+      "Github": "https://github.com/fundrequest/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/fundrequest/"
+    },
+    {
+      "Slack": "https://fundrequest.chat/"
+    },
+    {
+      "Telegram": "https://t.me/fundrequestofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/fundrequest_io"
+    },
+    {
+      "Website": "https://fundrequest.io/"
+    },
+    {
+      "Whitepaper": "https://fundrequest.io/whitepaper.pdf"
+    }
+  ],
+  "name": "FundRequest",
+  "symbol": "FND"
+}

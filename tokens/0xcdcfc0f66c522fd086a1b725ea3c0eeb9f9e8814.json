@@ -1,0 +1,12 @@
+{
+  "addr": "0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814",
+  "decimals": 18,
+  "description": "AURA is the Aurora utility token for the Aurora DAO. Users stake AURA to secure the network, and are rewarded with fees from IDEX and DC.",
+  "links": [
+    {
+      "Website": "https://auroradao.com/"
+    }
+  ],
+  "name": "Aurora DAO",
+  "symbol": "AURA"
+}

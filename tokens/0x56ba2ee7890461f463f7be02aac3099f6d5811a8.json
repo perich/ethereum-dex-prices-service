@@ -1,0 +1,30 @@
+{
+  "addr": "0x56ba2ee7890461f463f7be02aac3099f6d5811a8",
+  "decimals": 18,
+  "description": "BlockCAT lets anyone create, manage, and deploy smart contracts on the Ethereum blockchain with just a few clicks. No programming required.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@blockcat"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/blockcat/"
+    },
+    {
+      "Email": "mailto:team@blockcat.io"
+    },
+    {
+      "Slack": "https://slack.blockcat.io/"
+    },
+    {
+      "Twitter": "https://twitter.com/blockcatio"
+    },
+    {
+      "Website": "https://blockcat.io/"
+    },
+    {
+      "Whitepaper": "https://blockcat.io/wp-content/uploads/whitepaper.pdf"
+    }
+  ],
+  "name": "BlockCAT Token",
+  "symbol": "CAT"
+}

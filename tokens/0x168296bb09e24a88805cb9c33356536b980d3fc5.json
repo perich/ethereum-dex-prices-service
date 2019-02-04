@@ -1,0 +1,27 @@
+{
+  "addr": "0x168296bb09e24a88805cb9c33356536b980d3fc5",
+  "decimals": 8,
+  "description": "The RHOC token is an RChain.coop promotional token redeemable for the actual RChain token when the network is launched.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/rchain/"
+    },
+    {
+      "Github": "https://github.com/rchain/"
+    },
+    {
+      "Slack": "http://slack.rchain.coop/"
+    },
+    {
+      "Twitter": "https://twitter.com/rchain_coop/"
+    },
+    {
+      "Website": "https://www.rchain.coop"
+    },
+    {
+      "Website": "https://rchain.coop/"
+    }
+  ],
+  "name": "RHOC",
+  "symbol": "RHOC"
+}

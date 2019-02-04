@@ -1,0 +1,21 @@
+{
+  "addr": "0x7268f9c2bc9c9e65b4a16888cb5672531ce8e945",
+  "decimals": 18,
+  "description": "The first crypto pegged to time on the Ethereum Blockchain",
+  "links": [
+    {
+      "Blog": "https://blog.chronologic.network/"
+    },
+    {
+      "Github": "https://github.com/chronologic/chronologic"
+    },
+    {
+      "Website": "https://chronologic.network/"
+    },
+    {
+      "Whitepaper": "https://chronologic.network/uploads/Chronologic_Whitepaper.pdf"
+    }
+  ],
+  "name": "YESTERDAY",
+  "symbol": "YESTERDAY"
+}

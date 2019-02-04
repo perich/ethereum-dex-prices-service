@@ -1,0 +1,36 @@
+{
+  "addr": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+  "decimals": 9,
+  "description": "Claim quarterly rewards based on the total DGX collected through transaction fees.\nUsed to pledge on DigixDAO proposals with the goal of increasing DGX adoption.\nDGD value fluctuates based on exchange rates and market forces.\nThere are 2,000,000 DGD tokens in existence.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@digix"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/digixdao/"
+    },
+    {
+      "Email": "mailto:support@digix.io"
+    },
+    {
+      "Github": "https://github.com/digixglobal"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/digix/"
+    },
+    {
+      "Twitter": "https://twitter.com/digixglobal"
+    },
+    {
+      "Website": "https://digix.io/"
+    },
+    {
+      "Website": "https://www.dgx.io/dgd/"
+    },
+    {
+      "Whitepaper": "https://digix.global/whitepaper.pdf"
+    }
+  ],
+  "name": "Digix DAO",
+  "symbol": "DGD"
+}

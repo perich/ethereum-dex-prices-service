@@ -1,0 +1,30 @@
+{
+  "addr": "0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5",
+  "decimals": 3,
+  "description": "bitqy is the official cryptocurrency of bitqyck, Inc.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bitqy/"
+    },
+    {
+      "Email": "mailto:mike@bitqyck.com"
+    },
+    {
+      "Facebook": "http://www.facebook.com/bitqyofficial"
+    },
+    {
+      "Slack": "https://bitqy.slack.com/"
+    },
+    {
+      "Twitter": "http://www.twitter.com/bitqyofficial"
+    },
+    {
+      "Website": "https://bitqy.org/"
+    },
+    {
+      "Whitepaper": "https://bitqy.org/white-paper/"
+    }
+  ],
+  "name": "bitqy",
+  "symbol": "BQ"
+}

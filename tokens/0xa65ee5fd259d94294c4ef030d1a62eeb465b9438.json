@@ -1,0 +1,27 @@
+{
+  "addr": "0xa65ee5fd259d94294c4ef030d1a62eeb465b9438",
+  "decimals": 9,
+  "description": "Etherball is distributed for free to every Ether holders, and every month there is a percentage reward for EBYTE holders. It is developed on Ethereum as a Smart Contract, following the ERC20 standard and implementing secure libraries. Relying on Ethereum blockchain, Etherball offers fast transactions and secure payments.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2355922"
+    },
+    {
+      "Github": "https://github.com/etherball"
+    },
+    {
+      "Telegram": "https://t.me/Etherball"
+    },
+    {
+      "Twitter": "https://twitter.com/etherball"
+    },
+    {
+      "Website": "https://www.etherball.net"
+    },
+    {
+      "Whitepaper": "https://etherball.net/Etherball.pdf"
+    }
+  ],
+  "name": "Etherball",
+  "symbol": "EBYTE"
+}

@@ -1,0 +1,45 @@
+{
+  "addr": "0x2859021ee7f2cb10162e67f33af2d22764b31aff",
+  "decimals": 4,
+  "description": "SilentNotary is a multiplatform decentralized service for confirmation of event existence. SilentNotary converts an event into legally significant evidence, excluding the possibility of falsification.\nThe SNTR token is an application token. It is required to access the service — to write hash code in the blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2026645"
+    },
+    {
+      "Blog": "https://medium.com/@silentnotary"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/silent-notary/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/silent-notary/"
+    },
+    {
+      "Email": "mailto:hello@silentnotary.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/SilentNotary"
+    },
+    {
+      "Github": "https://github.com/SilentNotary/ICO-SN"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SilentNotary/"
+    },
+    {
+      "Telegram": "https://t.me/silentnotary"
+    },
+    {
+      "Twitter": "https://twitter.com/silentnotary"
+    },
+    {
+      "Website": "https://silentnotary.com"
+    },
+    {
+      "Whitepaper": "https://silentnotary.com/documents/whitepaper.pdf"
+    }
+  ],
+  "name": "Silent Notary Token",
+  "symbol": "SNTR"
+}

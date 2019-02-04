@@ -1,0 +1,21 @@
+{
+  "addr": "0x983f7cc12d0b5d512b0f91f51a4aa478ac4def46",
+  "decimals": 0,
+  "description": "Community currency for the Bizavest Data Analytics Platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2490619.0"
+    },
+    {
+      "Telegram": "https://t.me/bizacoin"
+    },
+    {
+      "Twitter": "https://twitter.com/Bizacoin"
+    },
+    {
+      "Website": "https://www.bizavest.info/"
+    }
+  ],
+  "name": "Bizacoin",
+  "symbol": "BIZC"
+}

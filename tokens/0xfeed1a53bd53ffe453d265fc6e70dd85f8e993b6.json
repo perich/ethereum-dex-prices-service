@@ -1,0 +1,30 @@
+{
+  "addr": "0xfeed1a53bd53ffe453d265fc6e70dd85f8e993b6",
+  "decimals": 18,
+  "description": "The H2o Token enables you to start a mining contract at Hyrdrominer, which is a company registerd in Austria. We mine coins only using renewable energy, hydro power, and offer various coins to mine like btc, eth, and many more. After our successfull ICO (8676 Eth) we are now developing our mining dashboard for the contracts and building containers with mining hardware, that will be deployed directly in the hydro power stations in Austria, where we can achieve a low energy price from 3 to 6 cent/kWh. When you enter a mining contract your H2o tokens will be destroyed.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2168580.msg21728759#msg21728759"
+    },
+    {
+      "Email": "mailto:info@hydrominer.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/hydrominer/"
+    },
+    {
+      "Telegram": "https://t.me/Hydrominer"
+    },
+    {
+      "Twitter": "https://twitter.com/hydro_miner"
+    },
+    {
+      "Website": "https://www.hydrominer.org/"
+    },
+    {
+      "Whitepaper": "https://www.hydrominer.org/wp-content/uploads/HydroMiner.pdf"
+    }
+  ],
+  "name": "H2O Token",
+  "symbol": "H2O"
+}

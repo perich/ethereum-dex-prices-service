@@ -1,0 +1,30 @@
+{
+  "addr": "0xd0d6d6c5fe4a677d343cc433536bb717bae167dd",
+  "decimals": 9,
+  "description": "AN ETHEREUM BASED SOLUTION FOR DIGITAL ADVERTISING",
+  "links": [
+    {
+      "Blog": "https://medium.com/@AdChain"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/adtoken/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/adChain/"
+    },
+    {
+      "Slack": "http://slack.adchain.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/ad_chain"
+    },
+    {
+      "Website": "https://adtoken.com"
+    },
+    {
+      "Website": "https://adtoken.com/"
+    }
+  ],
+  "name": "AdToken",
+  "symbol": "ADT"
+}

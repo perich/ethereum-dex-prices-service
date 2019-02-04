@@ -1,0 +1,36 @@
+{
+  "addr": "0x1fc52f1abade452dd4674477d4711951700b3d27",
+  "decimals": 18,
+  "description": "The NOKU Platform will give people the possibility of creating their own Tokens and managing them.\nSome of the Noku ecosystem services are free (like the web wallet and app wallet). Other services (like creating tokens or white labelling a wallet) require payment. All fees are payed with the Noku Master Token.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2518812.0"
+    },
+    {
+      "Blog": "https://medium.com/nokugroup"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Noku-317917408638309/"
+    },
+    {
+      "Github": "https://github.com/noku-wallet/wallet"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/27133020/"
+    },
+    {
+      "Telegram": "https://t.me/nokuofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/NokuTeam"
+    },
+    {
+      "Website": "https://noku.io/"
+    },
+    {
+      "Whitepaper": "https://www.noku.io/Noku-White_Paper_Draft_0-9-5.pdf"
+    }
+  ],
+  "name": "NOKU",
+  "symbol": "NOKU"
+}

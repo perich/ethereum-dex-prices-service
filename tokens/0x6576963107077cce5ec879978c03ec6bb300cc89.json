@@ -1,0 +1,24 @@
+{
+  "addr": "0x6576963107077cce5ec879978c03ec6bb300cc89",
+  "decimals": 8,
+  "description": "Crescent Network (CSN) is the world's first multi-use Proof-of Stake token built on Ethereum platform (Incorporating ERC20 and POSToken Standard) which is backed by a physical mining facility.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2791455.0"
+    },
+    {
+      "Email": "mailto:admin@crescenttoken.com"
+    },
+    {
+      "Telegram": "https://t.me/CrescentToken"
+    },
+    {
+      "Twitter": "https://twitter.com/CrescentToken"
+    },
+    {
+      "Website": "https://crescenttoken.com/"
+    }
+  ],
+  "name": "Crescent",
+  "symbol": "CSN"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8",
+  "decimals": 18,
+  "description": "All TME has been automatically converted to Elixor (EXOR).",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2144082.msg21449690#msg21449690"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/elixir/"
+    },
+    {
+      "Email": "mailto:elixirtoken@gmail.com"
+    },
+    {
+      "Github": "https://github.com/elixirDev/elixir"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/elixirtoken/"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/mu4EJaz"
+    },
+    {
+      "Telegram": "https://t.me/ElixirToken"
+    },
+    {
+      "Twitter": "https://twitter.com/ELIXToken"
+    },
+    {
+      "Website": "http://elixirtoken.io/"
+    },
+    {
+      "Website": "https://bitcointalk.org/index.php?topic=2144082.0"
+    }
+  ],
+  "name": "elixir",
+  "symbol": "ELIX"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0x9409b1e54d5154b39bdcde3a6f85d463028435c3",
+  "decimals": 18,
+  "description": "KahnChat is a completely social networking solution and chatting app through which you can connect with friends and family members, send text messages, files and more, send money online, pay bills, post on user walls, share your story and discuss through comments, create and follow brand pages. The app is suitable for people of all ages.\nKCH Token is virtual currency that can be purchased and exchanged through KahnChat wallet and can be used for performing online purchases and transactions at supported merchants, same as the bitcoin.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2644550"
+    },
+    {
+      "Blog": "http://blog.kahnchat.com"
+    },
+    {
+      "Email": "mailto:support@kahnchat.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/kahntechltd/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/kahnchat"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/F40qnhIuEgIFMrGbr1uinQ"
+    },
+    {
+      "Twitter": "https://twitter.com/kahnchat"
+    },
+    {
+      "Website": "https://www.kahnchat.com/"
+    },
+    {
+      "Whitepaper": "https://www.kahnchat.com/docs/KahnChat-Whitepaper-v2-en.pdf"
+    }
+  ],
+  "name": "KahnChat",
+  "symbol": "KCH"
+}

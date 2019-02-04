@@ -1,0 +1,39 @@
+{
+  "addr": "0x18edc1b644839eed61c69e624e96bbd469a2ef52",
+  "decimals": 18,
+  "description": "ELCoin is a unique project, based on real manufacture and backed by a reliable product, constantly in demand worldwide - medical and wellness equipment, supplemented with Blockchain Medical Platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2360707.0"
+    },
+    {
+      "Blog": "https://medium.com/@ELCoin"
+    },
+    {
+      "Email": "mailto:info@elcoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/elcoinio/"
+    },
+    {
+      "Github": "https://github.com/elcoinio"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/elcoin_io"
+    },
+    {
+      "Telegram": "https://t.me/elcoin_io"
+    },
+    {
+      "Twitter": "https://twitter.com/ELCOIN_IO"
+    },
+    {
+      "Website": "https://elcoin.io/"
+    },
+    {
+      "Whitepaper": "https://elcoin.io/White_Paper%200.9_v3.pdf"
+    }
+  ],
+  "name": "Elcoin Token",
+  "symbol": "ELC"
+}

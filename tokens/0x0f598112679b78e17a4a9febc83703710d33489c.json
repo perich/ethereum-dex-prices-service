@@ -1,0 +1,24 @@
+{
+  "addr": "0x0f598112679b78e17a4a9febc83703710d33489c",
+  "decimals": 8,
+  "description": "Monero Gold Token is an ERC20 token that aims to become the first globally accepted ERC20 token used for purchasing and selling of goods, services and more. With a professional team consisting of 8 experts in their field we believe our vision can be accomplished together with our community.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2486560"
+    },
+    {
+      "Blog": "https://medium.com/@monerogoldtoken"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GRIKyxEB8BPqDqz6Xaz_Bw"
+    },
+    {
+      "Twitter": "https://twitter.com/monerogoldtoken"
+    },
+    {
+      "Website": "https://monero-gold.org/"
+    }
+  ],
+  "name": "Monero Gold",
+  "symbol": "XMRG"
+}

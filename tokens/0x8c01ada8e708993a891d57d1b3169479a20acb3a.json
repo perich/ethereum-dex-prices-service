@@ -1,0 +1,12 @@
+{
+  "addr": "0x8c01ada8e708993a891d57d1b3169479a20acb3a",
+  "decimals": 18,
+  "description": "VIT is created after our lord and savior.",
+  "links": [
+    {
+      "Website": "http://vitalikcoin.org"
+    }
+  ],
+  "name": "VitalikCoin",
+  "symbol": "VIT"
+}

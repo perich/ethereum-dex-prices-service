@@ -1,0 +1,39 @@
+{
+  "addr": "0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e",
+  "decimals": 0,
+  "description": "modum.io combines IoT sensors with blockchain technology to provide data integrity for transactions of physical products, streamlining supply chain processes in many sectors.",
+  "links": [
+    {
+      "Blog": "https://modum.io/news/news/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/modum/"
+    },
+    {
+      "Email": "mailto:info@modum.io"
+    },
+    {
+      "Github": "https://github.com/modum-io"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/modum_io/"
+    },
+    {
+      "Slack": "https://modum-token.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/modum_io"
+    },
+    {
+      "Website": "https://modum.io/"
+    },
+    {
+      "Website": "https://modum.io"
+    },
+    {
+      "Whitepaper": "https://modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf"
+    }
+  ],
+  "name": "Modum Token",
+  "symbol": "MOD"
+}

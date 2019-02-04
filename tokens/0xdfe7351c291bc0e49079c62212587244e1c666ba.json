@@ -1,0 +1,39 @@
+{
+  "addr": "0xdfe7351c291bc0e49079c62212587244e1c666ba",
+  "decimals": 18,
+  "description": "SME Banking Platform is designed to empower micro, small businesses and entrepreneurs in Sub-Saharan Africa with the financial services and digital technology they require to start and grow their businesses. The SME tokens powers especially the Remittance and Loyalty ecosystems",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2689141.0"
+    },
+    {
+      "Blog": "https://medium.com/@info.socialyn/"
+    },
+    {
+      "Email": "mailto:admin@smeplatform.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/smeplatform/"
+    },
+    {
+      "Github": "https://github.com/SMEBankingPlatform"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/smeplatform/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/DpYnV04roZlXTXHOETDgJw"
+    },
+    {
+      "Twitter": "https://twitter.com/PlatformSme"
+    },
+    {
+      "Website": "https://www.smeplatform.co/"
+    },
+    {
+      "Whitepaper": "https://docs.wixstatic.com/ugd/0d705d_8193c235bbc64f158e74fa61b160fe50.pdf"
+    }
+  ],
+  "name": "SME Banking Platform",
+  "symbol": "SME"
+}

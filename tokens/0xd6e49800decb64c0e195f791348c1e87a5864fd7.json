@@ -1,0 +1,13 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "RCPT",
+  "addr": "0xd6e49800decb64c0e195f791348c1e87a5864fd7",
+  "decimals": 9,
+  "description": "ReceiptCoin is building a universal blockchain receipt standard as will as APIs and apps to use them. These receipts will be used to track ownership make re-selling goods more efficient for everyone.",
+  "links": [
+    {
+      "Website": "https://www.receiptcoin.io/"
+    }
+  ],
+  "name": "ReceiptCoin",
+  "symbol": "RC"
+}

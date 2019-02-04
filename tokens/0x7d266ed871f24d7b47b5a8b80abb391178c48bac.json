@@ -1,0 +1,45 @@
+{
+  "addr": "0x7d266ed871f24d7b47b5a8b80abb391178c48bac",
+  "decimals": 8,
+  "description": "StakeIt Token (STAKE) is a community-driven investment token allowing token holders to stake their tokens on a daily basis without any withdrawal or date limits through a centralized banking system. Token holders are required to pay small fees in ETH whenever depositing or withdrawing, and all revenues generated are used to buy-back and destroy tokens.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2401104.0"
+    },
+    {
+      "Blog": "https://medium.com/@stakeit"
+    },
+    {
+      "Email": "mailto:support@stake-it.com"
+    },
+    {
+      "Github": "https://github.com/StakeItToken/StakeIt"
+    },
+    {
+      "Instagram": "https://www.instagram.com/stakeittoken/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/StakeIt/"
+    },
+    {
+      "Slack": "https://stakeit.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/StakeItTelegram"
+    },
+    {
+      "Twitter": "https://twitter.com/stakeit_token"
+    },
+    {
+      "Website": "https://www.stake-it.com"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UC-Yp-mI3aQZGnBGq5OTqmkA"
+    },
+    {
+      "Whitepaper": "https://github.com/StakeItToken/StakeIt"
+    }
+  ],
+  "name": "StakeIt",
+  "symbol": "STAKE"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0x1063ce524265d5a3a624f4914acd573dd89ce988",
+  "decimals": 18,
+  "description": "Aigang aims to build blockchain protocol for digital insurance, which can be used as layer protocol using DAO and smart contracts for insurance services for IoT and smart devices.",
+  "links": [
+    {
+      "Blog": "https://medium.com/aigang-network"
+    },
+    {
+      "Email": "mailto:team@aigang.network"
+    },
+    {
+      "Github": "https://github.com/AigangNetwork"
+    },
+    {
+      "Telegram": "https://t.me/aigangnetwork"
+    },
+    {
+      "Twitter": "https://twitter.com/aigangnetwork"
+    },
+    {
+      "WeChat": "https://aigang.network/img/aigangWeChat.png"
+    },
+    {
+      "Website": "https://aigang.network/"
+    },
+    {
+      "Whitepaper": "https://aigang.network/whitepaper"
+    }
+  ],
+  "name": "Aigang",
+  "symbol": "AIX"
+}

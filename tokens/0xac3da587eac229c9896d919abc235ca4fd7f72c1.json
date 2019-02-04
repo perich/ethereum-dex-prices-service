@@ -1,0 +1,33 @@
+{
+  "addr": "0xac3da587eac229c9896d919abc235ca4fd7f72c1",
+  "decimals": 1,
+  "description": "Target Coin is a tokenised long-short Cryptocurrency Fund",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1997376.0"
+    },
+    {
+      "Blog": "https://medium.com/@TargetCoin/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/target-coin/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/targetcoinfund/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FJeVV0HwLpRAZB9MyJI0lQ"
+    },
+    {
+      "Twitter": "https://twitter.com/TargetCoin"
+    },
+    {
+      "Website": "https://www.tgtcoins.com/"
+    },
+    {
+      "Whitepaper": "https://docs.wixstatic.com/ugd/c281dc_6e00ec5ef9534f81b78bffc4ff24700d.pdf"
+    }
+  ],
+  "name": "Target Coin",
+  "symbol": "TGT"
+}

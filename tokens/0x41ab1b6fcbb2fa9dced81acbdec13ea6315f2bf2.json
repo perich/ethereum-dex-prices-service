@@ -1,0 +1,51 @@
+{
+  "addr": "0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2",
+  "decimals": 18,
+  "description": "XDCE is a 1:1 proxy for the XDC utility token on the XinFin hybrid blockchain. This allows token holder the flexibility to hold tokens in either form for utility.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1989818.0"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/xinfin-network/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/xinfin-network/"
+    },
+    {
+      "Email": "mailto:support@xinfin.org"
+    },
+    {
+      "Github": "https://github.com/XinFinorg"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/xinfin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/xinfin/"
+    },
+    {
+      "Slack": "https://xinfin-public.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/xinfintalk"
+    },
+    {
+      "Twitter": "https://twitter.com/xinfinf"
+    },
+    {
+      "Website": "https://xinfin.io"
+    },
+    {
+      "Website": "https://xinfin.org"
+    },
+    {
+      "Whitepaper": "https://www.xinfin.io/#white-paper"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g"
+    }
+  ],
+  "name": "XinFin XDCE",
+  "symbol": "XDCE"
+}

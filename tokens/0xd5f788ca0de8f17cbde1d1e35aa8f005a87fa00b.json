@@ -1,0 +1,33 @@
+{
+  "addr": "0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b",
+  "decimals": 8,
+  "description": "Shivers is a cryptocurrency developed to facilitate the production and distribution of horror films via blockchain technology. Shivers' partners include legendary filmmakers, such as the creators of the box office hit \"The Blair Witch Project\" and large communities such as \"Infamous Horror\" and their 1.7 Million followers.",
+  "links": [
+    {
+      "Email": "mailto:info@shivers.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/InfamousHorror/"
+    },
+    {
+      "Github": "https://github.com/ShiversToken"
+    },
+    {
+      "Instagram": "https://www.instagram.com/shiverstoken/"
+    },
+    {
+      "Telegram": "https://t.me/shiversio"
+    },
+    {
+      "Twitter": "https://twitter.com/ShiversToken"
+    },
+    {
+      "Website": "https://shivers.io/"
+    },
+    {
+      "Whitepaper": "https://shivers.io/whitepaper.pdf"
+    }
+  ],
+  "name": "Shivers",
+  "symbol": "SHVR"
+}

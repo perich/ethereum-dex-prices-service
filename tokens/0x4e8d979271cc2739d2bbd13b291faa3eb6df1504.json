@@ -1,0 +1,45 @@
+{
+  "addr": "0x4e8d979271cc2739d2bbd13b291faa3eb6df1504",
+  "decimals": 18,
+  "description": "EURN is a token that is 1:1 with Euro fiat money, meaning that 1 EURN is always going to be 1 EURO (fiat)",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2518812.0"
+    },
+    {
+      "Blog": "https://medium.com/@NokuTeam"
+    },
+    {
+      "Blog": "https://medium.com/nokugroup"
+    },
+    {
+      "Email": "mailto:info@noku.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/nokuteam/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Noku-317917408638309/"
+    },
+    {
+      "Github": "https://github.com/noku-wallet/wallet"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/noku-io/"
+    },
+    {
+      "Telegram": "https://t.me/nokuofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/NokuTeam"
+    },
+    {
+      "Website": "https://www.noku.io/"
+    },
+    {
+      "Whitepaper": "https://www.noku.io/Noku-White_Paper_Draft_0-9-5.pdf"
+    }
+  ],
+  "name": "Noku EUR",
+  "symbol": "EURN"
+}

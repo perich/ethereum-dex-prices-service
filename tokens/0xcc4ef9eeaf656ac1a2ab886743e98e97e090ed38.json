@@ -1,0 +1,36 @@
+{
+  "addr": "0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38",
+  "decimals": 18,
+  "description": "Digital Developers Fund is an investment fund designed to let investors participate in the extraordinary growth in domain names and crypto currencies. In August 2017, we raised close to $2m in an Initial Coin Offering.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/digital-developers-fund/"
+    },
+    {
+      "Email": "mailto:info@digitaldevelopersfund.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/pg/digitaldevelopersfund/"
+    },
+    {
+      "Github": "https://github.com/digitaldevelopersfund/ddf"
+    },
+    {
+      "Slack": "https://digitaldevelopersfund.slack.com/signup"
+    },
+    {
+      "Telegram": "https://t.me/DigitalDevelopersFund"
+    },
+    {
+      "Twitter": "https://twitter.com/DigitalDevFund"
+    },
+    {
+      "Website": "https://www.digitaldevelopersfund.com/"
+    },
+    {
+      "Whitepaper": "https://www.digitaldevelopersfund.com/wp-content/uploads/2017/07/DDF.pdf"
+    }
+  ],
+  "name": "Digital Developers Fund Token",
+  "symbol": "DDF"
+}

@@ -1,0 +1,25 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "EUSD",
+  "addr": "0x87611ca3403a3878dfef0da2a786e209abfc1eff",
+  "decimals": 8,
+  "description": "eUSD is a tokenised version of U.S. Dollar on the Ethereum blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?action=profile;u=1206421"
+    },
+    {
+      "Email": "mailto:dev@eusd.io"
+    },
+    {
+      "Twitter": "https://twitter.com/eUSDtoken"
+    },
+    {
+      "Website": "http://www.eusd.io/"
+    },
+    {
+      "Website": "http://eusd.io"
+    }
+  ],
+  "name": "eUSD",
+  "symbol": "eUSD"
+}

@@ -1,0 +1,43 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "CTT",
+  "addr": "0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5",
+  "decimals": 18,
+  "description": "The First Blockchain-based Platform To Trade Food and Raw Materials",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2209841"
+    },
+    {
+      "Blog": "https://medium.com/@ChainTrade/"
+    },
+    {
+      "Email": "mailto:info@chaintrade.net"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ChainTrade"
+    },
+    {
+      "Github": "https://github.com/ChainTrade"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/chaintrade/"
+    },
+    {
+      "Slack": "http://slack.chaintrade.net/"
+    },
+    {
+      "Telegram": "https://t.me/ChainTrade"
+    },
+    {
+      "Twitter": "https://twitter.com/ChainTrade"
+    },
+    {
+      "Website": "https://chaintrade.net/"
+    },
+    {
+      "Whitepaper": "https://chaintrade.net/wp-content/uploads/2017/11/ChainTrade_Whitepaper_v0.81.pdf"
+    }
+  ],
+  "name": "ChainTrade Coin",
+  "symbol": "CTC"
+}

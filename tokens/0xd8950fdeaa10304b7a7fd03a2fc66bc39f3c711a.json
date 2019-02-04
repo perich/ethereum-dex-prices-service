@@ -1,0 +1,39 @@
+{
+  "addr": "0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a",
+  "decimals": 18,
+  "description": "The wys Token decentralizes digital commerce. It gives users discounts for product views, advertisers access to customers, and retailers new opportunities to increase their sales. Powered by the wysker App, users can now experience shopping like never before while turning their data in wys Token discounts. The wysker Platform paves the way for the widespread acceptance of cryptocurrencies in digital commerce.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2443093.0"
+    },
+    {
+      "Blog": "https://medium.com/wysker"
+    },
+    {
+      "Facebook": "https://www.facebook.com/wysker/"
+    },
+    {
+      "Github": "https://github.com/wysker"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/22337689/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/HIZi0Q8O0dE2KyYrKtEteg"
+    },
+    {
+      "Twitter": "https://twitter.com/wysker_"
+    },
+    {
+      "Website": "https://www.wystoken.org"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=xg_OEr2UqKY"
+    },
+    {
+      "Whitepaper": "https://www.wystoken.org/media/wysker-whitepaper.pdf"
+    }
+  ],
+  "name": "wys Token",
+  "symbol": "WYS"
+}

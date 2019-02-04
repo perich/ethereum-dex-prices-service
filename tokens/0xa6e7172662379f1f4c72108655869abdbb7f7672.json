@@ -1,0 +1,22 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "JADE",
+  "addr": "0xa6e7172662379f1f4c72108655869abdbb7f7672",
+  "decimals": 5,
+  "description": "A decentralized platform for ethical advertising",
+  "links": [
+    {
+      "Email": "mailto:jadecoinofficial@gmail.com"
+    },
+    {
+      "Twitter": "https://twitter.com/jadecoins"
+    },
+    {
+      "Website": "https://www.jadecoinofficial.org/"
+    },
+    {
+      "Whitepaper": "https://www.jadecoinofficial.org/whitepaper"
+    }
+  ],
+  "name": "Jade",
+  "symbol": "Jade"
+}

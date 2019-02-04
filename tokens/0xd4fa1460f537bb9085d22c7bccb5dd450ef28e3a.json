@@ -1,0 +1,39 @@
+{
+  "addr": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+  "decimals": 8,
+  "description": "Sell your invoices online and take control of your cash flow &mdash; We're rebuilding invoice and trade finance block by block on the blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1866936"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/populous/"
+    },
+    {
+      "Email": "mailto:info@populous.co"
+    },
+    {
+      "Github": "https://github.com/Bitpopulous"
+    },
+    {
+      "Slack": "https://bitpopulous.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://telegram.me/Populous"
+    },
+    {
+      "Twitter": "https://twitter.com/bitpopulous"
+    },
+    {
+      "Website": "http://populous.co"
+    },
+    {
+      "Website": "http://populous.co/"
+    },
+    {
+      "Whitepaper": "http://populous.co/populous_whitepaper.pdf"
+    }
+  ],
+  "name": "Populous Platform",
+  "symbol": "PPT"
+}

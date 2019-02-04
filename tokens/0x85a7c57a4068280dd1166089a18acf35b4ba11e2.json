@@ -1,0 +1,30 @@
+{
+  "addr": "0x85a7c57a4068280dd1166089a18acf35b4ba11e2",
+  "decimals": 18,
+  "description": "A Trustworthy Distributed Platform for Copyright Registration and File Integrity Verification",
+  "links": [
+    {
+      "Twitter": "https://twitter.com/engravedTech"
+    },
+    {
+      "Website": "https://engraved.tech/"
+    },
+    {
+      "Whitepaper": "https://engraved.tech/files/whitepaper.pdf"
+    },
+    {
+      "Email": "mailto:info@engraved.tech"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2294845"
+    },
+    {
+      "Github": "https://github.com/engravedTech"
+    },
+    {
+      "Telegram": "https://t.me/engraved"
+    }
+  ],
+  "name": "Engraved Coin",
+  "symbol": "XEG"
+}

@@ -1,0 +1,45 @@
+{
+  "addr": "0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef",
+  "decimals": 18,
+  "description": "SportyCo will provide the sports and investment community a healthy ecosystem with a huge growth potential. SportyCo will enable investors to harness and monetize the athletic potential of up-and-coming stars – who, until now, often didn’t have the means to finance their career.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2211728.0"
+    },
+    {
+      "Blog": "https://news.sportyco.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/sportyco/"
+    },
+    {
+      "Email": "mailto:info@sportyco.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/SportyCo.io"
+    },
+    {
+      "Github": "https://github.com/sportyfi"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/25055326/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SportyCo/"
+    },
+    {
+      "Telegram": "https://t.me/SportyCo_official"
+    },
+    {
+      "Twitter": "https://twitter.com/sportyco_io"
+    },
+    {
+      "Website": "https://sportyco.io/"
+    },
+    {
+      "Whitepaper": "https://sportyco.io/SPORTYFI-Whitepaper.pdf"
+    }
+  ],
+  "name": "SPFToken",
+  "symbol": "SPF"
+}

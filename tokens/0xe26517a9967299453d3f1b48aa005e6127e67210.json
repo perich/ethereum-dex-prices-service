@@ -1,0 +1,33 @@
+{
+  "addr": "0xe26517a9967299453d3f1b48aa005e6127e67210",
+  "decimals": 18,
+  "description": "первая в мире на 100% децентрализованная платформа криптовалютного кредитования для получения займов на покупку токенов на биржах и ICO с целью максимизации Вашей личной выгоды.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2040087"
+    },
+    {
+      "Email": "mailto:support@nimfamoney.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/nimfamoney/"
+    },
+    {
+      "Github": "https://github.com/nimfamoney"
+    },
+    {
+      "Telegram": "https://t.me/Nimfamoney"
+    },
+    {
+      "Twitter": "https://twitter.com/nimfamoney"
+    },
+    {
+      "Website": "https://nimfamoney.io/"
+    },
+    {
+      "Whitepaper": "https://nimfamoney.io/ENG_V.1.0_Whitepaper_ICO_Nimfamoney.pdf"
+    }
+  ],
+  "name": "NIMFA Token",
+  "symbol": "NIMFA"
+}

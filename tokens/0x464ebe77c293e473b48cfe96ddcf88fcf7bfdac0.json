@@ -1,0 +1,51 @@
+{
+  "addr": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0",
+  "decimals": 18,
+  "description": "The first intuitive flow-based Crypto trading strategy definition platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2791849.0"
+    },
+    {
+      "Blog": "https://medium.com/@kryll_io"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/kryll/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/kryll/"
+    },
+    {
+      "Email": "mailto:team@kryll.io"
+    },
+    {
+      "Facebook": "https://facebook.com/kryll.io"
+    },
+    {
+      "Github": "https://github.com/Cryptense/KryllToken"
+    },
+    {
+      "Linkedin": "https://linkedin.com/company/cryptense"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Kryll_io/"
+    },
+    {
+      "Telegram": "https://t.me/kryll_io"
+    },
+    {
+      "Twitter": "https://twitter.com/kryll_io"
+    },
+    {
+      "Website": "https://kryll.io/"
+    },
+    {
+      "Whitepaper": "https://kryll.io/pdf/WhitePaper.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCET6DYvfwpIvmeY2x_VdHMQ"
+    }
+  ],
+  "name": "Kryll",
+  "symbol": "KRL"
+}

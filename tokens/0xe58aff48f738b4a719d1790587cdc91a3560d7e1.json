@@ -1,0 +1,12 @@
+{
+  "addr": "0xe58aff48f738b4a719d1790587cdc91a3560d7e1",
+  "decimals": 7,
+  "description": "Token library with API",
+  "links": [
+    {
+      "Website": "https://www.tokenmarketplace.io/"
+    }
+  ],
+  "name": "TokenMarketPlace",
+  "symbol": "TMP"
+}

@@ -1,0 +1,12 @@
+{
+  "addr": "0x8866d52303e372c2a2936d8ea09afd87bcbd8cf2",
+  "decimals": 10,
+  "description": "Each month a total of 1,500,000 TPL will be distributed between 50 wallets that have top balances. This offer is valid until April 2019.",
+  "links": [
+    {
+      "Website": "https://www.trustpool.io/"
+    }
+  ],
+  "name": "Trust Pool Token",
+  "symbol": "TPL"
+}

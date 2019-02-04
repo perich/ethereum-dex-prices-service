@@ -1,0 +1,39 @@
+{
+  "addr": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+  "decimals": 18,
+  "description": "ælf is a decentralized self-evolving cloud computing network. To establish a Blockchain infrastructure for various commercial requirements, ælf provides a highly efficient multi-chain parallel-processing system with cross-chain communication and self-evolving governance. It brings three innovations namely scalable nodes on cluster of computers, resource isolation for smart contracts via “one chain to one smart contract” and voting through token holders.\nELF tokens are used to pay resource fees in the system, such as deployment of smart contracts, operating and upgrading of systems (transaction fees, cross-chain data transfer fees). It also enables community to vote on major decisions, such as electing mining nodes, introducing new features to the system and other major decisions.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@aelfblockchain"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/aelf/"
+    },
+    {
+      "Email": "mailto:contact@aelf.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/grid.blockchain.1"
+    },
+    {
+      "Github": "https://github.com/aelfProject"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/aelf_blockchain/"
+    },
+    {
+      "Telegram": "https://t.me/aelfblockchain"
+    },
+    {
+      "Twitter": "https://twitter.com/aelfblockchain"
+    },
+    {
+      "Website": "http://aelf.io/"
+    },
+    {
+      "Whitepaper": "https://grid.hoopox.com/%C3%A6lf_whitepaper_v1.2.pdf"
+    }
+  ],
+  "name": "ELF Token",
+  "symbol": "ELF"
+}

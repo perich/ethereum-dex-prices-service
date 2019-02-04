@@ -1,0 +1,39 @@
+{
+  "addr": "0x57a3dc224dccc0526954ff60ca6badd19c274d88",
+  "decimals": 18,
+  "description": "MeeTip is a cryptocurrency that will be used into OutMySphere in order to offer drinks to your soulmate or to your friends and tip the employee of your choice.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2328623"
+    },
+    {
+      "Blog": "https://medium.com/@OutMySphere"
+    },
+    {
+      "Email": "mailto:crowdsale@meetip.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/outmysphereapp"
+    },
+    {
+      "Instagram": "https://www.instagram.com/outmysphere"
+    },
+    {
+      "Telegram": "https://t.me/meetip"
+    },
+    {
+      "Twitter": "https://twitter.com/outmysphere"
+    },
+    {
+      "Website": "https://meetip.io/"
+    },
+    {
+      "Whitepaper": "https://meetip.io/pdf/WhitePaper.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/c/OutMySphere"
+    }
+  ],
+  "name": "MeeTip",
+  "symbol": "MTIP"
+}

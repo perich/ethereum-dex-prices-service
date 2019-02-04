@@ -1,0 +1,42 @@
+{
+  "addr": "0x64cdf819d3e75ac8ec217b3496d7ce167be42e80",
+  "decimals": 18,
+  "description": "InsurePal is a next generation of peer-to-peer insurance based on social proof endorsements, fully harnessing the power of blockchain innovation. It aims to become the world’s first insurance service offering trust to members of the crypto community when transacting products and services.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2495721.0"
+    },
+    {
+      "Blog": "https://medium.com/insurepal-blog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/insurepal/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/InsurePal/"
+    },
+    {
+      "Github": "https://github.com/InsurePal"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/18358945/"
+    },
+    {
+      "Telegram": "https://t.me/InsurePal"
+    },
+    {
+      "Twitter": "https://twitter.com/InsurePal_io"
+    },
+    {
+      "Website": "https://insurepal.io"
+    },
+    {
+      "Whitepaper": "https://insurepal.io/InsurePal_whitepaper.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCgpEjq3P54FKDmJDyOjJ9vg"
+    }
+  ],
+  "name": "InsurePal token",
+  "symbol": "IPL"
+}

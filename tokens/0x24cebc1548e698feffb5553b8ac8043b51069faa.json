@@ -1,0 +1,33 @@
+{
+  "addr": "0x24cebc1548e698feffb5553b8ac8043b51069faa",
+  "decimals": 12,
+  "description": "A blockchain protocol stack designed for scalable & flexible blockchain applications.\nThe Alvalor team is dedicated to building a scalable blockchain. This is realised by focusing on moving complexity to second layer channels and building a simple and efficient base layer.",
+  "links": [
+    {
+      "Blog": "https://medium.com/alvalor"
+    },
+    {
+      "Email": "mailto:info@alvalor.org"
+    },
+    {
+      "Github": "https://github.com/alvalor"
+    },
+    {
+      "Telegram": "https://t.me/alvalor"
+    },
+    {
+      "Twitter": "https://twitter.com/alvalorproject"
+    },
+    {
+      "Website": "https://www.alvalor.org/"
+    },
+    {
+      "Whitepaper": "https://www.alvalor.org/wp-content/uploads/sites/2/2017/10/alvalor-vision-paper.pdf"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1964747.0"
+    }
+  ],
+  "name": "Alvalor",
+  "symbol": "TVAL"
+}

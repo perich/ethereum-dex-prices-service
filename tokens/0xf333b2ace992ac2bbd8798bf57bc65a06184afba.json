@@ -1,0 +1,39 @@
+{
+  "addr": "0xf333b2ace992ac2bbd8798bf57bc65a06184afba",
+  "decimals": 0,
+  "description": "The world's first electronic option for high-quality sand",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2049619.msg20421330#msg20421330"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/sand-coin/"
+    },
+    {
+      "Email": "mailto:ico@sandcoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/SandCoinICO"
+    },
+    {
+      "Github": "https://github.com/sndtoken"
+    },
+    {
+      "Telegram": "https://t.me/sandcoin"
+    },
+    {
+      "Twitter": "https://twitter.com/ruslanyocto"
+    },
+    {
+      "Website": "https://sandcoin.io/en"
+    },
+    {
+      "Website": "https://en.sandcoin.io/"
+    },
+    {
+      "Whitepaper": "https://sandcoin.io/WhitePaperSND_en.pdf"
+    }
+  ],
+  "name": "SND Token 1.0",
+  "symbol": "SND"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0xf3db7560e820834658b590c96234c333cd3d5e5e",
+  "decimals": 18,
+  "description": "CHP token was created to play poker online. Coinpoker is the first platform where it is already accepted. The long term vision of CHP token is to become a gambling token to be used for gambling purposes.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2078449"
+    },
+    {
+      "Blog": "https://medium.com/@CoinPoker"
+    },
+    {
+      "Email": "mailto:info@coinpoker.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/CoinPokerOfficial/"
+    },
+    {
+      "Github": "https://github.com/CoinPokerOfficial/ico-smartcontracts"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/coinpoker/"
+    },
+    {
+      "Telegram": "https://t.me/officialcoinpoker"
+    },
+    {
+      "Twitter": "https://twitter.com/CoinPoker_OFF"
+    },
+    {
+      "Website": "https://coinpoker.com/"
+    },
+    {
+      "Whitepaper": "https://coinpoker.com/downloads/coinpoker-whitepaper.pdf?v180126"
+    }
+  ],
+  "name": "Chips",
+  "symbol": "CHP"
+}

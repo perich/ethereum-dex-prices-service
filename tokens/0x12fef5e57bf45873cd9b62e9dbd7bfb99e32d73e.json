@@ -1,0 +1,36 @@
+{
+  "addr": "0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e",
+  "decimals": 18,
+  "description": "Cofound.it is a distributed global platform that connects exceptional startups, experts and investors worldwide. It will first be built by the blockchain community for the blockchain community &mdash; and then for the whole world.",
+  "links": [
+    {
+      "Blog": "https://blog.cofound.it/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/cofound-it/"
+    },
+    {
+      "Email": "mailto:info@cofound.it"
+    },
+    {
+      "Facebook": "https://www.facebook.com/CofounditEcosystem/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/cofoundit/"
+    },
+    {
+      "Slack": "http://cofoundit.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/cofound_it"
+    },
+    {
+      "Website": "https://cofound.it/"
+    },
+    {
+      "Whitepaper": "https://cofounditmedia.s3-eu-west-1.amazonaws.com/documents/Cofound.it_business_plan_Na27itB.pdf"
+    }
+  ],
+  "name": "Cofoundit",
+  "symbol": "CFI"
+}

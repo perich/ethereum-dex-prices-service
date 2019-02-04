@@ -1,0 +1,42 @@
+{
+  "addr": "0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404",
+  "decimals": 18,
+  "description": "SunContract is an energy-trading platform that utilizes blockchain technology to create a new business model for buying and selling electricity. SunContract Platform will use existing grid and optimize current operations that are costly and inefficient. User-friendly applications will be developed to secure mainstream adoption of our service.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1934763.0"
+    },
+    {
+      "Blog": "http://blog.suncontract.org/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/suncontract/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/suncontractorg/"
+    },
+    {
+      "Github": "https://github.com/SunContract/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/suncontract/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GL05EULsRTS7hxxMfXCTVw"
+    },
+    {
+      "Twitter": "https://twitter.com/sun_contract"
+    },
+    {
+      "Website": "https://suncontract.org"
+    },
+    {
+      "Website": "https://suncontract.org/"
+    },
+    {
+      "Whitepaper": "https://suncontract.org/res/whitepaper.pdf"
+    }
+  ],
+  "name": "SunContract",
+  "symbol": "SNC"
+}

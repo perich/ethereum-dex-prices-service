@@ -1,0 +1,27 @@
+{
+  "addr": "0x28a40acf39b1d3c932f42dd8068ad00a5ad6448f",
+  "decimals": 18,
+  "description": "Privateers.life This is a game in which you can live the life of an ordinary inhabitant of a pirate settlement of the 17th century. You are not limited in frameworks: courtesy, law, morality, tactics and strategy. You should do your best to survive.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2094453.0"
+    },
+    {
+      "Email": "mailto:blackbeard@privateers.life"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ThePrivateerIsland/"
+    },
+    {
+      "Twitter": "https://twitter.com/alienter2"
+    },
+    {
+      "Website": "https://privateers.life/"
+    },
+    {
+      "Whitepaper": "https://privateers.life/docs/PrivateersWPeng.pdf"
+    }
+  ],
+  "name": "Ludum",
+  "symbol": "LDM"
+}

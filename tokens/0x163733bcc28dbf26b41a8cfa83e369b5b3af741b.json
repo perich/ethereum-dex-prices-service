@@ -1,0 +1,24 @@
+{
+  "addr": "0x163733bcc28dbf26b41a8cfa83e369b5b3af741b",
+  "decimals": 18,
+  "description": "For the glory of the Persian Empire join the fight against Spartans in the Battle of Thermopylae!",
+  "links": [
+    {
+      "Email": "mailto:king.serse@gmx.com"
+    },
+    {
+      "Github": "https://github.com/Neurone/persians"
+    },
+    {
+      "Slack": "https://battlesmartcontract.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/persian_token"
+    },
+    {
+      "Website": "http://persians.network/"
+    }
+  ],
+  "name": "Persian",
+  "symbol": "PRS"
+}

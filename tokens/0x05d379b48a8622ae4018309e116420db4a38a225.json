@@ -1,0 +1,30 @@
+{
+  "addr": "0x05d379b48a8622ae4018309e116420db4a38a225",
+  "decimals": 18,
+  "description": "New card and payment system with 1 mil total supply.",
+  "links": [
+    {
+      "Email": "mailto:info@elyte.biz"
+    },
+    {
+      "Facebook": "https://facebook.com/EthereumLyte"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/E6tXj0dThqzzjVlWJRuxLw"
+    },
+    {
+      "Website": "https://www.elyte.biz"
+    },
+    {
+      "Whitepaper": "https://main.elyte.biz/?page_id=9"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2618851"
+    },
+    {
+      "Github": "https://github.com/philicibine/EthereumLyte"
+    }
+  ],
+  "name": "EthereumLyte",
+  "symbol": "ELYTE"
+}

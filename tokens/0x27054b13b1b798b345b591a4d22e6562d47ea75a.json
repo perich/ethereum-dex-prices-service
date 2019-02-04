@@ -1,0 +1,45 @@
+{
+  "addr": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+  "decimals": 4,
+  "description": "The engine of the new token economy",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2208855.0"
+    },
+    {
+      "Blog": "https://medium.com/@airswap"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/airswap/"
+    },
+    {
+      "Email": "mailto:team@airswap.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/airswapio"
+    },
+    {
+      "Github": "https://github.com/airswap"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/AirSwap/"
+    },
+    {
+      "Telegram": "https://t.me/airswapofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/airswap"
+    },
+    {
+      "Website": "https://www.airswap.io/"
+    },
+    {
+      "Website": "https://www.airswap.io"
+    },
+    {
+      "Whitepaper": "https://swap.tech/whitepaper/"
+    }
+  ],
+  "name": "AirSwap Token",
+  "symbol": "AST"
+}

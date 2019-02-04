@@ -1,0 +1,18 @@
+{
+  "addr": "0x98f5e9b7f0e33956c0443e81bf7deb8b5b1ed545",
+  "decimals": 18,
+  "description": "SEXY is a fun ERC20 token designed to give users a unique way of expressing themselves via tipping on the blockchain. Our token is aimed at the many adult industries that operate online. Users can tip online workers and let anyone around the world know how sexy they are.",
+  "links": [
+    {
+      "Email": "mailto:support@sexytoken.co"
+    },
+    {
+      "Website": "http://sexytoken.co/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2602612.0"
+    }
+  ],
+  "name": "Sexy Token",
+  "symbol": "SEXY"
+}

@@ -1,0 +1,27 @@
+{
+  "addr": "0xb802b24e0637c2b87d2e8b7784c055bbe921011a",
+  "decimals": 2,
+  "description": "EMV is a decentralised movie-investment platform designed for investing in the independent movie industry.  EMV:\nOrganises investments in movie-project with high potential for ROI\nAllows active shareholder participation\nProvides accurate and transparent accounting of movie production and distribution\nFosters the daily use of Ethereum and tests new Ethereum use-cases",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ethereum-movie-venture/"
+    },
+    {
+      "Email": "mailto:mail@akenevilthing.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ThePittsCircus"
+    },
+    {
+      "Twitter": "https://twitter.com/pitts_circus"
+    },
+    {
+      "Website": "https://emovieventure.com/"
+    },
+    {
+      "Website": "http://emovieventure.com/"
+    }
+  ],
+  "name": "EthereumMovieVenture",
+  "symbol": "EMV"
+}

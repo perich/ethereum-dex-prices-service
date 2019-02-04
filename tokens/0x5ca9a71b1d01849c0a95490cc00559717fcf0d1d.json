@@ -1,0 +1,45 @@
+{
+  "addr": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+  "decimals": 18,
+  "description": "&aelig;ternity is a new blockchain technology, designed to deliver unmatched efficiency, transparent governance and global scalability.",
+  "links": [
+    {
+      "Blog": "https://blog.aeternity.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/aeternity/"
+    },
+    {
+      "Email": "mailto:info@aeternity.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/aeternityproject/"
+    },
+    {
+      "Github": "https://github.com/aeternity"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Aeternity/"
+    },
+    {
+      "Telegram": "https://telegram.me/aeternity"
+    },
+    {
+      "Twitter": "https://twitter.com/aetrnty"
+    },
+    {
+      "WeChat": "http://weixin.qq.com/r/HfV5YWXEUTgurSEC96AP"
+    },
+    {
+      "Website": "https://www.aeternity.com/"
+    },
+    {
+      "Website": "https://aeternity.com/"
+    },
+    {
+      "Whitepaper": "https://aeternity.com/aeternity-blockchain-whitepaper.pdf"
+    }
+  ],
+  "name": "Aeternity",
+  "symbol": "AE"
+}

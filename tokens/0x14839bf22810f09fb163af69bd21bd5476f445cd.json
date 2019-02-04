@@ -1,0 +1,36 @@
+{
+  "addr": "0x14839bf22810f09fb163af69bd21bd5476f445cd",
+  "decimals": 18,
+  "description": "A trustless escrow payment solution using smart contracts with a unique shipping tracking feature.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@Confido.io"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/confido/"
+    },
+    {
+      "Email": "mailto:info@confido.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/confido.io/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/confido/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GB_OvkRMT0F4YkU-nz4y-g"
+    },
+    {
+      "Twitter": "https://twitter.com/Confido_io"
+    },
+    {
+      "Website": "http://confido.io/"
+    },
+    {
+      "Whitepaper": "http://confido.io/wp-content/uploads/2017/10/Whitepaper-v0.2-1.pdf"
+    }
+  ],
+  "name": "Confido Token",
+  "symbol": "CFD"
+}

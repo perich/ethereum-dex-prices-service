@@ -1,0 +1,42 @@
+{
+  "addr": "0x9c23d67aea7b95d80942e3836bcdf7e708a747c2",
+  "decimals": 18,
+  "description": "Loci's InnVenn platform will revolutionize the patent search and discovery process while drastically cutting down the prohibitive costs for inventors as well as making the jobs of intellectual property researchers, attorneys, and developers far simpler.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2161880"
+    },
+    {
+      "Blog": "https://medium.com/@John_Loci"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/locicoin/"
+    },
+    {
+      "Email": "mailto:info@loci.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Loci.InnVenn/"
+    },
+    {
+      "Github": "https://github.com/Locipro"
+    },
+    {
+      "Reddit": "https://reddit.com/r/loci_io"
+    },
+    {
+      "Telegram": "https://t.me/Loci_InnVenn"
+    },
+    {
+      "Twitter": "https://twitter.com/loci_io"
+    },
+    {
+      "Website": "https://locipro.com/"
+    },
+    {
+      "Whitepaper": "https://locipro.com/whitepaper"
+    }
+  ],
+  "name": "LOCIcoin",
+  "symbol": "LOCI"
+}

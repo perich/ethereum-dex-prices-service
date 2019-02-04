@@ -1,0 +1,30 @@
+{
+  "addr": "0x9d5b592b687c887a5a34df5f9207adb2c2db3aec",
+  "decimals": 18,
+  "description": "Ethereum black is a free open source project that was created by a small group of ethereum enthusiasts from diverse backgrounds. In contrast to the other prominent Ethereum forks, Ethereum Black was specifically designed from the beginning to inspire innovation in the Ethereum black ecosystem and give value to the vision of decentralization. Whereas the others were born from hostility and an ambition to dominate, Ethereum black arises from a desire to protect Ethereum and ensure that it not only maintains its position as the dominant cryptocurrency but continues to grow until its liberating roots stretch deep into the economic life of all nations.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2391603.0"
+    },
+    {
+      "Email": "mailto:support@ethereumblack.xyz"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ethereumblack/"
+    },
+    {
+      "Telegram": "https://t.me/EthereumBlack"
+    },
+    {
+      "Twitter": "https://twitter.com/ethereumblack"
+    },
+    {
+      "Website": "https://ethereumblack.xyz/"
+    },
+    {
+      "Whitepaper": "https://ethereumblack.xyz/whitepaper.pdf"
+    }
+  ],
+  "name": "Ethereum Black Token",
+  "symbol": "ETBT"
+}

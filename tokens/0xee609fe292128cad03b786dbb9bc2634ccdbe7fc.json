@@ -1,0 +1,36 @@
+{
+  "addr": "0xee609fe292128cad03b786dbb9bc2634ccdbe7fc",
+  "decimals": 18,
+  "description": "The World's First PoS Smart Contract Token",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2110712.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/postoken/"
+    },
+    {
+      "Email": "mailto:contact@postoken.org"
+    },
+    {
+      "Github": "https://github.com/PoSToken"
+    },
+    {
+      "Slack": "https://postoken.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/PoSToken"
+    },
+    {
+      "Website": "https://postoken.org/airdrop.html"
+    },
+    {
+      "Website": "https://postoken.org/"
+    },
+    {
+      "Whitepaper": "https://postoken.org/whitepaper.pdf"
+    }
+  ],
+  "name": "PoSToken",
+  "symbol": "POS"
+}

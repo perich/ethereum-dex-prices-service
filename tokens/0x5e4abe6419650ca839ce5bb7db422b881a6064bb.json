@@ -1,0 +1,34 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "WIC",
+  "addr": "0x5e4abe6419650ca839ce5bb7db422b881a6064bb",
+  "decimals": 18,
+  "description": "CryptoWi is an app that is aimed to cater to the needs of the general masses by monetizing a daily activity of millions of people - Sharing WiFi. Millions of people use and share their WiFi connections everyday without realizing the potential monetary benefit they can get through it. With CryptoWi, we solve this by letting any user sell/rent his WiFi connection to those in need and be rewarded in Wi Coins (WiC), the in-app currency.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2043933"
+    },
+    {
+      "Email": "mailto:admin@cryptowi.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/WiC-1411131028954062"
+    },
+    {
+      "Slack": "https://join.slack.com/t/wictokensale/shared_invite/MjE2NzA4ODI0NDgyLTE1MDA4OTM3NzUtODEzZGY0YjFhYw"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FLaoRUChXsc2PD_QCBziZQ"
+    },
+    {
+      "Twitter": "https://twitter.com/WiC_Crypto"
+    },
+    {
+      "Website": "https://www.cryptowi.com/"
+    },
+    {
+      "Whitepaper": "https://www.cryptowi.com/wp"
+    }
+  ],
+  "name": "Wi Coin",
+  "symbol": "WiC"
+}

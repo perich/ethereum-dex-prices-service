@@ -1,0 +1,33 @@
+{
+  "addr": "0x8a187d5285d316bcbc9adafc08b51d70a0d8e000",
+  "decimals": 0,
+  "description": "Smart Blockchain Trading and Managed Investment Portfolio",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2037464.0"
+    },
+    {
+      "Email": "mailto:ico@smartift.com"
+    },
+    {
+      "Github": "https://github.com/smartift"
+    },
+    {
+      "Reddit": "https://reddit.com/r/smartift"
+    },
+    {
+      "Telegram": "https://t.me/smartift"
+    },
+    {
+      "Twitter": "https://twitter.com/smartift"
+    },
+    {
+      "Website": "https://smartift.com/"
+    },
+    {
+      "Whitepaper": "https://smartift.com/sift_whitepaper.pdf"
+    }
+  ],
+  "name": "Smart Investment Fund Token",
+  "symbol": "SIFT"
+}

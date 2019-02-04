@@ -1,0 +1,30 @@
+{
+  "addr": "0xe469c4473af82217b30cf17b10bcdb6c8c796e75",
+  "decimals": 0,
+  "description": "Connecting the blockchains using crosschain gateway built on Ethereum smart contracts.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/exrnchain/"
+    },
+    {
+      "Email": "mailto:devs@exrp.io"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/EXRNchain/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/G9VCdRBHfrLMp9EpG7kWRQ"
+    },
+    {
+      "Twitter": "https://twitter.com/EXRNtoken"
+    },
+    {
+      "Website": "https://exrnchain.com/"
+    },
+    {
+      "Website": "https://exrnchain.com"
+    }
+  ],
+  "name": "EXRP Network",
+  "symbol": "EXRN"
+}

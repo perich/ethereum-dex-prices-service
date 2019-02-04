@@ -1,0 +1,33 @@
+{
+  "addr": "0x4162178b78d6985480a308b2190ee5517460406d",
+  "decimals": 18,
+  "description": "The CLN is a payment network that aims to utilize the power of cryptocurrencies to create an open, better, more transparent infrastructure for processing payments, that can offer a competitive alternative to credit card companies and closed-network payment providers.",
+  "links": [
+    {
+      "Email": "mailto:cln@colu.com"
+    },
+    {
+      "Blog": "https://medium.com/colu"
+    },
+    {
+      "Github": "https://github.com/colucom"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Gcrd9Q_E_rgGEjDqmn9Gtg"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ColuNetwork/"
+    },
+    {
+      "Twitter": "https://twitter.com/colunetwork"
+    },
+    {
+      "Website": "https://cln.network/"
+    },
+    {
+      "Whitepaper": "https://cln.network/pdf/cln_whitepaper.pdf"
+    }
+  ],
+  "name": "Colu Local Network",
+  "symbol": "CLN"
+}

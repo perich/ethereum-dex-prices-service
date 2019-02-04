@@ -1,0 +1,30 @@
+{
+  "addr": "0xd3e2f9dfff5a6feeece5dbcee3b86cb375fd8c98",
+  "decimals": 8,
+  "description": "BannerCoin (BCOIN) is the official digital currency asset created by BannerView.com, the developers of the BannerOS website management platform. BannerCoin is an ERC20 token which means it runs on top of the Ethereum network. Holders of the token can trade it or redeem it with BannerView.com for service credits that can be used toward BannerOS and BannerGrips addons. BannerCoins are in limited supply. A total maximum supply of only 100,000,000 were created and no more can be added or mined.",
+  "links": [
+    {
+      "Blog": "https://www.bannerview.com/blog/"
+    },
+    {
+      "Email": "mailto:info@bannerview.com"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BannerView/"
+    },
+    {
+      "Twitter": "https://twitter.com/bannerview/"
+    },
+    {
+      "Website": "https://www.bannerview.com/"
+    },
+    {
+      "Website": "https://www.bannerview.com/bannercoin/"
+    },
+    {
+      "Whitepaper": "https://www.bannerview.com/os/resources/media/BannerCoinWhitePaper.pdf"
+    }
+  ],
+  "name": "BannerCoin",
+  "symbol": "BCOIN"
+}

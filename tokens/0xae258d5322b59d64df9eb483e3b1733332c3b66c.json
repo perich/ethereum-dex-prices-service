@@ -1,0 +1,24 @@
+{
+  "addr": "0xae258d5322b59d64df9eb483e3b1733332c3b66c",
+  "decimals": 8,
+  "description": "EtherGold is an Ethereum-based ERC-20 Token that was created to be a store of value on the ethereum network.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2264102.0"
+    },
+    {
+      "Email": "mailto:ethergoldtoken@gmail.com"
+    },
+    {
+      "Twitter": "https://twitter.com/ETHERGOLDTOKEN"
+    },
+    {
+      "Website": "https://ethergoldtoken.info/"
+    },
+    {
+      "Website": "https://ethergoldtoken.info"
+    }
+  ],
+  "name": "EtherGold",
+  "symbol": "ETHG"
+}

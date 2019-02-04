@@ -1,0 +1,36 @@
+{
+  "addr": "0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8",
+  "decimals": 8,
+  "description": "Social is a cryptocurrency that will be used within Nexus, a secure and private decentralized social network with integrated marketplace and ad platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2100970"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/social/"
+    },
+    {
+      "Email": "mailto:support@nexus.social"
+    },
+    {
+      "Facebook": "https://www.facebook.com/nexussocialnetwork/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/nexus_social/"
+    },
+    {
+      "Telegram": "https://t.me/nexus_social"
+    },
+    {
+      "Twitter": "https://twitter.com/nexus_socials"
+    },
+    {
+      "Website": "https://ico.nexus.social/"
+    },
+    {
+      "Whitepaper": "https://ico.nexus.social/pdfs/legals/Nexus-White-Paper.pdf"
+    }
+  ],
+  "name": "SOCIAL",
+  "symbol": "SCL"
+}

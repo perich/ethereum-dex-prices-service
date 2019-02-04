@@ -1,0 +1,39 @@
+{
+  "addr": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+  "decimals": 18,
+  "description": "GUTS is a ticketing system which uses blockchain technology to register ownership of SMART-tickets.",
+  "links": [
+    {
+      "Bitcointalk": "http://bitcointalk.org/index.php?topic=2111306.0"
+    },
+    {
+      "Blog": "https://blog.guts.tickets/"
+    },
+    {
+      "Email": "mailto:guts.tickets@guts.tickets"
+    },
+    {
+      "Facebook": "https://www.facebook.com/gutstickets"
+    },
+    {
+      "Github": "https://github.com/GUTSTickets"
+    },
+    {
+      "Slack": "https://chat.guts.tickets/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/ANlpzQ9ZgrY7rE9E2eAFCw"
+    },
+    {
+      "Twitter": "https://twitter.com/gutstickets"
+    },
+    {
+      "Website": "https://guts.tickets/"
+    },
+    {
+      "Whitepaper": "https://guts.tickets/files/GET-Whitepaper-GUTS-Tickets-latest.pdf"
+    }
+  ],
+  "name": "Guaranteed Entrance Token",
+  "symbol": "GET"
+}

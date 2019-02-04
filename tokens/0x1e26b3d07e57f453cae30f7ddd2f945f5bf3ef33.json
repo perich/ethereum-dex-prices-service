@@ -1,0 +1,51 @@
+{
+  "addr": "0x1e26b3d07e57f453cae30f7ddd2f945f5bf3ef33",
+  "decimals": 8,
+  "description": "ClearCoin is a technology company that powers the real-time buying and selling of media on decentralized applications and the broader digital environment.\nThe ClearCoin token is used to transact on the platform and can be used to support other members of the ecosystem like advertisers and publishers. The token is built on Ethereum blockchain while ClearCoin’s advertising exchange blockchain is independent. The ClearCoin ad platform accepts CLR tokens as a form of payment.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2710499"
+    },
+    {
+      "Blog": "https://clearcoin.co/blog/"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/clearcoin/"
+    },
+    {
+      "Email": "mailto:help@clearcoin.co"
+    },
+    {
+      "Facebook": "https://facebook.com/clearcoin"
+    },
+    {
+      "Github": "https://github.com/clearcoin"
+    },
+    {
+      "Instagram": "https://www.instagram.com/clearcoinhq/"
+    },
+    {
+      "Linkedin": "https://linkedin.com/company/clearcoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ClearCoin/"
+    },
+    {
+      "Slack": "https://clearcoin.co/slack/"
+    },
+    {
+      "Telegram": "https://t.me/ClearCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/clearcoinhq"
+    },
+    {
+      "Website": "https://clearcoin.co/"
+    },
+    {
+      "Whitepaper": "https://clearcoin.co/whitepaper/"
+    }
+  ],
+  "name": "ClearCoin",
+  "symbol": "XCLR"
+}

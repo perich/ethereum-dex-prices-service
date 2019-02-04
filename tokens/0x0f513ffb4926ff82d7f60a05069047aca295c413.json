@@ -1,0 +1,24 @@
+{
+  "addr": "0x0f513ffb4926ff82d7f60a05069047aca295c413",
+  "decimals": 18,
+  "description": "Crowdstart coin is mined by the contribution to blockchain protocols, applications and theory.  It represents the value that  a token holder has created for the development of blockchain technology through technological advancement or actions inciting usage of blockchain products.",
+  "links": [
+    {
+      "Blog": "http://crowdstart.capital/blog/"
+    },
+    {
+      "Email": "mailto:info@crowdstart.capital"
+    },
+    {
+      "Slack": "https://crowdstartcapital.slack.com/"
+    },
+    {
+      "Website": "http://crowdstart.capital/xsc-overview/"
+    },
+    {
+      "Website": "http://crowdstart.capital/"
+    }
+  ],
+  "name": "CrowdstartCoin",
+  "symbol": "XSC"
+}

@@ -1,0 +1,34 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "AIRA",
+  "addr": "0xa2f4fcb0fde2dd59f7a1873e121bc5623e3164eb",
+  "decimals": 0,
+  "description": "AIRA (Autonomous Intelligent Robot Agent) project implements the standard of economic interaction between human-robot and robot-robot via liability smart contract. AIRA makes it possible to connect a variety of different robots to the market of robots' liabilities existing on Ethereum for the direct sale of data from robot sensors, ordering of logistics services, and organization ordering of personalized products at fully automated enterprises.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2110254.0"
+    },
+    {
+      "Blog": "https://blog.aira.life/"
+    },
+    {
+      "Email": "mailto:pm@aira.life"
+    },
+    {
+      "Github": "https://github.com/airalab/aira"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/A6wE1EOowDh7r1JQo51mvA/"
+    },
+    {
+      "Twitter": "https://twitter.com/EnsRationis/"
+    },
+    {
+      "Website": "http://aira.life/"
+    },
+    {
+      "Whitepaper": "http://aira.life/wp-content/uploads/2017/08/Aira_robot_economics_doctrine_1-3.pdf"
+    }
+  ],
+  "name": "Air phase 1",
+  "symbol": "AIR"
+}

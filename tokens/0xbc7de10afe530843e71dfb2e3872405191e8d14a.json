@@ -1,0 +1,15 @@
+{
+  "addr": "0xbc7de10afe530843e71dfb2e3872405191e8d14a",
+  "decimals": 18,
+  "description": "The First ever Luxury Token, Built on the Ethereum Network.",
+  "links": [
+    {
+      "Email": "mailto:info@shoucair.ca"
+    },
+    {
+      "Website": "http://shoucair.ca/"
+    }
+  ],
+  "name": "SHOUCAIR",
+  "symbol": "SHOUC"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
+  "decimals": 18,
+  "description": "Starbase is a blockchain token based crowdfunding/ sourcing platform. By using Starbase, innovative startsups can fundraise and crowdsource by issuing blockchain tokens. Token based crowdfunding is fast, low-costing and works at a global scale, and with token based crowdsourcing, you can easily without needing an initial amount of cash. Starbase mainly focus on token issuance, fundraising, and reward payments for startups and investors. If you`re interested in being part of the community, join our slack, https://slack.starbase.co or subscribe our weekly newsletter!",
+  "links": [
+    {
+      "Blog": "https://blog.starbase.co/"
+    },
+    {
+      "Email": "mailto:support@starbase.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/StarbaseCo/"
+    },
+    {
+      "Github": "https://github.com/starbaseco"
+    },
+    {
+      "Slack": "https://slack.starbase.co/"
+    },
+    {
+      "Twitter": "https://twitter.com/starbaseco"
+    },
+    {
+      "Website": "https://starbase.co/"
+    },
+    {
+      "Whitepaper": "https://starbase.co/whitepaper"
+    }
+  ],
+  "name": "Starbase",
+  "symbol": "STAR"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+  "decimals": 18,
+  "description": "Enjin Coin is a smart cryptocurrency and virtual goods platform for gaming.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@enjin"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/enjin-coin/"
+    },
+    {
+      "Email": "mailto:presale@enjincoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/enjinsocial"
+    },
+    {
+      "Github": "https://github.com/enjin/contracts"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/EnjinCoin/"
+    },
+    {
+      "Slack": "https://enjincoin.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/enjin_coin"
+    },
+    {
+      "Twitter": "https://twitter.com/enjincs"
+    },
+    {
+      "Website": "https://enjincoin.io/"
+    },
+    {
+      "Whitepaper": "https://enjincoin.io/enjincoin_whitepaper.pdf"
+    }
+  ],
+  "name": "Enjin Coin",
+  "symbol": "ENJ"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0x1500205f50bf3fd976466d0662905c9ff254fc9c",
+  "decimals": 4,
+  "description": "BBT is the internal token for The Block, a decentralized marketplace built on the Ethereum blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1836417.0"
+    },
+    {
+      "Blog": "https://medium.com/bitboost"
+    },
+    {
+      "Email": "mailto:info@bitboost.net"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Bitboost-1819931498257673/"
+    },
+    {
+      "Slack": "https://bitboost.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/BitBoostint"
+    },
+    {
+      "Twitter": "https://twitter.com/bitboosters"
+    },
+    {
+      "Website": "https://www.bitboost.net/"
+    },
+    {
+      "Whitepaper": "https://www.bitboost.net/downloads/The-Block-Whitepaper-v0.5.pdf"
+    }
+  ],
+  "name": "BitBoost Tokens",
+  "symbol": "BBT"
+}

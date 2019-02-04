@@ -1,0 +1,15 @@
+{
+  "addr": "0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06",
+  "decimals": 18,
+  "description": "Parachute is a community engaged in helping early stage companies build their initial community through organized airdrops on the Parachute platform. In addition to launching a coin wallet for airdropped tokens, Parachute is developing an exchange platform to trade these newly minted tokens where PAR (Parachute Token) will serve as the medium of exchange. Additionally, the team envisions further utility and spend options with PAR, such as voting rights and profit sharing capabilities.",
+  "links": [
+    {
+      "Website": "https://www.parachutetoken.com/"
+    },
+    {
+      "Telegram": "https://t.me/parachutetokengroup"
+    }
+  ],
+  "name": "Parachute",
+  "symbol": "PAR"
+}

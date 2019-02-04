@@ -1,0 +1,42 @@
+{
+  "addr": "0x9002d4485b7594e3e850f0a206713b305113f69e",
+  "decimals": 12,
+  "description": "The 1st P2P exchange platform which allows its user to exchange cryptocurrencies and convert them into cash using discovery mode just like Uber.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2285591.0"
+    },
+    {
+      "Blog": "https://www.hawala.today/blog/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/hawala-today/"
+    },
+    {
+      "Email": "mailto:info@hawala.today"
+    },
+    {
+      "Facebook": "https://www.facebook.com/hawalatoday"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/HawalaToday/"
+    },
+    {
+      "Slack": "https://hawalatoday.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/hawala_chat"
+    },
+    {
+      "Twitter": "https://twitter.com/hawalatoday"
+    },
+    {
+      "Website": "https://hawala.today"
+    },
+    {
+      "Whitepaper": "https://www.hawala.today/HAT_Whitepaper.pdf"
+    }
+  ],
+  "name": "HawalaToken",
+  "symbol": "HAT"
+}

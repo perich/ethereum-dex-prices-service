@@ -1,0 +1,21 @@
+{
+  "addr": "0x877fb817d5de492d20ec3190a812f6430e8faeba",
+  "decimals": 18,
+  "description": "Shadowlink (SHAD) is the true form of the first decentralized oracle network; allowing anyone to access what SWIFT and Jason Parser tried to hide from you. Anyone who has a big mac feed can now provide them directly to Sergey's mouth in exchange for LNK tokens.",
+  "links": [
+    {
+      "Website": "https://shadowlink.biz/"
+    },
+    {
+      "Logo (SVG)": "https://shadowlink.biz/assets/logo/shadowlink-logo.svg"
+    },
+    {
+      "Logo (PNG)": "https://shadowlink.biz/assets/logo/shadowlink-logo.png"
+    },
+    {
+      "Etherscan": "https://etherscan.io/token/0x877fb817d5de492d20ec3190a812f6430e8faeba"
+    }
+  ],
+  "name": "ShadowLink Token",
+  "symbol": "SHAD"
+}

@@ -1,0 +1,21 @@
+{
+  "addr": "0x4b35e0ab998ebe8414871c13cf778f9d0bbdf609",
+  "decimals": 18,
+  "description": "Cryptocurrency exchange made simple",
+  "links": [
+    {
+      "Blog": "https://medium.com/@Swapity"
+    },
+    {
+      "Email": "mailto:contact@swapity.io"
+    },
+    {
+      "Twitter": "https://twitter.com/Swapity_io"
+    },
+    {
+      "Website": "https://swapity.io/"
+    }
+  ],
+  "name": "SWAP",
+  "symbol": "SWP"
+}

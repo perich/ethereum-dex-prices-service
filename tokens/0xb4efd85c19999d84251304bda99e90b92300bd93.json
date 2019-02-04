@@ -1,0 +1,33 @@
+{
+  "addr": "0xb4efd85c19999d84251304bda99e90b92300bd93",
+  "decimals": 18,
+  "description": "Rocket Pool is a first of its kind, next generation decentralised Ethereum proof of stake (PoS) pool in alpha and built to be compatible with Casper, the new consensus protocol due in 2018. RPL is the backbone of the Rocket Pool network and acts as a security and identity token of nodes in the network.",
+  "links": [
+    {
+      "Blog": "https://medium.com/rocket-pool"
+    },
+    {
+      "Email": "mailto:david@mail.rocketpool.net"
+    },
+    {
+      "Github": "https://github.com/darcius/rocketpool"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/rocketpool/"
+    },
+    {
+      "Slack": "http://slack.rocketpool.net/"
+    },
+    {
+      "Twitter": "https://twitter.com/Rocket_Pool"
+    },
+    {
+      "Website": "https://www.rocketpool.net/"
+    },
+    {
+      "Whitepaper": "https://www.rocketpool.net/files/RocketPoolWhitePaper.pdf"
+    }
+  ],
+  "name": "Rocket Pool",
+  "symbol": "RPL"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0xb4f5438c3c2a682da351ab6b57edc8530efd67be",
+  "decimals": 4,
+  "description": "Manage payments, inter- and intra-company money transfers without third-parties.",
+  "links": [
+    {
+      "Email": "mailto:info@ethereumpremium.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Ethereum-Premium-346375329105093/"
+    },
+    {
+      "Telegram": "https://t.me/ethereumpremium"
+    },
+    {
+      "Twitter": "https://twitter.com/ethereumpremium"
+    },
+    {
+      "Website": "http://www.ethereumpremium.com/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2656057"
+    },
+    {
+      "Github": "https://github.com/ethereumpremium"
+    },
+    {
+      "Whitepaper": "http://www.ethereumpremium.com/Ethereum_Premium_Whitepaper_1.pdf"
+    }
+  ],
+  "name": "Ethereum Premium",
+  "symbol": "ETHPR"
+}

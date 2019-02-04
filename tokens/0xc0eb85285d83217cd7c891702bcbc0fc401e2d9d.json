@@ -1,0 +1,45 @@
+{
+  "addr": "0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d",
+  "decimals": 8,
+  "description": "Hive (HVN) uses blockchain (distributed ledger) technology to give every issued invoice a unique fingerprint. This enables businesses to automate the invoicing process and make it available to the general public. We create a central data room for all invoices, with a record kept of the issuer, owner and payer. Invoices can therefore be offered to the market for trading. This will rapidly increase the liquidity available to small businesses and create a central database of invoices available for scoring and auditing. In addition to bridging the liquidity gap for small businesses, the technology provided by Hive will help credit checks to be made on companies and facilitate rapid and real-time auditing.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1959159.0"
+    },
+    {
+      "Blog": "https://medium.com/hiveproject-net"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/hive/"
+    },
+    {
+      "Email": "mailto:info@hive-project.net"
+    },
+    {
+      "Facebook": "https://www.facebook.com/HiveProject.net/"
+    },
+    {
+      "Github": "https://github.com/HiveProjectLtd"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/HiveProject_net/"
+    },
+    {
+      "Slack": "https://hiveprojectnet.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/hiveproject_net"
+    },
+    {
+      "Website": "https://hive-project.net/"
+    },
+    {
+      "Website": "https://www.hive-project.net/"
+    },
+    {
+      "Whitepaper": "https://www.hive-project.net/whitepapers/Hive_Project_Whitepaper.pdf?v2"
+    }
+  ],
+  "name": "Hive Project ",
+  "symbol": "HVN"
+}

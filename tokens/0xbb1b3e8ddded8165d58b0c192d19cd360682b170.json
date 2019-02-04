@@ -1,0 +1,21 @@
+{
+  "addr": "0xbb1b3e8ddded8165d58b0c192d19cd360682b170",
+  "decimals": 2,
+  "description": "Casino Coin is the best way to join online games.",
+  "links": [
+    {
+      "Email": "mailto:info@casinocoin.it"
+    },
+    {
+      "Facebook": "https://www.facebook.com/casinocoin.it/"
+    },
+    {
+      "Telegram": "https://t.me/casinocoinit"
+    },
+    {
+      "Website": "http://www.casinocoin.it/"
+    }
+  ],
+  "name": "Casino",
+  "symbol": "CAS"
+}

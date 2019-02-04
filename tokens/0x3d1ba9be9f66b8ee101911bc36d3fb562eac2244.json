@@ -1,0 +1,33 @@
+{
+  "addr": "0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+  "decimals": 18,
+  "description": "The Decentralized &amp; Mobile Cyber Security Token",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1989333.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/rivetz/"
+    },
+    {
+      "Email": "mailto:sales@rivetzintl.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Rivetzcorp/"
+    },
+    {
+      "Telegram": "https://t.me/rivet_group"
+    },
+    {
+      "Twitter": "https://twitter.com/rivetzcorp"
+    },
+    {
+      "Website": "https://rivetzintl.com/"
+    },
+    {
+      "Whitepaper": "https://rivetzintl.com/rvt-white-paper-1.02.pdf"
+    }
+  ],
+  "name": "RvT",
+  "symbol": "RVT"
+}

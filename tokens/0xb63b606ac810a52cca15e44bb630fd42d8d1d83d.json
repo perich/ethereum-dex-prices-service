@@ -1,0 +1,33 @@
+{
+  "addr": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+  "decimals": 8,
+  "description": "Introducing Monaco - world's best cryptocurrency card. Spend and send money globally at perfect interbank exchange rates, saving EUR30-40 on every EUR500 equivalent spent.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/monaco/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Monaco-Card-1355426087883151/"
+    },
+    {
+      "Slack": "https://slack.mona.co/"
+    },
+    {
+      "Telegram": "https://t.me/MonacoCard"
+    },
+    {
+      "Twitter": "https://twitter.com/monaco_card"
+    },
+    {
+      "Website": "http://www.mona.co"
+    },
+    {
+      "Website": "https://www.mona.co/"
+    },
+    {
+      "Whitepaper": "https://www.mona.co/monaco-whitepaper.pdf"
+    }
+  ],
+  "name": "Monaco",
+  "symbol": "MCO"
+}

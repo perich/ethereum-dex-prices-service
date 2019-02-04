@@ -1,0 +1,42 @@
+{
+  "addr": "0xbd4b60a138b3fce3584ea01f50c0908c18f9677a",
+  "decimals": 8,
+  "description": "FinTab - the accounting system for cryptocurrency portfolios. FinTab helps to analyze the financial state of portfolio, the yield on a particular currency, and the whole portfolio. For funds, traders and investors.\nThe FNTB token is used as a payment method in the FinTab system.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2193271"
+    },
+    {
+      "Blog": "https://steemit.com/@fintab"
+    },
+    {
+      "Email": "mailto:info@fintab.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/fintabservice"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/FinTab/"
+    },
+    {
+      "Telegram": "https://t.me/fintab_chat_en"
+    },
+    {
+      "Telegram": "https://t.me/fintab"
+    },
+    {
+      "Twitter": "https://twitter.com/fintab_io"
+    },
+    {
+      "Website": "https://fintab.io/"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/1IawIwe0zJmhytA6PIs9S8wEo7gP6nyRL/view"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCm89wIR7aKi1sjexivd1Eeg/"
+    }
+  ],
+  "name": "FinTab",
+  "symbol": "FNTB"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+  "decimals": 18,
+  "description": "Change is the first mobile app that gives you full control over your finances.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2087937.0"
+    },
+    {
+      "Blog": "https://medium.com/@changebank"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/change/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/changefinance/"
+    },
+    {
+      "Slack": "https://coinchange.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GWX8HkLwpOoocINbLXfRtg"
+    },
+    {
+      "Twitter": "https://twitter.com/changefinance"
+    },
+    {
+      "Website": "https://change-bank.com/"
+    },
+    {
+      "Website": "https://change-bank.com"
+    },
+    {
+      "Whitepaper": "https://goo.gl/yPwyLz"
+    }
+  ],
+  "name": "Change COIN",
+  "symbol": "CAG"
+}

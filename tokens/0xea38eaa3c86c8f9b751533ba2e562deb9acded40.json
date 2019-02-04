@@ -1,0 +1,45 @@
+{
+  "addr": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
+  "decimals": 18,
+  "description": "Etherparty is a smart contract creation tool that allows users to create smart contracts on the blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2005965.0"
+    },
+    {
+      "Blog": "https://medium.com/@etherparty"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/etherparty/"
+    },
+    {
+      "Email": "mailto:hello@etherparty.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/etherparty"
+    },
+    {
+      "Github": "https://github.com/etherparty"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/etherparty/"
+    },
+    {
+      "Telegram": "https://t.me/etherparty"
+    },
+    {
+      "Twitter": "https://twitter.com/etherparty_io"
+    },
+    {
+      "Website": "https://etherparty.io/"
+    },
+    {
+      "Website": "https://etherparty.io"
+    },
+    {
+      "Whitepaper": "https://etherparty.io/Etherparty_White_Paper_EN.pdf"
+    }
+  ],
+  "name": "Fuel Token",
+  "symbol": "FUEL"
+}

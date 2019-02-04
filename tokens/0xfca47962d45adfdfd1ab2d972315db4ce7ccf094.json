@@ -1,0 +1,42 @@
+{
+  "addr": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
+  "decimals": 8,
+  "description": "InsureX is an alternative marketplace for insurance.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1963974.0"
+    },
+    {
+      "Blog": "https://www.ixledger.com/latest/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ixledger/"
+    },
+    {
+      "Email": "mailto:info@ixledger.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/iXledger/"
+    },
+    {
+      "Slack": "https://ixledger.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/iXledger"
+    },
+    {
+      "Twitter": "https://twitter.com/iXledger"
+    },
+    {
+      "Website": "https://www.ixledger.com/"
+    },
+    {
+      "Website": "https://insurex.co/"
+    },
+    {
+      "Whitepaper": "https://www.ixledger.com/wp-content/uploads/2017/05/ixledger_whitepaper_v1.1.pdf"
+    }
+  ],
+  "name": "InsureX",
+  "symbol": "IXT"
+}

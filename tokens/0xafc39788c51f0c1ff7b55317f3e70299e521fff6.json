@@ -1,0 +1,40 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "EBCH",
+  "addr": "0xafc39788c51f0c1ff7b55317f3e70299e521fff6",
+  "decimals": 8,
+  "description": "eBCh is a tokenized version of BitcoinCash on the Ethereum blockchain",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2432836.msg24914103#msg24914103"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ebitcoin-cash/"
+    },
+    {
+      "Email": "mailto:team@ebitcoincash.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/eBCHCoin-1528769833904071/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/eBCHCoin/"
+    },
+    {
+      "Slack": "https://ebch.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/eBCHCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/ebchcoin"
+    },
+    {
+      "Website": "https://www.ebitcoincash.io/"
+    },
+    {
+      "Website": "https://www.ebitcoincash.io"
+    }
+  ],
+  "name": "eBitcoinCash",
+  "symbol": "eBCH"
+}

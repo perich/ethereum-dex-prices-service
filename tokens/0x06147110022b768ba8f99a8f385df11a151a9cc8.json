@@ -1,0 +1,42 @@
+{
+  "addr": "0x06147110022b768ba8f99a8f385df11a151a9cc8",
+  "decimals": 0,
+  "description": "Blockchain-based celebrity management platform that applies decentralized scouting and community voting to ensure transparent engagement for millions of users: celebrities + fans + brands &amp; advertisers.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2043613.0"
+    },
+    {
+      "Blog": "https://medium.com/@tokenstars"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ace/"
+    },
+    {
+      "Email": "mailto:tokenstars@tokenstars.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/TokenStars/"
+    },
+    {
+      "Github": "https://github.com/token-stars"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/TokenStars/"
+    },
+    {
+      "Telegram": "https://t.me/TokenStars_en"
+    },
+    {
+      "Twitter": "https://twitter.com/TokenStars"
+    },
+    {
+      "Website": "https://tokenstars.com/en/ace"
+    },
+    {
+      "Whitepaper": "https://tokenstars.com/upload/files/ace_by_tokenstars_whitepaper.pdf"
+    }
+  ],
+  "name": "ACE Token",
+  "symbol": "ACE"
+}

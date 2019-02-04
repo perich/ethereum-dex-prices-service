@@ -1,0 +1,36 @@
+{
+  "addr": "0xe0e73e8fc3a0fa161695be1d75e1bc3e558957c4",
+  "decimals": 18,
+  "description": "The property platform where individuals can buy, sell, or rent a property directly with each other online without the need for an estate agent.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2445107"
+    },
+    {
+      "Blog": "https://medium.com/agentnotneeded"
+    },
+    {
+      "Facebook": "https://www.facebook.com/agentnotneeded"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Agentnotneeded/"
+    },
+    {
+      "Telegram": "https://t.me/agentnotneededofficial/"
+    },
+    {
+      "Twitter": "https://twitter.com/agentnotneeded"
+    },
+    {
+      "Website": "https://agentnotneeded.com"
+    },
+    {
+      "Whitepaper": "https://tokensale.agentnotneeded.com/whitepaper.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCbXpJfX62NNAphAzjX0AOMA"
+    }
+  ],
+  "name": "Agent Not Needed",
+  "symbol": "ANN"
+}

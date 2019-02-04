@@ -1,0 +1,30 @@
+{
+  "addr": "0xa119f0f5fd06ebadff8883c0f3c40b2d22e7a44f",
+  "decimals": 8,
+  "description": "Corethum is a decentralized prediction market that will be built on the Ethereum protocol. Corethum will provide an open platform for anyone to predict the outcome of any event and plans to drastically simplify the creation of customized prediction market applications. Our prediction markets provide powerful predictive data - you can think of current market price of any share in any market as an estimate of the probability of that outcome actually occurring in the real world.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2333127.0"
+    },
+    {
+      "Email": "mailto:contact@corethum.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Corethum/"
+    },
+    {
+      "Github": "https://github.com/corethum/CRTMOracleDapps"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GsHoWw3bxGp3GLVU436_KA"
+    },
+    {
+      "Twitter": "https://twitter.com/CorethumOracle"
+    },
+    {
+      "Website": "https://www.corethum.com/"
+    }
+  ],
+  "name": "Corethum",
+  "symbol": "CRTM"
+}

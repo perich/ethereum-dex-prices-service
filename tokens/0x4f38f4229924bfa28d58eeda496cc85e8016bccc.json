@@ -1,0 +1,15 @@
+{
+  "addr": "0x4f38f4229924bfa28d58eeda496cc85e8016bccc",
+  "decimals": 0,
+  "description": "CehhCoin is the first PPoW token. This means it is a mineable token with a new clever system. The coin is fully decentralized and will work as a founding stone for the PPoW shift.",
+  "links": [
+    {
+      "Website": "https://cehh.cash"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2954666"
+    }
+  ],
+  "name": "CehhCoin",
+  "symbol": "CEHH"
+}

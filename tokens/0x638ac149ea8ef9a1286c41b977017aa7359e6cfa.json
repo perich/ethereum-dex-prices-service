@@ -1,0 +1,30 @@
+{
+  "addr": "0x638ac149ea8ef9a1286c41b977017aa7359e6cfa",
+  "decimals": 18,
+  "description": "ALTS is a community token, it is distributed to the AltcoinsTalks.com community.",
+  "links": [
+    {
+      "Email": "mailto:dev@altcoinstalks.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/AltcoinsTalks/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FVTLFELkfHI6_CKz7AbIpQ"
+    },
+    {
+      "Twitter": "https://twitter.com/AltcoinsTalks"
+    },
+    {
+      "Website": "http://www.altcoinstalks.com/"
+    },
+    {
+      "Website": "http://www.altcoinstalks.com/index.php?topic=142.0"
+    },
+    {
+      "Whitepaper": "http://www.altcoinstalks.com/index.php?topic=224.0"
+    }
+  ],
+  "name": "Altcoins",
+  "symbol": "ALTS"
+}

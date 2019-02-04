@@ -1,0 +1,36 @@
+{
+  "addr": "0x2a093bcf0c98ef744bb6f69d74f2f85605324290",
+  "decimals": 8,
+  "description": "Foodcoin Ecosystem - blockchain for food and agriculture businesses",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2046949.0"
+    },
+    {
+      "Blog": "https://www.foodcoin.io/en/blog"
+    },
+    {
+      "Email": "mailto:info@foodcoin.io"
+    },
+    {
+      "Github": "https://github.com/foodcoin-io"
+    },
+    {
+      "Telegram": "https://t.me/Foodcoin"
+    },
+    {
+      "Twitter": "https://twitter.com/foodcoin_io"
+    },
+    {
+      "Website": "https://www.foodcoin.io/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=QMdAEhPkNbA"
+    },
+    {
+      "Whitepaper": "https://www.foodcoin.io/files/doc/foodcoin-whitepaper-en.pdf"
+    }
+  ],
+  "name": "FoodCoin",
+  "symbol": "FOOD"
+}

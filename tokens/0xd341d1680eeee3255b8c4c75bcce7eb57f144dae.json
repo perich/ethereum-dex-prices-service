@@ -1,0 +1,36 @@
+{
+  "addr": "0xd341d1680eeee3255b8c4c75bcce7eb57f144dae",
+  "decimals": 18,
+  "description": "We help Influencers And Social Media Users Simplify Their Daily Routine",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?action=profile;u=1025682"
+    },
+    {
+      "Email": "mailto:success@onG.social"
+    },
+    {
+      "Github": "https://github.com/onGsocial/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/onG_social/"
+    },
+    {
+      "Telegram": "https://t.me/onG_social"
+    },
+    {
+      "Twitter": "https://twitter.com/Ong_Social"
+    },
+    {
+      "Website": "https://onGcoin.io"
+    },
+    {
+      "Website": "https://ong.social/"
+    },
+    {
+      "Whitepaper": "https://www.ongcoin.io/wp-content/uploads/2017/07/onG-social-ICO-7-17-17-Final-1-1.pdf"
+    }
+  ],
+  "name": "onG",
+  "symbol": "ONG"
+}

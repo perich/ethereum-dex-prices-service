@@ -1,0 +1,36 @@
+{
+  "addr": "0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
+  "decimals": 0,
+  "description": "First Unbiased Review Platform, Built With Blockchain Technology.",
+  "links": [
+    {
+      "Blog": "https://medium.com/revain"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/revain/"
+    },
+    {
+      "Email": "mailto:contact@revain.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/revain.org/"
+    },
+    {
+      "Github": "https://github.com/Revain/Token"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/CzZcC0PCgpJcbBCb3JfNeQ"
+    },
+    {
+      "Twitter": "https://twitter.com/Revain_org"
+    },
+    {
+      "Website": "https://revain.org/"
+    },
+    {
+      "Whitepaper": "http://revain.org/pdf/wp/en-wp.pdf"
+    }
+  ],
+  "name": "R token",
+  "symbol": "R"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0x559201fa75902cdc4055e40f0c90e3d702049987",
+  "decimals": 18,
+  "description": "bitcoinpure is an Ethereum-based ERC-20 Token that focuses on being a faster and cheaper currency than Bitcoin, Litecoin and other cryptocurrencies, It is the first Ethereum token intended for use as a currency and acceptance by merchants.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2612489"
+    },
+    {
+      "Email": "mailto:admin@btcpure.xyz"
+    },
+    {
+      "Github": "https://github.com/bitcoinpure01"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/in/luiz-lopes-jayme-92903194/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GpTwZRGiIXJ_nN26KjmkuA"
+    },
+    {
+      "Twitter": "https://twitter.com/btcpure"
+    },
+    {
+      "Website": "http://btcpure.xyz/"
+    }
+  ],
+  "name": "BITCOINPURE",
+  "symbol": "BTCP"
+}

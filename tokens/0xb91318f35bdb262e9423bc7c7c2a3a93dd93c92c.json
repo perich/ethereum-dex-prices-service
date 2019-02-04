@@ -1,0 +1,39 @@
+{
+  "addr": "0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c",
+  "decimals": 18,
+  "description": "Nuls is a highly customizable block chain infranstructure, Most modules of which are are plugable. Nuls enables companies to deploy a Customized block chain to meet a set of requirements.",
+  "links": [
+    {
+      "Blog": "https://steemit.com/@nuls"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/nuls/"
+    },
+    {
+      "Email": "mailto:hi@nuls.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/nul.ben.71"
+    },
+    {
+      "Github": "https://github.com/nuls-io/nuls"
+    },
+    {
+      "Slack": "https://nuls.slack.com/"
+    },
+    {
+      "Telegram": "https://www.reddit.com/user/nulsservice/"
+    },
+    {
+      "Twitter": "https://twitter.com/nulsservice"
+    },
+    {
+      "Website": "https://nuls.io/"
+    },
+    {
+      "Website": "https://nuls.io"
+    }
+  ],
+  "name": "Nuls",
+  "symbol": "NULS"
+}

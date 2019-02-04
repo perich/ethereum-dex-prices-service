@@ -1,0 +1,33 @@
+{
+  "addr": "0xf4faea455575354d2699bc209b0a65ca99f69982",
+  "decimals": 18,
+  "description": "From a global community to unbiased and trustless reviews, we are working to bring cryptocurrency to the main stream. With the No BS Token the community reviews ICOs, Exchanges, and other projects to separate the BS from the No BS.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=4709590"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/no-bs-crypto/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/no-bs-crypto/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/groups/nobscrypto/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Gn2Ocg_ugvLie-2VD7w4ig"
+    },
+    {
+      "Twitter": "https://twitter.com/nobscrypto"
+    },
+    {
+      "Website": "https://nobscrypto.com"
+    },
+    {
+      "Whitepaper": "https://nobstoken.com/files/wp.pdf"
+    }
+  ],
+  "name": "No BS Crypto",
+  "symbol": "NOBS"
+}

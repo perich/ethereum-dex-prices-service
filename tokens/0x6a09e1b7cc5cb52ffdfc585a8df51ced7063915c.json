@@ -1,0 +1,32 @@
+{
+  "addr": "0x6a09e1b7cc5cb52ffdfc585a8df51ced7063915c",
+  "decimals": 18,
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2676153.0"
+    },
+    {
+      "Email": "mailto:team@ravelous.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ravelousmarket"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ravelous/"
+    },
+    {
+      "Discord": "https://discordapp.com/invite/fKjGx78"
+    },
+    {
+      "Telegram": "https://t.me/ravelous"
+    },
+    {
+      "Twitter": "https://twitter.com/ravelousmarket"
+    },
+    {
+      "Website": "https://ravelous.com/"
+    }
+  ],
+  "name": "Ravelous",
+  "symbol": "RAVE"
+}

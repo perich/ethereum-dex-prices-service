@@ -1,0 +1,27 @@
+{
+  "addr": "0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9",
+  "decimals": 18,
+  "description": "First Indonesia Token with PoS ever made, with EaglePay as its main project, Indonesia first cloud payment gateway based on blockchain.",
+  "links": [
+    {
+      "Email": "mailto:team@eaglecoinindonesia.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Eaglecoin/"
+    },
+    {
+      "Telegram": "https://t.me/eaglecoinworld"
+    },
+    {
+      "Twitter": "https://twitter.com/EagleCoinID"
+    },
+    {
+      "Website": "https://eaglepay.io/"
+    },
+    {
+      "Whitepaper": "https://eaglepay.io/eagle-whitepaper/"
+    }
+  ],
+  "name": "EagleCoin",
+  "symbol": "EAGLE"
+}

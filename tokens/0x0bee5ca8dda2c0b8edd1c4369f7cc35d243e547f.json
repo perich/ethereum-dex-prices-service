@@ -1,0 +1,33 @@
+{
+  "addr": "0x0bee5ca8dda2c0b8edd1c4369f7cc35d243e547f",
+  "decimals": 8,
+  "description": "VirtualCash (VCA) is a virtual money integrated in Ethereum blockchain that will serve as the main payment method for our e-commerce online store and for VCA conversion to Paypal and WesternUnion.",
+  "links": [
+    {
+      "Website": "http://www.virtualcash.shop"
+    },
+    {
+      "Twitter": "https://twitter.com/VCA_VirtualCash"
+    },
+    {
+      "Github": "https://github.com/virtualcash/crowdsalecontractsource"
+    },
+    {
+      "Telegram": "https://t.me/virtualcash"
+    },
+    {
+      "Discord": "https://discord.gg/TkE2QUq"
+    },
+    {
+      "Whitepaper": "http://www.virtualcash.shop/crowdsale/docs/VCA-whitepaper-en.pdf"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2821367"
+    },
+    {
+      "Facebook": "https://www.facebook.com/VCA.VirtualCash/"
+    }
+  ],
+  "name": "Virtual Cash",
+  "symbol": "VCA"
+}

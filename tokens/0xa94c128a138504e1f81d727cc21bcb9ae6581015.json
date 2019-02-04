@@ -1,0 +1,30 @@
+{
+  "addr": "0xa94c128a138504e1f81d727cc21bcb9ae6581015",
+  "decimals": 18,
+  "description": "Freedom Tokens are used as app tokens to access additional features on our platform such as: Promoting your channel, setting a password on your channel, adding entry fee to your channel, creating or adding emotes, etc. Tokens can also be transferred to other users as donations.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2257986.0"
+    },
+    {
+      "Blog": "https://medium.com/@freedomstreaming"
+    },
+    {
+      "Email": "mailto:freedominvestmentltd@gmail.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/freedomstreaming"
+    },
+    {
+      "Twitter": "https://twitter.com/freedomstream01"
+    },
+    {
+      "Website": "https://freedomstreaming.io/"
+    },
+    {
+      "Whitepaper": "https://freedomstreaming.io/assets/files/Whitepaper.pdf"
+    }
+  ],
+  "name": "Freedom Token",
+  "symbol": "FDM"
+}

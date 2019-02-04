@@ -1,0 +1,36 @@
+{
+  "addr": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
+  "decimals": 8,
+  "description": "Tokenizing the Mobile Data Industry",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/dent/"
+    },
+    {
+      "Email": "mailto:info@dentcoin.com"
+    },
+    {
+      "Facebook": "https://facebook.com/dentcoin"
+    },
+    {
+      "Slack": "https://dentcoin.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/dentcoin"
+    },
+    {
+      "Twitter": "https://twitter.com/dentcoin"
+    },
+    {
+      "Website": "http://www.dentcoin.com"
+    },
+    {
+      "Website": "https://www.dentcoin.com/"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/0B7XC9TPzyTmOd0pqQ3hRLUM0UzQ/view"
+    }
+  ],
+  "name": "DENT",
+  "symbol": "DENT"
+}

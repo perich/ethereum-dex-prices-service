@@ -1,0 +1,34 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "BTHE",
+  "addr": "0xfad572db566e5234ac9fc3d570c4edc0050eaa92",
+  "decimals": 18,
+  "description": "Bytether (pronounce as byte-ther) is a 1:1 cross-fork of the Bitcoin blockchain onto the Ethereum network at block 478,558 (Same as Bitcoin Cash). Any Bitcoin holder who has 1 BTC at block 478,558 can claim for 1 BTH(Bytether). Bytether&rsquo;s sole focus is building a greater payment ecosystem. As an ERC20 token, Bytether takes all advantages of Ethereum blockchain technology with faster transaction time and cheaper transaction fee while maintaining currency characteristics of Bitcoin.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2257151.0"
+    },
+    {
+      "Blog": "https://medium.com/@bytether"
+    },
+    {
+      "Email": "mailto:contact@bytether.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Bytether/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/bytether/"
+    },
+    {
+      "Slack": "https://bytether.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/bytether"
+    },
+    {
+      "Website": "https://www.bytether.com/"
+    }
+  ],
+  "name": "Bytether",
+  "symbol": "BTH"
+}

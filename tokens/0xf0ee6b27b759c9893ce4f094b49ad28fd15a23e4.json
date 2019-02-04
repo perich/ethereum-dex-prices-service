@@ -1,0 +1,48 @@
+{
+  "addr": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+  "decimals": 8,
+  "description": "The data-driven crypto investment platform. Powered by the Enigma data marketplace.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2052215.0"
+    },
+    {
+      "Blog": "https://blog.enigma.co/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/enigma-project/"
+    },
+    {
+      "Email": "mailto:info@enigma.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/enigmacatalyst/"
+    },
+    {
+      "Github": "https://github.com/enigmampc"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/enigmacatalyst"
+    },
+    {
+      "Slack": "https://slack.enigma.co/"
+    },
+    {
+      "Telegram": "https://t.me/enigmacatalyst"
+    },
+    {
+      "Twitter": "https://twitter.com/enigmampc"
+    },
+    {
+      "Website": "https://enigma.co/"
+    },
+    {
+      "Website": "https://www.enigma.co"
+    },
+    {
+      "Whitepaper": "https://enigma.co/enigma_full.pdf"
+    }
+  ],
+  "name": "Enigma",
+  "symbol": "ENG"
+}

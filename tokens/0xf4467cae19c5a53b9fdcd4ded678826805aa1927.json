@@ -1,0 +1,24 @@
+{
+  "addr": "0xf4467cae19c5a53b9fdcd4ded678826805aa1927",
+  "decimals": 8,
+  "description": "XBV is a blockchain venture capital company that invests in companies that are prime candidates to bring onto the blockchain. The companies brought on will have smart contracts created and those smart contracts will require XBV to operate creating demand for  the XBV token.",
+  "links": [
+    {
+      "Email": "al@xbv.io"
+    },
+    {
+      "Github": "https://github.com/dranastos/XBV_Token/blob/master/XBV.sol"
+    },
+    {
+      "Whitepaper": "https://xbv.io/documents/whitepaper.pdf"
+    },
+    {
+      "Website": "https://xbv.io"
+    },
+    {
+      "Etherscan": "https://etherscan.io/token/0xf4467cae19c5a53b9fdcd4ded678826805aa1927"
+    }
+  ],
+  "name": "BlockVentureCoin",
+  "symbol": "XBV"
+}

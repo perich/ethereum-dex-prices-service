@@ -1,0 +1,30 @@
+{
+  "addr": "0x95abb152ed410cc4b6dffb3ed41d01015bdbb5d2",
+  "decimals": 18,
+  "description": "Mankind First is a platform that will work beside any politics, race and religion, gearing towards a common goal of empowering humanity.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2729585.msg27940833#msg27940833"
+    },
+    {
+      "Blog": "https://medium.com/@mankindfirst2018"
+    },
+    {
+      "Discord": "https://discord.gg/WX4dPBz"
+    },
+    {
+      "Email": "mailto:support@mankindfirst.com"
+    },
+    {
+      "Twitter": "https://twitter.com/mankindfirst1"
+    },
+    {
+      "Website": "https://www.mankindfirst.com/"
+    },
+    {
+      "Whitepaper": "https://mankindfirst.com/assets/doc/Mankind%20First%20Whitepaper.pdf"
+    }
+  ],
+  "name": "Mankind",
+  "symbol": "MK"
+}

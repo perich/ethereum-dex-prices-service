@@ -1,0 +1,28 @@
+{
+  "addr": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+  "decimals": 18,
+  "description": "Maker is a Decentralized Autonomous Organization that creates and insures the Dai stablecoin on the Ethereum blockchain.",
+  "links": [
+    {
+      "Blog": "https://blog.makerdao.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/maker/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/MakerDAO/"
+    },
+    {
+      "Slack": "https://chat.makerdao.com/"
+    },
+    {
+      "Website": "https://makerdao.com/"
+    },
+    {
+      "Whitepaper": "https://makerdao.com/assets/documents/purple.pdf"
+    }
+  ],
+  "name": "Maker",
+  "notice": "MKR token upgrade and Oasis redeployment. You can read the announcement here, <a href=\"https://medium.com/@MakerDAO/mkr-token-upgrade-and-oasis-redeployment-2445482437d6\"> https://medium.com/@MakerDAO/mkr-token-upgrade-and-oasis-redeployment-2445482437d6</a>. The old token contract can be found <a href=\"https://etherscan.io/token/0xc66ea802717bfb9833400264dd12c2bceaa34a6d\">here</a>",
+  "symbol": "MKR"
+}

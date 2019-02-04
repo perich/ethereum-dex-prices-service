@@ -1,0 +1,12 @@
+{
+  "addr": "0xe25f0974fea47682f6a7386e4217da70512ec997",
+  "decimals": 18,
+  "description": "Brightcoin is a subscription based token to access our chart prediction bot. The fee is set at $10/month and the bot will burn the fees from the supply. This is the first token burning, chart prediction bot ever created.",
+  "links": [
+    {
+      "Website": "https://brightcoin.club/"
+    }
+  ],
+  "name": "Brightcoin",
+  "symbol": "BRC"
+}

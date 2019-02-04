@@ -1,0 +1,36 @@
+{
+  "addr": "0x865d176351f287fe1b0010805b110d08699c200a",
+  "decimals": 8,
+  "description": "Bananacoin is a new crypto currency that is tied to the price of 1 kg of bananas on the international market.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2112748"
+    },
+    {
+      "Email": "mailto:info@bananacoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bananacoin"
+    },
+    {
+      "Github": "https://github.com/banana-coin"
+    },
+    {
+      "Telegram": "https://t.me/bananacoineng"
+    },
+    {
+      "Twitter": "https://twitter.com/Bananacoinico"
+    },
+    {
+      "Website": "http://www.bananacoin.io/"
+    },
+    {
+      "Website": "https://www.bananacoin.io/"
+    },
+    {
+      "Whitepaper": "https://bananacoin.io/files/Bananacoin_Eng_wp_1.4.pdf"
+    }
+  ],
+  "name": "BananaCoin Extended",
+  "symbol": "BCO"
+}

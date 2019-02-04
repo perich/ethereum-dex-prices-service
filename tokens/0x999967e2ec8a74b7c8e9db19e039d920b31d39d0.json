@@ -1,0 +1,42 @@
+{
+  "addr": "0x999967e2ec8a74b7c8e9db19e039d920b31d39d0",
+  "decimals": 18,
+  "description": "FIRST DECENTRALIZED PUBLIC SMART DATABASE",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2071592.0"
+    },
+    {
+      "Blog": "https://blog.ties.network/"
+    },
+    {
+      "Email": "mailto:info@ties.network"
+    },
+    {
+      "Facebook": "https://www.facebook.com/tiesdb"
+    },
+    {
+      "Github": "http://github.com/tiesnetwork"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/tiesnetwork/"
+    },
+    {
+      "Slack": "https://slack.ties.network/"
+    },
+    {
+      "Telegram": "https://t.me/tiesnetwork"
+    },
+    {
+      "Twitter": "https://twitter.com/tiesnetwork"
+    },
+    {
+      "Website": "https://ties.network/"
+    },
+    {
+      "Whitepaper": "https://cdn.ties.network/white-paper-eng.pdf"
+    }
+  ],
+  "name": "TieToken",
+  "symbol": "TIE"
+}

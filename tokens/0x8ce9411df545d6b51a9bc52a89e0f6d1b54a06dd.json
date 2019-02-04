@@ -1,0 +1,12 @@
+{
+  "addr": "0x8ce9411df545d6b51a9bc52a89e0f6d1b54a06dd",
+  "decimals": 0,
+  "description": "CryptoABS is a platform for issuing ABS tokens which are backed by physical assets. By introducting the power of smart contract and IOT technology, the CryptoABS is a bridge between the real world and the so-called crypto-world.",
+  "links": [
+    {
+      "Website": "http://adtli.net/"
+    }
+  ],
+  "name": "CryptoABS",
+  "symbol": "ABS"
+}

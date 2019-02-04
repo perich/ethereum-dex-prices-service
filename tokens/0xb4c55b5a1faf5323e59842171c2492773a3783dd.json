@@ -1,0 +1,30 @@
+{
+  "addr": "0xb4c55b5a1faf5323e59842171c2492773a3783dd",
+  "decimals": 18,
+  "description": "The BCDC token is an access and utility token which has value, allowing purchasers to access investment projects from around the world, gain return from recycling and offset their annual plastic footprint.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@BCDC"
+    },
+    {
+      "Email": "mailto:tokenpurchase@bcdc.online"
+    },
+    {
+      "Facebook": "https://www.facebook.com/BlockchainDevelopmentCompany/"
+    },
+    {
+      "Github": "https://github.com/bcdconline/ITS"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Dz9AE0MIY5Yl-1EaCYI2vA"
+    },
+    {
+      "Twitter": "https://twitter.com/BlockDevCo"
+    },
+    {
+      "Website": "https://www.bcdc.online/"
+    }
+  ],
+  "name": "BCDC Token",
+  "symbol": "BCDC"
+}

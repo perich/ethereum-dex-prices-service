@@ -1,0 +1,33 @@
+{
+  "addr": "0x539efe69bcdd21a83efd9122571a64cc25e0282b",
+  "decimals": 8,
+  "description": "Ethereum Blue is the only secured ERC20 token built from the ground-up to facilitate payments and transfers without sacrificing your security.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2279214.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ethereum-blue/"
+    },
+    {
+      "Email": "mailto:team@etherblue.org"
+    },
+    {
+      "Github": "https://github.com/ethblue"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/HBDo00IO49STMJuIwJi08g"
+    },
+    {
+      "Twitter": "https://twitter.com/EthereumBlue"
+    },
+    {
+      "Website": "http://www.etherblue.org/"
+    },
+    {
+      "Website": "http://www.etherblue.org"
+    }
+  ],
+  "name": "Ethereum Blue",
+  "symbol": "BLUE"
+}

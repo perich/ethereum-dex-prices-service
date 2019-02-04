@@ -1,0 +1,36 @@
+{
+  "addr": "0xde39e5e5a1b0eeb3afe717d6d011cae88d19451e",
+  "decimals": 8,
+  "description": "DimonCoin is the first cryptocurrency that won't be affected by Fear, Uncertainty or Doubt, because it is itself FUD. Decentralized.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2242603.0"
+    },
+    {
+      "Email": "mailto:fud@dimoncoin.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/DimonCoin-120112948666326"
+    },
+    {
+      "Github": "https://gist.github.com/dimoncoin"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FMgt2kLW5QzgLI7Ub9c0kQ"
+    },
+    {
+      "Twitter": "https://twitter.com/DimonCoin"
+    },
+    {
+      "Website": "https://dimoncoin.org/"
+    },
+    {
+      "Website": "https://dimoncoin.org"
+    },
+    {
+      "Whitepaper": "http://dimoncoin.org/DimonCoin%20-%20Whitepaper.pdf"
+    }
+  ],
+  "name": "DimonCoin",
+  "symbol": "FUDD"
+}

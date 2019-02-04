@@ -1,0 +1,39 @@
+{
+  "addr": "0x26e75307fc0c021472feb8f727839531f112f317",
+  "decimals": 18,
+  "description": "CRYPTO20 is an autonomous token-as-a-fund allowing you to invest in cryptocurrencies like bitcoin and ethereum in a diversified index fund.",
+  "links": [
+    {
+      "Blog": "https://medium.crypto20.com/"
+    },
+    {
+      "Email": "mailto:contact@crypto20.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/cryptotwenty/"
+    },
+    {
+      "Github": "https://github.com/cryptotwenty"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/cryptotwenty/"
+    },
+    {
+      "Slack": "https://cryptotwenty.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/CRYPTOtwenty"
+    },
+    {
+      "Website": "https://crypto20.com/"
+    },
+    {
+      "Whitepaper": "https://static.crypto20.com/pdf/c20-whitepaper.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCD8q9H_MszuWbT8un5gLDAw"
+    }
+  ],
+  "name": "Crypto20",
+  "symbol": "C20"
+}

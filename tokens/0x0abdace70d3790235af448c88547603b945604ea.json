@@ -1,0 +1,33 @@
+{
+  "addr": "0x0abdace70d3790235af448c88547603b945604ea",
+  "decimals": 18,
+  "description": "A network of decentralized markets and communities. Create, operate, and govern. Powered by Ethereum, Aragon, and IPFS.",
+  "links": [
+    {
+      "Blog": "https://blog.district0x.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/district0x/"
+    },
+    {
+      "Email": "mailto:hello@district0x.io"
+    },
+    {
+      "Github": "https://github.com/district0x"
+    },
+    {
+      "Slack": "https://district0x-slack.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/district0x"
+    },
+    {
+      "Website": "https://district0x.io/"
+    },
+    {
+      "Whitepaper": "https://district0x.io/docs/district0x-whitepaper.pdf"
+    }
+  ],
+  "name": "district0x Network Token",
+  "symbol": "DNT"
+}

@@ -1,0 +1,21 @@
+{
+  "addr": "0xac709fcb44a43c35f0da4e3163b117a17f3770f5",
+  "decimals": 18,
+  "description": "Arcade City is a decentralized global community of peer-to-peer service providers and consumers. Initial service offerings focus on the ridesharing industry, with plans in motion for peer-to-peer deliveries and short-term home rentals.\nArcade City aims to reinvent the sharing economy by combining the power of blockchain technology, open-source development, platform cooperativism, and a decentralized &lsquo;swarm&rsquo; organizational model open to all.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/arcade-token/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ArcadeCityHall"
+    },
+    {
+      "Twitter": "https://twitter.com/ArcadeCityHall"
+    },
+    {
+      "Website": "https://arcade.city/"
+    }
+  ],
+  "name": "Arcade Token",
+  "symbol": "ARC"
+}

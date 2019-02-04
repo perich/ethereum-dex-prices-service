@@ -1,0 +1,27 @@
+{
+  "addr": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
+  "decimals": 8,
+  "description": "TKN is the underlying token of the TokenCard platform.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@MonolithStudio"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/tokencard/"
+    },
+    {
+      "Email": "mailto:hello@tokencard.io"
+    },
+    {
+      "Twitter": "https://twitter.com/monolith_web3"
+    },
+    {
+      "Website": "https://tokencard.io/#token"
+    },
+    {
+      "Whitepaper": "https://tokencard.io/tokencard_whitepaper.pdf"
+    }
+  ],
+  "name": "Monolith TKN",
+  "symbol": "TKN"
+}

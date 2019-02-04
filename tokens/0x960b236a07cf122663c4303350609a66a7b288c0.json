@@ -1,0 +1,24 @@
+{
+  "addr": "0x960b236a07cf122663c4303350609a66a7b288c0",
+  "decimals": 18,
+  "description": "The Aragon Network (AN) will be the first DAO whose goal is to act as a digital jurisdiction that makes it extremely easy and friendly for organizations, entrepreneurs and investors to operate.",
+  "links": [
+    {
+      "Blog": "https://blog.aragon.one/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/aragon/"
+    },
+    {
+      "Email": "mailto:founders@aragon.one"
+    },
+    {
+      "Website": "https://aragon.network/"
+    },
+    {
+      "Website": "https://aragon.one/"
+    }
+  ],
+  "name": "Aragon Network Token",
+  "symbol": "ANT"
+}

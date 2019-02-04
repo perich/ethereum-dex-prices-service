@@ -1,0 +1,30 @@
+{
+  "addr": "0x014b50466590340d41307cc54dcee990c8d58aa8",
+  "decimals": 6,
+  "description": "ICOS Platform is your crypto crowdsale platform &mdash; easily discover &amp; get tokens from upcoming, ongoing, and past campaigns.",
+  "links": [
+    {
+      "Blog": "https://medium.com/icobox-io"
+    },
+    {
+      "Email": "mailto:support@icobox.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/icobox.io"
+    },
+    {
+      "Telegram": "https://t.me/icobox_en"
+    },
+    {
+      "Website": "https://icos.icobox.io/"
+    },
+    {
+      "Website": "https://icos.icobox.io"
+    },
+    {
+      "Whitepaper": "https://icos.icobox.io/WhitePaper.pdf"
+    }
+  ],
+  "name": "ICOS",
+  "symbol": "ICOS"
+}

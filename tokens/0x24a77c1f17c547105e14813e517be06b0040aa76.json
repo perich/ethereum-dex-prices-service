@@ -1,0 +1,48 @@
+{
+  "addr": "0x24a77c1f17c547105e14813e517be06b0040aa76",
+  "decimals": 18,
+  "description": "Live Stars is creating the new generation webcam platform that implements blockchain technology.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2145150.0"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3256604.0"
+    },
+    {
+      "Blog": "https://medium.com/live-stars"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/live-stars/"
+    },
+    {
+      "Email": "mailto:info@livestars.io"
+    },
+    {
+      "Github": "https://github.com/LiveStars/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/LiveStarsPlatform/"
+    },
+    {
+      "Telegram": "https://t.me/LiveStarsNews"
+    },
+    {
+      "Telegram": "https://t.me/livestarsio"
+    },
+    {
+      "Telegram": "https://t.me/livestarsio_rus"
+    },
+    {
+      "Twitter": "https://twitter.com/livestarsio"
+    },
+    {
+      "Website": "https://livestars.io"
+    },
+    {
+      "Whitepaper": "http://livestars.io/whitepaper.pdf"
+    }
+  ],
+  "name": "Live Stars Token",
+  "symbol": "LIVE"
+}

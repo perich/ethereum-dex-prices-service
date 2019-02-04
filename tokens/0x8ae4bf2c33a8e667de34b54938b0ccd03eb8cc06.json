@@ -1,0 +1,36 @@
+{
+  "addr": "0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06",
+  "decimals": 8,
+  "description": "Patientory is a cybersecurity blockchain-based distributed electronic medical record network. We are a bridge that connects siloed, centralized EMR systems. Ultimately, our goal is to change the way patients securely manage their health histories and interact with their clinical care teams.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1886446.0"
+    },
+    {
+      "Blog": "https://patientory.com/blog/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/patientory/"
+    },
+    {
+      "Email": "mailto:info@patientory.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/patientory"
+    },
+    {
+      "Slack": "https://patientory.slack.com/join/shared_invite/MjIzMTkzMzQ1NzQ4LTE1MDIxMTQxODYtZmFjMjA2MzI4Zg"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/AAAAAEIwBYTTfasE8YPYGQ"
+    },
+    {
+      "Twitter": "https://twitter.com/patientory"
+    },
+    {
+      "Website": "https://patientory.com/"
+    }
+  ],
+  "name": "Patientory",
+  "symbol": "PTOY"
+}

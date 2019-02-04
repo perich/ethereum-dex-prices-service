@@ -1,0 +1,27 @@
+{
+  "addr": "0x0879e0c9822b75f31f0b0ed2a30be9f484a57c2f",
+  "decimals": 0,
+  "description": "Litecoin Gold is an ERC20 token with the feature of smart contracts and is faster as well as cheaper than Bitcoin Gold.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2297409.msg23311623"
+    },
+    {
+      "Email": "mailto:contact@litecoingold.info"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Df-u3hGeP00dMvqE7Sti9Q"
+    },
+    {
+      "Twitter": "https://twitter.com/litecoingold"
+    },
+    {
+      "Website": "http://www.litecoingold.info/"
+    },
+    {
+      "Website": "http://www.litecoingold.info"
+    }
+  ],
+  "name": "LiteCoinGold",
+  "symbol": "LTG"
+}

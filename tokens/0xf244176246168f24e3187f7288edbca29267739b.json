@@ -1,0 +1,39 @@
+{
+  "addr": "0xf244176246168f24e3187f7288edbca29267739b",
+  "decimals": 18,
+  "description": "Havven is decentralised payment network designed to enable everyday cryptocurrency purchases. The network utilises a dual token system to reduce price volatility. The fees from transactions within the system are used to collateralise the network. The collateral is secured by the blockchain enabling the creation of a new asset-backed stablecoin, nomin tokens. Each transaction will generate fees that are paid to havven token holders. As transaction volume grows, the value of the platform increases and active participants are rewarded with increased transaction fees.",
+  "links": [
+    {
+      "Blog": "https://blog.havven.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/havven/"
+    },
+    {
+      "Email": "mailto:info@havven.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/havven.io/"
+    },
+    {
+      "Github": "https://github.com/havven/havven"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/havven/"
+    },
+    {
+      "Telegram": "https://t.me/havven_official1"
+    },
+    {
+      "Twitter": "https://twitter.com/havven_io"
+    },
+    {
+      "Website": "https://havven.io/"
+    },
+    {
+      "Whitepaper": "https://havven.io/uploads/havven_whitepaper.pdf"
+    }
+  ],
+  "name": "Havven",
+  "symbol": "HAV"
+}

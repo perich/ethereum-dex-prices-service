@@ -1,0 +1,42 @@
+{
+  "addr": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+  "decimals": 0,
+  "description": "The Ethereum smart contract-based Casino offers a 0% house edge and solves the casino transparency question once and for all.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1718384.0"
+    },
+    {
+      "Blog": "https://medium.com/Edgeless"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/edgeless/"
+    },
+    {
+      "Email": "mailto:support@edgeless.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/EdgelessCasino/?fref=ts"
+    },
+    {
+      "Github": "https://github.com/EdgelessCasino"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Edgeless/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/AAAAAEBTy7K9KXQcQsyozQ"
+    },
+    {
+      "Twitter": "https://twitter.com/edgelessproject"
+    },
+    {
+      "Website": "https://edgeless.io/"
+    },
+    {
+      "Whitepaper": "https://github.com/EdgelessCasino/White_paper/blob/master/White_Paper.pdf"
+    }
+  ],
+  "name": "Edgeless",
+  "symbol": "EDG"
+}

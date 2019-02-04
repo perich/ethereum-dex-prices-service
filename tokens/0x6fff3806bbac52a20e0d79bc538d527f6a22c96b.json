@@ -1,0 +1,39 @@
+{
+  "addr": "0x6fff3806bbac52a20e0d79bc538d527f6a22c96b",
+  "decimals": 18,
+  "description": "CDX - Commodity Ad Network. A disruptive ad network of creative minds who speak out against the powers that be.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2112604.0"
+    },
+    {
+      "Blog": "https://commodityadnetwork.com/blog/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/commodity-ad-network/"
+    },
+    {
+      "Email": "mailto:support@commodityadnetwork.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/commodityadnet/"
+    },
+    {
+      "Github": "https://github.com/commodityadnetwork"
+    },
+    {
+      "Slack": "https://cdxnet.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/commodityadnet/"
+    },
+    {
+      "Website": "https://commodityadnetwork.com/"
+    },
+    {
+      "Whitepaper": "https://commodityadnetwork.com/whitepaper/"
+    }
+  ],
+  "name": "Commodity Ad Network",
+  "symbol": "CDX"
+}

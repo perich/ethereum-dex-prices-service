@@ -1,0 +1,36 @@
+{
+  "addr": "0x888666ca69e0f178ded6d75b5726cee99a87d698",
+  "decimals": 18,
+  "description": "Create your own Digital Asset Arrays&trade; (DAA) from a wide variety of digital assets. Manage them and compare your performance with others. Attract supporters and make your mark in the new distributed economy.",
+  "links": [
+    {
+      "Blog": "https://medium.com/iconominet"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/iconomi/"
+    },
+    {
+      "Email": "mailto:support@iconomi.net"
+    },
+    {
+      "Facebook": "https://www.facebook.com/iconomi.net/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ICONOMI"
+    },
+    {
+      "Slack": "https://iconominet.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/iconominet"
+    },
+    {
+      "Website": "https://iconomi.net/"
+    },
+    {
+      "Website": "https://www.iconomi.net/"
+    }
+  ],
+  "name": "ICONOMI",
+  "symbol": "ICN"
+}

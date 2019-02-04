@@ -1,0 +1,24 @@
+{
+  "addr": "0x2daee1aa61d60a252dc80564499a69802853583a",
+  "decimals": 4,
+  "description": "Making the Internet More Free and Accessible For Authors and Readers",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2058499"
+    },
+    {
+      "Blog": "http://authorship.com/category/blog/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/authorship/"
+    },
+    {
+      "Website": "http://authorship.com/"
+    },
+    {
+      "Whitepaper": "https://view.joomag.com/authorship-white-paper-authorship-white-paper/0120750001501521493?short"
+    }
+  ],
+  "name": "Authorship Token",
+  "symbol": "ATS"
+}

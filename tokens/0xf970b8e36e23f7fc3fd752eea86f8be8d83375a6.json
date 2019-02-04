@@ -1,0 +1,33 @@
+{
+  "addr": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+  "decimals": 18,
+  "description": "A global peer-to-peer credit network based on co-signed smart contracts.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ripio-credit-network/"
+    },
+    {
+      "Email": "mailto:info@ripiocredit.network"
+    },
+    {
+      "Github": "https://github.com/ripio/rcn-token"
+    },
+    {
+      "Telegram": "https://t.me/RCNtalk"
+    },
+    {
+      "Twitter": "https://twitter.com/RCN_token"
+    },
+    {
+      "Website": "https://ripiocredit.network/"
+    },
+    {
+      "Website": "https://ripiocredit.network"
+    },
+    {
+      "Whitepaper": "https://ripiocredit.network/#whitepaper"
+    }
+  ],
+  "name": "Ripio Credit Network Token",
+  "symbol": "RCN"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0x2167fb82309cf76513e83b25123f8b0559d6b48f",
+  "decimals": 18,
+  "description": "Lion Coin is an exchange based token, the ICO was performed to raise money to build both an exchange, research portal, and portfolio management system. More can be found on our website.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2350898.0"
+    },
+    {
+      "Blog": "https://medium.com/@CoinLion"
+    },
+    {
+      "Email": "mailto:info@coinlion.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/CoinLion.official/"
+    },
+    {
+      "Github": "https://github.com/coin-lion"
+    },
+    {
+      "Telegram": "https://t.me/CoinLionPlatform"
+    },
+    {
+      "Twitter": "https://twitter.com/coin_lion"
+    },
+    {
+      "Website": "https://coinlion.com/"
+    },
+    {
+      "Whitepaper": "https://static.coinlion.com/docs/CoinLion_Whitepaper_v4.1.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/coinlion"
+    }
+  ],
+  "name": "LionCoin",
+  "symbol": "LION"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0x1175a66a5c3343bbf06aa818bb482ddec30858e0",
+  "decimals": 18,
+  "description": "Cryptonetix is a next generation analytics platform for the rapidly growing cryptocurrency markets.",
+  "links": [
+    {
+      "Blog": "http://blog.cryptonetix.com/"
+    },
+    {
+      "Email": "mailto:support@cryptonetix.com"
+    },
+    {
+      "Facebook": "http://www.facebook.com/cryptonetix"
+    },
+    {
+      "Twitter": "https://twitter.com/cryptonetix"
+    },
+    {
+      "Website": "http://www.cryptonetix.com/"
+    },
+    {
+      "Website": "http://www.cryptonetix.com/#/"
+    },
+    {
+      "Whitepaper": "http://www.cryptonetix.com/static/cryptonetix_whitepaper.pdf"
+    }
+  ],
+  "name": "Cryptonetix",
+  "symbol": "CIX"
+}

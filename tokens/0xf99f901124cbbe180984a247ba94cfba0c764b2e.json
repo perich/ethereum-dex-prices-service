@@ -1,0 +1,12 @@
+{
+  "addr": "0xf99f901124cbbe180984a247ba94cfba0c764b2e",
+  "decimals": 6,
+  "description": "SquirrelGims are Ethereum tokens, intended to promote the qualities of Squirrels.",
+  "links": [
+    {
+      "Website": "https://squirrel.gims.tv/"
+    }
+  ],
+  "name": "SquirrelGims",
+  "symbol": "SQRL"
+}

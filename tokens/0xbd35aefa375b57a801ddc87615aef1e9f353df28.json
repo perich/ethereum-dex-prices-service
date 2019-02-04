@@ -1,0 +1,24 @@
+{
+  "addr": "0xbd35aefa375b57a801ddc87615aef1e9f353df28",
+  "decimals": 18,
+  "description": "The crazy project of cryptoalchemy. \"Poopy\" to the moon!",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/tothemoontoken"
+    },
+    {
+      "Github": "https://github.com/ToTheMoonToken/ToTheMoon"
+    },
+    {
+      "Twitter": "https://twitter.com/ToTheMoon_Token"
+    },
+    {
+      "Website": "http://www.tothemoontoken.com/"
+    },
+    {
+      "Email": "mailto:hello@tothemoontoken.com"
+    }
+  ],
+  "name": "ToTheMoon",
+  "symbol": "TTM"
+}

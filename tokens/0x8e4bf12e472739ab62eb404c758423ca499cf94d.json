@@ -1,0 +1,30 @@
+{
+  "addr": "0x8e4bf12e472739ab62eb404c758423ca499cf94d",
+  "decimals": 8,
+  "description": "Satan was impressed with the blockchain technology and decided to make Hell Coin. This is the only currency that will be used in Hell. Do not be overcome by good, but overcome good with evil.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3057801.0"
+    },
+    {
+      "Blog": "http://hellcoin.network/blog/"
+    },
+    {
+      "Email": "mailto:satan@hellcoin.network"
+    },
+    {
+      "Github": "https://github.com/HELLCOINtoken"
+    },
+    {
+      "Telegram": "https://t.me/HELLCOINannouncements"
+    },
+    {
+      "Twitter": "https://twitter.com/hell_coin"
+    },
+    {
+      "Website": "http://hellcoin.network/"
+    }
+  ],
+  "name": "HELL COIN",
+  "symbol": "HELL"
+}

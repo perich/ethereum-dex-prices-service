@@ -1,0 +1,15 @@
+{
+  "addr": "0xc7a4eb66f982cde71d872398e4d1fc5fc586cb9e",
+  "decimals": 8,
+  "description": "Rezox Token, is a semi-mineable Token thats based on the Ethereum network. Our goal is to promote low-end computers and make them be able to mine and get our Tokens and take part in the Blockchain revulotion.",
+  "links": [
+    {
+      "Website": "http://www.rezox.network/"
+    },
+    {
+      "Telegram": "https://t.me/rezoxtoken"
+    }
+  ],
+  "name": "Rezox",
+  "symbol": "REZ"
+}

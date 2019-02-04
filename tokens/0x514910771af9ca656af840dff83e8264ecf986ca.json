@@ -1,0 +1,24 @@
+{
+  "addr": "0x514910771af9ca656af840dff83e8264ecf986ca",
+  "decimals": 18,
+  "description": "Chainlink (LINK) is the first decentralized oracle network; allowing anyone to securely provide smart contracts with access to key external data, off-chain payments and any other API capabilities. Anyone who has a data feed, useful off-chain service such as local payments, or any other API, can now provide them directly to smart contracts in exchange for LINK tokens.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/chainlink/"
+    },
+    {
+      "Email": "mailto:chainlink@smartcontract.com"
+    },
+    {
+      "Twitter": "https://twitter.com/smart_contract"
+    },
+    {
+      "Website": "https://link.smartcontract.com/"
+    },
+    {
+      "Whitepaper": "https://link.smartcontract.com/whitepaper"
+    }
+  ],
+  "name": "ChainLink Token",
+  "symbol": "LINK"
+}

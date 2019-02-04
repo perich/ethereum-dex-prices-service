@@ -1,0 +1,46 @@
+{
+  "__FORKDELTA_STOP": "yes",
+  "addr": "0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7",
+  "decimals": 18,
+  "description": "The Jibrel Network provides traditional financial assets, such as currencies, bonds and equities, as standard ERC-20 tokens on the Ethereum blockchain.\nIn the medium to long-term, Jibrel will focus on tokenizing debt instruments and their derivatives - thereby streamlining large portions of retail investment and investment banking operations. They are the first protocol to allow anyone to put traditional assets like currencies, bonds, and other financial instruments on the blockchain in a form of Crypto Depository Receipts (CryDRs).",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2057487.0"
+    },
+    {
+      "Blog": "https://medium.com/@jibrelnetwork"
+    },
+    {
+      "Email": "mailto:Info@jibrel.network"
+    },
+    {
+      "Facebook": "https://www.facebook.com/jibrelnetwork/"
+    },
+    {
+      "Github": "https://github.com/jibrelnetwork"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/JibrelNetwork"
+    },
+    {
+      "Slack": "https://jibrel-slack.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/jibrel_network"
+    },
+    {
+      "Twitter": "https://twitter.com/JibrelNetwork"
+    },
+    {
+      "Website": "https://jibrel.network/"
+    },
+    {
+      "Whitepaper": "https://jibrel.network/#whitepaper"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=LBMyd7Ql8QU"
+    }
+  ],
+  "name": "Jibrel Network Token",
+  "symbol": "JNT"
+}

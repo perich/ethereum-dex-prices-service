@@ -1,0 +1,27 @@
+{
+  "addr": "0x437cf0bf53634e3dfa5e3eaff3104004d50fb532",
+  "decimals": 4,
+  "description": "BET Network aims to solve all problems around gambling world with implementation of DAPP (Distributed Applications) over Ethereum block chain network. Here are main features that platform offers and solution to the problems exist today.",
+  "links": [
+    {
+      "Email": "mailto:support@betnetwork.online"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/icocrypto/comments/6qq8r2/betnetwork_decentralized_betting_platform_over/"
+    },
+    {
+      "Slack": "https://betnetwork.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/BETNetwork1"
+    },
+    {
+      "Website": "https://betnetwork.online/"
+    },
+    {
+      "Whitepaper": "https://betnetwork.online/wp-content/uploads/2017/08/WhitePaper_1.1.pdf"
+    }
+  ],
+  "name": "BETNetwork",
+  "symbol": "BTN"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+  "decimals": 18,
+  "description": "Dai is a stablecoin created by MakerDAO by collatoralizing digital assets. It has an algorithmic monetary policy that is designed to minimize volatility against fiat currencies, and is currently worth 1 USD.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@MakerDAO"
+    },
+    {
+      "Github": "github.com/makerdao"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/MakerDAO/"
+    },
+    {
+      "Slack": "https://chat.makerdao.com"
+    },
+    {
+      "Twitter": "https://twitter.com/MakerDAO"
+    },
+    {
+      "Website": "https://makerdao.com/"
+    },
+    {
+      "Whitepaper": "https://makerdao.com/whitepaper/"
+    }
+  ],
+  "name": "",
+  "symbol": "DAI"
+}

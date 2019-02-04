@@ -1,0 +1,42 @@
+{
+  "addr": "0xc499ea948a1ad5d8eaf12abd2f67975c4dbe21aa",
+  "decimals": 18,
+  "description": "Angel Token is an unique new Ethereum based token for anyone that wants to benefit from the crowd intelligence and combined crypto capital of 100&rsquo;s of investors working together in a powerful private investment community, to maximize growth of a portfolio of small to medium-sized crypto assets.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2385917.0"
+    },
+    {
+      "Blog": "https://medium.com/@angeltokens"
+    },
+    {
+      "Email": "mailto:info@angelinvestors.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/angeltokeninvestors"
+    },
+    {
+      "Github": "https://github.com/bitcoinfriends/angel-contracts"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/AngelToken/"
+    },
+    {
+      "Slack": "https://angelinvestors.io/slack"
+    },
+    {
+      "Telegram": "https://t.me/angeltoken"
+    },
+    {
+      "Twitter": "https://twitter.com/angeltokens"
+    },
+    {
+      "Website": "https://angelinvestors.io/"
+    },
+    {
+      "Whitepaper": "https://angelinvestors.io/white-paper"
+    }
+  ],
+  "name": "Angel Token",
+  "symbol": "ANGL"
+}

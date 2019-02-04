@@ -1,0 +1,42 @@
+{
+  "addr": "0xc029ba3dc12e1834571e821d94a07de0a01138ea",
+  "decimals": 18,
+  "description": "An autonomous, decentralized workforce management network that connects contact center organizations together to streamline customer and business interactions.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2301596"
+    },
+    {
+      "Blog": "https://medium.com/@PodOneNetwork"
+    },
+    {
+      "Email": "mailto:info@podone.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/PodOneNetwork"
+    },
+    {
+      "Github": "https://github.com/podonenetwork"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/PodOneNetwork/"
+    },
+    {
+      "Telegram": "https://telegram.me/podone"
+    },
+    {
+      "Twitter": "https://twitter.com/PodOneNetwork"
+    },
+    {
+      "Website": "https://podone.io/"
+    },
+    {
+      "Website": "https://podone.io"
+    },
+    {
+      "Whitepaper": "https://podone.io/whitepaper"
+    }
+  ],
+  "name": "Qubicle",
+  "symbol": "QBE"
+}

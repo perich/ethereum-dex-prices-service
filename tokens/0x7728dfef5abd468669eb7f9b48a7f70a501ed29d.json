@@ -1,0 +1,39 @@
+{
+  "addr": "0x7728dfef5abd468669eb7f9b48a7f70a501ed29d",
+  "decimals": 6,
+  "description": "We will create a chain of high-tech, fully equipped ParagonCoin Centers in all 29 States where cannabis is legal.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2092712"
+    },
+    {
+      "Blog": "https://medium.com/@paragoncoin"
+    },
+    {
+      "Email": "mailto:info@paragoncoin.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/paragoncoin/"
+    },
+    {
+      "Github": "https://github.com/paragon-coin/token"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Bvx800IXuCoe-QGoLXoVlQ"
+    },
+    {
+      "Twitter": "https://twitter.com/ParagonCoin"
+    },
+    {
+      "Website": "https://paragoncoin.com/"
+    },
+    {
+      "Website": "https://paragoncoin.com/en"
+    },
+    {
+      "Whitepaper": "https://paragoncoin.com/whitepaper.pdf"
+    }
+  ],
+  "name": "ParagonCoin",
+  "symbol": "PRG"
+}

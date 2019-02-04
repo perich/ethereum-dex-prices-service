@@ -1,0 +1,36 @@
+{
+  "addr": "0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f",
+  "decimals": 18,
+  "description": "Empowering the Decentralization of Online Marketplaces",
+  "links": [
+    {
+      "Blog": "https://www.reddit.com/user/CyberMiles/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/cybermiles/"
+    },
+    {
+      "Email": "mailto:contact@5miles.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/cybermiles"
+    },
+    {
+      "Github": "https://github.com/CyberMiles"
+    },
+    {
+      "Telegram": "https://t.me/cybermilestoken"
+    },
+    {
+      "Twitter": "https://twitter.com/cybermiles"
+    },
+    {
+      "Website": "https://cm.5miles.com/"
+    },
+    {
+      "Whitepaper": "https://cm.5miles.com/file/project/Project%20white%20paper%20v.1.8_en-US.pdf"
+    }
+  ],
+  "name": "CyberMiles Token",
+  "symbol": "CMT"
+}

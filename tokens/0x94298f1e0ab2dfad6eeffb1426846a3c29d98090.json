@@ -1,0 +1,29 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "MyB_OLD",
+  "addr": "0x94298f1e0ab2dfad6eeffb1426846a3c29d98090",
+  "decimals": 8,
+  "description": "What MyBit does is enable ownership of a specific IoT asset to be easily distributed among several owners (investors). With the rise of the upcoming machine economy, our vision is to have machines owned by people all over the world, rather than centralized parties maintaining ownership and the resulting revenue streams.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1797720.0"
+    },
+    {
+      "Facebook": "https://www.facebook.com/MyBitDApp/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/MyBit_DApp/"
+    },
+    {
+      "Telegram": "https://t.me/mybitio"
+    },
+    {
+      "Twitter": "https://twitter.com/MyBit_DApp"
+    },
+    {
+      "Website": "https://mybit.io/"
+    }
+  ],
+  "notice": "<strong>This token is obsolete.</strong> Refer to the token upgrade announcement for more details: <a href=\"https://medium.com/mybit-dapp/as-we-are-on-the-brink-of-entering-mybits-new-era-we-have-a-very-important-announcement-to-make-a4cda1cd6956\">https://medium.com/mybit-dapp/as-we-are-on-the-brink-of-entering-mybits-new-era-we-have-a-very-important-announcement-to-make-a4cda1cd6956</a>",
+  "name": "MyBit Token",
+  "symbol": "MyB"
+}

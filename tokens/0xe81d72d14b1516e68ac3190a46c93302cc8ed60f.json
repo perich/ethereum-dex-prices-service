@@ -1,0 +1,42 @@
+{
+  "addr": "0xe81d72d14b1516e68ac3190a46c93302cc8ed60f",
+  "decimals": 18,
+  "description": "A blockchain platform for effective freelancing and secure peer-to-peer exchanges.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2241037.0;all"
+    },
+    {
+      "Blog": "http://coinlancer.blogspot.my/"
+    },
+    {
+      "Email": "mailto:info@coinlancer.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/coinlancer"
+    },
+    {
+      "Github": "https://github.com/Coinlancer/Coinlancer"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ico/comments/7470lk/freelancer_safe_way_to_do_business_coinlancer_now/"
+    },
+    {
+      "Telegram": "https://t.me/Coinlancer"
+    },
+    {
+      "Twitter": "https://twitter.com/Coin_Lancer"
+    },
+    {
+      "Website": "https://www.coinlancer.io/"
+    },
+    {
+      "Website": "https://www.coinlancer.io"
+    },
+    {
+      "Whitepaper": "https://www.coinlancer.io/Coinlancer_Whitepaper.pdf"
+    }
+  ],
+  "name": "Coinlancer",
+  "symbol": "CL"
+}

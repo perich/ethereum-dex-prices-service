@@ -1,0 +1,45 @@
+{
+  "addr": "0xa823e6722006afe99e91c30ff5295052fe6b8e32",
+  "decimals": 18,
+  "description": "Neufund is the new way to fund ventures",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2335433"
+    },
+    {
+      "Blog": "https://blog.neufund.org/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/neumark/"
+    },
+    {
+      "Email": "mailto:services@neufund.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/neufundorg/"
+    },
+    {
+      "Github": "https://github.com/Neufund/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/neufund/"
+    },
+    {
+      "Slack": "https://neufundorg.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/neufund"
+    },
+    {
+      "Twitter": "https://twitter.com/neufundorg"
+    },
+    {
+      "Website": "https://neufund.org/"
+    },
+    {
+      "Whitepaper": "https://neufund.org/whitepaper"
+    }
+  ],
+  "name": "Neumark",
+  "symbol": "NEU"
+}

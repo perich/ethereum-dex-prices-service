@@ -1,0 +1,36 @@
+{
+  "addr": "0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3",
+  "decimals": 18,
+  "description": "Hut34's Entropy Token powers a blockchain based protocol facilitating an open ecosystem of chatbots, A.I. and IoT services. Allowing the open exchange and monetization of data, information and digital services. services where developers can easily connect and route queries, receive resolution of these queries, add utility to their end users, and be fairly rewarded for this.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2167513.0"
+    },
+    {
+      "Blog": "https://medium.com/@hut34project"
+    },
+    {
+      "Email": "mailto:admin@hut34.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/hut34project"
+    },
+    {
+      "Github": "https://github.com/hut34"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FfSBbxBbWS8SGjMQ4O3wBQ"
+    },
+    {
+      "Twitter": "https://twitter.com/hut34project"
+    },
+    {
+      "Website": "https://hut34.io/"
+    },
+    {
+      "Whitepaper": "https://docsend.com/view/b4h7ygu"
+    }
+  ],
+  "name": "Hut34 Entropy Token",
+  "symbol": "ENTRP"
+}

@@ -1,0 +1,45 @@
+{
+  "addr": "0x83eea00d838f92dec4d1475697b9f4d3537b56e3",
+  "decimals": 8,
+  "description": "A decentralized music platform that aims to monetize independent artists by giving them 100% of the revenue.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1846376"
+    },
+    {
+      "Blog": "https://medium.com/@voisecom"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/voisecom/"
+    },
+    {
+      "Email": "mailto:support@voise.com"
+    },
+    {
+      "Github": "https://github.com/voisecom"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/voise/"
+    },
+    {
+      "Slack": "https://voise.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/voisecom"
+    },
+    {
+      "Twitter": "https://twitter.com/@voisecom"
+    },
+    {
+      "Website": "http://www.voise.com/"
+    },
+    {
+      "Website": "https://www.voise.it/"
+    },
+    {
+      "Whitepaper": "https://voise.com/whitepaper-voise.pdf"
+    }
+  ],
+  "name": "VOISE",
+  "symbol": "VOISE"
+}

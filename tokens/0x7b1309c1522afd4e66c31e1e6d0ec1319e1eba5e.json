@@ -1,0 +1,33 @@
+{
+  "addr": "0x7b1309c1522afd4e66c31e1e6d0ec1319e1eba5e",
+  "decimals": 18,
+  "description": "Revolutionizing the way of financial transactions.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2354399"
+    },
+    {
+      "Email": "mailto:info@bulleon.net"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bulleon.net/"
+    },
+    {
+      "Github": "https://github.com/Bulleon/contract"
+    },
+    {
+      "Telegram": "https://t.me/bulleon_official"
+    },
+    {
+      "Twitter": "https://twitter.com/Bulleon_net"
+    },
+    {
+      "Website": "https://bulleon.net/"
+    },
+    {
+      "Whitepaper": "https://bulleon.net/blackpaper_bulleonn.pdf"
+    }
+  ],
+  "name": "Bulleon",
+  "symbol": "BLN"
+}

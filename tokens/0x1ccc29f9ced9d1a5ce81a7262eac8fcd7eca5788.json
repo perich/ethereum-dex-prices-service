@@ -1,0 +1,36 @@
+{
+  "addr": "0x1ccc29f9ced9d1a5ce81a7262eac8fcd7eca5788",
+  "decimals": 8,
+  "description": "ANTS RELOADED is the first decentralized and transparent payment system for gaming consoles managed by an Ethereum smart contract.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2792318.0"
+    },
+    {
+      "Blog": "https://medium.com/@antsreloaded"
+    },
+    {
+      "Email": "mailto:team@antsreloaded.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Ants-Reloaded-159382368042736/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/Ants_Reloaded/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FfBHg1DfvymqYDBX757Arg"
+    },
+    {
+      "Twitter": "https://twitter.com/antsreloaded"
+    },
+    {
+      "Website": "https://www.antsreloaded.com/"
+    },
+    {
+      "Whitepaper": "https://www.antsreloaded.com/whitepaper/"
+    }
+  ],
+  "name": "ANTS Reloaded",
+  "symbol": "ANTS"
+}

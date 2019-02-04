@@ -1,0 +1,30 @@
+{
+  "addr": "0xe13ef257cf4d5df928ca11d230427c037666d466",
+  "decimals": 6,
+  "description": "WITchain makes your token and manages its value. You have value token in decentralized cryptocurrency economy, we provide digital token development and value management service for individual and enterprise.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2848994.msg29228303#msg29228303"
+    },
+    {
+      "Email": "mailto:admin@witchain.org"
+    },
+    {
+      "Telegram": "https://t.me/witchain"
+    },
+    {
+      "Twitter": "https://twitter.com/witchaindev"
+    },
+    {
+      "Twitter": "https://twitter.com/witchaindev?ref_src=twsrc%5Etfw"
+    },
+    {
+      "Website": "http://witchain.org/"
+    },
+    {
+      "Whitepaper": "http://witchain.org/wit/witchainEN.pdf"
+    }
+  ],
+  "name": "WIT",
+  "symbol": "WIT"
+}

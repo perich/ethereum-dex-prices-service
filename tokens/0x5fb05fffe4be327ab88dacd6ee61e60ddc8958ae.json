@@ -1,0 +1,18 @@
+{
+  "addr": "0x5fb05fffe4be327ab88dacd6ee61e60ddc8958ae",
+  "decimals": 18,
+  "description": "Black Garlic (BGL) is the token base on smart contract ERC20 use Blockchain technology to solve problem in agriculture sector. It allows farmers to sell better prices throughout the supply chain, while giving consumers trace exactly where produce they buy comes from.",
+  "links": [
+    {
+      "Website": "https://blackgarlic.io/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2864137.0"
+    },
+    {
+      "Twitter": "https://twitter.com/BlackgarlicB"
+    }
+  ],
+  "name": "BlackGarlic",
+  "symbol": "BGL"
+}

@@ -1,0 +1,18 @@
+{
+  "addr": "0x1d10997e92011398a20612f9ee87e33449bc1fe4",
+  "decimals": 18,
+  "description": "1KT is token based ERC20 using proof-of-stake system with smaller supply.",
+  "links": [
+    {
+      "Email": "mailto:10000token@gmail.com"
+    },
+    {
+      "Website": "https://1ktoken.tech"
+    },
+    {
+      "Website": "https://1ktoken.tech/"
+    }
+  ],
+  "name": "1K Token",
+  "symbol": "1KT"
+}

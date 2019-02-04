@@ -1,0 +1,42 @@
+{
+  "addr": "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+  "decimals": 4,
+  "description": "Everex enables you to transfer, borrow, and trade in any fiat currency, anywhere. No Bank account required. With settling times below 30 seconds, transaction costs of a few cents, and global support, the world&rsquo;s markets are in the palm of your hand.",
+  "links": [
+    {
+      "Blog": "https://blog.everex.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/everex/"
+    },
+    {
+      "Email": "mailto:contact@everex.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/everex.io"
+    },
+    {
+      "Github": "https://github.com/EverexIO/EVXToken"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Everex/"
+    },
+    {
+      "Slack": "https://everex.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/everexio"
+    },
+    {
+      "Twitter": "https://twitter.com/everexio"
+    },
+    {
+      "Website": "https://www.everex.io/"
+    },
+    {
+      "Whitepaper": "https://daks2k3a4ib2z.cloudfront.net/59157962bdb4300afa8771a9/5963c09d077a520b5a965208_20170710_EVX_WP.pdf"
+    }
+  ],
+  "name": "Everex",
+  "symbol": "EVX"
+}

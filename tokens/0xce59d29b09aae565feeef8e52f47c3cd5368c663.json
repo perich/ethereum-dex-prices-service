@@ -1,0 +1,40 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "BULX",
+  "addr": "0xce59d29b09aae565feeef8e52f47c3cd5368c663",
+  "decimals": 18,
+  "description": "Shopping platform",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2072092.0"
+    },
+    {
+      "Blog": "http://www.bullioncrypto.info/blog"
+    },
+    {
+      "Email": "mailto:support@bullioncrypto.info"
+    },
+    {
+      "Facebook": "https://www.facebook.com/groups/bullioncoin"
+    },
+    {
+      "Github": "https://github.com/bullioncoin"
+    },
+    {
+      "Slack": "https://bullioncoin.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/bullion_coin"
+    },
+    {
+      "Website": "http://www.bullioncrypto.info/"
+    },
+    {
+      "Website": "http://www.bullioncrypto.info"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/0B-h5ivIOxuQ1SzAzZ3RZVGZNRWM/view"
+    }
+  ],
+  "name": "Bullioncoin",
+  "symbol": "BLX"
+}

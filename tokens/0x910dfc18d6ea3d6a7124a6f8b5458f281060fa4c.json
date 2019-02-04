@@ -1,0 +1,45 @@
+{
+  "addr": "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c",
+  "decimals": 18,
+  "description": "The X8Currency is an Ethereum-based token that uses a combination of 8 fiat currency baskets and gold to provide a stable value. It is stable and exchangeable directly at the issuer, offering distributed exchanges a suitable solution for fiat exit point.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2536011.0"
+    },
+    {
+      "Blog": "https://medium.com/x8currency"
+    },
+    {
+      "Email": "mailto:admin@x8currency.com"
+    },
+    {
+      "Facebook": "https://facebook.com/x8currency"
+    },
+    {
+      "Github": "https://github.com/x8currency-project"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/X8_Project/"
+    },
+    {
+      "Slack": "https://x8currency.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/x8Project"
+    },
+    {
+      "Twitter": "https://twitter.com/x8currency"
+    },
+    {
+      "Website": "https://x8currency.com/"
+    },
+    {
+      "Whitepaper": "https://x8currency.com/wp-content/uploads/X8-and-ARM-Technology-whitepaper.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCirEwZbu6h_zZbyX3yJ7v0g/videos"
+    }
+  ],
+  "name": "X8XToken",
+  "symbol": "X8X"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
+  "decimals": 8,
+  "description": "SwissBorg is the first wealth management platform for cryptos based on the blockchain, made in Switzerland by a team of financial experts. CHSB token holders become community members and are rewarded for participating in referendums to decide the future of SwissBorg.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2161736.0"
+    },
+    {
+      "Blog": "https://medium.com/swissborg"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/swissborg/"
+    },
+    {
+      "Email": "mailto:cyborg@swissborg.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/swissborg"
+    },
+    {
+      "Github": "https://github.com/SwissBorg"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/swissborg/"
+    },
+    {
+      "Telegram": "https://t.me/SwissBorgChat"
+    },
+    {
+      "Twitter": "https://twitter.com/swissborg"
+    },
+    {
+      "Website": "https://swissborg.com/"
+    },
+    {
+      "Whitepaper": "https://swissborg.com/en/documents.html"
+    }
+  ],
+  "name": "SwissBorg Token",
+  "symbol": "CHSB"
+}

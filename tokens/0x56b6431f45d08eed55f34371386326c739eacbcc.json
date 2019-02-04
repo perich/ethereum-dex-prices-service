@@ -1,0 +1,33 @@
+{
+  "addr": "0x56b6431f45d08eed55f34371386326c739eacbcc",
+  "decimals": 18,
+  "description": "\"Ethereum Meta addresses a major weakness in Ethereum: the lack of privacy. Ethereum Meta enables smart contracts where no friend, family, nor foe can see what you bought or for how much. We are working on Smart Contract Mixer. After Ethereum platform implements Zero-Knowledge Snarks, we will add this feature to our system. Moreover, Ethereum Meta token is a foundation of the Anonymous E-Market Place that we are building to be accessible by Tor Browser and provide fully anonymous experience.\"",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2659058.0"
+    },
+    {
+      "Github": "https://github.com/ethermeta/EtherMeta/blob/master/SmartContract"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/CryptoCurrency/comments/7mj2gf/ethereum_meta_untraceable_transactions/"
+    },
+    {
+      "Telegram": "https://t.me/ethereummeta"
+    },
+    {
+      "Twitter": "https://twitter.com/EthereumMeta"
+    },
+    {
+      "Website": "https://ethermeta.com/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=MoDP_YM_tFo"
+    },
+    {
+      "Whitepaper": "https://ethermeta.com/pdfFiles/WhitePaper.pdf"
+    }
+  ],
+  "name": "Ethereum Meta",
+  "symbol": "ETHM"
+}

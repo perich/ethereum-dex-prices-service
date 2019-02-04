@@ -1,0 +1,12 @@
+{
+  "addr": "0x0c6c9beeeb5de377210930f09a7ac9a99ff5e981",
+  "decimals": 18,
+  "description": "eZCash",
+  "links": [
+    {
+      "Website": "http://ezcash.network"
+    }
+  ],
+  "name": "eZCash",
+  "symbol": "EZEC"
+}

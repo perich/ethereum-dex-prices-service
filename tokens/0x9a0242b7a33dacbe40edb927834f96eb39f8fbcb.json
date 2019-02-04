@@ -1,0 +1,42 @@
+{
+  "addr": "0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb",
+  "decimals": 18,
+  "description": "BABB will empower the microeconomy, improving lives and livelihoods and creating new opportunities for individuals and businesses across the world.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2349340.0"
+    },
+    {
+      "Blog": "https://medium.com/@BABB"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/babb/"
+    },
+    {
+      "Email": "mailto:support@getbabb.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/getbabb/"
+    },
+    {
+      "Github": "https://github.com/babbplatform"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/getBABB/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/E7lsBw5BqFHVEz1etGm9ww"
+    },
+    {
+      "Twitter": "https://twitter.com/getbabb"
+    },
+    {
+      "Website": "https://getbabb.com/"
+    },
+    {
+      "Whitepaper": "https://resources.getbabb.com/whitepapers/en/babb-whitepaper.pdf"
+    }
+  ],
+  "name": "BAX",
+  "symbol": "BAX"
+}

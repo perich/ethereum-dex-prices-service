@@ -1,0 +1,27 @@
+{
+  "addr": "0x516e5436bafdc11083654de7bb9b95382d08d5de",
+  "decimals": 8,
+  "description": "The real-world value of this new token is secured and cryptographically linked to a publicly verifiable reserve of Bitcoin - the &lsquo;gold standard&rsquo; of cryptocurrency. The Bitcoin reserve known as the Ormeus Reserve Vault (hereafter &ldquo;ORV&rdquo;) is a multisignature Bitcoin wallet funded by the ongoing industrial Bitcoin mining operations of Ormeus Global. These operations have an initial baseline hashing power of 30 PH/s. This hashrate will be continuously upgraded by allocating proceeds derived from the sale of ORME tokens. Unlike other static (or semi-static) Bitcoin-backed cryptocurrencies (which are historically highly speculative in nature and backed by token sales alone) Ormeus Coin will be backed both by token sales and a geographically diverse industrial cryptocurrency mining operation. This predefined mechanism to facilitate the continual accumulation of hashing power will result in the ORV having a constantly increasing reserve store of Bitcoin which effectively distinguishes ORME as a stable store-of-value.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2127561"
+    },
+    {
+      "Email": "mailto:info@ormeuscoin.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Ormeus-Coin-1520015201352809/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/ormeuscoin/"
+    },
+    {
+      "Twitter": "https://twitter.com/ormeuscoin"
+    },
+    {
+      "Website": "http://ormeuscoin.com/"
+    }
+  ],
+  "name": "Ormeus Coin",
+  "symbol": "ORME"
+}

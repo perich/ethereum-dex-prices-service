@@ -1,0 +1,27 @@
+{
+  "addr": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+  "decimals": 18,
+  "description": "The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It&rsquo;s complementary to the Ethereum blockchain and works with any ERC20 compatible token. The Raiden project is work in progress. Its goal is to research state channel technology, define protocols and develop reference implementations.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/raiden-network-token/"
+    },
+    {
+      "Email": "mailto:contact@raiden.network"
+    },
+    {
+      "Github": "https://github.com/raiden-network/raiden/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/raidennetwork/"
+    },
+    {
+      "Twitter": "https://twitter.com/raiden_network"
+    },
+    {
+      "Website": "https://raiden.network/"
+    }
+  ],
+  "name": "Raiden Token",
+  "symbol": "RDN"
+}

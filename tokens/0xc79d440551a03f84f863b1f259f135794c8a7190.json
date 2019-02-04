@@ -1,0 +1,36 @@
+{
+  "addr": "0xc79d440551a03f84f863b1f259f135794c8a7190",
+  "decimals": 18,
+  "description": "MEGAX are spendable tokens on a wide and growing retail network of more than 40,000 brands.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2144509"
+    },
+    {
+      "Blog": "https://medium.com/@megaXcoin"
+    },
+    {
+      "Email": "mailto:hello@megax.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/megaxcoin/"
+    },
+    {
+      "Telegram": "https://t.me/Megaxcoin"
+    },
+    {
+      "Twitter": "https://twitter.com/megaXcoin"
+    },
+    {
+      "Website": "https://megax.io/"
+    },
+    {
+      "Website": "https://megax.io"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/0B0G2NEQVoA1dbVZEc09NRW5sOVU/view"
+    }
+  ],
+  "name": "MEGA X",
+  "symbol": "MGX"
+}

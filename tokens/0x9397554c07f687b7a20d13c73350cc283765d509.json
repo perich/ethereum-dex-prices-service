@@ -1,0 +1,30 @@
+{
+  "addr": "0x9397554c07f687b7a20d13c73350cc283765d509",
+  "decimals": 18,
+  "description": "Shield is a privacy-centric and an anonymous cryptocurrency. It is based on advanced mathematical analysis and innovative ideas to empower end-users with true privacy, both financial and personal.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2421071"
+    },
+    {
+      "Email": "mailto:contact@shield.vision"
+    },
+    {
+      "Telegram": "https://t.me/shieldtoken"
+    },
+    {
+      "Twitter": "https://twitter.com/shieldtoken"
+    },
+    {
+      "Website": "http://www.shield.vision/"
+    },
+    {
+      "Website": "http://www.shield.vision"
+    },
+    {
+      "Whitepaper": "http://shield.vision/wp-content/uploads/Shield-Whitepaper.pdf"
+    }
+  ],
+  "name": "Shield Token",
+  "symbol": "SHLD"
+}

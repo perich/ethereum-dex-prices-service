@@ -1,0 +1,21 @@
+{
+  "addr": "0x0fcf5c6b20577d48ba209e077975b9f2eac55798",
+  "decimals": 5,
+  "description": "The AssetBase Foundation is a decentralized control foundation that hold the physical metal that backs every token.",
+  "links": [
+    {
+      "Email": "mailto:support@assetbase.io"
+    },
+    {
+      "Twitter": "https://twitter.com/RealAssetBase"
+    },
+    {
+      "Website": "https://assetbase.io/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2943055.0"
+    }
+  ],
+  "name": "Silver",
+  "symbol": "SVB"
+}

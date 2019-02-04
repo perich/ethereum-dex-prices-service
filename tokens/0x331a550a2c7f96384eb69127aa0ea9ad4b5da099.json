@@ -1,0 +1,27 @@
+{
+  "addr": "0x331a550a2c7f96384eb69127aa0ea9ad4b5da099",
+  "decimals": 18,
+  "description": "THE WORLD&rsquo;S FIRST ATM TOKENS MACHINE",
+  "links": [
+    {
+      "Email": "mailto:info@atmt.site"
+    },
+    {
+      "Slack": "https://atmtoken-workspace.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/AtmtToken"
+    },
+    {
+      "Twitter": "https://twitter.com/ATMTTOKEN"
+    },
+    {
+      "Website": "http://www.atmt.site/"
+    },
+    {
+      "Website": "http://www.atmt.site"
+    }
+  ],
+  "name": "ATMToken",
+  "symbol": "ATMT"
+}

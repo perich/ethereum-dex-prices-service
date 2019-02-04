@@ -1,0 +1,36 @@
+{
+  "addr": "0xe2e5d0e1422e927abab19ad2067f802ad07fb364",
+  "decimals": 18,
+  "description": "Lotus Token aims to decentralize the travel marketplace using blockchain technology to lower travel-related costs by eliminating costly overhead transaction fees of traditional booking systems. We have recently signed a partnership with ORIGINPROTOCOL to improve and power-up the shared economy where decentralized systems act like a one-stop shop for common people to enjoy the freedom of enjoying reduced costs of decentralized services like travel, house/hotel bookings, etc.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@lotustoken"
+    },
+    {
+      "Email": "mailto:support@lotus.sh"
+    },
+    {
+      "Facebook": "https://www.facebook.com/lotustokeninc"
+    },
+    {
+      "Github": "https://github.com/lotustoken/Smart-Contract"
+    },
+    {
+      "Telegram": "https://www.t.me/lotustokeninc"
+    },
+    {
+      "Twitter": "https://twitter.com/lotustokeninc"
+    },
+    {
+      "Website": "https://lotus.sh/"
+    },
+    {
+      "Whitepaper": "https://lotus.sh/assets/whitepaper.pdf"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2512733.0"
+    }
+  ],
+  "name": "Lotus Token Inc",
+  "symbol": "LTO"
+}

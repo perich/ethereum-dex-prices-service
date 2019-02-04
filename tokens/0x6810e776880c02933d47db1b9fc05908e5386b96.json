@@ -1,0 +1,30 @@
+{
+  "addr": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+  "decimals": 18,
+  "description": "Based on Ethereum &mdash; The next generation blockchain network. Speculate on anything with an easy-to-use prediction market.",
+  "links": [
+    {
+      "Blog": "https://medium.com/gnosis-pm"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/gnosis-gno/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Gnosis.pm/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/gnosisPM/"
+    },
+    {
+      "Slack": "https://slack.gnosis.pm/"
+    },
+    {
+      "Twitter": "https://twitter.com/gnosisPM"
+    },
+    {
+      "Website": "https://gnosis.pm/"
+    }
+  ],
+  "name": "Gnosis Token",
+  "symbol": "GNO"
+}

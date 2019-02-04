@@ -1,0 +1,36 @@
+{
+  "addr": "0xf433089366899d83a9f26a773d59ec7ecf30355e",
+  "decimals": 8,
+  "description": "Transfer money instantly around the globe with nothing more than a phone number. Earn rewards every time you spend or make a purchase. Ditch the bank and go digital.",
+  "links": [
+    {
+      "Blog": "https://blog.metalpay.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/metal/"
+    },
+    {
+      "Email": "mailto:support@metalpay.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/metalpaysme/"
+    },
+    {
+      "Slack": "https://metalpay.chat/"
+    },
+    {
+      "Telegram": "https://t.me/metalpay"
+    },
+    {
+      "Twitter": "https://twitter.com/metalpaysme"
+    },
+    {
+      "Website": "https://www.metalpay.com/"
+    },
+    {
+      "Whitepaper": "https://www.metalpay.com/assets/pdf/whitepaper.pdf"
+    }
+  ],
+  "name": "Metal",
+  "symbol": "MTL"
+}

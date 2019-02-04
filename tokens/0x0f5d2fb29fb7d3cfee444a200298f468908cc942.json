@@ -1,0 +1,39 @@
+{
+  "addr": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+  "decimals": 18,
+  "description": "Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications.",
+  "links": [
+    {
+      "Blog": "https://blog.decentraland.org/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/decentraland/"
+    },
+    {
+      "Email": "mailto:hello@decentraland.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/decentraland/"
+    },
+    {
+      "Github": "https://github.com/decentraland"
+    },
+    {
+      "Reddit": "https://reddit.com/r/decentraland"
+    },
+    {
+      "Slack": "https://slack.decentraland.org/"
+    },
+    {
+      "Twitter": "https://twitter.com/decentraland"
+    },
+    {
+      "Website": "https://decentraland.org/"
+    },
+    {
+      "Whitepaper": "https://decentraland.org/whitepaper.pdf"
+    }
+  ],
+  "name": "Decentraland",
+  "symbol": "MANA"
+}

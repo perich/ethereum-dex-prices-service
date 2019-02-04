@@ -1,0 +1,36 @@
+{
+  "addr": "0x089a6d83282fb8988a656189f1e7a73fa6c1cac2",
+  "decimals": 18,
+  "description": "Massive Multiplayer Online Real Time Economic Strategy",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1877080.0"
+    },
+    {
+      "Email": "mailto:support@prospectors.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/prospectors.io/"
+    },
+    {
+      "Github": "https://github.com/ProspectorsWorld/Prospectors"
+    },
+    {
+      "Slack": "http://prospectors.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/prospectorsgame"
+    },
+    {
+      "Website": "https://prospectors.io/"
+    },
+    {
+      "Website": "https://www.prospectors.io/"
+    },
+    {
+      "Whitepaper": "https://prospectors.io/white_paper_en.pdf"
+    }
+  ],
+  "name": "Token Prospectors Gold",
+  "symbol": "PGL"
+}

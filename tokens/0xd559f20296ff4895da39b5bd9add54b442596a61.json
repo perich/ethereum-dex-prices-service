@@ -1,0 +1,48 @@
+{
+  "addr": "0xd559f20296ff4895da39b5bd9add54b442596a61",
+  "decimals": 18,
+  "description": "FintruX aims to make unsecured loans highly secure.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2286042"
+    },
+    {
+      "Blog": "https://medium.com/fintrux"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/fintrux-network/"
+    },
+    {
+      "Email": "mailto:info@fintrux.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/FintruX"
+    },
+    {
+      "Github": "https://github.com/FintruX"
+    },
+    {
+      "Github": "https://github.com/fintrux-team"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/fintrux/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/FintruX/"
+    },
+    {
+      "Telegram": "https://t.me/FintruX"
+    },
+    {
+      "Twitter": "https://twitter.com/fintrux"
+    },
+    {
+      "Website": "https://www.fintrux.com"
+    },
+    {
+      "Whitepaper": "https://www.fintrux.com/home/doc/whitepaper.pdf"
+    }
+  ],
+  "name": "FintruX Network",
+  "symbol": "FTX"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0x386467f1f3ddbe832448650418311a479eecfc57",
+  "decimals": 0,
+  "description": "Embermine is a smart contract deployment and management platform that allows Users to create customized smart contracts between various parties to manage revenue share and maintain accountability in any project-based efforts. Additionally, Embermine is dedicated to educating and providing access to these new technologies to all members of the public wishing to learn more about cryptocurrencies, blockchain, and smart contracts. Our current product list includes the Embermine Platform, TokenVerse, and more. Embers, our token, are not only a seat license for the Platform, but are also accepted as a form of payment on TokenVerse for our products and services offered on the site.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/embers/"
+    },
+    {
+      "Email": "mailto:info@embermine.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/embermine"
+    },
+    {
+      "Twitter": "https://twitter.com/TheEmbermine"
+    },
+    {
+      "Website": "https://www.embermine.com"
+    },
+    {
+      "Website": "https://www.embermine.com/"
+    },
+    {
+      "Whitepaper": "http://embermine.com/img/Embermine%20Whitepaper.pdf"
+    }
+  ],
+  "name": "Embers",
+  "symbol": "MBRS"
+}

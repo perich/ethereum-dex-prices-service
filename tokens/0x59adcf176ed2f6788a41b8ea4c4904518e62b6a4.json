@@ -1,0 +1,30 @@
+{
+  "addr": "0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4",
+  "decimals": 18,
+  "description": "SAI is a decentralized stablecoin. See <a href=\"https://sai.makerdao.com/\" target=\"_blank\">https://sai.makerdao.com/</a>",
+  "links": [
+    {
+      "Blog": "https://blog.makerdao.com/"
+    },
+    {
+      "Github": "https://github.com/makerdao"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/MakerDAO/"
+    },
+    {
+      "Slack": "https://chat.makerdao.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/makerdao"
+    },
+    {
+      "Website": "https://makerdao.com/"
+    },
+    {
+      "Whitepaper": "https://github.com/makerdao/docs/blob/master/Dai.md"
+    }
+  ],
+  "name": "",
+  "symbol": "SAI"
+}

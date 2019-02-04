@@ -1,0 +1,33 @@
+{
+  "addr": "0xcfc2437916a6df165235272dbfb116687bb1a00b",
+  "decimals": 18,
+  "description": "A DECENTRALIZED CASHBACK PLATFORM ON THE ETHEREUM BLOCKCHAIN Get money back from your purchases using PlusCoin",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/dsplus.fork"
+    },
+    {
+      "Github": "https://github.com/dsplus/PlusCoin"
+    },
+    {
+      "Telegram": "https://t.me/Dsplusforkeng"
+    },
+    {
+      "Twitter": "https://twitter.com/dsplusf"
+    },
+    {
+      "Twitter": "https://twitter.com/dsplusf?lang=ru"
+    },
+    {
+      "Website": "https://pluscoin.io/"
+    },
+    {
+      "Whitepaper": "https://pluscoin.io/whitepaper/WP%20PlusCoin%20-%20(ENG).pdf"
+    },
+    {
+      "Whitepaper": "https://pluscoin.io/whitepaper/WP-Additions-eng.pdf"
+    }
+  ],
+  "name": "PlusCoin",
+  "symbol": "PLCN"
+}

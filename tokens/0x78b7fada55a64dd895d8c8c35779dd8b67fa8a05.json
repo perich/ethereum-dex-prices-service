@@ -1,0 +1,45 @@
+{
+  "addr": "0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05",
+  "decimals": 18,
+  "description": "World&rsquo;s Real Estate Blockchain Platform",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2053239"
+    },
+    {
+      "Blog": "https://medium.com/@atlantio"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/atlant/"
+    },
+    {
+      "Email": "mailto:contact@atlant.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/atlantplatform/"
+    },
+    {
+      "Github": "https://github.com/AtlantPlatform"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/atlantio/"
+    },
+    {
+      "Slack": "https://atlantio.slack.com/join/shared_invite/MjMyNzg4MTM5NTg0LTE1MDQwMzM4NjItMGEyZDY0MGY3Mg"
+    },
+    {
+      "Telegram": "https://t.me/atlant_eng"
+    },
+    {
+      "Twitter": "https://twitter.com/atlantio"
+    },
+    {
+      "Website": "https://atlant.io/"
+    },
+    {
+      "Whitepaper": "https://atlant.io/assets/documents/en/Atlant_WP_publish.pdf"
+    }
+  ],
+  "name": "ATLANT Token",
+  "symbol": "ATL"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0x268b7976e94e84a48bf8b2b57ba34b59ed836a74",
+  "decimals": 8,
+  "description": "Quarterly investment in blockchain and A.I. start-ups voted upon by token holders through the XAI token",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1974313.0"
+    },
+    {
+      "Blog": "https://www.aicoin.io/blog/"
+    },
+    {
+      "Email": "mailto:info@aicoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/aicoinio-1847270038857638/"
+    },
+    {
+      "Github": "https://github.com/AICoin-io/AICoin"
+    },
+    {
+      "Slack": "https://slackpass.io/aicoin"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/AAAAAA4F-3Tvi4aX0haNQg"
+    },
+    {
+      "Twitter": "https://twitter.com/aicoinico"
+    },
+    {
+      "Website": "https://www.aicoin.io/"
+    },
+    {
+      "Whitepaper": "https://www.aicoin.io/whitepaper/"
+    }
+  ],
+  "name": "AICoin",
+  "symbol": "XAI"
+}

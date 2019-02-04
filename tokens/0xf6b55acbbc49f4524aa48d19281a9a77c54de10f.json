@@ -1,0 +1,36 @@
+{
+  "addr": "0xf6b55acbbc49f4524aa48d19281a9a77c54de10f",
+  "decimals": 18,
+  "description": "Decentralized Database Services based on Ethereum SWARM",
+  "links": [
+    {
+      "Blog": "http://blog.wolk.com/"
+    },
+    {
+      "Email": "mailto:tokensale@wolk.com"
+    },
+    {
+      "Github": "https://github.com/wolktoken/token"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/wolktoken/"
+    },
+    {
+      "Slack": "https://wolktoken.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GkePIg2-n4y5VQn4epAQOw"
+    },
+    {
+      "Twitter": "https://twitter.com/WolkInc"
+    },
+    {
+      "Website": "https://www.wolk.com/"
+    },
+    {
+      "Whitepaper": "https://www.wolk.com/whitepaper/WolkTokenGenerationEvent.pdf"
+    }
+  ],
+  "name": "WOLK TOKEN",
+  "symbol": "WLK"
+}

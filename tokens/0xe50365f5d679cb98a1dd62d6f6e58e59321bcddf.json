@@ -1,0 +1,46 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "LA",
+  "addr": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
+  "decimals": 18,
+  "description": "LAToken enables cryptocurrencies to be widely used in the real economy by making real assets tradable in crypto. LAT is a utility token designed to support transactions on the LAT platform. It will be purchased by cryptoholders and asset owners to do the following: Buy asset and other tokens on the LAT platform, Pay transaction fees.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2083486.0"
+    },
+    {
+      "Blog": "https://blog.latoken.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/latoken/"
+    },
+    {
+      "Email": "mailto:ico@latoken.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/LiquidAssetToken/"
+    },
+    {
+      "Github": "https://github.com/LAToken/smart-contract"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/LAToken/"
+    },
+    {
+      "Telegram": "https://t.me/latoken"
+    },
+    {
+      "Twitter": "https://twitter.com/latokens"
+    },
+    {
+      "Website": "https://www.latoken.com/"
+    },
+    {
+      "Website": "https://sale.latoken.com"
+    },
+    {
+      "Whitepaper": "https://cdn-new.latoken.com/common/files/whitepaper/latoken-whitepaper-en.pdf"
+    }
+  ],
+  "name": "latoken",
+  "symbol": "la"
+}

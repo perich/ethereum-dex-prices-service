@@ -1,0 +1,39 @@
+{
+  "addr": "0xb3bd49e28f8f832b8d1e246106991e546c323502",
+  "decimals": 18,
+  "description": "The Future of Communication Platforms Built on the Ethereum Blockchain",
+  "links": [
+    {
+      "Blog": "https://medium.com/mercuryprotocol"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/mercury-protocol/"
+    },
+    {
+      "Email": "mailto:info@mercuryprotocol.com"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/MercuryProtocol/"
+    },
+    {
+      "Slack": "https://mercuryprotocol.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/G47gcA8f5EYFfEsILw7H2w"
+    },
+    {
+      "Twitter": "https://twitter.com/mercuryprotocol"
+    },
+    {
+      "Website": "https://www.mercuryprotocol.com/"
+    },
+    {
+      "Website": "https://www.mercuryprotocol.com"
+    },
+    {
+      "Whitepaper": "https://www.mercuryprotocol.com/files/Mercury_Protocol_whitepaper.pdf"
+    }
+  ],
+  "name": "Global Messaging Token",
+  "symbol": "GMT"
+}

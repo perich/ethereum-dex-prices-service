@@ -1,0 +1,27 @@
+{
+  "addr": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+  "decimals": 18,
+  "description": "Numerai is new kind of hedge fund built by a network of data scientists.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@Numerai"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/numeraire/"
+    },
+    {
+      "Email": "mailto:contact@numer.ai"
+    },
+    {
+      "Slack": "https://slack.numer.ai/"
+    },
+    {
+      "Website": "https://numer.ai/"
+    },
+    {
+      "Whitepaper": "https://numer.ai/whitepaper.pdf"
+    }
+  ],
+  "name": "Numeraire",
+  "symbol": "NMR"
+}

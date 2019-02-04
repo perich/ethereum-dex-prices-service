@@ -1,0 +1,33 @@
+{
+  "addr": "0x6f7a4bac3315b5082f793161a22e26666d22717f",
+  "decimals": 18,
+  "description": "YGGDRASH is a trust-based multi-dimensional blockchains (branches) built with a vision “Digitize everything into reality” and to connect everything and any blockchain networks.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@yggdrash"
+    },
+    {
+      "Email": "mailto:contracts@yggdrash.io"
+    },
+    {
+      "Github": "https://github.com/yggdrash"
+    },
+    {
+      "Telegram": "https://t.me/yggdrash"
+    },
+    {
+      "Website": "https://yggdrash.io/"
+    },
+    {
+      "Whitepaper": "http://cdn.yggdrash.io/docs/Yggdrash_WhitePaper_En.pdf"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3061492"
+    },
+    {
+      "Twitter": "https://twitter.com/YggdrashNews"
+    }
+  ],
+  "name": "YGGDRASH",
+  "symbol": "YEED"
+}

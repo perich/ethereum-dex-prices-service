@@ -1,0 +1,30 @@
+{
+  "addr": "0x614ea929892ea43d3ea2c5e3311b01cc589bad6c",
+  "decimals": 18,
+  "description": "The first and only ERC20 Ethereum Casino",
+  "links": [
+    {
+      "Blog": "https://medium.com/@Ethino_Casino"
+    },
+    {
+      "Email": "mailto:contact@ethino.com"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ethino/"
+    },
+    {
+      "Twitter": "https://twitter.com/Ethino_Casino"
+    },
+    {
+      "Website": "https://www.ethino.com/"
+    },
+    {
+      "Website": "https://www.ethino.com"
+    },
+    {
+      "Whitepaper": "http://www.ethino.com/files/ethino-whitepaper-en.pdf"
+    }
+  ],
+  "name": "Ethino",
+  "symbol": "ENO"
+}

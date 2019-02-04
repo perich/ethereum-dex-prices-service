@@ -1,0 +1,30 @@
+{
+  "addr": "0x5d65d971895edc438f465c17db6992698a52318d",
+  "decimals": 18,
+  "description": "Nebulas is a decentralized platform which provides a search framework for all blockchains. It is an open source public chain.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@nebulasio"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/nebulas-token/"
+    },
+    {
+      "Email": "mailto:contact@nebulas.io"
+    },
+    {
+      "Slack": "https://nebulasio.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/nebulasio"
+    },
+    {
+      "Website": "https://nebulas.io/en/"
+    },
+    {
+      "Whitepaper": "https://nebulas.io/docs/NebulasWhitepaper.pdf"
+    }
+  ],
+  "name": "Nebulas Token",
+  "symbol": "NAS"
+}

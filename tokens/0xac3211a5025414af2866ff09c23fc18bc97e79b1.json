@@ -1,0 +1,39 @@
+{
+  "addr": "0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+  "decimals": 18,
+  "description": "Blockchain Powered Mobility\nDOVU is shaping the crypto model for the mobility ecosystem. Introducing a transport focused protocol to accelerate the development of mobility related decentralised applications (dApps), the DOV token powers new business models in the transportation sector. The creation of these dApps will be fueled by data, therefore the DOVU API Marketplace will support the community further by simplifying the development of mobility data globally.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2116249.0"
+    },
+    {
+      "Blog": "https://blog.dovu.io/"
+    },
+    {
+      "Email": "mailto:support@dovu.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/DOVUglobal/"
+    },
+    {
+      "Github": "https://github.com/TokenMarketNet/ico"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/6uFPys2"
+    },
+    {
+      "Telegram": "https://t.me/dovuico"
+    },
+    {
+      "Twitter": "https://twitter.com/dovuapi"
+    },
+    {
+      "Website": "https://dovu.io/"
+    },
+    {
+      "Whitepaper": "https://dovu.io/whitepaper.pdf"
+    }
+  ],
+  "name": "DOVU",
+  "symbol": "DOVU"
+}

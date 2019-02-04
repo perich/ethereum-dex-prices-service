@@ -1,0 +1,12 @@
+{
+  "addr": "0x5882d49d3511e09096cbbab7e19fbfb82f65f28d",
+  "decimals": 18,
+  "description": "BioNT token is an ERC20 token. Advanced Pharma Intelligence GmbH is developing a drug pricing and forcasting software on blockchain. We have a working beta product and first clients already on board.",
+  "links": [
+    {
+      "Website": "https://www.biotechintel.com/"
+    }
+  ],
+  "name": "BIONT Token",
+  "symbol": "BIONT"
+}

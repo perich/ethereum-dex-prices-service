@@ -1,0 +1,30 @@
+{
+  "addr": "0x10b123fddde003243199aad03522065dc05827a0",
+  "decimals": 18,
+  "description": "SYN Token is used for the Synapse Network for decentralized data + machine learning models. SYN Token is an ERC20 standard token developed on top of the Ethereum network. The SYN token is used to both reward people for access to their data, support network infrastructure and fees, and reward people for committing to storage and compute through secondary exchange functions. Data and models can be bought and sold through the marketplace via fulfillment contracts (oracles, ad-hoc queries), and provenance and access control is kept on chain.",
+  "links": [
+    {
+      "Email": "mailto:hello@synapse.ai"
+    },
+    {
+      "Facebook": "https://www.facebook.com/groups/868857153271521/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/synapseai/"
+    },
+    {
+      "Slack": "https://synapseai-slack.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/aisynapse"
+    },
+    {
+      "Website": "https://synapse.ai/"
+    },
+    {
+      "Whitepaper": "https://s3.amazonaws.com/synapseai/whitepaper/whitepaper.pdf"
+    }
+  ],
+  "name": "Synapse",
+  "symbol": "SYN"
+}

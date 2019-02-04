@@ -1,0 +1,45 @@
+{
+  "addr": "0x4d8fc1453a0f359e99c9675954e656d80d996fbf",
+  "decimals": 18,
+  "description": "Beenest is a home-sharing platform powered by the Bee Token (BEE) that aims to make the bridge between guests and hosts without any commission. The platform is build on top of set Bee Protocols (Ethereum protocols) that can support other future sharing economy dApps. Moreover, the platform will feature a secure payment system with two authentication P2P entities, a decentralized arbitration system, and a reputation system based on the Ethereum blockchain.\nThe Bee token (BEE) will be used as the access token to the platform services and also to reward the network users.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@thebeetoken"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bee-token/"
+    },
+    {
+      "Email": "mailto:Tony@thebeetoken.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/thebeetoken"
+    },
+    {
+      "Github": "https://github.com/thebeetoken/"
+    },
+    {
+      "Instagram": "https://www.instagram.com/thebeetoken/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/beetoken/"
+    },
+    {
+      "Telegram": "https://t.me/beetoken"
+    },
+    {
+      "Twitter": "https://twitter.com/thebeetoken"
+    },
+    {
+      "Website": "https://www.beetoken.com/"
+    },
+    {
+      "Whitepaper": "https://s3-us-west-2.amazonaws.com/beenest-public/whitepaper/bee_whitepaper_v3.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=7guy82eR0BY"
+    }
+  ],
+  "name": "Bee Token",
+  "symbol": "BEE"
+}
