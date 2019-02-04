@@ -23,7 +23,7 @@ module.exports = class SaturnNetwork extends OrderBookExchange {
       const data = await rp(config)
       return data.sort((a, b) => parseFloat(b.token.liquidity_depth.ether) - parseFloat(a.token.liquidity_depth.ether))
     } catch (error) {
-      throw new Error(`error fetching data from ${this.name}: ${error}`)
+      throw new Error(`error fetching listed tokens from ${this.name}: ${error}`)
     }
   }
 
@@ -46,7 +46,7 @@ module.exports = class SaturnNetwork extends OrderBookExchange {
       const data = await rp(config)
       return data
     } catch (error) {
-      throw new Error(`error fetching sell rate from ${this.name}: ${error}`)
+      throw new Error(`error fetching order book data from ${this.name}: ${error}`)
     }
   }
 
