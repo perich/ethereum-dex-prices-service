@@ -1,0 +1,25 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "DICE",
+  "addr": "0x2e071d2966aa7d8decb1005885ba1977d6038a65",
+  "decimals": 16,
+  "description": "Our Ethereum dice game is provably-fair, has a low 1% house edge and no sign-ups or deposits.\nEtheroll is an Ethereum smart contract for placing bets on our provably-fair dice game using Ether with no deposits or sign-ups.\nEach dice roll is provably random and cryptographically secure thanks to the nature of the Ethereum blockchain.",
+  "links": [
+    {
+      "Blog": "https://etheroll.wordpress.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/etheroll/"
+    },
+    {
+      "Email": "mailto:support@etheroll.com"
+    },
+    {
+      "Website": "http://etheroll.com"
+    },
+    {
+      "Website": "http://etheroll.com/"
+    }
+  ],
+  "name": "DICE",
+  "symbol": "ROL"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2",
+  "decimals": 18,
+  "description": "DAO.casino is a protocol defining interactions between untrusted participants in the context of online gambling industry. This includes two levels: game level - player&rsquo;s trust in a particular casino operator in the context of the game (provably fair gambling) and a business model level: i.e. game developer doesn&rsquo;t have to trust casino operator to get rewarded. In short: all participants that are needed for the system to function don&rsquo;t have to trust each other in order to cooperate.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?action=profile"
+    },
+    {
+      "Blog": "https://medium.com/@dao.casino/dao-casino-token-sale-campaign-officially-ended-1025d2a853a4"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/dao-casino/"
+    },
+    {
+      "Email": "mailto:team@dao.casino"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Dao.casino/"
+    },
+    {
+      "Github": "https://github.com/daocasino"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/DaoCasino/"
+    },
+    {
+      "Slack": "https://dao.casino/slack-invite.html"
+    },
+    {
+      "Telegram": "https://t.me/daocasino"
+    },
+    {
+      "Website": "https://dao.casino/"
+    },
+    {
+      "Whitepaper": "https://github.com/DaoCasino/Whitepaper/blob/master/DAO.Casino%20WP.md"
+    }
+  ],
+  "name": "Dao.Casino",
+  "symbol": "BET"
+}

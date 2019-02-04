@@ -1,0 +1,27 @@
+{
+  "addr": "0x0235fe624e044a05eed7a43e16e3083bc8a4287a",
+  "decimals": 18,
+  "description": "A cofounder-based ERC20 token written to be performant for the most common ERC20 token functions (transfer, transferFrom, and approve). Used in turn-based decentralized entertainment applications and simple for the recent cryptocurrency entrant.",
+  "links": [
+    {
+      "Github": "https://github.com/OriginalCrypto/occ-contracts"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/OriginalCryptoCoin/"
+    },
+    {
+      "Telegram": "https://t.me/OrigCryptoCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/OrigCryptoCoin"
+    },
+    {
+      "Website": "https://originalcryptocoin.com"
+    },
+    {
+      "Whitepaper": "https://originalcryptocoin.com/wp-content/uploads/2018/02/OriginalCryptoCoin_WhitePaper_v1.pdf"
+    }
+  ],
+  "name": "Original Crypto Coin",
+  "symbol": "OCC"
+}

@@ -1,0 +1,27 @@
+{
+  "addr": "0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa",
+  "decimals": 18,
+  "description": "Presearch is an open, decentralized search engine that rewards community members with Presearch Tokens for their usage, contribution to, and promotion of the platform.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/presearch/"
+    },
+    {
+      "Github": "https://github.com/presearchofficial"
+    },
+    {
+      "Telegram": "https://t.me/presearch"
+    },
+    {
+      "Twitter": "https://twitter.com/teampresearch"
+    },
+    {
+      "Website": "https://www.presearch.io"
+    },
+    {
+      "Whitepaper": "https://www.presearch.io/uploads/WhitePaper.pdf"
+    }
+  ],
+  "name": "Presearch",
+  "symbol": "PRE"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0xdf6ef343350780bf8c3410bf062e0c015b1dd671",
+  "decimals": 8,
+  "description": "THE BRIDGE BETWEEN THE CRYPTO UNIVERSE AND THE TRADITIONAL INVESTMENT MARKET",
+  "links": [
+    {
+      "Blog": "https://medium.com/blackmoon-crypto"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/blackmoon-crypto/"
+    },
+    {
+      "Email": "mailto:info@blackmooncrypto.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/blackmoonfg/"
+    },
+    {
+      "Github": "https://github.com/blackmoonfg"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BlackMoonCrypto/"
+    },
+    {
+      "Slack": "https://blackmooncrypto.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/blackmooncrypto"
+    },
+    {
+      "Twitter": "https://twitter.com/BlackmoonFG"
+    },
+    {
+      "Website": "https://blackmooncrypto.com/"
+    },
+    {
+      "Whitepaper": "https://blackmooncrypto.com/bmc_whitepaper_170911_v1.18.pdf"
+    }
+  ],
+  "name": "Blackmoon Crypto Token",
+  "symbol": "BMC"
+}

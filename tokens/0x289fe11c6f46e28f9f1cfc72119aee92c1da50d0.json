@@ -1,0 +1,12 @@
+{
+  "addr": "0x289fe11c6f46e28f9f1cfc72119aee92c1da50d0",
+  "decimals": 18,
+  "description": "<strong>\"Ethereum to switch to Proof of Stake by July 1, 2017\"</strong>\nPredictionToken mints prediction market tokens on the Ethereum blockchain. PredictionTokens have value tied to future outcomes, using Reality Keys as the source of truth.",
+  "links": [
+    {
+      "Website": "https://predictiontoken.github.io/#EPOS"
+    }
+  ],
+  "name": "",
+  "symbol": "EPOSN"
+}

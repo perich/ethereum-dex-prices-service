@@ -1,0 +1,24 @@
+{
+  "addr": "0x4092678e4e78230f46a1534c0fbc8fa39780892b",
+  "decimals": 18,
+  "description": "ODYSSEY’s mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem. ODYSSEY aims to reduce overall operating cost, increase marketplace efficiency and boost ROI of product & service providers in the Global sharing economy & peer to peer ecosystem.",
+  "links": [
+    {
+      "Website": "https://www.ocoin.sg"
+    },
+    {
+      "Email": "mailto:odysseyofficial@ocoin.sg"
+    },
+    {
+      "Whitepaper": "https://www.ocoin.sg/pdf/ODYSSEY+WHITEPAPER+V1.2+EN.pdf?v=2018011801"
+    },
+    {
+      "Telegram": "https://t.me/OdysseyOfficial"
+    },
+    {
+      "Twitter": "https://twitter.com/ODYSSEYPROTOCOL"
+    }
+  ],
+  "name": "OCoin",
+  "symbol": "OCN"
+}

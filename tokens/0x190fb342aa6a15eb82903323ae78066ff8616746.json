@@ -1,0 +1,36 @@
+{
+  "addr": "0x190fb342aa6a15eb82903323ae78066ff8616746",
+  "decimals": 6,
+  "description": "The Umbrella Coin (UMC) team is building a next-generation model for providing risk management and general benefits. Its mission is to ease the financial burden of carrying traditional insurance by covering hidden costs such as deductibles, co-insurance, co-pays and claims other insurers' won't cover.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2025943.msg20180128"
+    },
+    {
+      "Blog": "https://medium.com/@umbrellacoin"
+    },
+    {
+      "Email": "mailto:info@umbrellacoin.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/umbrellacoin/"
+    },
+    {
+      "Github": "https://github.com/umbrellacoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/UmbrellaCoin/"
+    },
+    {
+      "Twitter": "https://twitter.com/umbrellacoin"
+    },
+    {
+      "Website": "https://www.umbrellacoin.org/"
+    },
+    {
+      "Whitepaper": "https://github.com/umbrellacoin/umc/blob/master/documents/UMC.pdf"
+    }
+  ],
+  "name": "UmbrellaCoin",
+  "symbol": "UMC"
+}

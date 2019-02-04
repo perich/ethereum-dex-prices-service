@@ -1,0 +1,18 @@
+{
+  "addr": "0x887834d3b8d450b6bab109c252df3da286d73ce4",
+  "decimals": 18,
+  "description": "Atmatrix aims to provide a consensus based distributed virtual AI-as-a-Service cloud. With the aid of blockchain economic system, Atmatrix coordinates global AI technologies to build a new world of artificial intelligence.",
+  "links": [
+    {
+      "Github": "https://github.com/ATMatrix"
+    },
+    {
+      "Website": "https://atmatrix.org/en.html"
+    },
+    {
+      "Whitepaper": "https://atmatrix.org/resource/whitepaper-en.pdf"
+    }
+  ],
+  "name": "Atmatrix Token",
+  "symbol": "ATT"
+}

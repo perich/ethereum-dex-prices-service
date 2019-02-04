@@ -1,0 +1,33 @@
+{
+  "addr": "0x1b9743f556d65e757c4c650b4555baf354cb8bd3",
+  "decimals": 12,
+  "description": "Note: please read about <a href=\"https://blog.ethbits.com/2017/06/14/token-upgrade/\">ETB's token upgrade</a>.\nGet Ether and Bitcoin simply and safely.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1852294"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ethbits/"
+    },
+    {
+      "Email": "mailto:mr@ethbits.com"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Ethbits/"
+    },
+    {
+      "Slack": "https://ethbits.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/EthBitsChatroom"
+    },
+    {
+      "Website": "https://www.ethbits.com/"
+    },
+    {
+      "Whitepaper": "https://ico.ethbits.com/white_paper.pdf"
+    }
+  ],
+  "name": "EthBits ETBS Token",
+  "symbol": "ETBS"
+}

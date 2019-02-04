@@ -1,0 +1,12 @@
+{
+  "addr": "0xb554cf51cda0fccd5012d55737c4df55a3e18a5c",
+  "decimals": 8,
+  "description": "Do you know the origin of the milk you are drinking? Probably not. We are aiming to revolutionize the milk industry by tracking your milk from the cow to the table.",
+  "links": [
+    {
+      "Website": "http://www.mymilk.info"
+    }
+  ],
+  "name": "Milk",
+  "symbol": "MLK"
+}

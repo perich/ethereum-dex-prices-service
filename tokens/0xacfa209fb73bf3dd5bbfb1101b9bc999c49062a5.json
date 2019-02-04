@@ -1,0 +1,36 @@
+{
+  "addr": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
+  "decimals": 18,
+  "description": "BCDT is the token of the EvidenZ ecosystem, an open source framework designed for data certification. BCDiploma is its first use case and aims to become the standard for diploma certification worldwide.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2312302.0"
+    },
+    {
+      "Blog": "https://medium.com/bcdiploma"
+    },
+    {
+      "Email": "mailto:contactus@blockchaincertifieddata.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/BCDiploma/"
+    },
+    {
+      "Github": "https://github.com/VinceBCD/BCDiploma"
+    },
+    {
+      "Twitter": "https://twitter.com/BCDiploma"
+    },
+    {
+      "Website": "https://www.bcdiploma.com/"
+    },
+    {
+      "Whitepaper": "https://www.bcdiploma.com/img/BCD-WhitePaper_last.pdf"
+    },
+    {
+      "Telegram": "https://t.me/BCDiploma"
+    }
+  ],
+  "name": "Blockchain Certified Data Token",
+  "symbol": "BCDT"
+}

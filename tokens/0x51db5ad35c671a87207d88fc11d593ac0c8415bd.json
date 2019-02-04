@@ -1,0 +1,42 @@
+{
+  "addr": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+  "decimals": 18,
+  "description": "Moeda Loyalty Points (MDA) are backed by a social contract in loyal support of Green Cross Brazil to achieve the United Nations Sustainable Development Goals (SDGs). Capital appreciation of tokens will correlate to usage, investment, and projects&rsquo; sustainable profitability subject to market supply and demand dynamics.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2027555.0"
+    },
+    {
+      "Blog": "https://medium.com/moeda"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/moeda-loyalty-points/"
+    },
+    {
+      "Email": "mailto:contact@moeda.in"
+    },
+    {
+      "Facebook": "https://www.facebook.com/moedabanking"
+    },
+    {
+      "Github": "https://github.com/moedabank"
+    },
+    {
+      "Telegram": "https://t.me/moedaproject"
+    },
+    {
+      "Twitter": "https://twitter.com/moedabanking"
+    },
+    {
+      "Website": "https://moeda.in/"
+    },
+    {
+      "Website": "https://moeda.in"
+    },
+    {
+      "Whitepaper": "https://moeda.in/whitepaper.pdf"
+    }
+  ],
+  "name": "Moeda Loyalty Points",
+  "symbol": "MDA"
+}

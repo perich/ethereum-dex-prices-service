@@ -1,0 +1,36 @@
+{
+  "addr": "0x52e30201f31283dc5f7928b4198896083f604416",
+  "decimals": 18,
+  "description": "MOLD is a fair and secure distributed gaming platform which supports the development of new games and simplifies the trading of items, weapons, armors, and other valuable data.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2158545.0"
+    },
+    {
+      "Email": "mailto:team@moldgames.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/moldpress/"
+    },
+    {
+      "Github": "https://github.com/moldcoin"
+    },
+    {
+      "Slack": "https://moldgames.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/moldproject"
+    },
+    {
+      "Twitter": "https://twitter.com/MOLD_games"
+    },
+    {
+      "Website": "https://moldcoin.jp"
+    },
+    {
+      "Whitepaper": "https://moldcoin.jp/files/MOLDwhitepaperEN.pdf"
+    }
+  ],
+  "name": "MOLD",
+  "symbol": "MLD"
+}

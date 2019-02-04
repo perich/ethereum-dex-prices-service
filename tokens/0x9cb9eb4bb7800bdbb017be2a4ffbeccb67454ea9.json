@@ -1,0 +1,13 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "BOPTOLD",
+  "addr": "0x9cb9eb4bb7800bdbb017be2a4ffbeccb67454ea9",
+  "decimals": 8,
+  "description": "BlockOptions.io aims to build an independent and decentralized platform for binary options industry.",
+  "links": [
+    {
+      "Website": "http://blockoptions.io/"
+    }
+  ],
+  "name": "blockoptions",
+  "symbol": "BOPT"
+}

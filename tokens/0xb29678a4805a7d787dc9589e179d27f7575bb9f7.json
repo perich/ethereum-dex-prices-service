@@ -1,0 +1,18 @@
+{
+  "addr": "0xb29678a4805a7d787dc9589e179d27f7575bb9f7",
+  "decimals": 5,
+  "description": "fast, easy and peer to peer",
+  "links": [
+    {
+      "Email": "mailto:info@arubacoin.org"
+    },
+    {
+      "Twitter": "https://twitter.com/ArubaCoin"
+    },
+    {
+      "Website": "http://arubacoin.org/"
+    }
+  ],
+  "name": "ArubaCoin",
+  "symbol": "AUA"
+}

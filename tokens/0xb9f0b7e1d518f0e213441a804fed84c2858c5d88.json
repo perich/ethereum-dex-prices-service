@@ -1,0 +1,30 @@
+{
+  "addr": "0xb9f0b7e1d518f0e213441a804fed84c2858c5d88",
+  "decimals": 3,
+  "description": "XCM are gift certificates redeemable for Open Source, Blockchain integrated devices manufactured by TigoCTM.",
+  "name": "X Coin Machines",
+  "symbol": "XCM",
+  "links": [
+    {
+      "Email": "mailto:info@tigoctm.com"
+    },
+    {
+      "Twitter": "https://twitter.com/tigoctm"
+    },
+    {
+      "Facebook": "https://www.facebook.com/tigoctm"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/EKTIchBsEErLMx6YrHBJtQ"
+    },
+    {
+      "Blog": "https://medium.com/@tigoctm"
+    },
+    {
+      "Website": "https://tigoctm.com/"
+    },
+    {
+      "Whitepaper": "https://tigoctm.com/static/docs/TigoCTM-Whitepaper.pdf"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0x3dc9a42fa7afe57be03c58fd7f4411b1e466c508",
+  "decimals": 18,
+  "description": "CryptoLiveLeak is a cryptocurrency news and media platform - the CLL CryptoLiveLeak ERC20 Token is being used for promotion of our news and media. The CLL will also give holders exclusive benefits for all future projects released from the Founder - Ken Garofalo.",
+  "links": [
+    {
+      "Email": "mailto:ContactUs@CryptoLiveLeak.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/CryptoLiveLeak/"
+    },
+    {
+      "Github": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/CryptoLiveLeak%20WhitePaper%20V1.1.pptx"
+    },
+    {
+      "Instagram": "https://www.instagram.com/cryptoliveleak/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/CryptoLiveLeak/"
+    },
+    {
+      "Telegram": "https://t.me/CryptoLiveLeak"
+    },
+    {
+      "Twitter": "https://twitter.com/cryptoliveleak"
+    },
+    {
+      "Website": "https://www.cryptoliveleak.com/"
+    },
+    {
+      "Whitepaper": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/CryptoLiveLeak%20WhitePaper.pptx"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCeoB_bpoVOcwIh-MSLxzNpA"
+    }
+  ],
+  "name": "CryptoLiveLeak",
+  "symbol": "CLL"
+}

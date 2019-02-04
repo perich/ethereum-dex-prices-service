@@ -1,0 +1,34 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "CODECOIN",
+  "addr": "0x9adaba9ffda15e3a043c907d390f645147eb532a",
+  "decimals": 18,
+  "description": "CodeCoin (CODE) is an ERC20 token served as one of the default payment methods for CodingMarket. Users can get extra discounts and benefits using Code Coin.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2865225.msg29415730#msg29415730"
+    },
+    {
+      "Email": "mailto:support@codecoinico.com"
+    },
+    {
+      "Github": "https://github.com/CodingMarketDev/CodeCoin"
+    },
+    {
+      "Slack": "https://codecoinico.slack.com/join/shared_invite/enQtMzEwMjc3NDQ2NzU4LWRlNzczOWJmZDY3N2RiMWNkYTg0YTAyOTgyMWQyZDcxMzRjZDA1YWI1MmYyMGM1YjUyOWNlNDY3OGI4MGQ4MTk"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/HTD2kRHV6rnjrbFNOykP1Q"
+    },
+    {
+      "Twitter": "https://twitter.com/CodingMarket"
+    },
+    {
+      "Website": "https://www.codecoinico.com/"
+    },
+    {
+      "Whitepaper": "https://docs.wixstatic.com/ugd/a4213c_23b02111d4ea4d859566a75e79579934.pdf"
+    }
+  ],
+  "name": "CodeCoin",
+  "symbol": "CODE"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0xee9704a1d61aa2c1401e2303ac7e1f81c29ed860",
+  "decimals": 0,
+  "description": "Clashcoin is designed from the ground up for scalable instant transactions and fast transaction ERC20 Token.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2430683.0"
+    },
+    {
+      "Email": "mailto:contact@clashcoin.co"
+    },
+    {
+      "Github": "https://github.com/clashcoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/Clashcoin"
+    },
+    {
+      "Slack": "https://clashcoin.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/Clashcoin"
+    },
+    {
+      "Twitter": "https://twitter.com/clashcoin_clash"
+    },
+    {
+      "Website": "https://clashcoin.co/"
+    },
+    {
+      "Whitepaper": "https://clashcoin.co/Whitepaper.pdf"
+    }
+  ],
+  "name": "",
+  "symbol": "CLASH"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+  "decimals": 4,
+  "description": "REMME is an open source distributed Public Key Infrastructure (PKI) protocol with a set of DApps, enabling passwordless authentication for humans and devices.\nREM is an ERC20 utility token that powers all operations within the ecosystem and serves as a digital key for gaining access to REMME PKI (d) protocol and DApps.",
+  "links": [
+    {
+      "Blog": "https://medium.com/remme"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/remme/"
+    },
+    {
+      "Email": "mailto:team@remme.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/remme.io/"
+    },
+    {
+      "Github": "https://github.com/Remmeauth"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/remme/"
+    },
+    {
+      "Telegram": "https://t.me/remme"
+    },
+    {
+      "Twitter": "https://twitter.com/remme_io"
+    },
+    {
+      "Website": "https://www.remme.io/"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/0B1jTRGmj_3khUV9RTERnYzNvaE0/view"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCeSQ8UosUXwII-6JOh7Fi3g"
+    }
+  ],
+  "name": "REMME token",
+  "symbol": "REM"
+}

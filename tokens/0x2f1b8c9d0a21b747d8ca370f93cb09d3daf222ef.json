@@ -1,0 +1,12 @@
+{
+  "addr": "0x2f1b8c9d0a21b747d8ca370f93cb09d3daf222ef",
+  "decimals": 18,
+  "description": "eRipple",
+  "links": [
+    {
+      "Website": "http://eripple.org"
+    }
+  ],
+  "name": "eRipple",
+  "symbol": "EXRP"
+}

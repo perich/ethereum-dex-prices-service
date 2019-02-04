@@ -1,0 +1,36 @@
+{
+  "addr": "0x94ffb55ce68231c5966ea8dab16a8f066846513f",
+  "decimals": 18,
+  "description": "The easiest way to send money to a Visa Card.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@viome.io"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2975545"
+    },
+    {
+      "Email": "mailto:contact@viome.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/vio.token/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/VioToken/"
+    },
+    {
+      "Telegram": "https://t.me/viome_io"
+    },
+    {
+      "Twitter": "https://twitter.com/viome_io"
+    },
+    {
+      "Website": "https://viome.io/"
+    },
+    {
+      "Whitepaper": "https://www.viome.io/resources/Vio%20Whitepaper.pdf"
+    }
+  ],
+  "name": "Vio",
+  "symbol": "VIO"
+}

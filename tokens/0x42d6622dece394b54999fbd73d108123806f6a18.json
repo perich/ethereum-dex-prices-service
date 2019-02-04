@@ -1,0 +1,33 @@
+{
+  "addr": "0x42d6622dece394b54999fbd73d108123806f6a18",
+  "decimals": 18,
+  "description": "Blockchain-based infrastructure for the Adult industry.",
+  "links": [
+    {
+      "Blog": "https://medium.com/spankchain"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/spankchain/"
+    },
+    {
+      "Email": "mailto:hello@spankchain.com"
+    },
+    {
+      "Github": "https://github.com/spankchain"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SpankChain/"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/Rz48YYy"
+    },
+    {
+      "Twitter": "https://twitter.com/spankchain"
+    },
+    {
+      "Website": "https://spankchain.com/"
+    }
+  ],
+  "name": "SPANK",
+  "symbol": "SPANK"
+}

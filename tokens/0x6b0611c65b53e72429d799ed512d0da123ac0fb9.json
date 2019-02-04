@@ -1,0 +1,24 @@
+{
+  "addr": "0x6b0611c65b53e72429d799ed512d0da123ac0fb9",
+  "decimals": 8,
+  "description": "JapaneseAVCoin is a decentralized digital currency for adult content intellectual property protection. And it will be the only token to be used on our adult content exchange platform for our second phase plan.",
+  "links": [
+    {
+      "Twitter": "https://twitter.com/JapaneseAVCoin"
+    },
+    {
+      "Website": "http://www.jav.cash"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2942484"
+    },
+    {
+      "Telegram": "https://t.me/javcoin"
+    },
+    {
+      "Whitepaper": "http://www.jav.cash/whitepaper_jav.pdf"
+    }
+  ],
+  "name": "JapaneseAVCoin",
+  "symbol": "JAV"
+}

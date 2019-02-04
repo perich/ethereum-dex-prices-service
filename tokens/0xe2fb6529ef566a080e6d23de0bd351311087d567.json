@@ -1,0 +1,36 @@
+{
+  "addr": "0xe2fb6529ef566a080e6d23de0bd351311087d567",
+  "decimals": 18,
+  "description": "COVESTING is the ultimate platform for investors and traders who are looking to utilize advanced tools and technology in order achieve maximum returns in cryptocurrency markets.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2660460.0"
+    },
+    {
+      "Blog": "https://medium.com/@Covesting"
+    },
+    {
+      "Email": "mailto:info@covesting.io"
+    },
+    {
+      "Facebook": "https://facebook.com/covesting"
+    },
+    {
+      "Github": "https://github.com/covesting/covesting-io"
+    },
+    {
+      "Telegram": "https://t.me/covesting"
+    },
+    {
+      "Twitter": "https://twitter.com/covesting"
+    },
+    {
+      "Website": "https://covesting.io/"
+    },
+    {
+      "Whitepaper": "https://covesting.io/Covesting_White_Paper.pdf"
+    }
+  ],
+  "name": "Covesting",
+  "symbol": "COV"
+}

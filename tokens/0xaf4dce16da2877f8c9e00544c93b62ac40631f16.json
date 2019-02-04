@@ -1,0 +1,45 @@
+{
+  "addr": "0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+  "decimals": 5,
+  "description": "Welcome to an efficient payment solution for merchants that enables globally trustful commerce. Decentralised. Empowered by the Ethereum blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1978067.0"
+    },
+    {
+      "Blog": "https://blog.monetha.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/monetha/"
+    },
+    {
+      "Email": "mailto:team@monetha.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Monetha.io"
+    },
+    {
+      "Github": "https://github.com/monetha"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Monetha/"
+    },
+    {
+      "Slack": "https://slack.monetha.io/"
+    },
+    {
+      "Telegram": "https://t.me/Monethagroup"
+    },
+    {
+      "Twitter": "https://twitter.com/Monetha_io"
+    },
+    {
+      "Website": "https://www.monetha.io/"
+    },
+    {
+      "Whitepaper": "https://www.monetha.io/Monetha_WP.pdf"
+    }
+  ],
+  "name": "Monetha",
+  "symbol": "MTH"
+}

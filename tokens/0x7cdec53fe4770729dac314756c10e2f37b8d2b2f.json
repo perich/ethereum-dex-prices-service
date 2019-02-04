@@ -1,0 +1,30 @@
+{
+  "addr": "0x7cdec53fe4770729dac314756c10e2f37b8d2b2f",
+  "decimals": 8,
+  "description": "Powered by the Ethereum platform, Bold (symbol: BOLD) is an ERC20 Token built solely and purposely with a vision to become a widely-accepted medium of exchange, as well as a safe and straight-forward store of value over time. Simple. Uncomplicated.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2386305.0"
+    },
+    {
+      "Facebook": "https://www.facebook.com/theboldtoken/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/BOLD-Token-743753395830810/"
+    },
+    {
+      "Telegram": "https://t.me/boldnewsofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/theboldtoken"
+    },
+    {
+      "Website": "https://www.boldtoken.io"
+    },
+    {
+      "Blog": "https://boldtoken.io/news.php"
+    }
+  ],
+  "name": "Bold",
+  "symbol": "BOLD"
+}

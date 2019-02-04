@@ -1,0 +1,24 @@
+{
+  "addr": "0x181a63746d3adcf356cbc73ace22832ffbb1ee5a",
+  "decimals": 8,
+  "description": "Alaricoin (Simbol ALCO) is a token inspired by the Legend of King Alaric's Treasury , and designed as an underlying token currency of the ethereum platform.",
+  "links": [
+    {
+      "Email": "mailto:team@alaricoin.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/alaricoin/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/G3-aP0G_NmiV0cYIsbPf5Q"
+    },
+    {
+      "Twitter": "https://twitter.com/alaricoin"
+    },
+    {
+      "Website": "https://alaricoin.org/"
+    }
+  ],
+  "name": "Alaricoin",
+  "symbol": "ALCO"
+}

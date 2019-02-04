@@ -1,0 +1,18 @@
+{
+  "addr": "0x2ee6d1a3ba4e80a61bdfb48a90d40a5cef455326",
+  "decimals": 8,
+  "description": "PoW ERC20 Token, maximum supply 100.000.000. Fair distributed.",
+  "links": [
+    {
+      "Github": "https://github.com/powether"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/poweth/"
+    },
+    {
+      "Website": "https://poweth.org"
+    }
+  ],
+  "name": "PoWEth",
+  "symbol": "POWE"
+}

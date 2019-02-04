@@ -1,0 +1,36 @@
+{
+  "addr": "0x16f812be7fff02caf662b85d5d58a5da6572d4df",
+  "decimals": 8,
+  "description": "Token to be used in the UTEX (United Trader's Exchange) which can be found at https://unitedtraders.com. Trade on NYSE, CME and other stock markets from within our trading platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2384512"
+    },
+    {
+      "Blog": "https://medium.com/@Uttoken.io"
+    },
+    {
+      "Email": "mailto:welcome@unitedtraders.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/unitedtraders/"
+    },
+    {
+      "Github": "https://github.com/unitedtraders"
+    },
+    {
+      "Telegram": "https://t.me/uttokenchannel"
+    },
+    {
+      "Twitter": "https://twitter.com/Uttoken"
+    },
+    {
+      "Website": "https://uttoken.io/"
+    },
+    {
+      "Whitepaper": "https://investment-prod.s3.amazonaws.com/whitepaper/Whitepaper_Full-version_en.pdf"
+    }
+  ],
+  "name": "United Traders Token",
+  "symbol": "UTT"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0xea1f346faf023f974eb5adaf088bbcdf02d761f4",
+  "decimals": 18,
+  "description": "Blocktix is an Ethereum based, counterfeit-resistant solution for individuals and event hosting businesses to distribute, advertise, and transfer ownership of event tickets or passes.",
+  "links": [
+    {
+      "Blog": "http://blog.blocktix.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/blocktix/"
+    },
+    {
+      "Email": "mailto:info@blocktix.org"
+    },
+    {
+      "Github": "https://github.com/blocktix"
+    },
+    {
+      "Reddit": "https://reddit.com/r/blocktix"
+    },
+    {
+      "Slack": "https://slack.blocktix.io/"
+    },
+    {
+      "Twitter": "https://twitter.com/blocktix"
+    },
+    {
+      "Website": "https://blocktix.io/"
+    },
+    {
+      "Whitepaper": "https://blocktix.io/public/doc/blocktix-wp-draft.pdf#whitepaper"
+    }
+  ],
+  "name": "Blocktix",
+  "symbol": "TIX"
+}

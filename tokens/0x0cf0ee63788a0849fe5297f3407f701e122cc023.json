@@ -1,0 +1,36 @@
+{
+  "addr": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+  "decimals": 18,
+  "description": "Streamr provides a complete system to create unstoppable real-time data apps, even without writing code. Currently, the valuable data you produce is at the mercy of large corporations. In the Streamr network, it&rsquo;s yours to use and sell as you wish, and travels through a decentralised peer-to-peer network controlled by no one and incentivized by the DATAcoin token.",
+  "links": [
+    {
+      "Blog": "https://blog.streamr.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/streamr-datacoin/"
+    },
+    {
+      "Email": "mailto:contact@streamr.com"
+    },
+    {
+      "Github": "https://github.com/streamr-dev"
+    },
+    {
+      "Slack": "https://slack.streamr.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/streamrinc"
+    },
+    {
+      "Website": "https://www.streamr.com/"
+    },
+    {
+      "Website": "https://www.streamr.com"
+    },
+    {
+      "Whitepaper": "https://www.streamr.com/whitepaper"
+    }
+  ],
+  "name": "DATAcoin",
+  "symbol": "DATA"
+}

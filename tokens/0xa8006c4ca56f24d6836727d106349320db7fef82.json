@@ -1,0 +1,30 @@
+{
+  "addr": "0xa8006c4ca56f24d6836727d106349320db7fef82",
+  "decimals": 8,
+  "description": "Internxt, a simple, more private and secure decentralized cloud for files, apps and websites.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/internxt/"
+    },
+    {
+      "Email": "mailto:hello@internxt.io"
+    },
+    {
+      "Github": "https://github.com/internxt"
+    },
+    {
+      "Telegram": "https://t.me/internxt_io"
+    },
+    {
+      "Twitter": "https://twitter.com/internxt_io"
+    },
+    {
+      "Website": "https://internxt.io/"
+    },
+    {
+      "Whitepaper": "https://internxt.io/whitepaper.pdf"
+    }
+  ],
+  "name": "Internxt",
+  "symbol": "INXT"
+}

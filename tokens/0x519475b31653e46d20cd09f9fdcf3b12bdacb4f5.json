@@ -1,0 +1,45 @@
+{
+  "addr": "0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5",
+  "decimals": 18,
+  "description": "Authors sell access to their premium content, receive donations from users and earn from in video ads. Users watch free videos and get rewards. Advertisers place ads and pay directly to our users.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2353646.0"
+    },
+    {
+      "Blog": "https://medium.com/@Viuly"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/viuly/"
+    },
+    {
+      "Email": "mailto:support@viuly.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/viuly/"
+    },
+    {
+      "Github": "https://github.com/viuly"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Viuly/"
+    },
+    {
+      "Telegram": "https://t.me/viulyofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/ViulyOfficial"
+    },
+    {
+      "Website": "https://viuly.io/"
+    },
+    {
+      "Website": "https://viuly.com/"
+    },
+    {
+      "Whitepaper": "https://viuly.com/Viuly_Whitepaper.pdf"
+    }
+  ],
+  "name": "VIU",
+  "symbol": "VIU"
+}

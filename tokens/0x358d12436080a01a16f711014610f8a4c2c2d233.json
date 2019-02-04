@@ -1,0 +1,42 @@
+{
+  "addr": "0x358d12436080a01a16f711014610f8a4c2c2d233",
+  "decimals": 18,
+  "links": [
+    {
+      "Blog": "https://blog.pundix.com"
+    },
+    {
+      "Blog": "https://medium.com/pundix"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/pundi-x-old/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/pundi-x/"
+    },
+    {
+      "Email": "mailto:contact@pundix.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/pundixlabs/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/13423325/"
+    },
+    {
+      "Telegram": "https://t.me/pundix"
+    },
+    {
+      "Twitter": "https://twitter.com/pundixlabs"
+    },
+    {
+      "Website": "https://pundix.com/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCOIf6WeLEzZi3DQxzenTZeA"
+    }
+  ],
+  "notice": "<strong>PXS is being replaced with NPXS.</strong> You can read about the swap here <a href=\"https://medium.com/pundix/pxs-is-now-npxs-c3cd9ca8d9be\">https://medium.com/pundix/pxs-is-now-npxs-c3cd9ca8d9be.</a>",
+  "name": "Pundi X Token",
+  "symbol": "PXS"
+}

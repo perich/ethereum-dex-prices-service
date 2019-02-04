@@ -1,0 +1,30 @@
+{
+  "addr": "0xafe60511341a37488de25bef351952562e31fcc1",
+  "decimals": 8,
+  "description": "Trading bot",
+  "links": [
+    {
+      "Email": "mailto:info@tbitbot.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/tbit.bot.5"
+    },
+    {
+      "Github": "https://github.com/tbitbot"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/tbitbot/"
+    },
+    {
+      "Twitter": "https://twitter.com/tbit_bot"
+    },
+    {
+      "Website": "https://tbitbot.com/"
+    },
+    {
+      "Whitepaper": "https://tbitbot.com/t-bot-whitepaper.pdf"
+    }
+  ],
+  "name": "TBOT",
+  "symbol": "TBT"
+}

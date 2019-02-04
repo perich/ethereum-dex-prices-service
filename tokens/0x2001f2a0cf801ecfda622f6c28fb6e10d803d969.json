@@ -1,0 +1,39 @@
+{
+  "addr": "0x2001f2a0cf801ecfda622f6c28fb6e10d803d969",
+  "decimals": 8,
+  "description": "CoinLoan is a licensed fiat lending platform that secures and guarantees loans with cryptoassets so you can hold onto your crypto instead of selling them when you need cash.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2103691"
+    },
+    {
+      "Blog": "https://medium.com/@coinloan"
+    },
+    {
+      "Email": "mailto:info@coinloan.io"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/25044587/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/coinloan/"
+    },
+    {
+      "Telegram": "https://t.me/coinloan"
+    },
+    {
+      "Twitter": "https://twitter.com/coin_loan"
+    },
+    {
+      "Website": "https://coinloan.io/"
+    },
+    {
+      "Whitepaper": "https://coinloan.io/whitepaper"
+    },
+    {
+      "YouTube": "https://www.youtube.com/c/CoinLoan"
+    }
+  ],
+  "name": "CoinLoan",
+  "symbol": "CLT"
+}

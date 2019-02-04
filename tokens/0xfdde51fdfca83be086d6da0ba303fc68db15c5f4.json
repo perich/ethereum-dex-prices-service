@@ -1,0 +1,30 @@
+{
+  "addr": "0xfdde51fdfca83be086d6da0ba303fc68db15c5f4",
+  "decimals": 6,
+  "description": "Paytailor is a software that enables payments between the merchant and the customer with existing devices and bank accounts. Paytailor combines payment methods, big data, NFC, location and social aspects of nowadays technological capability. The solution is very flexible, enabling payments app to app, browser to app and IoT payments.",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/paytailor"
+    },
+    {
+      "Instagram": "https://www.instagram.com/paytailor/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/paytailor"
+    },
+    {
+      "Twitter": "https://twitter.com/paytailor"
+    },
+    {
+      "Website": "https://www.paytailor.com/en/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCcJ8jaG78JTywN2V6XpM2yg"
+    },
+    {
+      "Whitepaper": "https://www.paytailor.com/en/whitepaper.pdf"
+    }
+  ],
+  "name": "Paytailor",
+  "symbol": "PAYT"
+}

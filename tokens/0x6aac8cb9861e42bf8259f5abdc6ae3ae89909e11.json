@@ -1,0 +1,34 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "BTCRED",
+  "addr": "0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11",
+  "decimals": 8,
+  "description": "Making bitcoin art by trading colors.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2294915"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bitcoin-red/"
+    },
+    {
+      "Email": "mailto:contact@bitcoinred.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/BitcoinRed1/"
+    },
+    {
+      "Telegram": "https://t.me/BitcoinRedToken"
+    },
+    {
+      "Twitter": "https://twitter.com/BitcoinRed1"
+    },
+    {
+      "Website": "https://www.bitcoinred.io/"
+    },
+    {
+      "Website": "http://www.bitcoinred.io"
+    }
+  ],
+  "name": "Bitcoin Red",
+  "symbol": "BTCR"
+}

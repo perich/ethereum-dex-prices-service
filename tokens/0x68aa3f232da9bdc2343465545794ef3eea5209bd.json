@@ -1,0 +1,33 @@
+{
+  "addr": "0x68aa3f232da9bdc2343465545794ef3eea5209bd",
+  "decimals": 18,
+  "description": "A state-of-the-art digital asset exchange, EU token marketplace and wallet with powerful security features",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/mothership/"
+    },
+    {
+      "Email": "mailto:hello@mothership.cx"
+    },
+    {
+      "Slack": "http://slack.mothership.cx/"
+    },
+    {
+      "Telegram": "https://t.me/mothershipcx"
+    },
+    {
+      "Twitter": "https://twitter.com/MothershipCX"
+    },
+    {
+      "Website": "https://mothership.cx"
+    },
+    {
+      "Website": "https://mothership.cx/"
+    },
+    {
+      "Whitepaper": "https://mothership.cx/documents/whitepaper.pdf"
+    }
+  ],
+  "name": "Mothership Token",
+  "symbol": "MSP"
+}

@@ -1,0 +1,21 @@
+{
+  "addr": "0x0886949c1b8c412860c4264ceb8083d1365e86cf",
+  "decimals": 8,
+  "description": "EthereumBitcoin (BTCE) is a Tokenized Version of Bitcoin on the Ethereum Blockchain and a Global Cryptocurrency (digital money) of the Internet.",
+  "links": [
+    {
+      "Email": "mailto:btcetoken@gmail.com"
+    },
+    {
+      "Twitter": "https://twitter.com/BTCE_Token"
+    },
+    {
+      "Website": "https://btcetoken.com/"
+    },
+    {
+      "Website": "https://btcetoken.com"
+    }
+  ],
+  "name": "EthereumBitcoin",
+  "symbol": "BTCE"
+}

@@ -1,0 +1,45 @@
+{
+  "addr": "0x1183f92a5624d68e85ffb9170f16bf0443b4c242",
+  "decimals": 18,
+  "description": "P2P cryptocurrency-fiat exchange",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2018731.msg20116760#msg20116760"
+    },
+    {
+      "Blog": "https://medium.com/@Qvolta"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/qvolta/"
+    },
+    {
+      "Email": "mailto:hello@qvolta.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/qvolta/"
+    },
+    {
+      "Github": "https://github.com/qvolta"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/qvoltaexchange/"
+    },
+    {
+      "Telegram": "https://t.me/qvolta"
+    },
+    {
+      "Twitter": "https://twitter.com/Qvolta_platform"
+    },
+    {
+      "Website": "https://qvolta.com/"
+    },
+    {
+      "Website": "https://qvolta.com"
+    },
+    {
+      "Whitepaper": "https://s3.eu-central-1.amazonaws.com/qvolta/white.pdf"
+    }
+  ],
+  "name": "QVT",
+  "symbol": "QVT"
+}

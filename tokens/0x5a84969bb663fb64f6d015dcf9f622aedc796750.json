@@ -1,0 +1,21 @@
+{
+  "addr": "0x5a84969bb663fb64f6d015dcf9f622aedc796750",
+  "decimals": 18,
+  "description": "We are, without a doubt, the fastest growing blockchain game in the world already.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/idice/"
+    },
+    {
+      "Email": "mailto:idice@protonmail.com"
+    },
+    {
+      "Telegram": "https://t.me/idicegroup"
+    },
+    {
+      "Website": "https://idice.io/"
+    }
+  ],
+  "name": "IDICE",
+  "symbol": "ICE"
+}

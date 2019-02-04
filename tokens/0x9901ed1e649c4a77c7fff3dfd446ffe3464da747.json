@@ -1,0 +1,14 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "ENT_OLD",
+  "addr": "0x9901ed1e649c4a77c7fff3dfd446ffe3464da747",
+  "decimals": 18,
+  "description": "Hut34's Entropy token powers an open network of interconnected chatbots, A.I.s and devices. Hut34 is a decentralised data marketplace building a global knowledge economy. It's where A.I. does business.",
+  "links": [
+    {
+      "Website": "https://hut34.io/"
+    }
+  ],
+  "name": "Hut34 Entropy",
+  "notice": "<strong>This is a deprecated token.</strong> You can read about Entropy token reissuance, <a href=\"https://medium.com/@hut34project/entropy-token-reissuance-f37a8574c05c\">https://medium.com/@hut34project/entropy-token-reissuance-f37a8574c05c.</a> The new token can be found <a href=\"https://etherscan.io/token/0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3\">here</a>",
+  "symbol": "ENT"
+}

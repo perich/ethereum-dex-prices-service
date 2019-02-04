@@ -1,0 +1,24 @@
+{
+  "addr": "0x494bbaf0124285e6ecb4dfd9eac76e18a9bf470f",
+  "decimals": 18,
+  "description": "Ethereum is suffering because of its success. Due to the excessive number of token sales, the main Ethereum chain is now saturated and transaction speed is the first affected. Ether main purpose is only to fuel DApps like ICOs. ETH therefore struggles to gain value and would never be a robust monetary asset. That's why we created Ethereum X, an Ethereum side chain dedicated to payments. Our vision is to take Ethereum to the next level as a financial asset.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2372592.msg24198861#msg24198861"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ethereumx/"
+    },
+    {
+      "Telegram": "https://t.me/Ethereum_X"
+    },
+    {
+      "Twitter": "https://twitter.com/Ethereum_X_io"
+    },
+    {
+      "Website": "http://ethereumx.io/"
+    }
+  ],
+  "name": "Ethereum X",
+  "symbol": "ETHX"
+}

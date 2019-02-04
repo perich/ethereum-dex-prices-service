@@ -1,0 +1,24 @@
+{
+  "addr": "0xdc0c22285b61405aae01cba2530b6dd5cd328da7",
+  "decimals": 6,
+  "description": "KarmaToken will make kindness sustainable by initiating and supporting projects with similar goals.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1667865.new#new"
+    },
+    {
+      "Email": "mailto:cryptotradersguildgm@gmail.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Karmatoken2016"
+    },
+    {
+      "Slack": "https://karmasociety.slack.com/"
+    },
+    {
+      "Website": "https://www.karmatoken.net/"
+    }
+  ],
+  "name": "KARMATOKEN",
+  "symbol": "KTN"
+}

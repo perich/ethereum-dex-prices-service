@@ -1,0 +1,39 @@
+{
+  "addr": "0xa5d1e58ece1fc438d64e65769d2ab730143a4caf",
+  "decimals": 18,
+  "description": "Connecting patients and healthcare providers with smart contracts",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2119569"
+    },
+    {
+      "Blog": "https://medium.com/robomed"
+    },
+    {
+      "Email": "mailto:info@robomed.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/RobomedNetwork"
+    },
+    {
+      "Github": "https://github.com/RoboMed"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/robomed"
+    },
+    {
+      "Telegram": "https://t.me/RoboMed"
+    },
+    {
+      "Twitter": "https://twitter.com/Robomed_Network"
+    },
+    {
+      "Website": "https://robomed.io/"
+    },
+    {
+      "Whitepaper": "https://robomed.io/download/Robomed_whitepaper_eng_final.pdf"
+    }
+  ],
+  "name": "RobomedToken",
+  "symbol": "RBM"
+}

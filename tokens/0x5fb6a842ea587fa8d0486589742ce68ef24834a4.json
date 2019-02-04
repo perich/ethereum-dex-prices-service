@@ -1,0 +1,36 @@
+{
+  "addr": "0x5fb6a842ea587fa8d0486589742ce68ef24834a4",
+  "decimals": 18,
+  "description": "Revizor is an innovative project in the field of regulation of the crypto-currency market, the main task of which is to create software tools that would filter a wide range of assets by absorbing unpromising tokens.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2645567.0"
+    },
+    {
+      "Blog": "https://medium.com/@revizor.coin"
+    },
+    {
+      "Facebook": "https://www.facebook.com/RevizoRcoin"
+    },
+    {
+      "Github": "https://github.com/RevizorCoin/coin"
+    },
+    {
+      "Telegram": "https://t.me/revizorcoin"
+    },
+    {
+      "Twitter": "https://twitter.com/RevizorCoin_RR"
+    },
+    {
+      "Website": "https://revizor-coin.io/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCjD7LUQb4R7NU8_V9b3Cf0A"
+    },
+    {
+      "Whitepaper": "https://revizor-coin.io/WHITE_PAPER_ENG.pdf"
+    }
+  ],
+  "name": "Revizor Coin",
+  "symbol": "RR"
+}

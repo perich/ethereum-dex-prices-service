@@ -1,0 +1,36 @@
+{
+  "addr": "0x80a7e048f37a50500351c204cb407766fa3bae7f",
+  "decimals": 18,
+  "description": "Crypterium is a cryptobank platform that will leverage the Ethereum blockchain to provide an instant processing engine for both fiat and crypto based currency transactions while enabling inter-changeability between the two. Furthermore, an app will be available for download to Android and IOS operation systems.\nThe Crypterium token (CRPT) is an ERC-20 token that will work as the medium of exchange within the platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2214098"
+    },
+    {
+      "Blog": "https://medium.com/@crypterium_io"
+    },
+    {
+      "Email": "mailto:support@crypterium.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/crypterium.io"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/crypterium/"
+    },
+    {
+      "Telegram": "https://t.me/crypterium"
+    },
+    {
+      "Twitter": "https://twitter.com/@crypterium"
+    },
+    {
+      "Website": "https://crypterium.io/"
+    },
+    {
+      "Whitepaper": "https://crypterium.io/wp/index.html"
+    }
+  ],
+  "name": "CrypteriumToken",
+  "symbol": "CRPT"
+}

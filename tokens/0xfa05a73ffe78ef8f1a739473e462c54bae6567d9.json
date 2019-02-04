@@ -1,0 +1,39 @@
+{
+  "addr": "0xfa05a73ffe78ef8f1a739473e462c54bae6567d9",
+  "decimals": 18,
+  "description": "Lunyr is an Ethereum-based decentralized world knowledge base which rewards users with app tokens for peer-reviewing and contributing information. We aim to be the starting point of the internet for finding reliable, accurate information. Our long-term vision is to develop a knowledge base API that developers can use to create next generation decentralized applications in Artificial Intelligence, Virtual Reality, Augmented Reality, and more.",
+  "links": [
+    {
+      "Blog": "https://medium.com/lunyr"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/lunyr/"
+    },
+    {
+      "Email": "mailto:support@lunyr.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Lunyr-806275516194118"
+    },
+    {
+      "Github": "https://github.com/lunyr"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Lunyr"
+    },
+    {
+      "Slack": "https://slack.lunyr.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/LunyrInc"
+    },
+    {
+      "Website": "https://lunyr.com/"
+    },
+    {
+      "Whitepaper": "https://github.com/Lunyr/Lunyr/blob/master/Lunyr_White_Paper_ENG.pdf"
+    }
+  ],
+  "name": "Lunyr Token",
+  "symbol": "LUN"
+}

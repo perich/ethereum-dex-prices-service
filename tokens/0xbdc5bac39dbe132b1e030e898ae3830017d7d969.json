@@ -1,0 +1,42 @@
+{
+  "addr": "0xbdc5bac39dbe132b1e030e898ae3830017d7d969",
+  "decimals": 18,
+  "description": "Snovio is the world&rsquo;s first decentralized lead generation service. It functions on the principles of crowdsourcing data collection and blockchain technology. Snovio uses SNOV tokens to incentivize contributors to add new data to our system and to keep the data in our system up-to-date.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2111272.0"
+    },
+    {
+      "Blog": "https://snov.io/blog/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/snovio/"
+    },
+    {
+      "Email": "mailto:ico@snov.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Snovio-ICO-147118702534568/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/Snovio_ICO/"
+    },
+    {
+      "Telegram": "https://t.me/snovio_ico"
+    },
+    {
+      "Twitter": "https://twitter.com/snovio_ico"
+    },
+    {
+      "Website": "https://ico.snov.io/"
+    },
+    {
+      "Website": "https://snov.io/"
+    },
+    {
+      "Whitepaper": "https://tokensale.snov.io/docs/WhitePaperEn.pdf"
+    }
+  ],
+  "name": "Snovio",
+  "symbol": "SNOV"
+}

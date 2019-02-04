@@ -1,0 +1,30 @@
+{
+  "addr": "0x5c543e7ae0a1104f78406c340e9c64fd9fce5170",
+  "decimals": 18,
+  "description": "vSlice Token:\nContribute funds to Smart Contract Game Developers.\nEarn ETH from successful Game Projects.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1691524.new#new"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/vslice/"
+    },
+    {
+      "Email": "mailto:info@vslice.io"
+    },
+    {
+      "Slack": "https://vdice-slack-invite-page.stamplayapp.com/"
+    },
+    {
+      "Telegram": "https://telegram.me/joinchat/EHTlBwbUO0xGJlKuSncFyw"
+    },
+    {
+      "Website": "http://www.vslice.io/"
+    },
+    {
+      "Whitepaper": "https://mega.nz/#%21ZiwQzKzZ%21cB3XNqJtM3zQV8IoO5R70-fFSmg9QCliNiZSTn7es4g"
+    }
+  ],
+  "name": "vSlice",
+  "symbol": "VSL"
+}

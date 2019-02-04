@@ -1,0 +1,43 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "PXTPopulous",
+  "addr": "0xc14830e53aa344e8c14603a91229a0b925b0b262",
+  "decimals": 8,
+  "description": "The PXT Token is going to be used for that exact value exchange. Monetzing data.\nThe Populous ecosystem will be able to provide existing financial systems incredible value on the transfer of data and micro-services that we see companies paying a huge premium for at the moment.\nCompanies will have to use said PXT Token in order for them to take advantage of things such as Credit reports and Analysis, or to fully utilise our API.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1866936.0"
+    },
+    {
+      "Blog": "https://medium.com/bitpopulous/"
+    },
+    {
+      "Email": "mailto:steve@populous.co"
+    },
+    {
+      "Github": "https://github.com/bitpopulous"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/9254295/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/populous_platform/"
+    },
+    {
+      "Slack": "https://bitpopulous.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/ppttalk"
+    },
+    {
+      "Twitter": "https://twitter.com/bitpopulous"
+    },
+    {
+      "Website": "https://populous.co/"
+    },
+    {
+      "Whitepaper": "https://populous.co/populous_whitepaper.pdf"
+    }
+  ],
+  "name": "Populous XBRL token",
+  "symbol": "PXT"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0x138a8752093f4f9a79aaedf48d4b9248fab93c9c",
+  "decimals": 18,
+  "description": "Introducing MUSICONOMI - A Global Music Economy That Works for Everyone.",
+  "links": [
+    {
+      "Blog": "https://medium.com/musiconomi"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/musiconomi/"
+    },
+    {
+      "Email": "mailto:musiconomi@musiconomi.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Musiconomi/"
+    },
+    {
+      "Github": "https://github.com/musiconomi/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Musiconomi/"
+    },
+    {
+      "Slack": "https://musiconomi.com/slack"
+    },
+    {
+      "Twitter": "https://twitter.com/musiconomi"
+    },
+    {
+      "Website": "https://musiconomi.com/"
+    },
+    {
+      "Whitepaper": "https://cofound.it/en/projects/musiconomi/"
+    }
+  ],
+  "name": "Musiconomi",
+  "symbol": "MCI"
+}

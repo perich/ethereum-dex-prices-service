@@ -1,0 +1,30 @@
+{
+  "addr": "0x86410db4d61c40a8e1df9f859069d5a15896195b",
+  "decimals": 18,
+  "description": "DJ Corporation is a new platform that will help young and unknown DJs to gain popularity and to present their work to the public, with earning profits from it. No need to look for a potential buyer. No need to be a famous musician &ndash; everyone can submit their work to the audience and get payed!\nThe blockchain technology will allow you to monitor sales of tracks without being distracted by accounting, what frees time for your creativity.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2383348"
+    },
+    {
+      "Blog": "https://medium.com/@dj_corporation"
+    },
+    {
+      "Email": "mailto:contact@djcorp.info"
+    },
+    {
+      "Telegram": "https://t.me/DJCorporation"
+    },
+    {
+      "Twitter": "https://twitter.com/dj_corporation"
+    },
+    {
+      "Website": "http://djcorp.info/"
+    },
+    {
+      "Website": "https://djcorp.info/"
+    }
+  ],
+  "name": "DJ Corporation",
+  "symbol": "DJC"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+  "decimals": 18,
+  "description": "THE PILLAR WALLET is the next-generation, open-source wallet that will become the dashboard for your digital life.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1986401.0"
+    },
+    {
+      "Blog": "https://medium.com/@pullnews"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/pillar/"
+    },
+    {
+      "Email": "mailto:info@pillarproject.io"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/PillarProject/"
+    },
+    {
+      "Twitter": "https://twitter.com/PillarWallet"
+    },
+    {
+      "Website": "https://pillarproject.io/"
+    }
+  ],
+  "name": "PILLAR",
+  "symbol": "PLR"
+}

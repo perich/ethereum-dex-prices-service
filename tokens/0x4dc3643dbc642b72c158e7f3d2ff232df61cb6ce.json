@@ -1,0 +1,45 @@
+{
+  "addr": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
+  "decimals": 18,
+  "description": "Combining high-tech sensors, blockchain protocol and smart contracts, we are building a universally verifiable, community-driven ecosystem to assure the quality, safety &amp; origins of products.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2034826.0"
+    },
+    {
+      "Blog": "https://blog.ambrosus.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/amber/"
+    },
+    {
+      "Email": "mailto:info@ambrosus.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ambrosusAMB"
+    },
+    {
+      "Github": "https://github.com/ambrosus"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ambrosus/"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/jbmWg8c"
+    },
+    {
+      "Telegram": "https://t.me/AmbrosusAMB"
+    },
+    {
+      "Twitter": "https://twitter.com/AmbrosusAMB"
+    },
+    {
+      "Website": "https://ambrosus.com/"
+    },
+    {
+      "Whitepaper": "https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf"
+    }
+  ],
+  "name": "Amber Token",
+  "symbol": "AMB"
+}

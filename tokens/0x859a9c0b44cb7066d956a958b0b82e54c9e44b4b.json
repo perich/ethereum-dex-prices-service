@@ -1,0 +1,43 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "IETH",
+  "addr": "0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b",
+  "decimals": 8,
+  "description": "iETH is a standard ERC20 token on the Ethereum blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2270135"
+    },
+    {
+      "Blog": "https://medium.com/@maivanhieu"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/iethereum/"
+    },
+    {
+      "Email": "mailto:vitalik@iethereum.trade"
+    },
+    {
+      "Github": "https://github.com/ethereumfan/iethereum"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/iETH/"
+    },
+    {
+      "Telegram": "https://t.me/iethereum"
+    },
+    {
+      "Twitter": "https://twitter.com/iethereum"
+    },
+    {
+      "Website": "http://iethereum.trade/"
+    },
+    {
+      "Website": "http://iethereum.trade"
+    },
+    {
+      "Whitepaper": "http://iethereum.trade/whitepaper/"
+    }
+  ],
+  "name": "iEthereum",
+  "symbol": "iETH"
+}

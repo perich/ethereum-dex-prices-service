@@ -1,0 +1,36 @@
+{
+  "addr": "0x3d46454212c61ecb7b31248047fa033120b88668",
+  "decimals": 18,
+  "description": "The Movement is a Decentralized Autonomous Organization (DAO) that is entirely owned and shaped by its participants. By harnessing the power of the Ethereum computing platform and related cutting-edge technologies, the world's first fully crowdsourced DAO is being created. Without any central leader and built from the ground up, the Movement supports humans on the internet to come together and create freely. New and innovative spaces are emerging, communities and markets governed by internet citizens are arising. Independent from government agendas or corporate entities, the Movement uses the latest technology to offer a decentralized and unstoppable breeding ground for people from all around the world to connect and create.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2068554"
+    },
+    {
+      "Blog": "https://medium.com/@movementDAO"
+    },
+    {
+      "Email": "mailto:movementdao@protonmail.com"
+    },
+    {
+      "Github": "https://github.com/MovementDAO"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/MovementDAO/"
+    },
+    {
+      "Telegram": "https://t.me/TheMovementDAO"
+    },
+    {
+      "Twitter": "https://twitter.com/MovementDAO"
+    },
+    {
+      "Website": "https://bitcointalk.org/index.php?topic=2068554.0"
+    },
+    {
+      "Whitepaper": "https://github.com/MovementDAO/Whitepaper/blob/master/The%20Movement%20DAO%20Whitepaper%20V1.pdf"
+    }
+  ],
+  "name": "The Movement",
+  "symbol": "MVT"
+}

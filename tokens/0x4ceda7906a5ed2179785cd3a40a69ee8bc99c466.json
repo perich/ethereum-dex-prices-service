@@ -1,0 +1,45 @@
+{
+  "addr": "0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466",
+  "decimals": 8,
+  "description": "A multi-tier blockchain system designed to address unsolved questions of scalability, privacy, and interoperability in blockchain networks.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2215642.0"
+    },
+    {
+      "Blog": "https://blog.aion.network/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/aion/"
+    },
+    {
+      "Email": "mailto:hello@aion.network"
+    },
+    {
+      "Facebook": "https://www.facebook.com/AionBlockchain"
+    },
+    {
+      "Github": "https://github.com/gonuco/aion.erc.contract"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/AionNetwork/"
+    },
+    {
+      "Telegram": "https://t.me/aion_blockchain"
+    },
+    {
+      "Twitter": "https://twitter.com/Aion_Network"
+    },
+    {
+      "Website": "https://aion.network/"
+    },
+    {
+      "Website": "https://aion.network"
+    },
+    {
+      "Whitepaper": "https://aion.network/whitepapers.html"
+    }
+  ],
+  "name": "AION",
+  "symbol": "AION"
+}

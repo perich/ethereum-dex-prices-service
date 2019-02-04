@@ -1,0 +1,39 @@
+{
+  "addr": "0x1040613788e99c1606bd133db0ed7f7dbdf0cc80",
+  "decimals": 0,
+  "description": "SmartyEther The token will generate revenue in Ethereum from various: FAUCET sites, referral commissions, and other affiliate sites. The ether revenue will then be converted back into SmartyEther. It is basically a decentralized referral empire based token.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2282662.0"
+    },
+    {
+      "Email": "mailto:smartyether@gmail.com"
+    },
+    {
+      "Github": "https://github.com/SmartyEther"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/SmartyEther"
+    },
+    {
+      "Slack": "https://smartyether.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/smartyether"
+    },
+    {
+      "Twitter": "https://twitter.com/SmartyEther"
+    },
+    {
+      "Website": "https://smartyether.com/"
+    },
+    {
+      "Website": "https://smartyether.com"
+    },
+    {
+      "Whitepaper": "https://smartyether.com/SmartyEtherWhitepaper.pdf"
+    }
+  ],
+  "name": "",
+  "symbol": "STH"
+}

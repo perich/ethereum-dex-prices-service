@@ -1,0 +1,36 @@
+{
+  "addr": "0x5783862cef49094be4de1fe31280b2e33cf87416",
+  "decimals": 4,
+  "description": "Kredits (KRX) will be the new Cryptocurrency that is released with KredX and will be used as a base Currency for all in-app purchases and advertising costs.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2235814.msg22545568#msg22545568"
+    },
+    {
+      "Email": "mailto:admin@kredx.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/kredxapp/"
+    },
+    {
+      "Github": "https://github.com/kredX/kredx-platform"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/KredX/"
+    },
+    {
+      "Twitter": "https://twitter.com/KredXApp"
+    },
+    {
+      "Website": "https://kredx.io/#features"
+    },
+    {
+      "Website": "https://kredx.io"
+    },
+    {
+      "Whitepaper": "http://kredx.io/kredx.pdf"
+    }
+  ],
+  "name": "KredX Token",
+  "symbol": "KRT"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0x0affa06e7fbe5bc9a764c979aa66e8256a631f02",
+  "decimals": 6,
+  "description": "Polybius is a project aimed to create a regulated bank for the digital generation.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/Polybius/"
+    },
+    {
+      "Email": "mailto:info@polybius.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/projectpolybius/"
+    },
+    {
+      "Telegram": "https://t.me/polybius_eng"
+    },
+    {
+      "Twitter": "https://twitter.com/PolybiusBank"
+    },
+    {
+      "Website": "https://polybius.io"
+    },
+    {
+      "Website": "https://polybius.io/"
+    },
+    {
+      "Whitepaper": "https://polybius.io/media/tw_en.pdf"
+    }
+  ],
+  "name": "Polybius",
+  "symbol": "PLBT"
+}

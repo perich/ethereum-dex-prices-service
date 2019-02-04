@@ -1,0 +1,24 @@
+{
+  "addr": "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3",
+  "decimals": 18,
+  "description": "Maverick chain is a BAAS (block chain as a service) block-chain SDK solution to make development much easier. With our SDK, developers can transfer their APP into a block-chain APP smoothly. To use our SDK developers should consume Maverick coin (MVC).",
+  "links": [
+    {
+      "Email": "mailto:mvc@mvchain.net"
+    },
+    {
+      "Twitter": "https://twitter.com/MaverickChain"
+    },
+    {
+      "Website": "http://www.mvchain.net/"
+    },
+    {
+      "Website": "http://www.mvchain.net"
+    },
+    {
+      "Whitepaper": "http://www.mvchain.org/MVC_White_Paper.pdf"
+    }
+  ],
+  "name": "MaverickChain",
+  "symbol": "MVC"
+}

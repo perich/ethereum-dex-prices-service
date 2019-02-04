@@ -1,0 +1,42 @@
+{
+  "addr": "0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba",
+  "decimals": 18,
+  "description": "A Decentralised Automonous Community focused on EOS block production and development of tools to grow the EOS ecosystem.",
+  "links": [
+    {
+      "Blog": "https://steemit.com/@eosdac"
+    },
+    {
+      "Blog": "https://medium.com/eosdac"
+    },
+    {
+      "Email": "mailto:rob@eosdac.io"
+    },
+    {
+      "Facebook": "https://facebook.com/eosdac"
+    },
+    {
+      "Github": "https://github.com/eosdac"
+    },
+    {
+      "Instagram": "https://instagram.com/eosdac"
+    },
+    {
+      "Linkedin": "https://linkedin.com/company/eosdac"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/EOSDAC/"
+    },
+    {
+      "Telegram": "https://t.me/eosdacio"
+    },
+    {
+      "Twitter": "https://twitter.com/eosdac"
+    },
+    {
+      "Website": "https://www.eosdac.io/"
+    }
+  ],
+  "name": "eosDAC Community Owned EOS Block Producer ERC20 Tokens",
+  "symbol": "eosDAC"
+}

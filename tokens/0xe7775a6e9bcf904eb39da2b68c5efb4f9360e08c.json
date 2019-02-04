@@ -1,0 +1,36 @@
+{
+  "addr": "0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c",
+  "decimals": 6,
+  "description": "TaaS is a tokenized closed-end fund designed to reduce the risks and technical barriers of investing in the blockchain space. Built on a profit-sharing smart contract, TaaS introduces an innovative Token-as-a-Service business model, allowing investors to subscribe to the fund&rsquo;s income stream. TaaS built an innovative Cryptographic Audit technology to become the first, truly transparent fund dedicated to cryptocurrencies and tokens.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@TaaS"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/taas/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/taasfund/"
+    },
+    {
+      "Slack": "https://taasfund.signup.team/"
+    },
+    {
+      "Telegram": "https://t.me/taasfund"
+    },
+    {
+      "Twitter": "https://twitter.com/TaaSfund"
+    },
+    {
+      "Website": "https://taas.fund"
+    },
+    {
+      "Website": "https://taas.fund/"
+    },
+    {
+      "Whitepaper": "http://taas.fund/media/whitepaper.pdf"
+    }
+  ],
+  "name": "Token-as-a-Service",
+  "symbol": "TAAS"
+}

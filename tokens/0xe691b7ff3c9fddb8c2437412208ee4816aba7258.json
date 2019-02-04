@@ -1,0 +1,39 @@
+{
+  "addr": "0xe691b7ff3c9fddb8c2437412208ee4816aba7258",
+  "decimals": 18,
+  "description": "SmartOne aims to bring the disruptive capabilities of blockchain-based enterprise to the legal sector by creating a means of access to legal services for the crypto community. SmartOne’s services include a marketplace for legal advice, automated document preparation and individual legal consulting. Our focus is on providing legal solutions for enterprises issuing tokens through TGEs, as well as the automation of documents and contracts for the financial and capital markets.\nAccess to these services will be gained through ownership of blockchain-based LEGAL tokens.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2222827"
+    },
+    {
+      "Facebook": "https://www.facebook.com/SmartOneLegal-2014510928779742/"
+    },
+    {
+      "Github": "https://github.com/SmartOneFoundation"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SmartOne/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/A5Q_tEPvfVcNeoQWI475pA"
+    },
+    {
+      "Twitter": "https://twitter.com/SmartOneLegal"
+    },
+    {
+      "Website": "https://smartone.legal"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCeGTE96O9Eom93O1jbuHr1A"
+    },
+    {
+      "Blog": "https://newsroom.smartone.legal/"
+    },
+    {
+      "Whitepaper": "https://smartone.legal/wp-content/uploads/2017/12/SmartOne_WP_en_2.3.pdf"
+    }
+  ],
+  "name": "LEGAL",
+  "symbol": "LGL"
+}

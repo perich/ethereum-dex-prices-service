@@ -1,0 +1,30 @@
+{
+  "addr": "0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
+  "decimals": 18,
+  "description": "The Devery platform allows suppliers and consumers to prove the authenticity of their products online before purchase, essentially removing the need for ‘trust’ in e-commerce. It aims to protect brands and consumers from counterfeiting using blockchain powered product verification by providing unique, verifiable identifiers to each product throughout the supply chain.\nEVE token is the native token of the Devery platform. It is used to power the Devery verification platform.",
+  "links": [
+    {
+      "Email": "mailto:contact@devery.io"
+    },
+    {
+      "Github": "https://github.com/devery"
+    },
+    {
+      "Github": "https://github.com/devery/devery_contracts"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/deveryofficial"
+    },
+    {
+      "Telegram": "https://t.me/deverychat"
+    },
+    {
+      "Website": "https://devery.io/"
+    },
+    {
+      "Whitepaper": "https://devery.io/whitepaper/Devery_Whitepaper_rev5.pdf"
+    }
+  ],
+  "name": "Devery.io",
+  "symbol": "EVE"
+}

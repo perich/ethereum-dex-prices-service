@@ -1,0 +1,24 @@
+{
+  "addr": "0x164f64ef2a44444743c5472fa68fb3784060d286",
+  "decimals": 3,
+  "description": "TiENPAY Limited is a global fintech firm that offers a digital mobile wallet, clearance and settlement technologies and platforms. A company founded by Singaporean serial entrepreneur and finance industry veteran Mr William Tien and active Fintech investor and former Huawei's senior executive Mr. Victor Chow, the company's operations include mobile digital wallet apps and a digital currency exchange.",
+  "links": [
+    {
+      "Email": "mailto:ceo@t8coin.io"
+    },
+    {
+      "Twitter": "https://twitter.com/t8coin"
+    },
+    {
+      "Website": "http://t8coin.io"
+    },
+    {
+      "Website": "http://t8coin.io/"
+    },
+    {
+      "Whitepaper": "http://t8coin.io/wp-content/uploads/2017/08/T8-COIN-Brochure-V8.pdf"
+    }
+  ],
+  "name": "T8Coin",
+  "symbol": "T8C"
+}

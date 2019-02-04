@@ -1,0 +1,45 @@
+{
+  "addr": "0x24aef3bf1a47561500f9430d74ed4097c47f51f2",
+  "decimals": 4,
+  "description": "You are supporting 300 ideas, projects and startups! Some startups will fail, but many will succeed!",
+  "links": [
+    {
+      "Bitcointalk": "http://www.altcoinstalks.com/index.php?topic=6.0"
+    },
+    {
+      "Blog": "https://steemit.com/@spartaico"
+    },
+    {
+      "Email": "mailto:support@spartaico.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/spartastartups/"
+    },
+    {
+      "Github": "https://github.com/SpartaStartups"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SpartaStartups/"
+    },
+    {
+      "Slack": "https://spartaico.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FiHDZw5qhOTmSArzrs42rQ"
+    },
+    {
+      "Twitter": "https://twitter.com/spartaico"
+    },
+    {
+      "Website": "http://spartaico.com/"
+    },
+    {
+      "Website": "https://spartaico.com/index.html"
+    },
+    {
+      "Whitepaper": "http://spartaico.com/wp.html"
+    }
+  ],
+  "name": "SPARTA",
+  "symbol": "SPARTA"
+}

@@ -1,0 +1,18 @@
+{
+  "addr": "0x13ea82d5e1a811f55bda9c86fdd6195a6bd23aed",
+  "decimals": 8,
+  "description": "Traveling Free Token（TFT） is an ecosystem consisting of a series of consumer application and block chain technology which its core is a set of block chain technology that services on consumer application.",
+  "links": [
+    {
+      "Email": "mailto:market@tfchain.org"
+    },
+    {
+      "Website": "http://www.tfchain.org/"
+    },
+    {
+      "Whitepaper": "http://www.tfchain.org/index/pdf_en"
+    }
+  ],
+  "name": "Travelling Free Token",
+  "symbol": "TFT"
+}

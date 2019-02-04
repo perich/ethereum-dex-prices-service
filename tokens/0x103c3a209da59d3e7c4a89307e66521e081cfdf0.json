@@ -1,0 +1,45 @@
+{
+  "addr": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+  "decimals": 18,
+  "description": "Genesis Vision is a platform for the private trust management market, built on Blockchain technology and Smart Contracts. We combine exchanges, brokers, traders and investors into a decentralized, open and honest network.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2143279.0"
+    },
+    {
+      "Blog": "https://medium.com/genesisvision/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/genesis-vision/"
+    },
+    {
+      "Email": "mailto:support@genesis.vision"
+    },
+    {
+      "Facebook": "https://www.facebook.com/GenesisVisionProject"
+    },
+    {
+      "Github": "https://github.com/GenesisVision"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/genesisvision/"
+    },
+    {
+      "Telegram": "https://t.me/genesisvision"
+    },
+    {
+      "Twitter": "https://twitter.com/genesis_vision"
+    },
+    {
+      "WeChat": "https://u.wechat.com/IL6s8kyYCLGz0S6t5HqJwr4"
+    },
+    {
+      "Website": "https://genesis.vision/"
+    },
+    {
+      "Whitepaper": "https://genesis.vision/white-paper-eng.pdf"
+    }
+  ],
+  "name": "Genesis Vision Token",
+  "symbol": "GVT"
+}

@@ -1,0 +1,48 @@
+{
+  "addr": "0xd01db73e047855efb414e6202098c4be4cd2423b",
+  "decimals": 18,
+  "description": "UQUD is an implemented system that ease the use of cryptocurrencies. UQUD system provide debit cards for USD, GRP, and EUR and also several cryptocurrencies ATM's around the world.\nUquidCoin (UQC) is an ERC-20 token that will work as a medium of exchange within the platform.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@uquidcoin"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/uquid-coin/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/uquid-coin/"
+    },
+    {
+      "Email": "mailto:admin@uquidcoin.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/uquidcoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/uquidcoin/"
+    },
+    {
+      "Slack": "https://uquid.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/uquidcoin"
+    },
+    {
+      "Telegram": "https://t.me/uquidcoinofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/uquidc"
+    },
+    {
+      "Twitter": "https://twitter.com/uquidcard"
+    },
+    {
+      "Website": "https://uquidcoin.com"
+    },
+    {
+      "Whitepaper": "https://uquidcoin.com/pdf/UQC%20-%20Whitepaper%20update%2023-02-2018.pdf"
+    }
+  ],
+  "name": "Uquid Coin",
+  "symbol": "UQC"
+}

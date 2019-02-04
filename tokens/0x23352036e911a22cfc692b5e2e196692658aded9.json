@@ -1,0 +1,42 @@
+{
+  "addr": "0x23352036e911a22cfc692b5e2e196692658aded9",
+  "decimals": 18,
+  "description": "Friendz offers a variety of digital advertising services, among which brand awareness and product placement campaigns, sharing content activities and market researches. Friendz community can take part to the activities available on the platform, supporting brands in the process of content creation and validation and is rewarded for these activities.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2815966.0"
+    },
+    {
+      "Blog": "https://blog.friendz.io/"
+    },
+    {
+      "Blog": "https://medium.com/friendz"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/friendz"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/friends/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/friendzglobal/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/FriendzICO/"
+    },
+    {
+      "Telegram": "https://t.me/friendzICO"
+    },
+    {
+      "Twitter": "https://twitter.com/friendz_ico"
+    },
+    {
+      "Website": "https://friendz.io/"
+    },
+    {
+      "Whitepaper": "https://friendz.io/file/whitepaper_icofriendz.pdf"
+    }
+  ],
+  "name": "Friendz Coin",
+  "symbol": "FDZ"
+}

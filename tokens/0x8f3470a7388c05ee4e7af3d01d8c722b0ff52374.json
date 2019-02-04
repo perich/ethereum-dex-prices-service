@@ -1,0 +1,27 @@
+{
+  "addr": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+  "decimals": 18,
+  "description": "Veritaseum enables software-driven P2P capital markets without brokerages, banks or traditional exchanges",
+  "links": [
+    {
+      "Blog": "http://veritas.veritaseum.com/index.php/blog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/Veritaseum/"
+    },
+    {
+      "Email": "mailto:reggie@veritaseum.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/reggiemiddletonfintech/"
+    },
+    {
+      "Twitter": "https://twitter.com/ReggieMiddleton"
+    },
+    {
+      "Website": "http://veritas.veritaseum.com/"
+    }
+  ],
+  "name": "Veritaseum",
+  "symbol": "VERI"
+}

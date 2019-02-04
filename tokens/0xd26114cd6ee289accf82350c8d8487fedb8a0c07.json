@@ -1,0 +1,42 @@
+{
+  "addr": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+  "decimals": 18,
+  "description": "OmiseGO is the answer to a fundamental coordination problem amongst payment processors, gateways and financial institutions. By enabling decentralized exchange on a public blockchain at high volume and low cost, OmiseGO provides a next-generation value transfer service operating across currencies and asset types. Through the OmiseGO network connected to the Ethereum mainnet, anyone will be able to conduct financial transactions such as payments, remittances, payroll deposit, B2B commerce, supply-chain finance, loyalty programs, asset management and trading, and other on-demand services, in a completely decentralized and inexpensive way. Further, millions of mainstream users in the largest growing economies in the world will be enabled to make the transition from using fiat money to using decentralized currencies such as ETH, BTC, and others. The OmiseGO network is intrinsically agnostic between fiat and decentralized money: as far as adoption and usage go, the system is constructed so that the best currencies will win.",
+  "links": [
+    {
+      "Blog": "https://blog.omisego.network/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/omisego/"
+    },
+    {
+      "Email": "mailto:omg@omise.co"
+    },
+    {
+      "Facebook": "https://www.facebook.com/OmiseGO/"
+    },
+    {
+      "Github": "https://github.com/omisego"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/omise_go/"
+    },
+    {
+      "Slack": "https://chat.omisego.network/"
+    },
+    {
+      "Twitter": "https://twitter.com/omise_go"
+    },
+    {
+      "Website": "https://omisego.network/"
+    },
+    {
+      "Website": "https://omg.omise.co/"
+    },
+    {
+      "Whitepaper": "https://cdn.omise.co/omg/whitepaper.pdf"
+    }
+  ],
+  "name": "OMGToken",
+  "symbol": "OMG"
+}

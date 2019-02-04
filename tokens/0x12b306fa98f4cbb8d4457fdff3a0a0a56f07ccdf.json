@@ -1,0 +1,48 @@
+{
+  "addr": "0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf",
+  "decimals": 18,
+  "description": "Spectre.ai is a financial prediction market platform backed by a tokenised liquidity pool. The SXDT is the divident-paying token of the platform; it grants a trading-volume based profit share paid as ETH to token holders monthly and annually.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2169122.0"
+    },
+    {
+      "Blog": "https://medium.com/teamspectreai"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/spectre-dividend/"
+    },
+    {
+      "Email": "mailto:team@spectre.ai"
+    },
+    {
+      "Facebook": "https://www.facebook.com/spectrepage/"
+    },
+    {
+      "Github": "https://github.com/spectre-ai"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Spectre_ai/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GjkGkw7IfwUVuPiWxctD4g"
+    },
+    {
+      "Twitter": "https://twitter.com/SpectreAI"
+    },
+    {
+      "WeChat": "https://open.kakao.com/o/gesPdnC"
+    },
+    {
+      "Website": "https://www.spectre.ai/"
+    },
+    {
+      "Website": "https://spectre.ai/"
+    },
+    {
+      "Whitepaper": "https://d1zzssn32v8b7a.cloudfront.net/media/en/spectre_whitepaper_v_2_3.pdf"
+    }
+  ],
+  "name": "Spectre.ai D-Token",
+  "symbol": "SXDT"
+}

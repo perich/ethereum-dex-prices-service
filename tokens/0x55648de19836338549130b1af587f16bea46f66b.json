@@ -1,0 +1,42 @@
+{
+  "addr": "0x55648de19836338549130b1af587f16bea46f66b",
+  "decimals": 18,
+  "description": "PBL is a platform money to use the decentralised publishing protocol of Publica.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2079885"
+    },
+    {
+      "Blog": "https://medium.com/publicaio"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/publica/"
+    },
+    {
+      "Email": "mailto:info@publica.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/OfficialPublica/"
+    },
+    {
+      "Github": "https://github.com/PublicaIO"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/publicaio/"
+    },
+    {
+      "Telegram": "https://t.me/publicaofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/PublicaIO"
+    },
+    {
+      "Website": "https://publica.io/"
+    },
+    {
+      "Whitepaper": "https://publica.io/whitepapers/summary.pdf"
+    }
+  ],
+  "name": "Pebbles",
+  "symbol": "PBL"
+}

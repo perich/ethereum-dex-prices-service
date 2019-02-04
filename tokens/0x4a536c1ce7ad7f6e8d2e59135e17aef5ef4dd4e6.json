@@ -1,0 +1,18 @@
+{
+  "addr": "0x4a536c1ce7ad7f6e8d2e59135e17aef5ef4dd4e6",
+  "decimals": 3,
+  "description": "GE-chain is a tool of settlement in game industry, especially for the asset conversion from game coin to digital currency.",
+  "links": [
+    {
+      "Email": "mailto:gecmail@163.com"
+    },
+    {
+      "Website": "http://www.yyb.money/"
+    },
+    {
+      "Whitepaper": "http://www.yyb.money/uploadfile/yuyulian-whitebook.pdf"
+    }
+  ],
+  "name": "GECoin",
+  "symbol": "GEC"
+}

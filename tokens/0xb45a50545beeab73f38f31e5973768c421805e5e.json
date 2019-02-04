@@ -1,0 +1,42 @@
+{
+  "addr": "0xb45a50545beeab73f38f31e5973768c421805e5e",
+  "decimals": 18,
+  "description": "TKR is a utility token to be used on the Trackr platform.\nThe Trackr platform allows users to manage, grow, predict their portfolio in addition to trading their success with other users with TKR. Moreover, users are able to set up alerts, use machine learning and backtesting to evaluate whether certain trade opportunities are deemed profitable by the platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2046549"
+    },
+    {
+      "Blog": "https://medium.com/@trackr.im/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/trackr/"
+    },
+    {
+      "Email": "mailto:team@trackr.im"
+    },
+    {
+      "Facebook": "https://www.facebook.com/trackrim/"
+    },
+    {
+      "Github": "https://github.com/trackr-im"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/trackrim"
+    },
+    {
+      "Slack": "http://slack.trackr.im/"
+    },
+    {
+      "Twitter": "https://twitter.com/trackrim"
+    },
+    {
+      "Website": "https://www.trackr.im/"
+    },
+    {
+      "Whitepaper": "https://www.trackr.im/media/whitepaper.pdf"
+    }
+  ],
+  "name": "TKRToken",
+  "symbol": "TKR"
+}

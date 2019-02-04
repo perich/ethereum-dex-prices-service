@@ -1,0 +1,42 @@
+{
+  "addr": "0xe8c09672cfb9cfce6e2edbb01057d9fa569f97c1",
+  "decimals": 18,
+  "description": "IndiCoin is an autonomous cryptocurrency and a social service platform built on top of Ethereum Blockchain that enables users to provide social proof to the blockchain community through a decentralized and transparent voting process thereby incentivizing and encouraging the user to create an inclusive community of people who are incentivized to do social tasks. it is the first ever social platform where people can not only contribute but also validate through any kind of content posted anonymously from anywhere, anytime and also earn through it. IndiCoin is developed to address the broken social sector. We are building a DApp where one can share any proof of work such as live videos, images, illegal document leak, e-way bills for which our DApp will provide full anonymity and in exchange provide Indi tokens. Along with that, we'll be addressing poverty, child labor, proper sanitation, education, bringing drinking water accessible to everyone and million other test cases. IndiCoin token sale would be the first ever Token Sale/ICO officially covering India. Our mission is to create awareness among 1.2 billion unaware Indians about cryptocurrency and blockchain ecosystem also create a sense of social accountability among individuals.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2217812.0"
+    },
+    {
+      "Blog": "https://medium.com/@Indi_coin"
+    },
+    {
+      "Email": "mailto:contact@indicoin.org.in"
+    },
+    {
+      "Facebook": "https://www.facebook.com/indicoin.crypto"
+    },
+    {
+      "Github": "https://github.com/CommTechLabs/indicoin-crowdsale"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/Indicoin/"
+    },
+    {
+      "Slack": "https://indicoinorg.slack.com/"
+    },
+    {
+      "Telegram": "https://www.t.me/indicoin"
+    },
+    {
+      "Twitter": "https://twitter.com/indi_coin"
+    },
+    {
+      "Website": "https://www.indicoin.org.in/"
+    },
+    {
+      "Whitepaper": "https://www.indicoin.org.in/others/documentations/whitepaper.pdf"
+    }
+  ],
+  "name": "Indicoin",
+  "symbol": "INDI"
+}

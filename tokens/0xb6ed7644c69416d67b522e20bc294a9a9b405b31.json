@@ -1,0 +1,18 @@
+{
+  "addr": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+  "decimals": 8,
+  "description": "The implementation of Bitcoin Core on the Ethereum network as a smart contract. Mined using Proof of Work.",
+  "links": [
+    {
+      "Github": "https://github.com/0xbitcoin/0xbitcoin-token"
+    },
+    {
+      "Reddit": "https://reddit.com/r/0xbitcoin"
+    },
+    {
+      "Website": "https://0xbitcoin.org"
+    }
+  ],
+  "name": 188,
+  "symbol": 188
+}

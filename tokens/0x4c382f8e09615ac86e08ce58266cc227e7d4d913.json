@@ -1,0 +1,36 @@
+{
+  "addr": "0x4c382f8e09615ac86e08ce58266cc227e7d4d913",
+  "decimals": 6,
+  "description": "Skrilla is a licensed, fully regulated, global Daily Fantasy Esports platform. The Skrilla Token (SKR) is an ERC20 token, which will be used as the sole unit of exchange (currency) on the Skrilla platform, for members to enter contests, places bets and collect winnings.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@Skrilla"
+    },
+    {
+      "Email": "mailto:support@skrilla.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/SkrillaEsports/"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/F77VmjV"
+    },
+    {
+      "Telegram": "https://t.me/skrillatokensale"
+    },
+    {
+      "Twitter": "https://twitter.com/playskrilla"
+    },
+    {
+      "Website": "https://tokensale.skrilla.com/"
+    },
+    {
+      "Website": "https://tokensale.skrilla.com"
+    },
+    {
+      "Whitepaper": "https://tokensale.skrilla.com/skr-token-whitepaper-v0.7.pdf"
+    }
+  ],
+  "name": "Skrilla",
+  "symbol": "SKR"
+}

@@ -1,0 +1,27 @@
+{
+  "addr": "0xe5a219d4db92a701e79b6e548803c8ce55138686",
+  "decimals": 18,
+  "description": "StatiCoin, a stable digital currency. The _S tokens are the stable tokens, the _R tokens are the risk tokens.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@peter.cornforth/staticoin-a-stable-digital-currency-d52477f378de"
+    },
+    {
+      "Email": "mailto:genkifs@gmail.com"
+    },
+    {
+      "Github": "https://github.com/genkifs/staticoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/genki_paul"
+    },
+    {
+      "Website": "http://staticoin.com/"
+    },
+    {
+      "Whitepaper": "http://staticoin.com/whitepaper.pdf"
+    }
+  ],
+  "name": "EUR Risk",
+  "symbol": "EUR_R"
+}

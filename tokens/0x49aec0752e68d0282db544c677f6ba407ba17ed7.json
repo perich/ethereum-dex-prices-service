@@ -1,0 +1,33 @@
+{
+  "addr": "0x49aec0752e68d0282db544c677f6ba407ba17ed7",
+  "decimals": 18,
+  "description": "Billionaire Token (XBL) is designed and tailored specifically for the gamblers and the smart investors in the crypto world. Most other coins or tokens have some sort of mining system, but Billionaire Token has the exact opposite: It features a deflationary mechanism that destroys some XBL tokens each week via our decentralized raffle and our decentralized burner Smart Contracts - this is what will initially provide intrinsic value to the token and differentiate it from the competition.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2065888"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/billionaire-token/"
+    },
+    {
+      "Email": "mailto:billionaire@BillionaireToken.com"
+    },
+    {
+      "Github": "https://github.com/billionairetoken/TokenCore"
+    },
+    {
+      "Slack": "https://billionairetoken.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/BillionaireTkn"
+    },
+    {
+      "Website": "https://billionairetoken.com/"
+    },
+    {
+      "Whitepaper": "https://billionairetoken.com/WhitePaper.pdf"
+    }
+  ],
+  "name": "Billionaire Token",
+  "symbol": "XBL"
+}

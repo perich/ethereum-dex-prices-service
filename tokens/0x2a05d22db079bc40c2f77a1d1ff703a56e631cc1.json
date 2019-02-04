@@ -1,0 +1,30 @@
+{
+  "addr": "0x2a05d22db079bc40c2f77a1d1ff703a56e631cc1",
+  "decimals": 8,
+  "description": "BitAsean (BAS) is the first and only one of the The Association of Southeast Asian Nations (ASEAN) cryptocurrency. BitAsean is Ethereum-based Token. Our aim is for BitAsean to be the cryptocurrency of the ASEAN region.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1946768.0"
+    },
+    {
+      "Blog": "https://www.bitasean.org/news-updates"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bitasean/"
+    },
+    {
+      "Email": "mailto:bytecodeteam@gmail.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/BitAsean/"
+    },
+    {
+      "Twitter": "https://twitter.com/BitAseanTeam"
+    },
+    {
+      "Website": "https://www.bitasean.org/"
+    }
+  ],
+  "name": "BitAsean",
+  "symbol": "BAS"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0x85e076361cc813a908ff672f9bad1541474402b2",
+  "decimals": 2,
+  "description": "Telcoin is the first cryptocurrency to tap into synergies between the reach of mobile telecoms and the fast, borderless nature of blockchain technology. This is the core of our business, and mobile network operators will be at the center of our strategy.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@telcoin"
+    },
+    {
+      "Email": "mailto:hello@telco.in"
+    },
+    {
+      "Facebook": "https://www.facebook.com/telcoin/"
+    },
+    {
+      "Github": "https://github.com/telcoin"
+    },
+    {
+      "Telegram": "https://t.me/telcoincommunity"
+    },
+    {
+      "Twitter": "https://twitter.com/telcoin_team"
+    },
+    {
+      "Website": "https://www.telco.in/"
+    },
+    {
+      "Whitepaper": "https://www.telco.in/docs/whitepaper.pdf"
+    }
+  ],
+  "name": "Telcoin",
+  "symbol": "TEL"
+}

@@ -1,0 +1,24 @@
+{
+  "addr": "0x08fd34559f2ed8585d3810b4d96ab8a05c9f97c5",
+  "decimals": 18,
+  "description": "ClusterToken is an ERC20 compliant Smart contract token that will bring rewards to token holders by using what&rsquo;s called &ldquo;Self Mining Smart Contract&rdquo; technology. This means that no mining equipment or additional equipment is involved to receive mining profits from the ClusterToken Smart contract.\nThe ClusterToken reward structure is designed to apply what&rsquo;s known as &ldquo;Proportional Reward&rdquo; system. Most of the tokens released on the blockchain have no further use once purchased in terms of extra rewards. ClusterToken will reward all token holders on a periodic base.",
+  "links": [
+    {
+      "Email": "mailto:info@clustertoken.io"
+    },
+    {
+      "Facebook": "https://www.clustertoken.io/#"
+    },
+    {
+      "Twitter": "https://twitter.com/ClusterToken"
+    },
+    {
+      "Website": "https://www.clustertoken.io/"
+    },
+    {
+      "Whitepaper": "https://github.com/clustertoken/clustertoken/blob/master/docs/WhitePaper.md"
+    }
+  ],
+  "name": "ClusterToken",
+  "symbol": "CLRT"
+}

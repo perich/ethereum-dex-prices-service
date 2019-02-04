@@ -1,0 +1,12 @@
+{
+  "addr": "0x52a17ca01b9925752aefde41bf80d7b10514e136",
+  "decimals": 15,
+  "description": "High value, high volatility erc20 token, designed for a high-risk day trading.",
+  "links": [
+    {
+      "Website": "https://www.pumppump.io"
+    }
+  ],
+  "name": "Pump coin",
+  "symbol": "PUMP"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0x056017c55aE7AE32d12AeF7C679dF83A85ca75Ff",
+  "decimals": 18,
+  "description": "The Wyvern Exchange is a decentralized digital asset exchange running on the Ethereum blockchain. Using the Wyvern Exchange, you can buy or sell anything you can represent on Ethereum, from virtual kittens to smart contracts, to or from anyone in the world.\nThe WYV token is a protocol token: it powers the Wyvern Protocol, which the Exchange utilizes. Users must pay a small fee in WYV to settle purchases on the Exchange. WYV tokenholders are also shareholders in the Wyvern DAO, the decentralized autonomous organization which governs the Wyvern Protocol.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2258319.0"
+    },
+    {
+      "Blog": "https://medium.com/project-wyvern"
+    },
+    {
+      "Facebook": "https://www.facebook.com/WyvernExchange"
+    },
+    {
+      "Github": "https://github.com/projectwyvern"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/projectwyvern"
+    },
+    {
+      "Telegram": "https://t.me/projectwyvern"
+    },
+    {
+      "Twitter": "https://twitter.com/wyvernexchange"
+    },
+    {
+      "Website": "https://projectwyvern.com"
+    },
+    {
+      "Whitepaper": "https://github.com/ProjectWyvern/wyvern-protocol/raw/master/build/whitepaper.pdf"
+    }
+  ],
+  "name": "Wyvern Token",
+  "symbol": "WYV"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+  "decimals": 4,
+  "description": "Refereum is a referral marketing platform for the game industry built on the Ethereum blockchain. Referral marketing is a way to promote products through a word-of-mouth, and the Refereum Team's is planning to create a decentralized platform dedicated to this type of marketing enabling developers to improve their marketing campaigns, influencers to monetize their following, and even a regular gamer be rewarded for sharing links or moving up a gaming level.\nRefereum token, is an ERC-20 token that will be use to reward the platform users.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2205251.0"
+    },
+    {
+      "Blog": "https://medium.com/@refereum"
+    },
+    {
+      "Email": "mailto:team@refereum.com"
+    },
+    {
+      "Facebook": "https://facebook.com/refereum"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Refereum/"
+    },
+    {
+      "Telegram": "https://t.me/refereumtalk"
+    },
+    {
+      "Website": "https://refereum.com/"
+    },
+    {
+      "Whitepaper": "https://refereum.com/RefereumWhitepaper.pdf"
+    },
+    {
+      "Twitter": "https://twitter.com/refereum"
+    }
+  ],
+  "name": "Refereum",
+  "symbol": "RFR"
+}

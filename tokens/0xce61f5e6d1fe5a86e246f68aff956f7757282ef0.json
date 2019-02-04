@@ -1,0 +1,33 @@
+{
+  "addr": "0xce61f5e6d1fe5a86e246f68aff956f7757282ef0",
+  "decimals": 18,
+  "description": "LIFE Token is a utility token issued for discounted usage on Pinkexc platform. Funds raised during the token swap will be used to build a network of Crypto ATM and merchants in providing an instant liquidity from assets for the public.",
+  "links": [
+    {
+      "Email": "mailto:admin@lifecredit.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Pinkexc-LIFE-1112252582240340/"
+    },
+    {
+      "Slack": "https://pinkexclife.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/pinkexclife"
+    },
+    {
+      "Twitter": "https://twitter.com/pinkexclife"
+    },
+    {
+      "Website": "http://pinkexc.biz/life.html"
+    },
+    {
+      "Website": "http://www.pinkexc.com/life.html"
+    },
+    {
+      "Whitepaper": "http://www.pinkexc.biz/PINKEXC%20ICO%20(ID).pdf"
+    }
+  ],
+  "name": "LIFECREDIT",
+  "symbol": "1LIFE"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0xd2d6158683aee4cc838067727209a0aaf4359de3",
+  "decimals": 18,
+  "description": "A decentralized bounty hunting platform enabling anyone to manage bounty programs, and bounty hunters to receive payment for completing bounty tasks.",
+  "links": [
+    {
+      "Blog": "https://www.blog.bounty0x.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bounty0x/"
+    },
+    {
+      "Email": "mailto:contact@bounty0x.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bounty0x"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/bounty0x"
+    },
+    {
+      "Telegram": "https://t.me/bounty0x"
+    },
+    {
+      "Twitter": "https://www.twitter.com/bounty0x"
+    },
+    {
+      "Website": "https://bounty0x.io/"
+    }
+  ],
+  "name": "Bounty0x Token",
+  "symbol": "BNTY"
+}

@@ -1,0 +1,21 @@
+{
+  "addr": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac",
+  "decimals": 0,
+  "description": "Blockchain Capital is a pioneer and the premier venture capital firm investing in Blockchain enabled technology.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bcap/"
+    },
+    {
+      "Email": "http://blockchain.capital/contact/"
+    },
+    {
+      "Twitter": "https://twitter.com/blockchaincap"
+    },
+    {
+      "Website": "http://blockchain.capital/"
+    }
+  ],
+  "name": "BCAP",
+  "symbol": "BCAP"
+}

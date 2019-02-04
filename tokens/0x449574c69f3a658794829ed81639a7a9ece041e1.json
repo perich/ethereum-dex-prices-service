@@ -1,0 +1,24 @@
+{
+  "addr": "0x449574c69f3a658794829ed81639a7a9ece041e1",
+  "decimals": 0,
+  "description": "NEO Gold is an Ethereum token with goal to create a community of people that support \"Gold\" labeled tokens for nothing but fun and social engagement.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2345986.0"
+    },
+    {
+      "Email": "mailto:admin@neo-gold.com"
+    },
+    {
+      "Telegram": "https://t.me/neogold"
+    },
+    {
+      "Twitter": "https://twitter.com/NEO_GOLD_com"
+    },
+    {
+      "Website": "https://neo-gold.com/"
+    }
+  ],
+  "name": "NEO Gold",
+  "symbol": "NEOG"
+}

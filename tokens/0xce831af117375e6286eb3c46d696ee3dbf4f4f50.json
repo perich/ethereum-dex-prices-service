@@ -1,0 +1,24 @@
+{
+  "addr": "0xce831af117375e6286eb3c46d696ee3dbf4f4f50",
+  "decimals": 2,
+  "description": "A token which provides owners a proportional distribution of profits based on the Fairgrounds suite of chance-based games.",
+  "links": [
+    {
+      "Website": "https://fairgrounds.bet"
+    },
+    {
+      "Discord": "https://discord.gg/FwBskwY"
+    },
+    {
+      "Twitter": "https://twitter.com/FairgroundsDapp"
+    },
+    {
+      "Whitepaper": "https://fairgrounds.bet/files/fairgrounds_whitepaper_0.9.5.pdf"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2908959.0"
+    }
+  ],
+  "name": "Fairgrounds",
+  "symbol": "FGD"
+}

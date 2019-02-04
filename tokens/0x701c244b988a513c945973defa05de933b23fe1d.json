@@ -1,0 +1,39 @@
+{
+  "addr": "0x701c244b988a513c945973defa05de933b23fe1d",
+  "decimals": 18,
+  "description": "At the core of the openANX platform is the Decentralized Autonomous Organization, which is run by smart contracts. The governance model affects the way the DAO behaves, thus always staying in the best interest of all participants.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1943946"
+    },
+    {
+      "Blog": "https://medium.com/@OAX_Foundation"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/oax/"
+    },
+    {
+      "Github": "https://github.com/openanx"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/OpenANX/"
+    },
+    {
+      "Telegram": "https://t.me/openanxteam"
+    },
+    {
+      "Twitter": "https://twitter.com/OAX_Foundation"
+    },
+    {
+      "Website": "https://www.openanx.org"
+    },
+    {
+      "Website": "https://www.openanx.org/"
+    },
+    {
+      "Whitepaper": "https://www.openanx.org/en/assets/whitepaper/openANX_White_Paper_ENU.pdf"
+    }
+  ],
+  "name": "openANX Token",
+  "symbol": "OAX"
+}

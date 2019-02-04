@@ -1,0 +1,39 @@
+{
+  "addr": "0x5b7093fe2491dfb058c94bcd62a1cd4d822f884c",
+  "decimals": 18,
+  "description": "The Authoreon solutions prevent fraud, cyber attacks, material and immaterial identity theft, and they provide traceability to supply and ownership chains.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2125495"
+    },
+    {
+      "Blog": "https://medium.com/authoreon"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/authoreon/"
+    },
+    {
+      "Email": "mailto:info@authoreon.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/authoreon"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Authoreon/"
+    },
+    {
+      "Telegram": "https://t.me/authoreonio"
+    },
+    {
+      "Twitter": "https://twitter.com/authoreonio"
+    },
+    {
+      "Website": "https://www.authoreon.io/"
+    },
+    {
+      "Whitepaper": "https://www.authoreon.io/whitepaper/"
+    }
+  ],
+  "name": "Authoreon",
+  "symbol": "AUN"
+}

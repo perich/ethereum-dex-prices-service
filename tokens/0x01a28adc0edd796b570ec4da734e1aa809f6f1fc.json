@@ -1,0 +1,12 @@
+{
+  "addr": "0x01a28adc0edd796b570ec4da734e1aa809f6f1fc",
+  "decimals": 18,
+  "description": "eDash",
+  "links": [
+    {
+      "Website": "http://edashcoin.org"
+    }
+  ],
+  "name": "eDash",
+  "symbol": "EDASH"
+}

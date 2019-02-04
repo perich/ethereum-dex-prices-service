@@ -1,0 +1,36 @@
+{
+  "addr": "0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
+  "decimals": 18,
+  "description": "Matryx provides an environment in which collaboration is monetarily incentivized, grants are distributed fairly, R&amp;D expenses are reduced and time is saved.",
+  "links": [
+    {
+      "Blog": "https://blog.matryx.ai/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/matryx/"
+    },
+    {
+      "Email": "mailto:team@matryx.ai"
+    },
+    {
+      "Facebook": "https://www.facebook.com/matryxai/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/matryx/"
+    },
+    {
+      "Telegram": "https://t.me/matryxtoken"
+    },
+    {
+      "Twitter": "https://twitter.com/matryx_ai"
+    },
+    {
+      "Website": "https://matryx.ai/"
+    },
+    {
+      "Whitepaper": "https://matryx.ai/matryx-whitepaper.pdf"
+    }
+  ],
+  "name": "MatryxToken",
+  "symbol": "MTX"
+}

@@ -1,0 +1,45 @@
+{
+  "addr": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+  "decimals": 18,
+  "description": "A decentralized network for payment requests",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2137740.0"
+    },
+    {
+      "Blog": "https://blog.request.network/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/request-network/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/TheRequestNetwork/"
+    },
+    {
+      "Github": "https://github.com/RequestNetwork/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/RequestNetwork/"
+    },
+    {
+      "Slack": "https://requestnetwork.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/requestnetwork"
+    },
+    {
+      "Twitter": "https://twitter.com/requestnetwork"
+    },
+    {
+      "Website": "https://request.network/"
+    },
+    {
+      "Website": "https://request.network"
+    },
+    {
+      "Whitepaper": "https://request.network/assets/pdf/request_whitepaper.pdf"
+    }
+  ],
+  "name": "Request Token",
+  "symbol": "REQ"
+}

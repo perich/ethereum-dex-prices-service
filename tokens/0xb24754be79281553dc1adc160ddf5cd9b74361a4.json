@@ -1,0 +1,27 @@
+{
+  "addr": "0xb24754be79281553dc1adc160ddf5cd9b74361a4",
+  "decimals": 9,
+  "description": "RIALTO.AI is a team of data scientists, trading economists and signal processing experts, designing proprietary algorithms for arbitrage and market making. By providing liquidity and matching orders, we are increasing market efficiency and connecting crypto markets, while earning a fraction on every transaction.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@RialtoAI/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/rialto/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/RIALTOAI-1908809969366651/"
+    },
+    {
+      "Slack": "http://www.rialto.ai/slack"
+    },
+    {
+      "Twitter": "https://twitter.com/RialtoAI"
+    },
+    {
+      "Website": "https://www.rialto.ai/"
+    }
+  ],
+  "name": "RIALTO",
+  "symbol": "XRL"
+}

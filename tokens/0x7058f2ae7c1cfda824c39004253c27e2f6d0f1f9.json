@@ -1,0 +1,27 @@
+{
+  "addr": "0x7058f2ae7c1cfda824c39004253c27e2f6d0f1f9",
+  "decimals": 18,
+  "description": "Crypto-X (CWX) is the world's first masternode 2.0 style token on Ethereum Blockchain, HODL and earn tokens with ease. No need  for expensive mining equipment or complicated setups for staking, you can hodl CWX in any ERC20 wallet and receive CXR (CryptoXRewards) for supporting the network!",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2827288.0"
+    },
+    {
+      "Facebook": "http://facebook.com/cryptoxcwx"
+    },
+    {
+      "Github": "https://github.com/Crypto-x10/CWX/blob/master/Token%20Contract"
+    },
+    {
+      "Telegram": "https://t.me/cwxcryptox"
+    },
+    {
+      "Twitter": "https://twitter.com/CryptoX10"
+    },
+    {
+      "Website": "https://www.crypto-x.io/"
+    }
+  ],
+  "name": "CryptoX",
+  "symbol": "CWX"
+}

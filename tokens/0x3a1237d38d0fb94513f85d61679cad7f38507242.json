@@ -1,0 +1,27 @@
+{
+  "addr": "0x3a1237d38d0fb94513f85d61679cad7f38507242",
+  "decimals": 18,
+  "description": "Mindexcoin is opening doors to a new route and a new chapter in the history of cryptocurrency",
+  "links": [
+    {
+      "Blog": "https://medium.com/@mindexcoin"
+    },
+    {
+      "Github": "https://github.com/mindexcoin/Mindexcoin"
+    },
+    {
+      "Twitter": "https://twitter.com/mindexcoin"
+    },
+    {
+      "Facebook": "https://facebook.com/mindexcoin"
+    },
+    {
+      "Website": "https://mindexcoin.com"
+    },
+    {
+      "Whitepaper": "https://mindexcoin.org/Mindexcoin_White_Paper.pdf"
+    }
+  ],
+  "name": "Mindexcoin",
+  "symbol": "MIC"
+}

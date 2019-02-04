@@ -1,0 +1,27 @@
+{
+  "addr": "0x7848ae8f19671dc05966dafbefbbbb0308bdfabd",
+  "decimals": 18,
+  "description": "WednesdayCoin is an ERC20 token that can only be sent on Wednesdays. By using the timestamp of the block we can restrict the transfer of the token to a specific day. Since the timestamp is a unix timestamp the timezone is UTC, so this token and only be sent on Wednesday UTC.",
+  "links": [
+    {
+      "Email": "mailto:admin@wednesdaycoin.io"
+    },
+    {
+      "Github": "https://github.com/aelchim/WednesdayCoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/WednesdayCoin/"
+    },
+    {
+      "Telegram": "https://t.me/WednesdayCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/WednesdayCoin"
+    },
+    {
+      "Website": "https://wednesdaycoin.io/"
+    }
+  ],
+  "name": "Wednesday Coin",
+  "symbol": "WED"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0x881ef48211982d01e2cb7092c915e647cd40d85c",
+  "decimals": 18,
+  "description": "Open Trading Network (OTN) &ndash; the first platform that offers cross-chain technology to unite all blockchain networks and market participants, and ensure their best interests.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2225134"
+    },
+    {
+      "Blog": "https://medium.com/@otncoin"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/open-trading-network/"
+    },
+    {
+      "Email": "mailto:info@otn.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/OpenTradingNetwork/"
+    },
+    {
+      "Github": "https://github.com/OpenTradingNetworkFoundation/otn-token"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/Open_Trading_Network/"
+    },
+    {
+      "Telegram": "https://t.me/OTNgroup"
+    },
+    {
+      "Twitter": "https://twitter.com/OTNcoin"
+    },
+    {
+      "Website": "https://otn.org/"
+    },
+    {
+      "Whitepaper": "https://otn.org/assets/fonts/Open-Trading-Network-white-paper_en.pdf"
+    }
+  ],
+  "name": "Open Trading Network",
+  "symbol": "OTN"
+}

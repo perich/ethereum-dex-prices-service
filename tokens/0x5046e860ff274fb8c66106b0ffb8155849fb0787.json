@@ -1,0 +1,24 @@
+{
+  "addr": "0x5046e860ff274fb8c66106b0ffb8155849fb0787",
+  "decimals": 8,
+  "description": "It is a token that was launched with the purpose of forming a community of programmers in JavaScript, with a platform where they can sell the codes in exchange for the token.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2251683.0"
+    },
+    {
+      "Email": "mailto:jonnyda1811@gmail.com"
+    },
+    {
+      "Twitter": "https://twitter.com/JS_Token"
+    },
+    {
+      "Website": "http://javascripttoken.pagedemo.co/"
+    },
+    {
+      "Website": "http://javascripttoken.pagedemo.co"
+    }
+  ],
+  "name": "JavaScript",
+  "symbol": "JS"
+}

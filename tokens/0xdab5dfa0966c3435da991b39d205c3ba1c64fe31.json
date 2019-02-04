@@ -1,0 +1,12 @@
+{
+  "addr": "0xdab5dfa0966c3435da991b39d205c3ba1c64fe31",
+  "decimals": 1,
+  "description": "\"Our mission is to help everyone benefit from the security and convenience of smart contracts on the Ethereum network and beyond, unlocking the door to intelligent and automated commerce at scales never before possible.\"",
+  "links": [
+    {
+      "Website": "https://militarypay.io/"
+    }
+  ],
+  "name": "MilitaryPay",
+  "symbol": "MTP"
+}

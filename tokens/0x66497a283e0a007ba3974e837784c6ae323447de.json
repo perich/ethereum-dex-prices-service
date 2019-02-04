@@ -1,0 +1,36 @@
+{
+  "addr": "0x66497a283e0a007ba3974e837784c6ae323447de",
+  "decimals": 18,
+  "description": "Ethereum Tokens you can use to Stream Porn NOW!",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2141716.0"
+    },
+    {
+      "Blog": "https://www.porntoken.io/blog/"
+    },
+    {
+      "Email": "mailto:support@porntoken.io"
+    },
+    {
+      "Github": "https://github.com/porntoken/smart_contract"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/porntoken/"
+    },
+    {
+      "Slack": "https://porntoken.slack.com/"
+    },
+    {
+      "Twitter": "http://www.twitter.com/porntoken"
+    },
+    {
+      "Website": "https://www.porntoken.io/"
+    },
+    {
+      "Whitepaper": "https://www.porntoken.io/whitepaper/PornToken.Milestones.Whitepaper.Substitute.pdf"
+    }
+  ],
+  "name": "PornToken",
+  "symbol": "PT"
+}

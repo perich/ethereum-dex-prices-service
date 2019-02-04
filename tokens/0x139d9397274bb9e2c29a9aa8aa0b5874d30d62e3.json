@@ -1,0 +1,39 @@
+{
+  "addr": "0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3",
+  "decimals": 18,
+  "description": "BoutsPro is a global \"Karate\" sports organization. \"BoutsPro world\" is the global umbrella structure that empowers over 190 million karate community and develops very robust eco-system for all forms of karate – traditional, sports & contact karate.",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/boutspro"
+    },
+    {
+      "Github": "https://github.com/Bouts-Pro"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/bouts_pro"
+    },
+    {
+      "Telegram": "https://t.me/boutspro"
+    },
+    {
+      "Telegram": "https://t.me/boutspro1"
+    },
+    {
+      "Twitter": "https://twitter.com/boutspro"
+    },
+    {
+      "Website": "https://www.bouts.pro"
+    },
+    {
+      "YouTube": "https://www.youtube.com/c/BoutsPro"
+    },
+    {
+      "Email": "mailto:contact@bouts.pro"
+    },
+    {
+      "Whitepaper": "https://www.bouts.pro/whitepaper/"
+    }
+  ],
+  "name": "BoutsPro",
+  "symbol": "BOUTS"
+}

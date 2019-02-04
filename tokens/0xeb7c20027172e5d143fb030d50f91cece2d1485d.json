@@ -1,0 +1,39 @@
+{
+  "addr": "0xeb7c20027172e5d143fb030d50f91cece2d1485d",
+  "decimals": 8,
+  "description": "eBTC is a tokenized version of Bitcoin on the Ethereum blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2210565.0"
+    },
+    {
+      "Blog": "https://medium.com/@eBTCFoundation"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ebtcnew/"
+    },
+    {
+      "Email": "mailto:hello@ebitcoin.org"
+    },
+    {
+      "Github": "https://github.com/eBTCCommunityTrustToken/eBTC"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/eBTC/"
+    },
+    {
+      "Telegram": "https://t.me/joinebtc/"
+    },
+    {
+      "Twitter": "https://twitter.com/ebtcfoundation"
+    },
+    {
+      "Website": "https://ebitcoin.org/"
+    },
+    {
+      "Website": "https://www.ebtctoken.org/"
+    }
+  ],
+  "name": "eBTC",
+  "symbol": "EBTC"
+}

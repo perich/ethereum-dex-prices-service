@@ -1,0 +1,30 @@
+{
+  "addr": "0xce5c603c78d047ef43032e96b5b785324f753a4f",
+  "decimals": 2,
+  "description": "",
+  "links": [
+    {
+      "Blog": "https://medium.com/e4row"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ether-for-the-rest-of-the-world/"
+    },
+    {
+      "Github": "https://github.com/liveplayergames?tab=repositories"
+    },
+    {
+      "Reddit": "http://www.reddit.com/r/e4row"
+    },
+    {
+      "Slack": "http://ufp.liveplayergames.com:8080/"
+    },
+    {
+      "Twitter": "https://twitter.com/E4ROW"
+    },
+    {
+      "Website": "https://www.e4row.co.il/"
+    }
+  ],
+  "name": "E4ROW",
+  "symbol": "E4ROW"
+}

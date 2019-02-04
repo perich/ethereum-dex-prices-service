@@ -1,0 +1,45 @@
+{
+  "addr": "0x39bb259f66e1c59d5abef88375979b4d20d98022",
+  "decimals": 8,
+  "description": "WAX is a decentralized platform enabling anyone to operate virtual marketplaces with built-in security, infrastructure, and payment processing. From the founders of OPSkins, the world’s leading marketplace for online game assets, WAX serves the 400+ million players who already collect, buy and sell.\nWAX is an ERC 20 utility token that supports the activities and functionality of the Worldwide Asset eXchange's platform, such as listing items for sale, transacting value between each other, settling the transfer of virtual goods, creating and servicing contracts, and proposing and voting for WAX Decentralized Exchange Multi-Party Payout Settlement Agent Asset Guilds.",
+  "links": [
+    {
+      "Blog": "https://medium.com/wax-io/"
+    },
+    {
+      "Blog": "https://medium.com/waxtoken"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/wax/"
+    },
+    {
+      "Email": "mailto:support@wax.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/WAX.io.Community/"
+    },
+    {
+      "Github": "https://github.com/waxio"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/WAX_io/"
+    },
+    {
+      "Telegram": "https://t.me/waxtokenannoucements"
+    },
+    {
+      "Telegram": "https://t.me/wax_io"
+    },
+    {
+      "Twitter": "https://twitter.com/WAX_io"
+    },
+    {
+      "Website": "https://wax.io/"
+    },
+    {
+      "Whitepaper": "https://wax.io/documents/WAX_White_Paper.pdf?1515109330066"
+    }
+  ],
+  "name": "Wax Token",
+  "symbol": "WAX"
+}

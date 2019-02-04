@@ -1,0 +1,12 @@
+{
+  "addr": "0x8bf8bcf8aba5ecffffd431489fe79dad38023a9b",
+  "decimals": 8,
+  "description": "Everyone rides buses. Imagine a bus ticket you could use anywhere around the world. Pay the same price, everywhere you go. Revolution in transportation.",
+  "links": [
+    {
+      "Website": "http://www.exbus.info/"
+    }
+  ],
+  "name": "Bus",
+  "symbol": "BUS"
+}

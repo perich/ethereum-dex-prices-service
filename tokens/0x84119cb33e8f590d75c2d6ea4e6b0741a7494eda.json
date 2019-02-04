@@ -1,0 +1,39 @@
+{
+  "addr": "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
+  "decimals": 0,
+  "description": "Turnkey mining services or custom packages tailored to your needs: full range of mining services from equipment sales, maintenance and repair to private blockchain servicing.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1914900.0"
+    },
+    {
+      "Blog": "https://medium.com/gigawatt"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/giga-watt-token/"
+    },
+    {
+      "Email": "mailto:support@giga-watt.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/gigawattcom/"
+    },
+    {
+      "Slack": "https://slack.giga-watt.com/"
+    },
+    {
+      "Telegram": "https://telegram.me/wtt_token"
+    },
+    {
+      "Twitter": "https://twitter.com/gigawatt_mining"
+    },
+    {
+      "Website": "https://www.giga-watt.com/"
+    },
+    {
+      "Whitepaper": "https://cryptonomos.com/wtt/white-paper.pdf"
+    }
+  ],
+  "name": "GigaWatt",
+  "symbol": "WTT"
+}

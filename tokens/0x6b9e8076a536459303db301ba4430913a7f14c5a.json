@@ -1,0 +1,21 @@
+{
+  "addr": "0x6b9e8076a536459303db301ba4430913a7f14c5a",
+  "decimals": 2,
+  "description": "jdini is a currency located on the Ethereum Blockchain as an ERC-20 Token. jdini exists for a few purposes. Firstly, it is immune to inflation. Secondly, it is both rare and liquid. Thirdly, it has great potential use among speakers of Lojban. The token was created as a sound and safe cryptocurrency.",
+  "links": [
+    {
+      "Email": "mailto:support@jdini.com"
+    },
+    {
+      "Website": "https://jdini.xyz/"
+    },
+    {
+      "Website": "https://jdini.com"
+    },
+    {
+      "Whitepaper": "https://jdini.xyz/whitepaper.pdf"
+    }
+  ],
+  "name": "jdini",
+  "symbol": "JDI"
+}

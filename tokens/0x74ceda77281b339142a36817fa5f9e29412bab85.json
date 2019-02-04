@@ -1,0 +1,42 @@
+{
+  "addr": "0x74ceda77281b339142a36817fa5f9e29412bab85",
+  "decimals": 8,
+  "description": "EROSCOIN is Blockchain based decentralised multi cryptocurrency payment gateway. It makes worldwide transactions between consumers, merchants, businesses, distributors and community by leveraging the power of blockchain technology. EROSCOIN has started offering wide range of payment products including web wallet, mobile wallet, merchant payments, in chat payments and more. Use EROSCOIN to send, receive &amp; make payments without middleman using stable, secure and fast Blockchain network.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2176329.0"
+    },
+    {
+      "Blog": "https://blog.eroscoin.org/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/eroscoin/"
+    },
+    {
+      "Email": "mailto:support@eroscoin.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/eroscoin/"
+    },
+    {
+      "Github": "https://github.com/eroscoin"
+    },
+    {
+      "Slack": "https://eroscoin.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/eroscoinplatform"
+    },
+    {
+      "Twitter": "https://twitter.com/eroscoinnews"
+    },
+    {
+      "Website": "https://eroscoin.org/"
+    },
+    {
+      "Whitepaper": "https://eroscoin.org/whitepaper.pdf"
+    }
+  ],
+  "name": "EROSCOIN",
+  "symbol": "ERO"
+}

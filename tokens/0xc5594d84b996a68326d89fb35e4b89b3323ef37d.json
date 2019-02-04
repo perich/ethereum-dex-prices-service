@@ -1,0 +1,39 @@
+{
+  "addr": "0xc5594d84b996a68326d89fb35e4b89b3323ef37d",
+  "decimals": 18,
+  "description": "Epocum offers a platform oriented to guarantee security and transparency for the next generation of digital remuneration based on websites connectivity.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2858364.0"
+    },
+    {
+      "Blog": "https://medium.com/@epocum"
+    },
+    {
+      "Facebook": "https://www.facebook.com/epocum/"
+    },
+    {
+      "Github": "https://github.com/epocum"
+    },
+    {
+      "Instagram": "https://www.instagram.com/epocum/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Epocum/"
+    },
+    {
+      "Telegram": "https://t.me/epocum"
+    },
+    {
+      "Twitter": "https://twitter.com/epocum"
+    },
+    {
+      "Website": "https://www.epocum.com/"
+    },
+    {
+      "Whitepaper": "https://www.epocum.com/Website/assets/pdf/whitepaperepocumv0.9.pdf"
+    }
+  ],
+  "name": "Epocum",
+  "symbol": "EPM"
+}

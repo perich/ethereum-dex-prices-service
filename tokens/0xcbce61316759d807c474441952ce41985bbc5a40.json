@@ -1,0 +1,27 @@
+{
+  "addr": "0xcbce61316759d807c474441952ce41985bbc5a40",
+  "decimals": 18,
+  "description": "MOAC is an ERC-20 token that helps to fund the project of MOAC -- which will create a new blockchain with several advanced features such as sharding, asynchronous contract, multi-layer, subchains, etc.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/moac/"
+    },
+    {
+      "Email": "mailto:info@moac.io"
+    },
+    {
+      "Github": "https://github.com/MOACChain/moac-core"
+    },
+    {
+      "Website": "http://moac.io/"
+    },
+    {
+      "Website": "http://moac.io/en/homepage"
+    },
+    {
+      "Whitepaper": "http://moac.io/files/MOAC%20technical%20whitepaper%20en.pdf"
+    }
+  ],
+  "name": "MoacToken Token",
+  "symbol": "MOAC"
+}

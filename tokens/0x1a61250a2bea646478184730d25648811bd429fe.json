@@ -1,0 +1,27 @@
+{
+  "addr": "0x1a61250a2bea646478184730d25648811bd429fe",
+  "decimals": 8,
+  "description": "Built to rearrange Peer to Peer lending for the better, Meridian (MDN) is an ERC20 based digital asset that is designed to be used in combination with Bitcoin.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2157860"
+    },
+    {
+      "Email": "mailto:hello@mymdn.io"
+    },
+    {
+      "Twitter": "https://twitter.com/MeridianMDN"
+    },
+    {
+      "Website": "https://mymdn.io/"
+    },
+    {
+      "Whitepaper": "https://mymdn.io/wp-content/uploads/2017/09/Meridian-Whitepaper.pdf"
+    },
+    {
+      "Blog": "https://medium.com/@MeridianMDN"
+    }
+  ],
+  "name": "Meridian",
+  "symbol": "MDN"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+  "decimals": 18,
+  "description": "A token trading protocol.",
+  "links": [
+    {
+      "Blog": "https://blog.0xproject.com/latest"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/0x/"
+    },
+    {
+      "Github": "https://github.com/0xProject"
+    },
+    {
+      "Slack": "https://0xproject.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/0xproject"
+    },
+    {
+      "Website": "https://0xproject.com/"
+    },
+    {
+      "Whitepaper": "https://0xproject.com/pdfs/0x_white_paper.pdf"
+    }
+  ],
+  "name": 206,
+  "symbol": "ZRX"
+}

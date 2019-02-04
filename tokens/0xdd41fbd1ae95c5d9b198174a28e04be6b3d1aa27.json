@@ -1,0 +1,39 @@
+{
+  "addr": "0xdd41fbd1ae95c5d9b198174a28e04be6b3d1aa27",
+  "decimals": 8,
+  "description": "LIGHTYYEARS is a decentralized, peer-to-peer digital currency that enables you to easily send money online. Think of it like a Digital Asset.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2599216.0"
+    },
+    {
+      "Blog": "https://medium.com/@lightyearstoken"
+    },
+    {
+      "Email": "mailto:admin@lightyearstoken.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/LIGHTYEARS.TokenLYS/"
+    },
+    {
+      "Github": "https://github.com/LIGHTYEARS-LYS/LIGHTYEARS-Token"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/AAAAAE6pwbdI7nOrYJ2W-w"
+    },
+    {
+      "Twitter": "https://twitter.com/LIGHTYEARStoken"
+    },
+    {
+      "Website": "http://www.lightyearstoken.com/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/LIGHTYEARSx/"
+    },
+    {
+      "Whitepaper": "http://lightyearstoken.com/download/whitepaper/"
+    }
+  ],
+  "name": "LIGHTYEARS",
+  "symbol": "LYS"
+}

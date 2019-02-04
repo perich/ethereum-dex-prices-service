@@ -1,0 +1,27 @@
+{
+  "addr": "0xa8daa52ded91f7c82b4bb02b4b87c6a841db1fd5",
+  "decimals": 8,
+  "description": "Biograffi is an app where people can make their biography and earn Biograffi(BGF) Token. People can send and receive BGF tokens for their posts on biograffi app. Android app is releasing on 10th April 2018.",
+  "links": [
+    {
+      "Email": "mailto:contactus@biograffi.com"
+    },
+    {
+      "Facebook": "https://facebook.com/biograffi"
+    },
+    {
+      "Linkedin": "https://linkedin.com/company/biograffi"
+    },
+    {
+      "Twitter": "https://twitter.com/biograffi"
+    },
+    {
+      "Website": "https://www.biograffi.com"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3137847"
+    }
+  ],
+  "name": "Biograffi",
+  "symbol": "BGF"
+}

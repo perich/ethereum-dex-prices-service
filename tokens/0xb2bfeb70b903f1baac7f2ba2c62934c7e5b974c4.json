@@ -1,0 +1,36 @@
+{
+  "addr": "0xb2bfeb70b903f1baac7f2ba2c62934c7e5b974c4",
+  "decimals": 8,
+  "description": "BetKing opened in April 2013 and by the end of 2014 quickly became the most popular crowd funded Bitcoin casino.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2150057"
+    },
+    {
+      "Blog": "https://betking.io/blog/"
+    },
+    {
+      "Email": "mailto:admin@betking.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/betkingcasino/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/betking/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GmNTqw7kaxhGRqsJhRuzzw"
+    },
+    {
+      "Twitter": "https://twitter.com/betkingio"
+    },
+    {
+      "Website": "https://betking.io/"
+    },
+    {
+      "Website": "https://betking.io"
+    }
+  ],
+  "name": "BetKing Bankroll Token",
+  "symbol": "BKB"
+}

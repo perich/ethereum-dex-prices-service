@@ -1,0 +1,36 @@
+{
+  "addr": "0xba2184520a1cc49a6159c57e61e1844e085615b6",
+  "decimals": 8,
+  "description": "The amount of money in a person's wallet should not be a barrier to his ability to access financial products that the rich enjoy. HelloGold wants to remove affordability and accessibility from the equation through the democratisation and digitisation of gold-based savings and financing. The digital gold-backed token will enable us to take our offer to another level, allowing us to accelerate financial inclusion across the world.",
+  "links": [
+    {
+      "Blog": "https://medium.com/hellogold"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/hellogold/"
+    },
+    {
+      "Email": "mailto:foundation@hellogold.org"
+    },
+    {
+      "Github": "https://github.com/myHelloGold/Foundation"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/HelloGold/"
+    },
+    {
+      "Slack": "https://hellogold-foundation-slack.herokuapp.com/"
+    },
+    {
+      "WeChat": "http://weixin.qq.com/r/NUXVzSrEyXe2rW6u9xAn"
+    },
+    {
+      "Website": "https://www.hellogold.org/"
+    },
+    {
+      "Whitepaper": "https://www.hellogold.org/downloads/HelloGoldSummaryWhitepaper.pdf"
+    }
+  ],
+  "name": "HelloGold Token",
+  "symbol": "HGT"
+}

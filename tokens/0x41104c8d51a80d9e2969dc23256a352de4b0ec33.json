@@ -1,0 +1,18 @@
+{
+  "addr": "0x41104c8d51a80d9e2969dc23256a352de4b0ec33",
+  "decimals": 18,
+  "description": "(PLUM) Payment Layer for Unattended Merchandising.",
+  "links": [
+    {
+      "Website": "http://42plums.com/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/plumcoin"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2994051"
+    }
+  ],
+  "name": "PLUM: Payment Layer for Unattended Merchandising",
+  "symbol": "PLUM"
+}

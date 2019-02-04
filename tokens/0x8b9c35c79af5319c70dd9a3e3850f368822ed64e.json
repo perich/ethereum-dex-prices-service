@@ -1,0 +1,12 @@
+{
+  "addr": "0x8b9c35c79af5319c70dd9a3e3850f368822ed64e",
+  "decimals": 18,
+  "description": "Dogetoken is a token honoring Dogecoin, the fun and friendly internet currency. Dogetoken is not Dogecoin. After purchasing Dogetoken (DGT), you can easily send DGT to your friends.",
+  "links": [
+    {
+      "Website": "http://dogetoken.com/"
+    }
+  ],
+  "name": "Dogetoken",
+  "symbol": "DGT"
+}

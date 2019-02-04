@@ -1,0 +1,21 @@
+{
+  "addr": "0x9375b738083101617f0642d7dbeaa89e361545e3",
+  "decimals": 0,
+  "description": "Revolutionized sending text messages all over the world. ESMS is a decentralized token that aims to provide SMS services for everyone. Funds will be used to build the ESMS app where ESMS token will be integrated.",
+  "links": [
+    {
+      "Email": "mailto:info@esms.trade"
+    },
+    {
+      "Twitter": "https://twitter.com/EsmsToken"
+    },
+    {
+      "Website": "http://www.esms.trade/"
+    },
+    {
+      "Website": "http://www.esms.trade"
+    }
+  ],
+  "name": "Ethereum SMS",
+  "symbol": "ESMS"
+}

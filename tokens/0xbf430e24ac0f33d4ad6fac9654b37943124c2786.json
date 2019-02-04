@@ -1,0 +1,13 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "IBTG",
+  "addr": "0xbf430e24ac0f33d4ad6fac9654b37943124c2786",
+  "decimals": 8,
+  "description": "Tokenized version of upcoming bitcoin fork: Bitcoin GOLD",
+  "links": [
+    {
+      "Website": "https://www.ebgold.io"
+    }
+  ],
+  "name": "eBitcoin Gold",
+  "symbol": "eBTG"
+}

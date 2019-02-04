@@ -1,0 +1,30 @@
+{
+  "addr": "0xa86a0da9d05d0771955df05b44ca120661af16de",
+  "decimals": 18,
+  "description": "OTCBTC provides both OTC and Exchange markets.",
+  "links": [
+    {
+      "Website": "https://otcbtc.com"
+    },
+    {
+      "Email": "mailto:support@otcbtc.com"
+    },
+    {
+      "Whitepaper": "https://otcbtc.com/uploads/v0.3.pdf"
+    },
+    {
+      "Telegram": "https://t.me/otcbtc_cn"
+    },
+    {
+      "Twitter": "https://twitter.com/otcbtc"
+    },
+    {
+      "Facebook": "https://www.facebook.com/otcbtc"
+    },
+    {
+      "Blog": "https://www.jianshu.com/u/e30b80ec5661"
+    }
+  ],
+  "name": "OTCBTC Token",
+  "symbol": "OTB"
+}

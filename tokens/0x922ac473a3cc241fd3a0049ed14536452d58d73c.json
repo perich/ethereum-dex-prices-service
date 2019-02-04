@@ -1,0 +1,42 @@
+{
+  "addr": "0x922ac473a3cc241fd3a0049ed14536452d58d73c",
+  "decimals": 18,
+  "description": "Valid is a data marketplace that will consist of a mobile wallet for users to manage their digital identity and person data. Furthermore, the platform users will be able to manage web applications for consumers to buy and access their data on the marketplace.\nValid token (VLD) is an ERC-20 compliant token that will work as a utility token, enabling the transactions between users and data consumers on the Valid marketplace.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2727880.0"
+    },
+    {
+      "Blog": "https://blog.valid.global/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/valid.global/"
+    },
+    {
+      "Github": "https://github.com/valid-global/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/18346679/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/valid_global/"
+    },
+    {
+      "Telegram": "https://t.me/valid_global"
+    },
+    {
+      "Twitter": "https://twitter.com/valid_global"
+    },
+    {
+      "Website": "https://valid.global"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCCjK3Sblx-Jxx8je84XakbQ"
+    },
+    {
+      "Whitepaper": "https://valid.global/static/valid-wp-2.pdf"
+    }
+  ],
+  "name": "VALID",
+  "symbol": "VLD"
+}

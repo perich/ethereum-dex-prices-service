@@ -1,0 +1,15 @@
+{
+  "addr": "0x18cabd1e7db6c52406719cb72859ea2c2eea75d6",
+  "decimals": 18,
+  "description": "GoGuides eGO ERC20 collectable tokens and rewards program.",
+  "links": [
+    {
+      "Website": "http://www.goguides.org/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2607207.msg26532656#msg26532656"
+    }
+  ],
+  "name": "GoGuides",
+  "symbol": "eGO"
+}

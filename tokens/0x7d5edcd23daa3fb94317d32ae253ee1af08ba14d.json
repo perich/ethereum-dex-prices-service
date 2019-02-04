@@ -1,0 +1,33 @@
+{
+  "addr": "0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d",
+  "decimals": 2,
+  "description": "Ethbet is the first decentralized, peer-to-peer, and provably-fair Ethereum-based dicing game without a house edge.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2133120.0"
+    },
+    {
+      "Blog": "https://medium.com/@Ethbet/"
+    },
+    {
+      "Email": "mailto:team@ethbet.io"
+    },
+    {
+      "Github": "https://github.com/Ethbet/ethbet"
+    },
+    {
+      "Reddit": "https://reddit.com/r/ethbet"
+    },
+    {
+      "Twitter": "https://twitter.com/EthbetProject"
+    },
+    {
+      "Website": "https://ethbet.io/"
+    },
+    {
+      "Whitepaper": "https://ethbet.io/whitepaper.pdf"
+    }
+  ],
+  "name": "Ethbet",
+  "symbol": "EBET"
+}

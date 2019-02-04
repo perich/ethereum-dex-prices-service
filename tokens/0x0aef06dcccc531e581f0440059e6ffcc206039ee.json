@@ -1,0 +1,36 @@
+{
+  "addr": "0x0aef06dcccc531e581f0440059e6ffcc206039ee",
+  "decimals": 8,
+  "description": "Designed for EVERYONE from beginners to professional traders in cryptocurrency markets, the ITT platform sends you actionable and personalized alerts to successfully trade in these nascent and volatile markets.",
+  "links": [
+    {
+      "Email": "mailto:info@intelligenttrading.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/IntelligentTradingFoundation"
+    },
+    {
+      "Github": "https://github.com/IntelligentTrading"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ITT_Token"
+    },
+    {
+      "Telegram": "https://t.me/intelligenttrading"
+    },
+    {
+      "Twitter": "https://twitter.com/tryITF"
+    },
+    {
+      "WeChat": "https://weixin.qq.com/g/AYStjdxwNMUtFIU5"
+    },
+    {
+      "Website": "http://intelligenttrading.org/"
+    },
+    {
+      "Whitepaper": "http://intelligenttrading.org/white-paper/"
+    }
+  ],
+  "name": "Intelligent Trading Token",
+  "symbol": "ITT"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0x814f67fa286f7572b041d041b1d99b432c9155ee",
+  "decimals": 8,
+  "description": "Dragon Coin will act as a friction-less, low-cost & transparent alternative financial mechanism within Casinos, to enhance the age-old gaming industry. With its expertise in blockchain technology, the Dragon’s goal is to reshape the long-standing gaming industry while benefiting those rooted in the industry, as well as all the members of the public who join in the journey to achieve the goals of Dragon Coin.\nDragon Coin, or DRG, is an ERC20 / Ethereum Utility token used to participate in the Dragon blockchain ecosystem. DRG tokens are exchanged for DGC (Dragon Global Chips), a cryptocurrency gaming chip, at Casinos allowing both players and Casinos to take advatange of the added transparency & security of the Blockchain.",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/dragoncoin.online"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FSgY4RI3tNfalmD2sbIZRg"
+    },
+    {
+      "Twitter": "https://www.twitter.com/dragoncoin"
+    },
+    {
+      "Website": "https://drgtoken.io"
+    },
+    {
+      "YouTube": "https://www.youtube.com/embed/ZW3QAEPeaeQ"
+    },
+    {
+      "Blog": "https://medium.com/@DragonINC"
+    },
+    {
+      "Whitepaper": "https://s3.amazonaws.com/drg-token/Whitepaper-Dragon.pdf"
+    }
+  ],
+  "name": "DRAGON",
+  "symbol": "DRG"
+}

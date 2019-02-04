@@ -1,0 +1,25 @@
+{
+  "addr": "0x14f37b574242d366558db61f3335289a5035c506",
+  "decimals": 3,
+  "description": "Hacker Gold (HKG) is the official token of the Virtual Accelerator. Each team taking part in the hackathon can release their own token which can only be exchanged for HKG. This allows camps to be financed and the community to support innovative projects.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/hacker-gold/"
+    },
+    {
+      "Email": "mailto:contact@ether.camp"
+    },
+    {
+      "Facebook": "https://www.facebook.com/hack.ether.camp"
+    },
+    {
+      "Twitter": "https://twitter.com/CampEther"
+    },
+    {
+      "Website": "https://hack.ether.camp/home"
+    }
+  ],
+  "name": "HackerGold",
+  "notice": "This is the replacement contract for the HKG tokens",
+  "symbol": "HKG"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0xeb9951021698b42e4399f9cbb6267aa35f82d59d",
+  "decimals": 18,
+  "description": "The Líf token facilitates transactions on the Winding Tree platform. Líf is used by travel companies to distribute inventory and make transactions without intermediaries.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1946065"
+    },
+    {
+      "Blog": "https://blog.windingtree.com/"
+    },
+    {
+      "Email": "mailto:founders@windingtree.com"
+    },
+    {
+      "Github": "https://github.com/windingtree"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/windingtree/"
+    },
+    {
+      "Telegram": "https://t.me/windingtree"
+    },
+    {
+      "Twitter": "https://twitter.com/windingtree"
+    },
+    {
+      "Website": "https://windingtree.com/"
+    },
+    {
+      "Whitepaper": "https://windingtree.com/files/White_Paper_EN.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCFuemEOhCfenYMoNdjD0Aew"
+    }
+  ],
+  "name": "Líf",
+  "symbol": "LIF"
+}

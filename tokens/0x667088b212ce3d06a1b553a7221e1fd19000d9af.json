@@ -1,0 +1,42 @@
+{
+  "addr": "0x667088b212ce3d06a1b553a7221e1fd19000d9af",
+  "decimals": 18,
+  "description": "The Blockchain Crowdfunding DAO\nA decentralized platform to create, join and manage projects",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1477055.0"
+    },
+    {
+      "Blog": "https://blog.wings.ai/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/wings/"
+    },
+    {
+      "Email": "mailto:domi@wings.ai"
+    },
+    {
+      "Facebook": "https://www.facebook.com/WingsDAO/"
+    },
+    {
+      "Reddit": "https://reddit.com/r/WingsDAO/"
+    },
+    {
+      "Slack": "https://hi.wings.ai/"
+    },
+    {
+      "Telegram": "https://telegram.me/wingschat"
+    },
+    {
+      "Twitter": "https://twitter.com/wingsplatform"
+    },
+    {
+      "Website": "https://wings.ai/"
+    },
+    {
+      "Whitepaper": "https://wingsfoundation.ch/docs/WINGS_Whitepaper_V1.1.2_en.pdf"
+    }
+  ],
+  "name": "WINGS",
+  "symbol": "WINGS"
+}

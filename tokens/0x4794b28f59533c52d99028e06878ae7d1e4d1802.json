@@ -1,0 +1,30 @@
+{
+  "addr": "0x4794b28f59533c52d99028e06878ae7d1e4d1802",
+  "decimals": 2,
+  "description": "Valid Cash is a cryptocurrency based on the Ethereum ERC20 protocol with a limited supply driven by community and peer to peer acceptance.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2483329"
+    },
+    {
+      "Email": "mailto:mail@valid.cash"
+    },
+    {
+      "Facebook": "https://www.facebook.com/valid.cash.crypto/"
+    },
+    {
+      "Telegram": "https://t.me/validcash"
+    },
+    {
+      "Twitter": "https://twitter.com/valid_cash"
+    },
+    {
+      "Website": "https://www.valid.cash/"
+    },
+    {
+      "Whitepaper": "https://www.valid.cash/wp-content/uploads/2017/12/valid-cash-whitepaper.pdf"
+    }
+  ],
+  "name": "Valid Cash",
+  "symbol": "VALID"
+}

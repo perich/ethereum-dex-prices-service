@@ -1,0 +1,24 @@
+{
+  "addr": "0xe1479d294807379320dca9a9e9002ac644539099",
+  "decimals": 18,
+  "description": "Bitcoins &amp; Altcoins P2P",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2010267.0"
+    },
+    {
+      "Email": "mailto:support@king93.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/kiing93/"
+    },
+    {
+      "Twitter": "https://twitter.com/king93_dev"
+    },
+    {
+      "Website": "https://king93.io/"
+    }
+  ],
+  "name": "King93",
+  "symbol": "KING"
+}

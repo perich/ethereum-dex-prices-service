@@ -1,0 +1,42 @@
+{
+  "addr": "0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
+  "decimals": 18,
+  "description": "ELECTRIFY is the first retail electricity marketplace in Southeast-Asia addressing the need for transparency and security in the consumption of energy. With a GMV of over SGD$5 million to date, ELECTRIFY has transacted more than 30GWh of electricity for commercial and industrial customers since March 2017.",
+  "links": [
+    {
+      "Blog": "https://medium.com/electrifyasia"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/electrifyasia/"
+    },
+    {
+      "Email": "mailto:hello@electrify.asia"
+    },
+    {
+      "Facebook": "https://facebook.com/electrify.asia"
+    },
+    {
+      "Github": "https://github.com/electrifyasia/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Electrify/"
+    },
+    {
+      "Telegram": "https://t.me/electrifyasia"
+    },
+    {
+      "Twitter": "https://twitter.com/electrifyasia"
+    },
+    {
+      "Website": "https://electrify.asia"
+    },
+    {
+      "Whitepaper": "https://electrify.asia/whitepaper/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCXVhj_ApXD8hNffnqXrcMPQ"
+    }
+  ],
+  "name": "ElectrifyAsia",
+  "symbol": "ELEC"
+}

@@ -1,0 +1,12 @@
+{
+  "addr": "0xd96b9fd7586d9ea24c950d24399be4fb65372fdd",
+  "decimals": 18,
+  "description": "Bitcoin Silver runs on the speed of the Ethereum blockchain, an enormous global infrastructure that can move value around the world in a matter of minutes.",
+  "links": [
+    {
+      "Website": "https://www.bitcoinsilver.io"
+    }
+  ],
+  "name": "Bitcoin Silver",
+  "symbol": "BTCS"
+}

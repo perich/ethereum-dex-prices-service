@@ -1,0 +1,33 @@
+{
+  "addr": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
+  "decimals": 18,
+  "description": "CargoX aims to disrupt the global logistics industry by introducing Smart B/L documents based on blockchain technology, replacing old-style paper Bill of Lading documents.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2619373"
+    },
+    {
+      "Blog": "https://medium.com/cargoxio"
+    },
+    {
+      "Github": "https://github.com/CargoXio"
+    },
+    {
+      "Reddit": "https://reddit.com/r/cargoxio"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GAKhBQ48675fRRMEd-kLcw"
+    },
+    {
+      "Twitter": "https://twitter.com/cargoxio"
+    },
+    {
+      "Website": "https://cargox.io/"
+    },
+    {
+      "Whitepaper": "https://cargox.io/CargoX-Whitepaper.pdf"
+    }
+  ],
+  "name": "CargoX Token",
+  "symbol": "CXO"
+}

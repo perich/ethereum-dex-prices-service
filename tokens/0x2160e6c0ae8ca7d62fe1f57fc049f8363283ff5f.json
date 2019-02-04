@@ -1,0 +1,12 @@
+{
+  "addr": "0x2160e6c0ae8ca7d62fe1f57fc049f8363283ff5f",
+  "decimals": 18,
+  "description": "Blockpass aims to provide a trustless, decentralized, anti-scalping ticket exchange and marketplace giving ticket issuers complete and utter control over the distribution, pricing, and validity of their tickets.",
+  "links": [
+    {
+      "Website": "https://blockpasscompany.github.io/blockpass-website/"
+    }
+  ],
+  "name": "Blockpass Token",
+  "symbol": "BPT"
+}

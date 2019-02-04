@@ -1,0 +1,39 @@
+{
+  "addr": "0xf7b098298f7c69fc14610bf71d5e02c60792894c",
+  "decimals": 3,
+  "description": "Our vision is to build a platform for matchmakers by allowing anyone to create their own community &lsquo;pool&rsquo; for free and invite their members to their pool. End users of our platform will be able to find connections on the app by joining the pools that best cater to their needs.\nWe are building the first platform for mainstream matchmaking powered by a cryptographic token economy. Tokens (Guppies) can be purchased or sold with real money. Matchpool&rsquo;s trusted algorithm rewards users automatically across the platform.",
+  "links": [
+    {
+      "Blog": "https://medium.com/matchpool"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/guppy/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/matchpoolhq/"
+    },
+    {
+      "Github": "https://github.com/Matchpool/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Matchpool"
+    },
+    {
+      "Slack": "https://matchpool.signup.team/"
+    },
+    {
+      "Telegram": "https://t.me/matchpool"
+    },
+    {
+      "Twitter": "https://twitter.com/matchpool"
+    },
+    {
+      "Website": "https://matchpool.co/"
+    },
+    {
+      "Whitepaper": "https://matchpool.co/wp-content/uploads/2017/04/mp_wp3.pdf"
+    }
+  ],
+  "name": "Guppy",
+  "symbol": "GUP"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0x8b353021189375591723e7384262f45709a3c3dc",
+  "decimals": 18,
+  "description": "We're building an efficient blockchain infrastructure for decentralized applications, token issuance and integration.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2021785.0"
+    },
+    {
+      "Blog": "https://medium.com/tomocoin"
+    },
+    {
+      "Email": "mailto:info@tomocoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/tomocoin"
+    },
+    {
+      "Github": "https://github.com/TOMOCOIN"
+    },
+    {
+      "Telegram": "https://t.me/tomocoin_io"
+    },
+    {
+      "Twitter": "https://twitter.com/TomoCoin_io"
+    },
+    {
+      "Website": "https://tomocoin.io/"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/1EAs7llLOpQx3YH1onvC4Qb107sIiztcm/view"
+    }
+  ],
+  "name": "Tomocoin",
+  "symbol": "TOMO"
+}

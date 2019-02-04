@@ -1,0 +1,15 @@
+{
+  "addr": "0x46eec301d2d00087145d1588282c182bd1890e5c",
+  "decimals": 16,
+  "description": "We are developing a super fast API that makes it easy for developers to add crypto-based payment systems to their apps.",
+  "links": [
+    {
+      "Email": "mailto:info@rspr.io"
+    },
+    {
+      "Website": "https://www.rspr.io/"
+    }
+  ],
+  "name": "Rasper",
+  "symbol": "RSPR"
+}

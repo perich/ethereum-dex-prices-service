@@ -1,0 +1,39 @@
+{
+  "addr": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
+  "decimals": 8,
+  "description": "Humaniq is a simple and secure mobile app, delivering financial inclusion solutions globally.",
+  "links": [
+    {
+      "Blog": "https://blog.humaniq.co/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/humaniq/"
+    },
+    {
+      "Email": "mailto:info@humaniq.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/humaniq.co"
+    },
+    {
+      "Github": "https://github.com/humaniq"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Humaniq/"
+    },
+    {
+      "Slack": "https://humaniq-co.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/Humaniq"
+    },
+    {
+      "Website": "https://humaniq.co/"
+    },
+    {
+      "Whitepaper": "https://humaniq.com/pdf/humaniq_wp_english.pdf"
+    }
+  ],
+  "name": "Humaniq",
+  "symbol": "HMQ"
+}

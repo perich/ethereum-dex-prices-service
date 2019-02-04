@@ -1,0 +1,39 @@
+{
+  "addr": "0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0",
+  "decimals": 6,
+  "description": "CanYa is a peer to peer marketplace of skilled services - where users are instantly connected to service providers.",
+  "links": [
+    {
+      "Blog": "https://blog.canya.com.au/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/canyacoin/"
+    },
+    {
+      "Email": "mailto:support@canya.com.au"
+    },
+    {
+      "Facebook": "https://www.facebook.com/CanYaapp/"
+    },
+    {
+      "Github": "https://github.com/CanYaCoinSale/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/canya-io"
+    },
+    {
+      "Telegram": "https://t.me/canyacoin"
+    },
+    {
+      "Twitter": "https://twitter.com/canya_io"
+    },
+    {
+      "Website": "https://canya.io/"
+    },
+    {
+      "Whitepaper": "https://canya.io/assets/docs/WhitePaper.pdf"
+    }
+  ],
+  "name": "CanYaCoin",
+  "symbol": "CAN"
+}

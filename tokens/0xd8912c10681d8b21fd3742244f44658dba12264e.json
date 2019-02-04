@@ -1,0 +1,30 @@
+{
+  "addr": "0xd8912c10681d8b21fd3742244f44658dba12264e",
+  "decimals": 18,
+  "description": "Plutus is a unique mobile Bitcoin wallet for making in-store purchases at NFC terminals worldwide. Bitcoin is converted to fiat on-the-go, using a true peer-to-peer exchange on the Ethereum network.\nPlutons are digital tokens you earn as a reward for shopping with Plutus. Just like cash back or air miles on a credit card, the more you spend the more you earn. (We&rsquo;re merchant agnostic, so every purchase counts).\nPlutons you earn (or purchase early) will be available to convert on the Plutus exchange network, allowing you to make in-store purchases with zero fees on conversion.",
+  "links": [
+    {
+      "Blog": "https://plutus.it/blog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/pluton/"
+    },
+    {
+      "Email": "mailto:info@plutus.it"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Plutusit/"
+    },
+    {
+      "Twitter": "https://twitter.com/PlutusIT"
+    },
+    {
+      "Website": "https://plutus.it/"
+    },
+    {
+      "Whitepaper": "https://plutus.it/assets/Plutus.it-White-Paper-v1.1.pdf"
+    }
+  ],
+  "name": "Pluton",
+  "symbol": "PLU"
+}

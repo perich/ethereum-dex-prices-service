@@ -1,0 +1,39 @@
+{
+  "addr": "0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4",
+  "decimals": 18,
+  "description": "Farad Cryptoken is the first of its kind among the cryptocurrencies on the market. The main difference of farad Cryptoken is that, it is supported by real economic activity which is the production of Ultra-capacitors within the company.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2075985.0"
+    },
+    {
+      "Email": "mailto:info@virtue.finance"
+    },
+    {
+      "Facebook": "https://www.facebook.com/faradcryptoken/"
+    },
+    {
+      "Github": "https://github.com/VirtueFintech/FaradCryptoken"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/icocrypto/comments/6v1fte/farad_cryptoken_ico_backed_by_real_business/"
+    },
+    {
+      "Slack": "https://faradcryptoken.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Bz_rXUN6T6yNR0AKBLevQw"
+    },
+    {
+      "Twitter": "https://twitter.com/FARADCryptoken"
+    },
+    {
+      "Website": "https://farad.energy/"
+    },
+    {
+      "Whitepaper": "https://s3-ap-southeast-1.amazonaws.com/farad/en/FaradWhitepaper.pdf"
+    }
+  ],
+  "name": "FARAD",
+  "symbol": "FRD"
+}

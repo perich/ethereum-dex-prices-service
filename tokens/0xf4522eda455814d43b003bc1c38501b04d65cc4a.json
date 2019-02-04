@@ -1,0 +1,27 @@
+{
+  "addr": "0xf4522eda455814d43b003bc1c38501b04d65cc4a",
+  "decimals": 18,
+  "description": "",
+  "links": [
+    {
+      "Blog": "https://medium.com/@peter.cornforth/staticoin-a-stable-digital-currency-d52477f378de"
+    },
+    {
+      "Email": "mailto:genkifs@gmail.com"
+    },
+    {
+      "Github": "https://github.com/genkifs/staticoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/genki_paul"
+    },
+    {
+      "Telegram": "http://staticoin.com/whitepaper.pdf"
+    },
+    {
+      "Website": "http://staticoin.com/"
+    }
+  ],
+  "name": "CAD Risk",
+  "symbol": "CAD_R"
+}

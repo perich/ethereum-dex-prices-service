@@ -1,0 +1,42 @@
+{
+  "addr": "0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433",
+  "decimals": 18,
+  "description": "Storm Market creates more earning opportunities for people all around the world by utilizing technology.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2006999.msg21584885#msg21584885"
+    },
+    {
+      "Blog": "https://blog.stormtoken.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/storm/"
+    },
+    {
+      "Email": "mailto:info@stormtoken.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/stormtoken"
+    },
+    {
+      "Github": "https://github.com/StormX-Inc/crowdsale"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/stormtoken/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GHTZGQwsy9mZk0KFEEjGtg"
+    },
+    {
+      "Twitter": "https://twitter.com/Storm_Token"
+    },
+    {
+      "Website": "https://stormtoken.com/"
+    },
+    {
+      "Whitepaper": "https://s3.amazonaws.com/cakecodes/pdf/storm_web/STORM_Token_White_Paper_Market_Research_Network_Development_vFINAL_.pdf"
+    }
+  ],
+  "name": "Storm Token",
+  "symbol": "STORM"
+}

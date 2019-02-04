@@ -1,0 +1,36 @@
+{
+  "addr": "0xc7bba5b765581efb2cdd2679db5bea9ee79b201f",
+  "decimals": 18,
+  "description": "Gems is a human task crowdsourcing protocol based on the Ethereum blockchain. Gems will leverage the blockchain technology to disincentivize malicious actors and reward fair players featuring a staking mechanism to ensure task completion, a trust mechanism to track worker integrity, and a payment system to reduce transaction fees.\nGems token (GEM) will be used as the utility token within the platform.",
+  "links": [
+    {
+      "Blog": "https://blog.gems.org/"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/gems/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/gems-protocol/"
+    },
+    {
+      "Email": "mailto:hello@gems.org"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/GemsProtocol/"
+    },
+    {
+      "Telegram": "https://t.me/gemsorg"
+    },
+    {
+      "Twitter": "https://twitter.com/gems"
+    },
+    {
+      "Website": "https://gems.org"
+    },
+    {
+      "Whitepaper": "https://gems.org/whitepaper.pdf"
+    }
+  ],
+  "name": "Gems Token",
+  "symbol": "GEM"
+}

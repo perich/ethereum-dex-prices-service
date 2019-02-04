@@ -1,0 +1,21 @@
+{
+  "addr": "0x4dfd2a190ece60e12977942c858a70644e4b18dd",
+  "decimals": 2,
+  "description": "The GINNI (GNI) is a token specialising in Mining and FASTcoin ATM technology",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2374429.0"
+    },
+    {
+      "Facebook": "https://www.facebook.com/minersatwork"
+    },
+    {
+      "Twitter": "https://twitter.com/minersatwork"
+    },
+    {
+      "Website": "https://minersatwork.com"
+    }
+  ],
+  "name": "GINNI",
+  "symbol": "GNI"
+}

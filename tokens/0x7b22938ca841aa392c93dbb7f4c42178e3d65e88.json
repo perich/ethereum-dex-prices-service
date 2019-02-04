@@ -1,0 +1,33 @@
+{
+  "addr": "0x7b22938ca841aa392c93dbb7f4c42178e3d65e88",
+  "decimals": 4,
+  "description": "Astronaut is a crypto hedge fund that puts your investing on autopilot. Astronauts primary focus is to gain exposure to ICOs and undervalued altcoins.",
+  "links": [
+    {
+      "Blog": "https://medium.com/astronaut-capital"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/astro/"
+    },
+    {
+      "Email": "mailto:admin@astronaut.capital"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/astronautcapital/"
+    },
+    {
+      "Telegram": "https://t.me/astroico"
+    },
+    {
+      "Twitter": "https://twitter.com/astronautcap"
+    },
+    {
+      "Website": "https://astronaut.capital/"
+    },
+    {
+      "Website": "http://www.astronaut.capital/"
+    }
+  ],
+  "name": "AstroTokens",
+  "symbol": "ASTRO"
+}

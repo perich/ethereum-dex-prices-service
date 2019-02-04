@@ -1,0 +1,33 @@
+{
+  "addr": "0x1db186898bccde66fa64a50e4d81078951a30dbe",
+  "decimals": 18,
+  "description": "Lalena is an open source venture capital club and digital agency based in New York City. We elevate platforms for everyone - online and offline.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2235017"
+    },
+    {
+      "Blog": "https://medium.com/@lalena_co/"
+    },
+    {
+      "Email": "mailto:info@lalena.co"
+    },
+    {
+      "Github": "https://github.com/lalena-co"
+    },
+    {
+      "Slack": "http://slack-invite.lalena.club/"
+    },
+    {
+      "Telegram": "https://t.me/LalenaAnnouncements"
+    },
+    {
+      "Twitter": "https://twitter.com/lalena_co"
+    },
+    {
+      "Website": "https://www.lalena.co/"
+    }
+  ],
+  "name": "Lalena",
+  "symbol": "LLA"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
+  "decimals": 8,
+  "description": "DMarket is a marketplace based on blockchain and smart contracts to enable one-click sale, exchange or evaluation of every virtual item between all games on any platform. DMarket tokens will be the only platform currency supplying item prices for every trade, exchange, fee and smart contract.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2041720.0"
+    },
+    {
+      "Blog": "https://medium.com/@dmarket"
+    },
+    {
+      "Email": "mailto:support@dmarket.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/dmarketcommunity/"
+    },
+    {
+      "Instagram": "https://www.instagram.com/dmarket.io/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/D_Market/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/CV8tCULRq_vJ2Xzu9Iopqg"
+    },
+    {
+      "Twitter": "https://twitter.com/dmarket_io"
+    },
+    {
+      "Website": "https://dmarket.com/"
+    },
+    {
+      "Whitepaper": "https://www.dmarket.io/assets/documents/DMarket_white_paper_EN.pdf"
+    }
+  ],
+  "name": "DMarket Token",
+  "symbol": "DMT"
+}

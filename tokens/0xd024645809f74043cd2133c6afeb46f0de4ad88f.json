@@ -1,0 +1,12 @@
+{
+  "addr": "0xd024645809f74043cd2133c6afeb46f0de4ad88f",
+  "decimals": 18,
+  "description": "Deercoin provides a global network for anyone interested in connecting, creating and contributing both on- and offline. We think that rediscovering human connection without giant intermediaries exploiting every share and like will improve our social lives and create vast opportunities for entrepreneurs, non-profit and crowdfunding.",
+  "links": [
+    {
+      "Website": "http://deertoken.ga/"
+    }
+  ],
+  "name": "deertoken",
+  "symbol": "DEER"
+}

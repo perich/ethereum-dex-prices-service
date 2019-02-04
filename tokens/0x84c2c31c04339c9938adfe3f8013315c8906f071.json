@@ -1,0 +1,13 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "EBCSH",
+  "addr": "0x84c2c31c04339c9938adfe3f8013315c8906f071",
+  "decimals": 18,
+  "description": "eBitcoinCash is a cryptocurrency that was built to improve on the current aspects and features of BitcoinCash (note the subtle difference of the 'e' at the front of the former). It is an ERC20 token that was distributed through an airdrop. A total of &gt;6000 people signed up and joined the airdrop.",
+  "links": [
+    {
+      "Website": "https://www.ebitcoincash.solutions"
+    }
+  ],
+  "name": "eBitcoinCash",
+  "symbol": "eBCSH"
+}

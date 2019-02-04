@@ -1,0 +1,30 @@
+{
+  "addr": "0x02b9806a64cb05f02aa8dcc1c178b88159a61304",
+  "decimals": 18,
+  "description": "We've built the world's most efficient and robust prediction market platform, to aid the global flow of information and open up new possibilities for people around the world to profit from sharing knowledge with one another.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@Delphi_Markets"
+    },
+    {
+      "Email": "mailto:info@delphi.markets"
+    },
+    {
+      "Facebook": "https://www.facebook.com/DelphiMarketsOfficial"
+    },
+    {
+      "Github": "https://github.com/delphi-markets"
+    },
+    {
+      "Twitter": "https://twitter.com/Delphi_Markets"
+    },
+    {
+      "Website": "https://delphi.markets/"
+    },
+    {
+      "Whitepaper": "https://delphi.markets/whitepaper.pdf"
+    }
+  ],
+  "name": "Delphi",
+  "symbol": "DEL"
+}

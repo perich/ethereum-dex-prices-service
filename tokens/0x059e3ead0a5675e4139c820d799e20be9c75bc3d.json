@@ -1,0 +1,27 @@
+{
+  "addr": "0x059e3ead0a5675e4139c820d799e20be9c75bc3d",
+  "decimals": 8,
+  "description": "Litecoin Red (LTCRED) is a tokenized ERC-20 version of Litecoin. The concept was spun off the successful Bitcoin Red (BTCRED) token and looks to give the same community another option that relies upon the same “RED” values and ideas.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2474976.0"
+    },
+    {
+      "Email": "mailto:admin@litecoinred.com"
+    },
+    {
+      "Slack": "https://litecoinred.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/litecoinred"
+    },
+    {
+      "Twitter": "https://twitter.com/litecoinred"
+    },
+    {
+      "Website": "https://litecoinred.com/"
+    }
+  ],
+  "name": "Litecoin Red",
+  "symbol": "LTCRED"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090",
+  "decimals": 18,
+  "description": "CPChain (CPC) is a distributed infrastructure for the Internet of Things (IoT). CPChain seeks to combine IoT, blockchain, and distributed encryption storage and computing, bringing about a new generation of IoT. The CPChain will allow different IoT systems to interact with different industry data (i.e. Big Data analysis).",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/cpchain/"
+    },
+    {
+      "Slack": "https://join.slack.com/t/cpchain/shared_invite/enQtMjk5NDk0Mzg4NDUwLTRmZTJhMWQ0ZjU0YzIzMWFmYjM1YjIyNTE2MWQxMDQ4NTQwMjkxNGViNDA1MGM1NzJlZWE2NjUyNGQ0MDRmYmY"
+    },
+    {
+      "Twitter": "https://twitter.com/cpchain_io"
+    },
+    {
+      "Website": "http://www.cpchain.io"
+    },
+    {
+      "Telegram": "https://t.me/cpchain"
+    },
+    {
+      "Blog": "http://www.cpchain.io/news.html"
+    },
+    {
+      "Whitepaper": "http://www.cpchain.io/CPChain_Whitepaper_English.pdf"
+    },
+    {
+      "Github": "https://github.com/cpchain"
+    }
+  ],
+  "name": "CPChain",
+  "symbol": "CPC"
+}

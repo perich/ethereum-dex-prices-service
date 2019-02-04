@@ -1,0 +1,42 @@
+{
+  "addr": "0x0947b0e6d821378805c9598291385ce7c791a6b2",
+  "decimals": 18,
+  "description": "Lendingblock is a securities lending platform for the cryptoeconomy. Borrow or lend any cryptocurrency. Generate stable and secure returns without sacrificing token ownership and borrow at market rates to support funding, hedging or investing strategies.",
+  "links": [
+    {
+      "Blog": "https://www.lendingblocklibrary.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/lendingblock/"
+    },
+    {
+      "Email": "mailto:info@lendingblock.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/lendingblock"
+    },
+    {
+      "Github": "https://github.com/lendingblock"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/18359515/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Lendingblock/"
+    },
+    {
+      "Telegram": "https://t.me/lendingblock"
+    },
+    {
+      "Twitter": "https://twitter.com/lendingblock"
+    },
+    {
+      "Website": "https://lendingblock.com"
+    },
+    {
+      "Whitepaper": "https://lendingblock.com/#section-whitepaper"
+    }
+  ],
+  "name": "Lendingblock",
+  "symbol": "LND"
+}

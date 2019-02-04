@@ -1,0 +1,39 @@
+{
+  "addr": "0xb4b1d2c217ec0776584ce08d3dd98f90ededa44b",
+  "decimals": 18,
+  "description": "CLIMATECOIN, is a new cryptocurrency created for Climate change action. Its Organization has announced the launch of its &ldquo;CO2&rdquo; Token Sale, that will allow any citizen of the world to participate in the fight against Climate Change.",
+  "links": [
+    {
+      "Blog": "https://climatecoin.io/latest/"
+    },
+    {
+      "Email": "mailto:info@climatecoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/climatecoinofficial/"
+    },
+    {
+      "Github": "https://github.com/climatecoinio/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/CLIMATECOIN/"
+    },
+    {
+      "Slack": "https://climatecoinofficial.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Fy8RMAvg7dTdD0ZhOu1a1w"
+    },
+    {
+      "Twitter": "https://twitter.com/infoclimatecoin"
+    },
+    {
+      "Website": "https://climatecoin.io/"
+    },
+    {
+      "Whitepaper": "https://climatecoin.io/uploads/CLIMATECOIN-WHITEPAPER-1.pdf"
+    }
+  ],
+  "name": "Climatecoin",
+  "symbol": "CO2"
+}

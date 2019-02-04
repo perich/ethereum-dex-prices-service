@@ -1,0 +1,42 @@
+{
+  "addr": "0x44197a4c44d6a059297caf6be4f7e172bd56caaf",
+  "decimals": 8,
+  "description": "ELTCOIN, also known as the Ethereum Limited Total Coin, is an ERC-20 Token on the Ethereum Network. It aims to be the most useful ERC-20 token with a limited total supply. The project is community-driven and open-sourced.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2259761.0"
+    },
+    {
+      "Blog": "https://medium.com/@officialELTCoin"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/eltcoin/"
+    },
+    {
+      "Email": "mailto:eltcoin@gmail.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/eltcoin.community/"
+    },
+    {
+      "Github": "https://github.com/ELTCOIN"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/PHZUccd"
+    },
+    {
+      "Telegram": "https://t.me/ELTCOIN"
+    },
+    {
+      "Twitter": "https://twitter.com/officialELTCOIN"
+    },
+    {
+      "Website": "https://www.eltcoin.tech/"
+    },
+    {
+      "Whitepaper": "https://docs.google.com/document/d/1DIjdWiVWjADiwwgGcp7Trk_Zr_xGiRBxfJizQaI_POY/view"
+    }
+  ],
+  "name": "ELTCOIN",
+  "symbol": "ELTCOIN"
+}

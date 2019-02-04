@@ -1,0 +1,39 @@
+{
+  "addr": "0x27695e09149adc738a978e9a678f99e4c39e9eb9",
+  "decimals": 8,
+  "description": "KICKICO helps innovators, game developers, blockchain leaders, entrepreneurs, designers, and other creators find the resources and support they need to make their ideas a reality. With the help of cryptocurrency, the support of our community &amp; KICKONOMY&rsquo;s power thousands of ideas will come to life.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2046684.0"
+    },
+    {
+      "Blog": "https://medium.com/@kickico"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/kickico/"
+    },
+    {
+      "Email": "mailto:support@kickico.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/kickicoplatform/"
+    },
+    {
+      "Github": "https://github.com/kickico"
+    },
+    {
+      "Telegram": "https://t.me/kickico"
+    },
+    {
+      "Twitter": "https://twitter.com/KICKICOplatform"
+    },
+    {
+      "Website": "https://www.kickico.com/"
+    },
+    {
+      "Whitepaper": "https://www.kickico.com/en/whitepaper"
+    }
+  ],
+  "name": "KickCoin",
+  "symbol": "KICK"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0x94d6b4fb35fb08cb34aa716ab40049ec88002079",
+  "decimals": 8,
+  "description": "Cryptonex is a global, decentralized cryptocurrency of new generation. It is created on its own blockchain platform. The main goal is to give the opportunity to exchange any world's currencies for any cryptocurrencies and tokens, buy goods and services using mobile phones and payment cards. Instantly, with minimum commission.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2087904"
+    },
+    {
+      "Email": "mailto:hello@cryptonex.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Cryptonex.org/"
+    },
+    {
+      "Github": "https://github.com/Cryptonex"
+    },
+    {
+      "Telegram": "https://t.me/cryptonexCNX"
+    },
+    {
+      "Website": "https://cryptonex.org/"
+    },
+    {
+      "Whitepaper": "https://cryptonex.org/pdf/whitepaper.pdf"
+    }
+  ],
+  "name": "Cryptonex (CNX) - Global Blockchain Acquiring",
+  "symbol": "CNX"
+}

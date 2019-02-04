@@ -1,0 +1,48 @@
+{
+  "addr": "0xaa4ab1c817e4df7d25ce4d42352649d592a3bba0",
+  "decimals": 18,
+  "description": "Ankorus is an Ethereum-based financial assets trading platform that allows user to tokenize and trade financial assets like stocks, shares, bonds, ETFs, FX and commodities. ANK is an ERC20 token that serves as a currency on the Ankorus ecosystem.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2276127.msg23083161#msg23083161"
+    },
+    {
+      "Blog": "https://medium.com/@Ankorus"
+    },
+    {
+      "Blog": "https://www.ankorus.org/blog/"
+    },
+    {
+      "Email": "mailto:shawn@ankorus.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Ankorus"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/Ankorus"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/AnkorusGlobal"
+    },
+    {
+      "Telegram": "https://www.t.me/AnkorusChat"
+    },
+    {
+      "Telegram": "https://t.me/AnkorusChat"
+    },
+    {
+      "Twitter": "https://twitter.com/AnkorusGlobal"
+    },
+    {
+      "Twitter": "https://www.twitter.com/AnkorusGlobal"
+    },
+    {
+      "Website": "https://www.ankorus.org/"
+    },
+    {
+      "Whitepaper": "https://www.ankorus.org/#whitepaper"
+    }
+  ],
+  "name": "AnkorusToken",
+  "symbol": "ANK"
+}

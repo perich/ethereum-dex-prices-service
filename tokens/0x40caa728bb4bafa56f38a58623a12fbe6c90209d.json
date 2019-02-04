@@ -1,0 +1,24 @@
+{
+  "addr": "0x40caa728bb4bafa56f38a58623a12fbe6c90209d",
+  "decimals": 0,
+  "description": "The EUCoin will raise funds to make investments in ecological and humanitarian projects in the EU and its influence area. All projects where the institutions fail to deliver. Let's create a better world together, without political or economical motives, but with humanitarian and ecological purposes.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2768309.0"
+    },
+    {
+      "Email": "mailto:eu-coin@eu-coin.net"
+    },
+    {
+      "Facebook": "https://www.facebook.com/eu.coin.9"
+    },
+    {
+      "Twitter": "https://twitter.com/eucoin1"
+    },
+    {
+      "Website": "https://eu-coin.net"
+    }
+  ],
+  "name": "EU coin",
+  "symbol": "EC"
+}

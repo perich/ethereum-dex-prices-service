@@ -1,0 +1,36 @@
+{
+  "addr": "0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+  "decimals": 0,
+  "description": "Ethereum gold",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2263898.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ethereum-gold/"
+    },
+    {
+      "Email": "mailto:dev@ethereumgold.info"
+    },
+    {
+      "Github": "https://gist.github.com/ETGs/b44d58284be31e1a83e1490dce1ea07e"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GzPNJhCuW5Lw862j_qJy3g"
+    },
+    {
+      "Twitter": "https://twitter.com/ethereumgoldetg"
+    },
+    {
+      "Website": "https://ethereumgold.info/"
+    },
+    {
+      "Website": "http://ethereumgold.info"
+    },
+    {
+      "Whitepaper": "https://ethereumgold.info/wp/wp-content/uploads/2017/10/Golden-PaPer-ETG.pdf"
+    }
+  ],
+  "name": "Ethereum Gold",
+  "symbol": "ETG"
+}

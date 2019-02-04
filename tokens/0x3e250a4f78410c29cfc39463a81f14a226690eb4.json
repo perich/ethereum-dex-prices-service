@@ -1,0 +1,39 @@
+{
+  "addr": "0x3e250a4f78410c29cfc39463a81f14a226690eb4",
+  "decimals": 8,
+  "description": "DEMOCRATIZING VENTURE CAPITALISM",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1928628"
+    },
+    {
+      "Email": "mailto:info@dcorp.it"
+    },
+    {
+      "Facebook": "https://www.facebook.com/DecentralizedCorporation"
+    },
+    {
+      "Github": "https://github.com/frankbonnet/DCORP"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/dcorp/"
+    },
+    {
+      "Slack": "https://dcorphq.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/ErLl70MDUkz_ip7HsxXjGA"
+    },
+    {
+      "Twitter": "https://twitter.com/DcorpVC"
+    },
+    {
+      "Website": "https://www.dcorp.it/"
+    },
+    {
+      "Whitepaper": "https://github.com/frankbonnet/DCORP-Whitepaper/blob/master/whitepaper%20v0.3.2_EN-revised.pdf"
+    }
+  ],
+  "name": "DRP Security",
+  "symbol": "DRPS"
+}

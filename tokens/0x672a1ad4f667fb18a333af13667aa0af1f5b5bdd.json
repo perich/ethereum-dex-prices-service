@@ -1,0 +1,42 @@
+{
+  "addr": "0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd",
+  "decimals": 18,
+  "description": "A distributed reputation protocol built on the Ethereum blockchain. This is the future of trust.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2374729.0"
+    },
+    {
+      "Blog": "https://medium.com/@verify.as"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/verify/"
+    },
+    {
+      "Email": "mailto:team@verify.as"
+    },
+    {
+      "Facebook": "https://www.facebook.com/verifyas"
+    },
+    {
+      "Github": "https://github.com/verifyas/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/verifyas/"
+    },
+    {
+      "Telegram": "https://t.me/verifyas"
+    },
+    {
+      "Twitter": "https://twitter.com/verif_yas"
+    },
+    {
+      "Website": "https://verify.as/"
+    },
+    {
+      "Whitepaper": "https://verify.as/files/whitepaper.pdf"
+    }
+  ],
+  "name": "Verify Token",
+  "symbol": "CRED"
+}

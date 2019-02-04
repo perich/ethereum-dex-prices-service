@@ -1,0 +1,42 @@
+{
+  "addr": "0x226bb599a12c826476e3a771454697ea52e9e220",
+  "decimals": 8,
+  "description": "Make it easy to build wealth through real estate investment",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1982115"
+    },
+    {
+      "Blog": "https://medium.com/@propy"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/propy/"
+    },
+    {
+      "Email": "mailto:ico@propy.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/propyinc"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/PropyInc/"
+    },
+    {
+      "Slack": "https://propy.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/propy"
+    },
+    {
+      "Twitter": "https://twitter.com/propyinc"
+    },
+    {
+      "Website": "https://propy.com/"
+    },
+    {
+      "Whitepaper": "https://tokensale.propy.com/Propy-White-Paper-17-Jul-2017.pdf"
+    }
+  ],
+  "name": "Propy",
+  "symbol": "PRO"
+}

@@ -1,0 +1,21 @@
+{
+  "addr": "0xfbd0d1c77b501796a35d86cf91d65d9778eee695",
+  "decimals": 3,
+  "description": "Rainbow Currency Foundation is a Non-Profit Corporation, registered in Nevada, USA. It has been built to make global and local payment processes safer, cheaper, and easier.",
+  "links": [
+    {
+      "Website": "https://www.rainbowcurrency.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/RainbowCurrency"
+    },
+    {
+      "Facebook": "https://www.facebook.com/RainbowCurrency/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2735483"
+    }
+  ],
+  "name": "Twinkle",
+  "symbol": "TWNKL"
+}

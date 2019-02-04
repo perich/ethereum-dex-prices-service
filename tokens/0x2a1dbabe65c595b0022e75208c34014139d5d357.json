@@ -1,0 +1,33 @@
+{
+  "addr": "0x2a1dbabe65c595b0022e75208c34014139d5d357",
+  "decimals": 18,
+  "description": "A patient and doctor-centric health ecosystem in specialised medicine engineered on blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2822113.0"
+    },
+    {
+      "Blog": "https://medium.com/trustedhealth-io"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/trustedhealth-io/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/TrustedHealth/"
+    },
+    {
+      "Telegram": "https://t.me/TrustedHealth_io"
+    },
+    {
+      "Twitter": "https://twitter.com/_trustedhealth"
+    },
+    {
+      "Website": "https://trustedhealth.io"
+    },
+    {
+      "Whitepaper": "https://trustedhealth.io/pdfs/TDH_Whitepaper-356fb72a38354758e700effc758df39a.pdf?vsn=d"
+    }
+  ],
+  "name": "Trustedhealth",
+  "symbol": "TDH"
+}

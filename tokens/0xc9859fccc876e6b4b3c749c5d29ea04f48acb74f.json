@@ -1,0 +1,33 @@
+{
+  "addr": "0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f",
+  "decimals": 0,
+  "description": "Ino Coin – the global platform for funding and provision of know-how to young blockchain projects. The currency backed by a mix of people with perfect technical and commercial skills. People, who will share advice and provide constant direction for young teams in addition to providing funds. A unique decentralized system for joint decision making between the lead team, project representatives and all investors and owners of the currency. Sharing of knowledge, ideas and shares through InoCoin.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3160994"
+    },
+    {
+      "Email": "mailto:info@inocoin.eu"
+    },
+    {
+      "Facebook": "https://www.facebook.com/InoCoin-352618868548773"
+    },
+    {
+      "Github": "https://github.com/InoCoin"
+    },
+    {
+      "Telegram": "https://t.me/IniCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/InoCoin2018"
+    },
+    {
+      "Website": "https://inocoin.eu/"
+    },
+    {
+      "Whitepaper": "https://inocoin.eu/wp.pdf"
+    }
+  ],
+  "name": "Ino Coin",
+  "symbol": "INO"
+}

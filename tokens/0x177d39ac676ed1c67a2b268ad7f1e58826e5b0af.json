@@ -1,0 +1,30 @@
+{
+  "addr": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+  "decimals": 18,
+  "description": "CoinDash is an operating system for crypto assets. Our goal is to lower the barriers of entry to crypto investment markets by providing tools and services that make interacting, handling and trading crypto assets accessible to everyone. CoinDash will offer its products through a unified platform designed with the mainstream user in mind.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/coindash/"
+    },
+    {
+      "Email": "mailto:contact@coindash.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/coindash.io/"
+    },
+    {
+      "Slack": "https://coindasher-slack.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/coindashio"
+    },
+    {
+      "Website": "https://coindash.io/"
+    },
+    {
+      "Whitepaper": "https://www.coindash.io/coindash-whitepaper.pdf"
+    }
+  ],
+  "name": "CoinDash Token",
+  "symbol": "CDT"
+}

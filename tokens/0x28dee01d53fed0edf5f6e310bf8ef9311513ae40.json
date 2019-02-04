@@ -1,0 +1,36 @@
+{
+  "addr": "0x28dee01d53fed0edf5f6e310bf8ef9311513ae40",
+  "decimals": 18,
+  "description": "BlitzPredict is a global platform under development applying fintech solutions to provide function and liquidity to users of blockchain prediction markets and sportsbooks. BlitzPredict aims to bring the power of blockchain technology to the mass consumer via streamlined products.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2557256"
+    },
+    {
+      "Blog": "https://medium.com/@blitzpredict1"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/blitzpredict/"
+    },
+    {
+      "Github": "https://github.com/blitzpredict"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BlitzPredict/"
+    },
+    {
+      "Telegram": "https://t.me/BlitzPredict"
+    },
+    {
+      "Twitter": "https://twitter.com/blitzpredict"
+    },
+    {
+      "Website": "https://www.blitzpredict.io"
+    },
+    {
+      "Whitepaper": "https://www.blitzpredict.io/static/media/BlitzPredictWhitepaper-en.86ddf3e9.pdf"
+    }
+  ],
+  "name": "BlitzPredict",
+  "symbol": "XBP"
+}

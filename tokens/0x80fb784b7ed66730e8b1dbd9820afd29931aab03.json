@@ -1,0 +1,48 @@
+{
+  "addr": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
+  "decimals": 18,
+  "description": "Fully decentralized peer to peer lending on the Ethereum Blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2090735.0"
+    },
+    {
+      "Blog": "https://medium.com/@ethlend1"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ethlend/"
+    },
+    {
+      "Email": "mailto:hi@ethlend.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ETHLend/"
+    },
+    {
+      "Github": "https://github.com/ETHLend"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ETHLend/"
+    },
+    {
+      "Slack": "https://join.slack.com/t/ethlend/shared_invite/enQtMjM3NzI4NTAzMjAzLTg0ZjIxOTVlZTE0MzkwYTI5Njc1NGIyOTMxMWExZTY4ZmViNzQzYjJjNTY2ZWIzMThhNjMwOTBmNGNhZjJjMWM"
+    },
+    {
+      "Telegram": "https://t.me/ETHLend"
+    },
+    {
+      "Twitter": "https://twitter.com/ethlend1"
+    },
+    {
+      "Website": "https://ethlend.io/"
+    },
+    {
+      "Website": "https://ethlend.io/en/"
+    },
+    {
+      "Whitepaper": "https://github.com/ETHLend/Documentation/blob/master/ETHLendWhitePaper.md"
+    }
+  ],
+  "name": "EthLendToken",
+  "symbol": "LEND"
+}

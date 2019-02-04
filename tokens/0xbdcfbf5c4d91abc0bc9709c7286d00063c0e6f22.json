@@ -1,0 +1,30 @@
+{
+  "addr": "0xbdcfbf5c4d91abc0bc9709c7286d00063c0e6f22",
+  "decimals": 2,
+  "description": "Peerguess is a free, one-stop-shop cryptocurrency price ticker application where the users will also guess future prices to earn gems, learn about community tendencies and have access to the sophisticated data to improve your intuition. With collaboration at the heart of the system, peerguess will provide “market sentiment” data to both its users and business partners.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2199333.0"
+    },
+    {
+      "Blog": "https://medium.com/@peerguess"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/guess/"
+    },
+    {
+      "Email": "mailto:info@peerguess.com"
+    },
+    {
+      "Telegram": "https://t.me/peerguess"
+    },
+    {
+      "Twitter": "https://twitter.com/peerguess"
+    },
+    {
+      "Website": "https://peerguess.com/"
+    }
+  ],
+  "name": "GUESS",
+  "symbol": "GUESS"
+}

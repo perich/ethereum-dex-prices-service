@@ -1,0 +1,33 @@
+{
+  "addr": "0x7747aeb32d89e527e5ebbf646871ca79805989ad",
+  "decimals": 8,
+  "description": "LitecoinCash was built to help increase the adoption of cryptocurrency amongst average people. It was made to help increase the day-to-day transactions made with cryptocurrencies and help bring cryptocurrency into the mainstream, capitalist free market. LitecoinCash has the goal of becoming one of the top three cryptocurrencies that can be used for the sole purpose of being a reliable, trustless and fair medium of exchange. LitecoinCash wants to make everything fair and evenly distributed. It is this honest ethos and simple goal that will enable LitecoinCash to last for the longterm and be successfully sustained by the community.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2325408.0"
+    },
+    {
+      "Email": "mailto:support@litecoincash.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/LitecoinCash-125837611439492/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/LitecoinCash-125837611439492"
+    },
+    {
+      "Github": "https://github.com/LeeAmni/ltccash"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/C_riohF3hiUga5m5R2PX5w"
+    },
+    {
+      "Twitter": "https://twitter.com/litecoin_cash"
+    },
+    {
+      "Website": "https://litecoincash.io/"
+    }
+  ],
+  "name": "LitecoinCash",
+  "symbol": "LCASH"
+}

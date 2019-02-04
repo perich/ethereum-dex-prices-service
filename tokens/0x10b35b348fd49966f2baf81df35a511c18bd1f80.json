@@ -1,0 +1,39 @@
+{
+  "addr": "0x10b35b348fd49966f2baf81df35a511c18bd1f80",
+  "decimals": 7,
+  "description": "Denaro seamless payment ecosystem bridges the divide between cryptocurrencies and the mainstream market. The platform enables companies and individuals to send, spend, store, and exchange cryptos and fiat through secure web wallets, physical debit cards, merchant payment terminals, and IBAN.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2833302.0"
+    },
+    {
+      "Email": "mailto:support@denaro.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/DenaroIO/"
+    },
+    {
+      "Slack": "https://denaro.slack.com/"
+    },
+    {
+      "Slack": "https://join.slack.com/t/denaro/shared_invite/enQtMzA1NzIxNzI4Mjk0LWJiNTNjMTRiNGNhMzJhOWM5MWY5YzkwOWI0ZDg2N2U3ZDU2MTg1ODNiYjRmMDNjNGRiMjNiMzQ5MTdlNWY1MmI"
+    },
+    {
+      "Telegram": "https://t.me/denaroIO"
+    },
+    {
+      "Twitter": "https://twitter.com/denaro_io"
+    },
+    {
+      "Website": "https://denaro.io/"
+    },
+    {
+      "Whitepaper": "https://denaro.io/docs/Denaro_Whitepaper.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=nqfsrqElYxo"
+    }
+  ],
+  "name": "Denaro",
+  "symbol": "DNO"
+}

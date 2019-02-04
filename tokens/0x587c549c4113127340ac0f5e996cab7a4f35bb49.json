@@ -1,0 +1,36 @@
+{
+  "addr": "0x587c549c4113127340ac0f5e996cab7a4f35bb49",
+  "decimals": 8,
+  "description": "SocialX is a decentralized social media platform allowing users to distribute content seamlessly and to get paid for their contribution to the network. Photos and videos app that will store your files in the decentralized network securely in a single platform. Built-in license management allows you to decide if you want to keep your photos private or if you want to sell photo rights to others in exchange for SOCX tokens. SocialX is a community-driven project developed with the user’s best interest at heart.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2062117.0"
+    },
+    {
+      "Blog": "https://medium.com/@socialx/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/socialxnet/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/socialx/"
+    },
+    {
+      "Slack": "https://socialxnet.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/socialx"
+    },
+    {
+      "Twitter": "https://twitter.com/SocialXnet"
+    },
+    {
+      "Website": "https://socialx.network/"
+    },
+    {
+      "Whitepaper": "https://socialx.network/whitepaper/"
+    }
+  ],
+  "name": "SocialX",
+  "symbol": "SOCX"
+}

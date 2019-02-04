@@ -1,0 +1,30 @@
+{
+  "addr": "0x342ba159f988f24f0b033f3cc5232377ee500543",
+  "decimals": 18,
+  "description": "RoboAdvisorCoin is the first Robo Advisor for cryptocurrency forecasts. We offer iIntelligent, fast, and neutral forecasts about cryptos and tokens secured in the blockchain by our AI engine. RAC will enable futures contracts on crypto currencies.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2312676.msg23469867#msg23469867"
+    },
+    {
+      "Blog": "https://roboadvisorcoin.com/diary/"
+    },
+    {
+      "Email": "mailto:info@roboadvisorcoin.com"
+    },
+    {
+      "Telegram": "https://t.me/roboadvisorcoin"
+    },
+    {
+      "Twitter": "https://twitter.com/roboadvisorcoin"
+    },
+    {
+      "Website": "https://roboadvisorcoin.com/"
+    },
+    {
+      "Whitepaper": "https://roboadvisorcoin.com/RAC-Whitepaper.pdf"
+    }
+  ],
+  "name": "RoboAdvisorCoin",
+  "symbol": "RAC"
+}

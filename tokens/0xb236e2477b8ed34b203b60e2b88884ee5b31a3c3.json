@@ -1,0 +1,36 @@
+{
+  "addr": "0xb236e2477b8ed34b203b60e2b88884ee5b31a3c3",
+  "decimals": 8,
+  "description": "VerifyUnion is a decentralized Digital Identification and Trust Verification platform. VerifyUnion provides total ownership of the data being shared through the network to the customer/end user, protecting user privacy and securing their identity.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@VerifyUnion"
+    },
+    {
+      "Facebook": "https://www.facebook.com/VerifyUnion/"
+    },
+    {
+      "Github": "https://github.com/ImperialDigitalNZ/uccoin"
+    },
+    {
+      "Instagram": "https://www.instagram.com/verifyunion/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/18227279/"
+    },
+    {
+      "Telegram": "https://t.me/verifyunionofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/VUnioninfo"
+    },
+    {
+      "Website": "https://www.verifyunion.io/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=3hEvc8qTH3M"
+    }
+  ],
+  "name": "UC Coin",
+  "symbol": "UCN"
+}

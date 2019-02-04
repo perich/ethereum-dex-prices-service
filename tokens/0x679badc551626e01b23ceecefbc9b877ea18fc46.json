@@ -1,0 +1,36 @@
+{
+  "addr": "0x679badc551626e01b23ceecefbc9b877ea18fc46",
+  "decimals": 18,
+  "description": "Ccore is a Crypto Payment Platform that allows people who have cryptocoins / altcoins to spend them on various fiat based online services and stores without losing value on the exchange. And the owners of online-stores will be able to accept cryptocurrency for payment, while not losing part of their profit due to variation of cryptocurrency rate.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2100088"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ccore/"
+    },
+    {
+      "Email": "mailto:info@ccore.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ccore.io"
+    },
+    {
+      "Telegram": "https://t.me/ccore_io"
+    },
+    {
+      "Twitter": "https://twitter.com/ccore_io"
+    },
+    {
+      "Website": "https://ccore.azureedge.net"
+    },
+    {
+      "Website": "http://ccore.io/"
+    },
+    {
+      "Whitepaper": "http://ccore.io/EN-whitepaper.pdf"
+    }
+  ],
+  "name": "Ccore Token",
+  "symbol": "CCO"
+}

@@ -1,0 +1,24 @@
+{
+  "addr": "0x55c2a0c171d920843560594de3d6eecc09efc098",
+  "decimals": 4,
+  "description": "Prime-Ex Perpetual (PEX) is a blockchain based cryptocurrency project which provides all round real estate solutions at a single place. From sight seeing the property to the registration of it, the primes-ex got you covered. Well, they offer all kinds of services connected to real estate like purchasing of property, building of property, maintenance and even financing the property.\nThe ecosystem revolves around PEX tokens. Blockchain technology is used to maintain document authenticity throughout the real estate process, and to authorize transactions. Token holders are eligible to receive 80% of Prime-Ex’s profits, while also getting a discount on any mortgage payments paid using PEX tokens.\nPrime-Ex Perpetual brings real estate profits to you, 80% profit return to our PEX-Token holders perpetually. We build, sell and finance houses. Customers will pay their mortgage payments in PEX-Tokens.",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/PEXTokens"
+    },
+    {
+      "Telegram": "https://t.me/PEXTokens"
+    },
+    {
+      "Twitter": "https://twitter.com/PEXTokens"
+    },
+    {
+      "Website": "https://prime-ex.com"
+    },
+    {
+      "Whitepaper": "https://prime-ex.com/wp-content/uploads/2017/12/Prime-Ex-Whitepaper.pdf"
+    }
+  ],
+  "name": "PEX-Token",
+  "symbol": "PEXT"
+}

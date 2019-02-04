@@ -1,0 +1,24 @@
+{
+  "addr": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+  "decimals": 8,
+  "description": "transfer assets from atomic world to byteworld",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bytom/"
+    },
+    {
+      "Email": "mailto:contact@bytom.io"
+    },
+    {
+      "Github": "https://github.com/bytom"
+    },
+    {
+      "Twitter": "https://twitter.com/Bytom_Official"
+    },
+    {
+      "Website": "https://bytom.io/"
+    }
+  ],
+  "name": "Bytom",
+  "symbol": "BTM"
+}

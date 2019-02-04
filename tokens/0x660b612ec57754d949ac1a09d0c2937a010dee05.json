@@ -1,0 +1,39 @@
+{
+  "addr": "0x660b612ec57754d949ac1a09d0c2937a010dee05",
+  "decimals": 6,
+  "description": "BitCAD &ndash; is a multipurpose smart platform based on the Ethereum blockchain. BitCAD users create reliable, trustworthy relationships between counterparties, thereby levelling out distrust, unreliability and unpredictability of business partners.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1853784.0"
+    },
+    {
+      "Blog": "http://blog.bitcad.io/"
+    },
+    {
+      "Email": "mailto:info@bitcad.me"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bitcadplatform"
+    },
+    {
+      "Github": "https://github.com/BitCADplatform"
+    },
+    {
+      "Slack": "https://bitcad.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/bitcad"
+    },
+    {
+      "Twitter": "https://twitter.com/bitcadplatform"
+    },
+    {
+      "Website": "http://bitcad.io/"
+    },
+    {
+      "Whitepaper": "http://bitcad.io/BitCAD.pdf"
+    }
+  ],
+  "name": "BitCAD",
+  "symbol": "BCD"
+}

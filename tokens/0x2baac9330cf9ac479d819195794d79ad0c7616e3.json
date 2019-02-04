@@ -1,0 +1,45 @@
+{
+  "addr": "0x2baac9330cf9ac479d819195794d79ad0c7616e3",
+  "decimals": 18,
+  "description": "Adbank is an online ad platform built on Ethereum to remove costly middlemen & dramatically reduce the $50 billion problem of ad fraud using advanced AI technology. By using the Adbank platform, publishers can get paid more for their content while charging advertisers less and creating a transparent ecosystem that benefits all key stakeholders in the industry. Existing ad platforms will be able to access cutting edge anti-fraud AI tools through Adbank’s API and powered with ADB tokens. The project is led by a team with Fortune 500 experience working with companies such as Exxon Mobil, NASA, Revlon, L’Oreal, Tesla Motors, the FBI and General Motors.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2408335.0"
+    },
+    {
+      "Blog": "https://medium.com/adbank-blog"
+    },
+    {
+      "Email": "mailto:jon@adbank.network"
+    },
+    {
+      "Facebook": "https://www.facebook.com/adbanknetwork"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/11287631"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/adbank/"
+    },
+    {
+      "Telegram": "https://t.me/adbanknetwork"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GPdeT0mPAe7bz36x-FSQ1w"
+    },
+    {
+      "Twitter": "https://twitter.com/adbanknetwork"
+    },
+    {
+      "Website": "https://adbank.network/"
+    },
+    {
+      "Whitepaper": "https://www.adbank.network/Whitepaper_AdBank2017.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCsZg2dWT9Y1qwCUNs9MEuhA"
+    }
+  ],
+  "name": "AdBank",
+  "symbol": "ADB"
+}

@@ -1,0 +1,30 @@
+{
+  "addr": "0x153e140548c6bfca761b6a4a45730bd1401c74d2",
+  "decimals": 18,
+  "description": "TIPbot is a real world payment gateway for just about anything you can think of. Through a series of apps and bots, users will have the freedom to tip, bet, pay for services, food, deliveries and much more.\nTIP is a utility token which will be utilised by the TIPbot application to carry out transactions. Not only can you make payments, you will be able to mint new tokens simply by holding through our Proof Of Stake platform which currently exists on the Ethereum network.",
+  "links": [
+    {
+      "Bitcointalk": "https://www.bitcointalk.org/index.php?topic=2838012"
+    },
+    {
+      "Blog": "https://medium.com/@officialtipbot"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/OfficialTIPbot/"
+    },
+    {
+      "Telegram": "https://t.me/officialtipbot"
+    },
+    {
+      "Twitter": "https://www.twitter.com/OfficialTIPbot"
+    },
+    {
+      "Website": "https://www.tipbot.io"
+    },
+    {
+      "Whitepaper": "https://www.tipbot.io/index.php/whitepaper"
+    }
+  ],
+  "name": "TIPbot",
+  "symbol": "TIP"
+}

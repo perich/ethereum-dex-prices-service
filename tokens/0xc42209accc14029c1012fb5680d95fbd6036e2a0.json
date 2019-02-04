@@ -1,0 +1,42 @@
+{
+  "addr": "0xc42209accc14029c1012fb5680d95fbd6036e2a0",
+  "decimals": 18,
+  "description": "PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world&rsquo;s first risk score algorithm based on decentralized accounting.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2061671"
+    },
+    {
+      "Blog": "https://blog.paypie.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/paypie/"
+    },
+    {
+      "Email": "mailto:help@paypie.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/PayPiePlatform"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/PayPie/"
+    },
+    {
+      "Telegram": "https://t.me/PayPieTokens"
+    },
+    {
+      "Twitter": "https://twitter.com/PayPiePlatform"
+    },
+    {
+      "Website": "https://www.paypie.com/"
+    },
+    {
+      "Website": "https://www.paypie.com"
+    },
+    {
+      "Whitepaper": "https://www.paypie.com/Content/files/PayPie-Whitepaper-English.pdf"
+    }
+  ],
+  "name": "PayPie",
+  "symbol": "PPP"
+}

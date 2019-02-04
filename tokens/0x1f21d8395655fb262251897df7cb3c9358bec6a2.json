@@ -1,0 +1,24 @@
+{
+  "addr": "0x1f21d8395655fb262251897df7cb3c9358bec6a2",
+  "decimals": 8,
+  "description": "IRONCOIN is the token of the Iron Bank of Braavos. It's arguably the most powerful financial institution in the Known World.",
+  "links": [
+    {
+      "Website": "http://ironcoin.ga"
+    },
+    {
+      "Github": "https://github.com/IRONBANKOFBRAAVOS/IronCoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/MYIRONCOIN/"
+    },
+    {
+      "Twitter": "https://twitter.com/myironcoin/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2858369.msg29339396"
+    }
+  ],
+  "name": "IRONCOIN",
+  "symbol": "IRC"
+}

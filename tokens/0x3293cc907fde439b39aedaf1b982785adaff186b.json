@@ -1,0 +1,33 @@
+{
+  "addr": "0x3293cc907fde439b39aedaf1b982785adaff186b",
+  "decimals": 10,
+  "description": "TRIA Token (TRIA) is a profit share token that pays out 50% of the profit made by the Company Triaconta. Triaconta will be making profit by trading its own coin: CombiCoin against the assets backing it. In the future Triaconta will release more CombiCoin like coins and the addtional profit goes to TRIA token holders as well.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2116296.0"
+    },
+    {
+      "Email": "mailto:info@triaconta.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Triaconta/"
+    },
+    {
+      "Github": "https://github.com/nevixa/triatoken_combicoin"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GJvc6AyQQtKKkjzjq-cbZw"
+    },
+    {
+      "Twitter": "https://twitter.com/triacontacc"
+    },
+    {
+      "Website": "https://triaconta.com/"
+    },
+    {
+      "Whitepaper": "https://triaconta.com/CombiCoin_Whitepaper.pdf"
+    }
+  ],
+  "name": "TriaToken",
+  "symbol": "TRIA"
+}

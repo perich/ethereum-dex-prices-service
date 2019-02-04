@@ -1,0 +1,15 @@
+{
+  "addr": "0x569cbdcc684edcc589939cc8f6b96e6abd9eb0f3",
+  "decimals": 6,
+  "description": "Ignite tokens will be used to issue ERC223 tokens from the front end of our website. Some individuals and companies who are desirous of issuing their own tokens have run into difficulty and our service aims to ease their troubles.",
+  "links": [
+    {
+      "Website": "http://ignitetoken.com/"
+    },
+    {
+      "Whitepaper": "http://ignitetoken.com/docs/iGnite-Whitepaper.pdf"
+    }
+  ],
+  "name": "iGnite",
+  "symbol": "IGN"
+}

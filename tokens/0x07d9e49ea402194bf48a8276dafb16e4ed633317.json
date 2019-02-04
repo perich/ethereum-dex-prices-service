@@ -1,0 +1,30 @@
+{
+  "addr": "0x07d9e49ea402194bf48a8276dafb16e4ed633317",
+  "decimals": 8,
+  "description": "A crypto token that powers dalemat ecosystem. This is a community that hopes to teach  and educate  as many as possible on how  crypto currency trading and investing can be used to improve their finances.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2057829.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/dalecoin/"
+    },
+    {
+      "Email": "mailto:support@dalecoin.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/dalecoin/"
+    },
+    {
+      "Telegram": "https://t.me/dalecoin"
+    },
+    {
+      "Twitter": "https://twitter.com/DalecoinN"
+    },
+    {
+      "Website": "http://www.dalecoin.org/"
+    }
+  ],
+  "name": "DALECOIN",
+  "symbol": "DALC"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0xe8c5e942b76099c0c6d78271bad3ca002fa7c531",
+  "decimals": 0,
+  "description": "We are Help Project, a non-profit charity organziation that wants to form a community of people capable to help those in need. We redirect our mission to fight against homelessness.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2392492.msg24445265#msg24445265"
+    },
+    {
+      "Blog": "https://www.helpproject.info/category/blog/"
+    },
+    {
+      "Email": "mailto:contact@helpproject.info"
+    },
+    {
+      "Facebook": "https://www.facebook.com/HelpProject5/"
+    },
+    {
+      "Telegram": "https://t.me/help_project"
+    },
+    {
+      "Twitter": "https://twitter.com/HelpProject5"
+    },
+    {
+      "Website": "https://www.helpproject.info/"
+    },
+    {
+      "Whitepaper": "https://www.helpproject.info/whitepaper/"
+    }
+  ],
+  "name": "HELP",
+  "symbol": "HELP"
+}

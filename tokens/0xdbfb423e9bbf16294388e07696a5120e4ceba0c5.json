@@ -1,0 +1,30 @@
+{
+  "addr": "0xdbfb423e9bbf16294388e07696a5120e4ceba0c5",
+  "decimals": 18,
+  "description": "Ethereum Dark is a great token, which was previously a coin, and is now swapped into an ERC20 Token. Ethereum Dark has one of the best communities in the crypto space, if you take a look at the ETHD bitcointalk thread, you will see that ETHD already has almost 300,000 views, and that too, within 2 months. ETHD has already done a volume of over 1.5 Million USD, multiple times and we are planning to add very valuable features onto this token.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2106405.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ethereum-dark/"
+    },
+    {
+      "Email": "mailto:support@ethereumdark.net"
+    },
+    {
+      "Github": "https://github.com/abi2018/wz37da"
+    },
+    {
+      "Twitter": "https://twitter.com/ethereum_dark"
+    },
+    {
+      "Website": "https://www.ethereumdark.net/"
+    },
+    {
+      "Website": "https://www.ethereumdark.net"
+    }
+  ],
+  "name": "Ethereum Dark",
+  "symbol": "ETHD"
+}

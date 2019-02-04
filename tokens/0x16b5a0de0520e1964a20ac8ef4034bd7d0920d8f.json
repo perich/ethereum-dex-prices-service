@@ -1,0 +1,34 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "TIOTOUR",
+  "addr": "0x16b5a0de0520e1964a20ac8ef4034bd7d0920d8f",
+  "decimals": 18,
+  "description": "Tio Token is meant to be used to pay for services on the Tio Tour Guides Platform and the entire Tio Network Group. The Tio Tour Guides Platform is a social platform for tourist, tour guides and tour operators to interconnect and find or create personalized tours, book flights, hotels, trains etc. Tio Network Group includes Tio Hotels, Tio Tour Digital Magazine and TV, Tio Travel Tech Products and Tio Guides Entertainment.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2053587.0"
+    },
+    {
+      "Email": "mailto:contact@tiotourguides.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/tiotourguides/"
+    },
+    {
+      "Github": "https://github.com/tios123/Tio"
+    },
+    {
+      "Twitter": "https://twitter.com/TioTourGuides"
+    },
+    {
+      "Website": "https://tiotourguides.com/"
+    },
+    {
+      "Website": "https://tokens.tiotourguides.com"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/0B95wMxL58TWsTVZlM0ZkbXF5SVE/view"
+    }
+  ],
+  "name": "Tio",
+  "symbol": "TIO"
+}

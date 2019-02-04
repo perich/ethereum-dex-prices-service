@@ -1,0 +1,12 @@
+{
+  "addr": "0xf152fca41bd23ff250292af391236db35e0e99c3",
+  "decimals": 8,
+  "description": "Standardized Ethereum on the Ethereum Blockchain",
+  "links": [
+    {
+      "Website": "http://eeth.work"
+    }
+  ],
+  "name": "eEthereum",
+  "symbol": "EETH"
+}

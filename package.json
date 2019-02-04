@@ -13,7 +13,8 @@
     "debug:cli": "node --inspect-brk entrypoints/cli.js",
     "debug:server": "node --inspect-brk entrypoints/server.js",
     "serve:express": "node entrypoints/server.js",
-    "serve:serverless": "serverless offline start"
+    "serve:serverless": "serverless offline start",
+    "generateTokenMetadata": "node generateTokensBySymbol.js"
   },
   "pre-commit": [
     "yarn lint",

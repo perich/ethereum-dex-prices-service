@@ -1,0 +1,27 @@
+{
+  "addr": "0x9b11b1b271a224a271619f3419b1b080fdec5b4a",
+  "decimals": 18,
+  "description": "Bilibit (BLB) is a ERC20 Token and Philippines first decentralized community-driven crypto ecosystem intended to help people in ecommerce using fast, easy and safe BLB Token.",
+  "links": [
+    {
+      "Facebook": "https://facebook.com/BilibitCommunity"
+    },
+    {
+      "Twitter": "https://twitter.com/BilibitCoin"
+    },
+    {
+      "Website": "https://www.bilibit.io"
+    },
+    {
+      "Telegram": "https://t.me/BilibitCommunity"
+    },
+    {
+      "Blog": "https://medium.com/@Bilibitph"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2894146.0"
+    }
+  ],
+  "name": "Bilibit",
+  "symbol": "BLB"
+}

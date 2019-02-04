@@ -1,0 +1,39 @@
+{
+  "addr": "0xf028adee51533b1b47beaa890feb54a457f51e89",
+  "decimals": 18,
+  "description": "Become a co-owner of the system, which turns the human's benefit into money",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2096750.0"
+    },
+    {
+      "Blog": "https://medium.com/@bmchain"
+    },
+    {
+      "Email": "mailto:support@bmchain.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/BMChain/"
+    },
+    {
+      "Github": "https://github.com/BMChain"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BMCHAIN/"
+    },
+    {
+      "Telegram": "https://t.me/bmchain"
+    },
+    {
+      "Twitter": "https://twitter.com/BMChain/"
+    },
+    {
+      "Website": "https://bmchain.io/"
+    },
+    {
+      "Whitepaper": "https://bmchain.io/download/BMCHAIN_Whitepaper_en.pdf"
+    }
+  ],
+  "name": "BMChain Token",
+  "symbol": "BMT"
+}

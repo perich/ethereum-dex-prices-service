@@ -1,0 +1,45 @@
+{
+  "addr": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
+  "decimals": 18,
+  "description": "Augur is a decentralized oracle and prediction market protocol built on the Ethereum blockchain. It allows you to forecast events and be rewarded for predicting them correctly.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@AugurProject"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/augur/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/augur/"
+    },
+    {
+      "Email": "mailto:team@augur.net"
+    },
+    {
+      "Facebook": "https://facebook.com/AugurProject/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/augurproject"
+    },
+    {
+      "Github": "https://github.com/AugurProject"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Augur/"
+    },
+    {
+      "Slack": "http://invite.augur.net/"
+    },
+    {
+      "Twitter": "https://twitter.com/augurproject"
+    },
+    {
+      "Website": "https://www.augur.net"
+    },
+    {
+      "Whitepaper": "https://github.com/AugurProject/whitepaper"
+    }
+  ],
+  "name": "Reputation",
+  "symbol": "REP"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0xc5cea8292e514405967d958c2325106f2f48da77",
+  "decimals": 18,
+  "description": "Easily create your own blockchain-based tokens, trade them, or buy from others.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2124201.0"
+    },
+    {
+      "Blog": "https://medium.com/proof-of-fintech"
+    },
+    {
+      "Email": "mailto:hello@proofsuite.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/proofsuite"
+    },
+    {
+      "Github": "https://github.com/proofsuite"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/proofsuite/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/G7G-skOfq4VAN3MXn5sHUg"
+    },
+    {
+      "Twitter": "https://twitter.com/proofsuite"
+    },
+    {
+      "Website": "https://www.proofsuite.com/"
+    }
+  ],
+  "name": "Proof",
+  "symbol": "PRFT"
+}

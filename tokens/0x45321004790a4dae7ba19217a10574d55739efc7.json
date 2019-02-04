@@ -1,0 +1,33 @@
+{
+  "addr": "0x45321004790a4dae7ba19217a10574d55739efc7",
+  "decimals": 18,
+  "description": "Redemption Technologies Inc. is a worldwide open source e-commerce marketplace platform that anonymously allows subscribers to pay with a cryptocurrency anywhere, even when cryptocurrencies are not accepted.",
+  "links": [
+    {
+      "Email": "mailto:ico@redemption.cloud"
+    },
+    {
+      "Facebook": "https://www.facebook.com/RedemptionTech/"
+    },
+    {
+      "Github": "https://github.com/RedemptionTech"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Redemption_ICO/"
+    },
+    {
+      "Slack": "https://redemptioncloud.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/Redemption_Tech"
+    },
+    {
+      "Website": "https://www.redemption.cloud/"
+    },
+    {
+      "Whitepaper": "https://www.redemption.cloud/Redemption%20Technologies%20White%20Paper.pdf"
+    }
+  ],
+  "name": "REDEEM Token",
+  "symbol": "DEEM"
+}

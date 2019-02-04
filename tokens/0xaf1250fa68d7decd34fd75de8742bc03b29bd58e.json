@@ -1,0 +1,45 @@
+{
+  "addr": "0xaf1250fa68d7decd34fd75de8742bc03b29bd58e",
+  "decimals": 18,
+  "description": "Invictus Capital specializes in cryptocurrency investments and provides a complete range of fund choices for the investor wanting diversified exposure to the cryptocurrency market.",
+  "links": [
+    {
+      "Blog": "https://invictuscapital.com/news"
+    },
+    {
+      "Chat": "https://discordapp.com/invite/cgZd4uc"
+    },
+    {
+      "CoinGecko": "https://www.coingecko.com/en/coins/invictus-hyprion-fund/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/invictus-hyperion-fund/"
+    },
+    {
+      "Email": "mailto:info@invictuscapital.com"
+    },
+    {
+      "Github": "https://github.com/invictuscapital/IHF-smart-contracts"
+    },
+    {
+      "Github": "https://www.facebook.com/invictuscapitalofficial"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/InvictusCapital/"
+    },
+    {
+      "Twitter": "https://twitter.com/ic_invictus"
+    },
+    {
+      "Website": "https://invictuscapital.com/"
+    },
+    {
+      "Whitepaper": "https://cdn.invictuscapital.com/whitepapers/hyperion.pdf"
+    },
+    {
+      "Telegram": "https://t.me/invictus_capital"
+    }
+  ],
+  "name": "Invictus Hyperion",
+  "symbol": "IHF"
+}

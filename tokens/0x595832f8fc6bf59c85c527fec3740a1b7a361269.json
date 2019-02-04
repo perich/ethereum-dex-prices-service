@@ -1,0 +1,39 @@
+{
+  "addr": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+  "decimals": 6,
+  "description": "Power Ledger is a blockchain-based peer-to-peer energy trading platform enabling consumers and businesses to sell their surplus solar power to their neighbours without a middleman.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2003922.0"
+    },
+    {
+      "Blog": "https://medium.com/power-ledger"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/power-ledger/"
+    },
+    {
+      "Email": "mailto:support@powerledger.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/powerledger"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/icocrypto/comments/6mr791/power_ledger_token_sale_powr/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Gop-90DIMiPF7N_EtvFzjA"
+    },
+    {
+      "Twitter": "https://twitter.com/PowerLedger_io"
+    },
+    {
+      "Website": "https://powerledger.io/"
+    },
+    {
+      "Whitepaper": "https://powerledger.io/#papers"
+    }
+  ],
+  "name": "PowerLedger",
+  "symbol": "POWR"
+}

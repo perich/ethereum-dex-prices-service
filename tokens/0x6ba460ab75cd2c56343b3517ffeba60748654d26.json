@@ -1,0 +1,45 @@
+{
+  "addr": "0x6ba460ab75cd2c56343b3517ffeba60748654d26",
+  "decimals": 8,
+  "description": "Coinme is building the largest crypto ATM network in the world. As the first licensed Bitcoin ATM company in the United States, Coinme’s proven track record and human-first approach have brought thousands of fresh faces into this growing community.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2199751.0"
+    },
+    {
+      "Blog": "https://medium.com/coinme"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/uptoken/"
+    },
+    {
+      "Email": "mailto:support@uptoken.org"
+    },
+    {
+      "Facebook": "https://facebook.com/UpTokenSale/"
+    },
+    {
+      "Github": "https://github.com/coinme/uptoken"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/3705948/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/UpToken/"
+    },
+    {
+      "Telegram": "https://t.me/Uptoken"
+    },
+    {
+      "Twitter": "https://twitter.com/uptoken"
+    },
+    {
+      "Website": "https://uptoken.org/"
+    },
+    {
+      "Whitepaper": "https://uptoken.org/UpToken-whitepaper.pdf"
+    }
+  ],
+  "name": "UpToken",
+  "symbol": "UP"
+}

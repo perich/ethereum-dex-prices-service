@@ -1,0 +1,33 @@
+{
+  "addr": "0x222728c202e7164dfbd127181d46409338c4328e",
+  "decimals": 18,
+  "description": "Decentralized social gaming network",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2275215.msg23070618#msg23070618"
+    },
+    {
+      "Blog": "https://medium.com/mindsportsio"
+    },
+    {
+      "Email": "mailto:island@mindsports.io"
+    },
+    {
+      "Github": "https://github.com/mindsports"
+    },
+    {
+      "Telegram": "https://t.me/mindsportsio"
+    },
+    {
+      "Twitter": "https://twitter.com/MindSportsIO"
+    },
+    {
+      "Website": "https://www.mindsports.io/"
+    },
+    {
+      "Whitepaper": "https://www.mindsports.io/mindsports_whitepaper.pdf"
+    }
+  ],
+  "name": "MIND Token",
+  "symbol": "MIND"
+}

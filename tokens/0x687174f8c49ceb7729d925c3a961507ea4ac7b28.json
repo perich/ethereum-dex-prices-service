@@ -1,0 +1,48 @@
+{
+  "addr": "0x687174f8c49ceb7729d925c3a961507ea4ac7b28",
+  "decimals": 18,
+  "description": "GATCOIN is a distributed retail shopping platform operating on high-speed super large ledgers. GATCOIN holders will be able to buy and sell digital currencies issued by retailers on our private chain. Our platform will offer access to a retail network of 60,000+ stores and 21 major global brands in Asia in 2018.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2197889.0"
+    },
+    {
+      "Blog": "https://medium.com/@gatcoin"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/gatcoin/"
+    },
+    {
+      "Email": "mailto:simon@gatcoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/gatcoinofficial"
+    },
+    {
+      "Github": "https://github.com/gatcoin"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/13425363/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/GATCOIN/"
+    },
+    {
+      "Telegram": "https://t.me/gatcoin"
+    },
+    {
+      "Twitter": "https://twitter.com/gatcoin"
+    },
+    {
+      "Website": "https://www.gatcoin.io/"
+    },
+    {
+      "Whitepaper": "https://www.gatcoin.io/wp-content/uploads/2018/01/180104-GATCOIN-Whitepaper-ENG.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCWw8bFGvev1wVYDBQ2R3lfg"
+    }
+  ],
+  "name": "GAT Token",
+  "symbol": "GAT"
+}

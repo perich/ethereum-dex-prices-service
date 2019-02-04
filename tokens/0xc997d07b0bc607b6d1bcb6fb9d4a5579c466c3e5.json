@@ -1,0 +1,18 @@
+{
+  "addr": "0xc997d07b0bc607b6d1bcb6fb9d4a5579c466c3e5",
+  "decimals": 0,
+  "description": "EtherFlip is a random number game where you place bets in Ether. Rare tokens can be won while playing EtherFlip, and these tokens will control bonus features in the smart contract. During ICO, FLIP Tokens are earned on losing bets playing EtherFlip. At a 49.21% win rate, it's the best on Ethereum. Every number roll is powered by Oraclize and is provably fair, provably random.",
+  "links": [
+    {
+      "Email": "mailto:etherflip@gmail.com"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/EtherFlip/"
+    },
+    {
+      "Website": "http://www.etherflip.co/"
+    }
+  ],
+  "name": "Flip",
+  "symbol": "FLIP"
+}

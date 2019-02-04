@@ -1,0 +1,33 @@
+{
+  "addr": "0x4df812f6064def1e5e029f1ca858777cc98d2d81",
+  "decimals": 8,
+  "description": "Xaurum is unit of value on the golden blockchain, it represents an increasing amount of gold and can be exchanged for it by melting. Xaurum Golden Blockchain is a transparent ledger of accounts that accounts for the distribution of gold owned by the Xaurum CommonWealth, to provide an increasing base to Xaurum value. The CommonWealth is maintained by Auresco Institute physically and Ethereum network digitally.",
+  "links": [
+    {
+      "Bitcointalk": "https://www.bitcointalk.org/index.php?topic=1546279.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/xaurum/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/xaurumofficial/"
+    },
+    {
+      "Github": "https://github.com/XaurumTeam/XaurumOnEthereum"
+    },
+    {
+      "Twitter": "https://www.twitter.com/urumproject"
+    },
+    {
+      "Website": "https://www.xaurum.org/"
+    },
+    {
+      "Website": "http://www.xaurum.org/"
+    },
+    {
+      "Whitepaper": "https://www.xaurum.org/TreatiseOnXaurum.pdf"
+    }
+  ],
+  "name": "Xaurum",
+  "symbol": "XAUR"
+}

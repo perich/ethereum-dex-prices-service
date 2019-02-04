@@ -1,0 +1,42 @@
+{
+  "addr": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+  "decimals": 18,
+  "description": "Bloom is an end-to-end protocol for identity attestation, risk assessment and credit scoring, entirely on the blockchain. Bloom allows both traditional and digital currency lenders to serve billions of people who currently cannot obtain a bank account or credit score.",
+  "links": [
+    {
+      "Blog": "https://blog.hellobloom.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bloomtoken/"
+    },
+    {
+      "Email": "mailto:team@hellobloom.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bloomtoken/"
+    },
+    {
+      "Github": "https://github.com/hellobloom"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BloomToken/"
+    },
+    {
+      "Slack": "https://slack.hellobloom.io/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/FFWDdQ1hxqIg3jLe7zBVFQ"
+    },
+    {
+      "Twitter": "https://twitter.com/bloomtoken"
+    },
+    {
+      "Website": "https://hellobloom.io/"
+    },
+    {
+      "Whitepaper": "https://hellobloom.io/whitepaper.pdf"
+    }
+  ],
+  "name": "Bloom Token",
+  "symbol": "BLT"
+}

@@ -1,0 +1,37 @@
+{
+  "addr": "0x5af2be193a6abca9c8817001f45744777db30756",
+  "decimals": 8,
+  "description": "Bitquence&rsquo;s Mission is to make the daunting cryptocurrency market accessible to everybody, accelerating adoption of blockchain technology and democratizing ownership of cryptocurrencies.",
+  "links": [
+    {
+      "Blog": "https://www.ethos.io/blog/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ethos/"
+    },
+    {
+      "Email": "mailto:press@ethos.io"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ethos_io/"
+    },
+    {
+      "Telegram": "https://t.me/ethos_io"
+    },
+    {
+      "Twitter": "https://twitter.com/ethos_io"
+    },
+    {
+      "Website": "https://www.ethos.io/"
+    },
+    {
+      "Website": "https://www.bitquence.com/"
+    },
+    {
+      "Whitepaper": "http://www.ethos.io/Ethos_Whitepaper.pdf"
+    }
+  ],
+  "name": "Bitquence",
+  "notice": "Note: Bitquence was rebranded and is now known as Ethos",
+  "symbol": "BQX"
+}

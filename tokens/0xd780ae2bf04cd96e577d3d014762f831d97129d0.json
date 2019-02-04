@@ -1,0 +1,36 @@
+{
+  "addr": "0xd780ae2bf04cd96e577d3d014762f831d97129d0",
+  "decimals": 18,
+  "description": "Envion builds fully automatized mobile mining units inside standardized intermodal shipping containers that can be shipped to any location in the world within days or weeks. Envion mining units use low-priced green energy directly at the source — near the shore, in the desert or in other remote locations. The EVN token is an ERC-20 Ethereum-based token that grants their holders the right to receive 100% of the earnings from Envion's proprietary mining operation, 35% of Envion’s earnings with third-party operations and voting rights.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2348435"
+    },
+    {
+      "Blog": "https://medium.com/@envion"
+    },
+    {
+      "Email": "mailto:support@envion.org"
+    },
+    {
+      "Facebook": "https://facebook.com/envion.org"
+    },
+    {
+      "Instagram": "https://www.instagram.com/envion_official/"
+    },
+    {
+      "Telegram": "https://t.me/Envion"
+    },
+    {
+      "Twitter": "https://twitter.com/Envion_org"
+    },
+    {
+      "Website": "https://www.envion.org/"
+    },
+    {
+      "Whitepaper": "https://www.envion.org/en/download/envion_whitepaper.pdf"
+    }
+  ],
+  "name": "Envion",
+  "symbol": "EVN"
+}

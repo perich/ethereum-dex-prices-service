@@ -1,0 +1,39 @@
+{
+  "addr": "0xae4f56f072c34c0a65b3ae3e4db797d831439d93",
+  "decimals": 8,
+  "description": "Gimli is a revolutionary way of experiencing live eSport streaming. Engage in bets, challenges and surveys with your streamers using digital tokens. Gimli is an eSports application made by eSport fans for eSports fans. Streamers benefit from Gimli&rsquo;s enhanced engagement for their streams and their audience. Gimli reaches millions of viewers all over the world. Gimli tokens are used for betting on our platform.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2014659.0"
+    },
+    {
+      "Blog": "https://medium.com/gimli-project"
+    },
+    {
+      "Email": "mailto:contact@gimli.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/thegimliproject"
+    },
+    {
+      "Github": "https://github.com/thegimliproject/"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/YCx3Fu7"
+    },
+    {
+      "Telegram": "https://t.me/thegimliproject"
+    },
+    {
+      "Twitter": "https://twitter.com/thegimliproject"
+    },
+    {
+      "Website": "https://gimli.io/"
+    },
+    {
+      "Website": "https://gimli.io"
+    }
+  ],
+  "name": "Gimli Token",
+  "symbol": "GIM"
+}

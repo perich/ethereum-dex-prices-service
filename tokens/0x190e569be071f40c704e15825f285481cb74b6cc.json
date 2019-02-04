@@ -1,0 +1,27 @@
+{
+  "addr": "0x190e569be071f40c704e15825f285481cb74b6cc",
+  "decimals": 12,
+  "description": "Build, train, and trade gladiators, and enter them in combat events for fun and profit!",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1979041.0"
+    },
+    {
+      "Blog": "https://medium.com/@BattleDrome"
+    },
+    {
+      "Email": "mailto:support@battledrome.io"
+    },
+    {
+      "Github": "https://github.com/BattleDrome"
+    },
+    {
+      "Slack": "http://www.battledrome.io:8080/"
+    },
+    {
+      "Website": "http://www.battledrome.io/"
+    }
+  ],
+  "name": "Fame",
+  "symbol": "FAM"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0x4d829f8c92a6691c56300d020c9e0db984cfe2ba",
+  "decimals": 18,
+  "description": "A network for investors, founders and companies to connect without intermediaries. A place where anyone can be listed in the cryptocurrency exchange market and cross the barriers of traditional methods, while keeping control of the investments.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@coincrowdit"
+    },
+    {
+      "Email": "mailto:staff@coincrowd.it"
+    },
+    {
+      "Facebook": "https://www.facebook.com/coincrowd"
+    },
+    {
+      "Github": "https://github.com/coincrowd-it/"
+    },
+    {
+      "Telegram": "https://t.me/coincrowd"
+    },
+    {
+      "Twitter": "https://twitter.com/coincrowdit"
+    },
+    {
+      "Website": "http://www.coincrowd.it/en/"
+    },
+    {
+      "Whitepaper": "https://docs.google.com/document/d/10yOw6lWGNPW5lNOLXZSgZdvEKlHA3ynT8RHXlBCRJZ0/view"
+    }
+  ],
+  "name": "CoinCrowd",
+  "symbol": "XCC"
+}

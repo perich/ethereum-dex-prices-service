@@ -1,0 +1,27 @@
+{
+  "addr": "0xa9666166d3c7fd15e874801f99e9ad5bfb70c5cf",
+  "decimals": 18,
+  "description": "StatiCoin, a stable digital currency. The _S tokens are the stable tokens, the _R tokens are the risk tokens.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@peter.cornforth/staticoin-a-stable-digital-currency-d52477f378de"
+    },
+    {
+      "Email": "mailto:genkifs@gmail.com"
+    },
+    {
+      "Github": "https://github.com/genkifs/staticoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/genki_paul"
+    },
+    {
+      "Website": "http://staticoin.com/"
+    },
+    {
+      "Whitepaper": "http://staticoin.com/whitepaper.pdf"
+    }
+  ],
+  "name": "GBP Static",
+  "symbol": "GBP_S"
+}

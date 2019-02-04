@@ -1,0 +1,36 @@
+{
+  "addr": "0xae73b38d1c9a8b274127ec30160a4927c4d71824",
+  "decimals": 18,
+  "description": "STACK is a new personal finance platform, built on the idea that using your money should be free. Universally accessible, STACK is an alternative to traditional banking that allows you to store your money safely, access it instantly and transact with it anywhere, in any currency including crypto, right from your smartphone.\nThe STK Token will provide instant cryptocurrency payments at point of sale, enabling seamless integration of cryptocurrency into everyday transactions and financial services in the STACK wallet. The STK token will be implemented on the public Ethereum blockchain as an ERC20 token.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@STKtoken"
+    },
+    {
+      "Email": "mailto:info@stktoken.com"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/STKToken/"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/38EXN5D"
+    },
+    {
+      "Telegram": "https://t.me/stktoken"
+    },
+    {
+      "Twitter": "https://twitter.com/stktoken"
+    },
+    {
+      "Website": "https://stktoken.com/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/c/STACKFINTECH"
+    },
+    {
+      "Whitepaper": "https://stktoken.com/STK_whitepaper_en.pdf"
+    }
+  ],
+  "name": "STK Token",
+  "symbol": "STK"
+}

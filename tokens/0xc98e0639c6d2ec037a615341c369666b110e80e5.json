@@ -1,0 +1,39 @@
+{
+  "addr": "0xc98e0639c6d2ec037a615341c369666b110e80e5",
+  "decimals": 8,
+  "description": "EXMR is an ERC20 token, works under the Ethereum ecosystem and we all know that EXMR is the world's faster ERC20 in terms of block generation time plus the privacy, both achieved now with the implementation of zkSNARKS; with EXMR we works faster and secure in term of speed and privacy.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2378143"
+    },
+    {
+      "Blog": "https://medium.com/@eXMR"
+    },
+    {
+      "Email": "mailto:support@exmr.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/exmrcoin/"
+    },
+    {
+      "Github": "https://github.com/eXMRcoin/e-XMR/tree/master/eXMR-master"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/eXMRcoin"
+    },
+    {
+      "Slack": "https://exmr-workspace.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinEXMR/"
+    },
+    {
+      "Twitter": "https://twitter.com/eXMRCoin"
+    },
+    {
+      "Website": "https://exmr.io/"
+    }
+  ],
+  "name": "EXMR",
+  "symbol": "EXMR"
+}

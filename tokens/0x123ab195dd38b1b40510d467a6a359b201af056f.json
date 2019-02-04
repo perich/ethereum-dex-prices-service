@@ -1,0 +1,21 @@
+{
+  "addr": "0x123ab195dd38b1b40510d467a6a359b201af056f",
+  "decimals": 8,
+  "description": "Legolas Exchange creates a new decentralized blockchain protocol that guarantees full transparency and prevents front-running and market manipulation.",
+  "links": [
+    {
+      "Website": "https://legolas.exchange"
+    },
+    {
+      "Whitepaper": "https://legolas.exchange/static//public/legolas-whitepaper-en.pdf?v=13"
+    },
+    {
+      "Twitter": "https://twitter.com/LegolasExchange"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2383397"
+    }
+  ],
+  "name": "LGO Token",
+  "symbol": "LGO"
+}

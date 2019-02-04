@@ -1,0 +1,12 @@
+{
+  "addr": "0x30aee7f259d6d1564ebef457847c672b30f13cbc",
+  "decimals": 0,
+  "description": "Domain token",
+  "links": [
+    {
+      "Website": "http://www.domaintoken.io/"
+    }
+  ],
+  "name": "DomainToken",
+  "symbol": "DOM"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0x88fcfbc22c6d3dbaa25af478c578978339bde77a",
+  "decimals": 18,
+  "description": "A HOMEGROWN startup is betting on cryptocurrency crowdfunding as the next fintech vogue. It has created a platform to allow entrepreneurs to raise funds for their projects using virtual currencies such as Bitcoin or Ethereum, instead of regular currency.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@FundYourselfNow/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/fundyourselfnow/"
+    },
+    {
+      "Email": "mailto:contact@fundyourselfnow.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/fundyourselfnow/"
+    },
+    {
+      "Github": "https://github.com/PinnacleOne/FYNTokens"
+    },
+    {
+      "Slack": "http://fundyourselfnowslack.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://telegram.me/fundyourselfnow"
+    },
+    {
+      "Twitter": "https://twitter.com/fundyourselfnow"
+    },
+    {
+      "Website": "https://www.fundyourselfnow.com/"
+    },
+    {
+      "Whitepaper": "https://www.fundyourselfnow.com/wp-content/uploads/2017/04/FYN-Business_Outline-2017.pdf"
+    }
+  ],
+  "name": "FundYourselfNow Token",
+  "symbol": "FYN"
+}

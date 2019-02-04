@@ -1,0 +1,24 @@
+{
+  "addr": "0xe755f2fa95e47c5588c3037dd38e1268fa5fcecd",
+  "decimals": 18,
+  "description": "HOWL is an ERC20 compliant token that will be used with all HOWL products and services. HOWL will be implemented into our market leading applications such as HOWL Chat and HOWL Market.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2158989.0"
+    },
+    {
+      "Email": "mailto:enquiry@howltoken.com"
+    },
+    {
+      "Reddit": "http://www.reddit.com/r/howlofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/HowlToken"
+    },
+    {
+      "Website": "http://www.howltoken.com/"
+    }
+  ],
+  "name": "HOWL",
+  "symbol": "HOWL"
+}

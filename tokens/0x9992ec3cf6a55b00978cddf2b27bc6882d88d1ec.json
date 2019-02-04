@@ -1,0 +1,39 @@
+{
+  "addr": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+  "decimals": 18,
+  "description": "The Polymath network connects token investors, KYC providers, smart contract developers and legal experts who help form the basis of your securities token.\nA Polymath security token is a ERC20 compatible token which represents a security. These could represent equity in a hedge fund, trust, bonds, debt, or real estate, they may pay dividends or even allow voting rights.",
+  "links": [
+    {
+      "Blog": "https://blog.polymath.network/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/polymathnetwork/"
+    },
+    {
+      "Github": "https://github.com/PolymathNetwork"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/polymathnetwork/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/PolymathNetwork/"
+    },
+    {
+      "Telegram": "http://t.me/polymathnetwork"
+    },
+    {
+      "Twitter": "https://twitter.com/polymathnetwork"
+    },
+    {
+      "Website": "https://polymath.network"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UC77syPQJO0eA5FBUMczZ4bA"
+    },
+    {
+      "Whitepaper": "https://daks2k3a4ib2z.cloudfront.net/5a46fad33472ef00014b540a/5a46fad33472ef00014b54d0_Polymath%20Whitepaper.pdf"
+    }
+  ],
+  "name": "Polymath",
+  "symbol": "POLY"
+}

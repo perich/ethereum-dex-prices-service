@@ -1,0 +1,33 @@
+{
+  "addr": "0x2eb86e8fc520e0f6bb5d9af08f924fe70558ab89",
+  "decimals": 8,
+  "description": "In our journey starting by preparing our source codes firstly, we want to create the new blockchain and then develop a blockchain that can be used in our own software and also in local / national / international small and large enterprises.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2348732.0"
+    },
+    {
+      "Blog": "https://medium.com/@getlogarithm"
+    },
+    {
+      "Email": "mailto:one@getlogarithm.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/getlogarithm/"
+    },
+    {
+      "Telegram": "https://t.me/getlgr"
+    },
+    {
+      "Twitter": "https://twitter.com/getlogarithm"
+    },
+    {
+      "Website": "https://getlogarithm.com/"
+    },
+    {
+      "Whitepaper": "https://getlogarithm.com/whitepaper/"
+    }
+  ],
+  "name": "Logarithm",
+  "symbol": "LGR"
+}

@@ -1,0 +1,42 @@
+{
+  "addr": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53",
+  "decimals": 8,
+  "description": "ChronoBank.io is an ambitious and wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in a similar way to how Uber disrupted the taxi business and how Upwork represented an evolution in freelancing.",
+  "links": [
+    {
+      "Bitcointalk": "https://www.reddit.com/r/ChronoBank/"
+    },
+    {
+      "Blog": "https://blog.chronobank.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/chronobank/"
+    },
+    {
+      "Email": "mailto:info@chronobank.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ChronoBank.io"
+    },
+    {
+      "Github": "https://github.com/ChronoBank"
+    },
+    {
+      "Slack": "https://chronobank.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://telegram.me/chronobank"
+    },
+    {
+      "Twitter": "https://twitter.com/ChronobankNews"
+    },
+    {
+      "Website": "https://chronobank.io/"
+    },
+    {
+      "Whitepaper": "https://chronobank.io/files/whitepaper.pdf"
+    }
+  ],
+  "name": "Chronobank TIME",
+  "symbol": "TIME"
+}

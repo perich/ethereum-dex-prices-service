@@ -1,0 +1,51 @@
+{
+  "addr": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
+  "decimals": 14,
+  "description": "Rentberry facilitates the long-term rental process for both tenants and homeowners.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2448767"
+    },
+    {
+      "Blog": "https://rentberry.com/blog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/rentberry/"
+    },
+    {
+      "Email": "mailto:support@rentberry.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/RentberryInc/"
+    },
+    {
+      "Github": "https://github.com/Rentberry"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/6389601/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Rentberry/"
+    },
+    {
+      "Telegram": "https://t.me/RentberryNews"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/E6YjkQ2yQwBk9WaP0q-zMQ"
+    },
+    {
+      "Twitter": "https://twitter.com/rentberry_"
+    },
+    {
+      "Website": "https://ico.rentberry.com/"
+    },
+    {
+      "Website": "https://rentberry.com"
+    },
+    {
+      "Whitepaper": "https://rentberry.cryptonomos.com/downloads/Rentberry_Whitepaper_en.pdf"
+    }
+  ],
+  "name": "Berry",
+  "symbol": "BERRY"
+}

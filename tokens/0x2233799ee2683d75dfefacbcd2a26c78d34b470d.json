@@ -1,0 +1,30 @@
+{
+  "addr": "0x2233799ee2683d75dfefacbcd2a26c78d34b470d",
+  "decimals": 18,
+  "description": "Network Token is an E-Learning platform being designed to bring cryptocurrency awareness and knowledge to the average joe. Our main mission is to educate and guide people on how they can get involved with crypto. It all started when myself and a colleague spent hours and hours explaining to everyone at work how cryptocurrency works. We will be doing guides, how-tos, and videos. Future development includes mobile wallets for ios and android. Although most of the education will be free, the token will allow users to get 'advanced' training and services such as learning how to program in solidity or even have us create a token for them! Myself and my colleague are both programmers and would love to get others on board with crypto.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2343147"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/network-token/"
+    },
+    {
+      "Email": "mailto:hello@networktoken.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/networktoken/"
+    },
+    {
+      "Telegram": "https://t.me/networktoken"
+    },
+    {
+      "Twitter": "https://twitter.com/networktoken"
+    },
+    {
+      "Website": "http://networktoken.io/"
+    }
+  ],
+  "name": "Network Token",
+  "symbol": "NTWK"
+}

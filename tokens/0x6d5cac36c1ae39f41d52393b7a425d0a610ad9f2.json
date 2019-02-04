@@ -1,0 +1,27 @@
+{
+  "addr": "0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2",
+  "decimals": 8,
+  "description": "LLT is used to form a decentralized shared CDN digital asset in the world based on blockchain and network acceleration technology.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2178923.0"
+    },
+    {
+      "Email": "mailto:support@lltoken.com"
+    },
+    {
+      "Telegram": "https://t.me/lltoken_com"
+    },
+    {
+      "Website": "https://www.lltoken.com/"
+    },
+    {
+      "Website": "https://www.lltoken.com/#main"
+    },
+    {
+      "Whitepaper": "https://minerdl.yunfan.com/miner/lltoken/uploadfile/pdf/llt_white_paper_en.pdf"
+    }
+  ],
+  "name": "LLToken",
+  "symbol": "LLT"
+}

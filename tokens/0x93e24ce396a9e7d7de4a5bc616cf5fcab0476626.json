@@ -1,0 +1,27 @@
+{
+  "addr": "0x93e24ce396a9e7d7de4a5bc616cf5fcab0476626",
+  "decimals": 8,
+  "description": "ZipCoin is an ERC20 Token which depends on the ZipCoin Project as its revenue source. The ZipCoin Project is a system in which one can answer questions or teach a class in return for ZipCoin. Any users who apply and are approved can teach a class or answer questions in exchange for ZipCoin. This way, we are bringing education into the cryptocurrency world. With ZipCoin, you learn, educate, and gain crypto!",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2346197.0"
+    },
+    {
+      "Email": "mailto:ZipCoinProject@gmail.com"
+    },
+    {
+      "Slack": "https://zip-coin.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GqEnLQ6xOk5EDhOKaHW_6Q"
+    },
+    {
+      "Twitter": "https://twitter.com/ZipCoinProject"
+    },
+    {
+      "Website": "https://zip-coin.com/"
+    }
+  ],
+  "name": "ZipCoin",
+  "symbol": "ZIP"
+}

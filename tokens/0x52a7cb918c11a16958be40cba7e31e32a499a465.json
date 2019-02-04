@@ -1,0 +1,34 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "FDX",
+  "addr": "0x52a7cb918c11a16958be40cba7e31e32a499a465",
+  "decimals": 18,
+  "description": "fidentiaX is a membership-based platform whereby users need to be a member to access the range of services available on the platform.The annual membership fees shall be payable via fdX tokens and any token collected will be consumed. This would effectively decrease the total float of fdX in the market. On top of there will be an exclusive auction for fdX token holders whereby policy will be put up for auction at a significant discount off the cash value.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2277092.80"
+    },
+    {
+      "Blog": "https://medium.com/@fidentiaX"
+    },
+    {
+      "Email": "mailto:info@fidentiaX.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/fidentiaX/"
+    },
+    {
+      "Telegram": "https://t.me/fidentiaX"
+    },
+    {
+      "Twitter": "https://twitter.com/fidentiaX"
+    },
+    {
+      "Website": "https://www.fidentiax.com/"
+    },
+    {
+      "Whitepaper": "https://www.fidentiax.com/whitepaper"
+    }
+  ],
+  "name": "fidentiaX",
+  "symbol": "fdX"
+}

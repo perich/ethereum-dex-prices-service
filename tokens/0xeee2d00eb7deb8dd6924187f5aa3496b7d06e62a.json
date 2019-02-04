@@ -1,0 +1,36 @@
+{
+  "addr": "0xeee2d00eb7deb8dd6924187f5aa3496b7d06e62a",
+  "decimals": 18,
+  "description": "Tigereum will enable everyone to securely and easily send small amounts of crypto to friends and family by instant message. Messaging money on instant messaging platforms is going to be a game changer. Crypto should be leading this disruption. Crypto’s decentralized blockchain architecture should be taking this battle on, not leaving it to the social media companies.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2331649"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/tigereum/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/tigereum/"
+    },
+    {
+      "Slack": "https://tigereum.slack.com"
+    },
+    {
+      "Telegram": "https://t.me/tigereum"
+    },
+    {
+      "Twitter": "https://twitter.com/tigereumtokens"
+    },
+    {
+      "Website": "https://www.tigereum.io"
+    },
+    {
+      "Whitepaper": "https://docs.wixstatic.com/ugd/970dc6_15842e85a6874c79810d6dbfd60867d0.pdf"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/Tigereum/"
+    }
+  ],
+  "name": "Tigereum",
+  "symbol": "TIG"
+}

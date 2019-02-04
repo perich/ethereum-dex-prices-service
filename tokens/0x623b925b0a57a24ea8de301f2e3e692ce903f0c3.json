@@ -1,0 +1,18 @@
+{
+  "addr": "0x623b925b0a57a24ea8de301f2e3e692ce903f0c3",
+  "decimals": 0,
+  "description": "MoviToken is an ERC20 + VERIFIED community cryptocurrency developed specifically for the independent film community.",
+  "links": [
+    {
+      "Email": "mailto:chris@southernmeridian.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/movitoken"
+    },
+    {
+      "Website": "http://movitoken.com/"
+    }
+  ],
+  "name": "MoviToken",
+  "symbol": "MOVI"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0xecd570bbf74761b960fa04cc10fe2c4e86ffda36",
+  "decimals": 8,
+  "description": "Stash is a next generation open source digital currency for the real world. A key advantage of Stash is that it solves numerous problems being encountered by other cryptocurrencies. Stash does this by bringing together many ground-breaking blockchain technologies while using the gold standard in cryptocurrency privacy.\nIn addition to comprising critical features for an efficiently functioning open decentralized autonomous network such as self-governance and self-funding, Stash also incorporates instantaneous transactions (StashSwift), increased network capacity, low transaction fees and state-of-the-art zero-knowledge cryptography.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2114814.0"
+    },
+    {
+      "Blog": "https://medium.com/@Stash_Pay"
+    },
+    {
+      "Email": "mailto:info@stashpay.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/stashpay.io/"
+    },
+    {
+      "Instagram": "https://instagram.com/stashpay.io"
+    },
+    {
+      "Twitter": "https://twitter.com/stashpay"
+    },
+    {
+      "Website": "https://stashpay.io/"
+    },
+    {
+      "Whitepaper": "https://stashpay.io/whitepaper.html"
+    }
+  ],
+  "name": "STASHPAY",
+  "symbol": "STP"
+}

@@ -1,0 +1,18 @@
+{
+  "addr": "0x275b69aa7c8c1d648a0557656bce1c286e69a29d",
+  "decimals": 8,
+  "description": "Enumivo is a blockchain based on EOS. Our flagship project will be a Decentralized Universal Basic Income Application to promote social justice for everyone.",
+  "links": [
+    {
+      "Github": "https://github.com/enumivo"
+    },
+    {
+      "Twitter": "https://twitter.com/EnuMivo"
+    },
+    {
+      "Website": "https://www.enumivo.org/"
+    }
+  ],
+  "name": "Enumivo",
+  "symbol": "ENU"
+}

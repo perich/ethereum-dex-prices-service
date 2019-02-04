@@ -1,0 +1,39 @@
+{
+  "addr": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+  "decimals": 8,
+  "description": "POE is the native token of Po.et, a platform which simplifies the process for publishing, licensing and authentication of digital assets. Po.et aims to create a blockchain-based platform with added smart contract functionality and applications to facilitate distribution of digital creative works and remove barriers to entry for publishers and digital media creators.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2027214.0"
+    },
+    {
+      "Blog": "https://blog.po.et/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/poet/"
+    },
+    {
+      "Email": "mailto:contact@po.et"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/poetproject/"
+    },
+    {
+      "Slack": "https://poet-slack.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://github.com/poetapp"
+    },
+    {
+      "Twitter": "https://twitter.com/_poetproject"
+    },
+    {
+      "Website": "https://po.et/"
+    },
+    {
+      "Whitepaper": "https://po.et/whitepaper.pdf"
+    }
+  ],
+  "name": "Po.et",
+  "symbol": "POE"
+}

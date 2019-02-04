@@ -1,0 +1,36 @@
+{
+  "addr": "0x399a0e6fbeb3d74c85357439f4c8aed9678a5cbf",
+  "decimals": 3,
+  "description": "DisLedger is the incredibly fast and completely private architecture for enterprise distributed ledgers.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2039103"
+    },
+    {
+      "Email": "mailto:info@disledger.com"
+    },
+    {
+      "Github": "https://github.com/disledger/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/DisLedger/"
+    },
+    {
+      "Telegram": "https://t.me/DisLedger_Launch"
+    },
+    {
+      "Twitter": "https://twitter.com/DisledgerInfo"
+    },
+    {
+      "Website": "http://www.disledger.com/"
+    },
+    {
+      "Website": "https://www.disledger.com/"
+    },
+    {
+      "Whitepaper": "https://www.disledger.com/DisLedger_Whitepaper.pdf"
+    }
+  ],
+  "name": "DISLEDGER",
+  "symbol": "DCL"
+}

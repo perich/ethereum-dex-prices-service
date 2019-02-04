@@ -1,0 +1,33 @@
+{
+  "addr": "0x51ee82641ac238bde34b9859f98f5f311d6e4954",
+  "decimals": 8,
+  "description": "Decentralized quantitative assets trading",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2198858.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/iquant/"
+    },
+    {
+      "Email": "mailto:iqt@5iquant.com"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/IQTChain"
+    },
+    {
+      "Slack": "https://iqt-group.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/Gb_-VkNbQxOWML3GfT9yGA"
+    },
+    {
+      "Website": "http://www.5iquant.org/en"
+    },
+    {
+      "Whitepaper": "http://web.5iquant.com/iqt/ico_white_paper_en.pdf"
+    }
+  ],
+  "name": "IQT Token",
+  "symbol": "IQT"
+}

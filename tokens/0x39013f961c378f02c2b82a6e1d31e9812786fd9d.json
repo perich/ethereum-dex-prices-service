@@ -1,0 +1,27 @@
+{
+  "addr": "0x39013f961c378f02c2b82a6e1d31e9812786fd9d",
+  "decimals": 3,
+  "description": "SMS project is the most advanced diversified virtual currency mining operation with the offering of profit distribution up to 34% from the global revenue.",
+  "links": [
+    {
+      "Email": "mailto:support@smscoin.jp"
+    },
+    {
+      "Facebook": "https://www.facebook.com/SPEEDMINING/"
+    },
+    {
+      "Github": "https://github.com/Speed-Mining/SMSCoin"
+    },
+    {
+      "Twitter": "https://twitter.com/Speed_Mining"
+    },
+    {
+      "Website": "https://smscoin.jp/"
+    },
+    {
+      "Whitepaper": "https://smscoin.jp/sites/default/files/whitepaper.pdf"
+    }
+  ],
+  "name": "Speed Mining Service",
+  "symbol": "SMS"
+}

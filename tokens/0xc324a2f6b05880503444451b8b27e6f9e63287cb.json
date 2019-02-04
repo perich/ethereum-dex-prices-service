@@ -1,0 +1,33 @@
+{
+  "addr": "0xc324a2f6b05880503444451b8b27e6f9e63287cb",
+  "decimals": 18,
+  "description": "XUC is a digital asset, similar to Ripple's XRP. It is optimized for real-time trades between digital asset exchanges and serves as fuel for each trade.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/exchange-union/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ExchangeUnion/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ExchangeUnion/"
+    },
+    {
+      "Slack": "https://exchange-union.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/exchangeunioncoin"
+    },
+    {
+      "Twitter": "https://twitter.com/exchange_union"
+    },
+    {
+      "Website": "https://www.exchangeunion.com/"
+    },
+    {
+      "Website": "https://www.exchangeunion.com/xuc"
+    }
+  ],
+  "name": "Exchange Union Coin",
+  "symbol": "XUC"
+}

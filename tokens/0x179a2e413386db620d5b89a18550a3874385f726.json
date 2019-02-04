@@ -1,0 +1,12 @@
+{
+  "addr": "0x179a2e413386db620d5b89a18550a3874385f726",
+  "decimals": 5,
+  "description": "CCBC bank is an electronic payment company that facilitates payments between parties through online funds transfers. CCBC bank allows customers to establish an account on its website, which is connected to a user's bank account or credit card. Once login and proof of deposit have been confirmed, a user may begin sending or receiving payments to and from other ccbc bank accounts. CCBC bank attempts to make online purchases safer by providing a form of payment that does not require the payor or payee to disclose credit card or bank account numbers.",
+  "links": [
+    {
+      "Website": "http://fitcoin-io.info"
+    }
+  ],
+  "name": "Fitcoin",
+  "symbol": "FIT"
+}

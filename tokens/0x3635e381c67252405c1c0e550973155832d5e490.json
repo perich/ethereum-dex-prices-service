@@ -1,0 +1,24 @@
+{
+  "addr": "0x3635e381c67252405c1c0e550973155832d5e490",
+  "decimals": 18,
+  "description": "Blochchainneo not only purchases goods and services, but also builds infrastructure that can easily carry out shopping demands.",
+  "links": [
+    {
+      "Blog": "https://blockchainneo.net/en/news-en/"
+    },
+    {
+      "Email": "mailto:info@blockchainneo.net"
+    },
+    {
+      "Facebook": "https://www.facebook.com/blockchainneo/"
+    },
+    {
+      "Website": "https://blockchainneo.net/en/"
+    },
+    {
+      "Whitepaper": "https://blockchainneo.net/pdf/JBcoin_whitepaper_ENG_ver1.02.pdf"
+    }
+  ],
+  "name": "JAPAN BRAND COIN",
+  "symbol": "JBC"
+}

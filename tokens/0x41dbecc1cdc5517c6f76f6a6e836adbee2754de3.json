@@ -1,0 +1,27 @@
+{
+  "addr": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+  "decimals": 18,
+  "description": "Medicalchain is a decentralized platform that enables secure, fast and transparent exchange and usage of medical data. Medicalchain will enable different healthcare agents such as doctors, hospitals, laboratories, pharmacists and insurers to request permission to access and interact with medical records. Each interaction is auditable, transparent, and secure, and will be recorded as a transaction on a distributed ledger.",
+  "links": [
+    {
+      "Telegram": "https://t.me/medicalchain"
+    },
+    {
+      "Twitter": "https://twitter.com/medical_chain"
+    },
+    {
+      "Website": "https://medicalchain.com/en/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=SA91OAaNZUo"
+    },
+    {
+      "Whitepaper": "https://medicalchain.com/en/whitepaper/"
+    },
+    {
+      "Blog": "https://medicalchain.com/en/news/"
+    }
+  ],
+  "name": "MedToken",
+  "symbol": "MTN"
+}

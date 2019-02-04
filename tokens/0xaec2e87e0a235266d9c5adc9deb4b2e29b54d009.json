@@ -1,0 +1,36 @@
+{
+  "addr": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
+  "decimals": 0,
+  "description": "A Blockchain Entertainment Studio, Smart Contract Rights Management Platform and Video On-Demand Portal",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1943123.0"
+    },
+    {
+      "Blog": "https://medium.com/@SingularDTV"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/singulardtv/"
+    },
+    {
+      "Email": "https://singulardtv.com/contact-us"
+    },
+    {
+      "Facebook": "https://www.facebook.com/SingularDTV/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SingularDTV"
+    },
+    {
+      "Slack": "https://slack.singulardtv.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/SingularDTV"
+    },
+    {
+      "Website": "https://singulardtv.com/"
+    }
+  ],
+  "name": "SingularDTV",
+  "symbol": "SNGLS"
+}

@@ -1,0 +1,45 @@
+{
+  "addr": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+  "decimals": 18,
+  "description": "Your personal Cryptocurrency Market measurement tool for spotting time-limited market opportunities.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2062875"
+    },
+    {
+      "Blog": "https://medium.com/@Cindicator"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/cindicator/"
+    },
+    {
+      "Email": "mailto:support@cindicator.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/crowdindicator"
+    },
+    {
+      "Github": "https://github.com/cindicator"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Cindicator/"
+    },
+    {
+      "Telegram": "https://t.me/cindicator_chat"
+    },
+    {
+      "Telegram": "https://t.me/cindicator_news"
+    },
+    {
+      "Twitter": "https://twitter.com/crowd_indicator"
+    },
+    {
+      "Website": "https://cindicator.com/"
+    },
+    {
+      "Whitepaper": "https://cindicator.com/Cindicator_WhitePaper_en.pdf"
+    }
+  ],
+  "name": "Cindicator Token",
+  "symbol": "CND"
+}

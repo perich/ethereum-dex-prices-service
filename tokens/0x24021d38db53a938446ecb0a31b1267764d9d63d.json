@@ -1,0 +1,30 @@
+{
+  "addr": "0x24021d38db53a938446ecb0a31b1267764d9d63d",
+  "decimals": 18,
+  "description": "HODLit Network is a revolutionary platform that rewards its members with tokens of upcoming Decentralised Applications.\nHODLit Network proposes a completely new token distribution paradigm that replaces ICOs, eliminates scams and ensures the stability and the growth of Ethereum.",
+  "links": [
+    {
+      "Website": "https://www.hodlit.network"
+    },
+    {
+      "Whitepaper": "https://s3.eu-west-2.amazonaws.com/hodlit-files/hodlit-wp-v2.pdf"
+    },
+    {
+      "Twitter": "https://twitter.com/HODLIT_Network"
+    },
+    {
+      "Telegram": "https://t.me/Hodlit_Network"
+    },
+    {
+      "Facebook": "https://facebook.com/Hodlit.Network/"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2936058.0"
+    },
+    {
+      "Github": "https://github.com/Hodlit-Network"
+    }
+  ],
+  "name": "HODL INCENTIVE TOKEN",
+  "symbol": "HIT"
+}

@@ -1,0 +1,39 @@
+{
+  "addr": "0x7c53f13699e1f6ef5c699e893a20948bdd2e4de9",
+  "decimals": 18,
+  "description": "Providing secure email based transactions",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2367445.0"
+    },
+    {
+      "Blog": "https://dividend.cloud/news.php"
+    },
+    {
+      "Email": "mailto:support@dividend.cloud"
+    },
+    {
+      "Facebook": "https://www.facebook.com/dividendtoken/"
+    },
+    {
+      "Slack": "https://dividendtoken.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GouAVg5uHPgBckIlgLqKwA"
+    },
+    {
+      "Twitter": "https://twitter.com/dividendtoken"
+    },
+    {
+      "Website": "https://dividend.cloud/"
+    },
+    {
+      "Website": "https://www.dividend.cloud/"
+    },
+    {
+      "Whitepaper": "https://www.dividend.cloud/whitepaper.pdf"
+    }
+  ],
+  "name": "Dividend",
+  "symbol": "DVD"
+}

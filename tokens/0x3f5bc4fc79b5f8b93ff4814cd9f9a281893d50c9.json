@@ -1,0 +1,21 @@
+{
+  "addr": "0x3f5bc4fc79b5f8b93ff4814cd9f9a281893d50c9",
+  "decimals": 1,
+  "description": "We are a consultant firm that uses hys as a medium of Exchange. We only accept our own token in exchange for services. We burn half the fees we get and we've set aside a dividend reserve for holders.",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/HeislerFinancial/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/HeissShares/"
+    },
+    {
+      "Twitter": "https://twitter.com/HeissFinancial"
+    },
+    {
+      "Website": "http://heislerfinancial.com/"
+    }
+  ],
+  "name": "Heiss Shares",
+  "symbol": "HYS"
+}

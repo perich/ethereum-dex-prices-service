@@ -1,0 +1,12 @@
+{
+  "addr": "0xd884f9881e0aeabad79be8a69122cf998d067fff",
+  "decimals": 18,
+  "description": "The Soviet Union Ruble is a cryptocurrency (private internet currency), that has a value based on the current market. In other words, Soviet Union Ruble is an entirely decentralized open source worldwide currency, without any central authority. This means that your transactions will not be managed or verified by any traditional banking institution. Users can now control their own finances privately. Soviet Union Ruble is built on Ethereum, a next generation blockchain protocol enabling advanced smart contracts. Ethereum is censorship resistant, globally available, and provides transparent guarantees about future operations of the platform. With Ethereum, we can eliminate middlemen and counterparty risk.",
+  "links": [
+    {
+      "Website": "http://www.ruble.trade/"
+    }
+  ],
+  "name": "Soviet Union Ruble",
+  "symbol": "RUB"
+}

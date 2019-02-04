@@ -1,0 +1,27 @@
+{
+  "addr": "0x4632091b0dd0e0902d1fe0534e16eb7b20328d70",
+  "decimals": 18,
+  "description": "A mobile app company.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2496971"
+    },
+    {
+      "Email": "mailto:support@ultim.at"
+    },
+    {
+      "Github": "https://github.com/UltimatToken"
+    },
+    {
+      "Twitter": "https://twitter.com/UltimatToken"
+    },
+    {
+      "Website": "http://ultim.at/"
+    },
+    {
+      "Website": "http://www.ultimat.tk/"
+    }
+  ],
+  "name": "Ultimat",
+  "symbol": "ULT"
+}

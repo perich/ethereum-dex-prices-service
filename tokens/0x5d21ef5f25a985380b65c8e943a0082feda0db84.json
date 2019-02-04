@@ -1,0 +1,12 @@
+{
+  "addr": "0x5d21ef5f25a985380b65c8e943a0082feda0db84",
+  "decimals": 18,
+  "description": "Ethereumcash is a cryptocurrency that was created in order to help promote day-to-day use of cryptocurrencies. It is called EthereumCash because it is built on top of the ethereum platform and aims to replace ether as a medium of exchange (note: not to replace ether entirely). It is a coin that has the sole purpose of being traded between consumers and merchants in order to buy products in a swift and easy manner.",
+  "links": [
+    {
+      "Website": "https://www.ethereumcash.technology"
+    }
+  ],
+  "name": "ethereumcash",
+  "symbol": "ECASH"
+}

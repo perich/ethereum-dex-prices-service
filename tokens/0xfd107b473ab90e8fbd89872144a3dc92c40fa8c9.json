@@ -1,0 +1,39 @@
+{
+  "addr": "0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9",
+  "decimals": 18,
+  "description": "LALA World (“LALA”) is all about migrants and their unbanked families. Its an ECOSYSTEM enabled by the LALA Wallet as a PLATFORM, a single sign-on platform revolving around their issues and problems. Employment issues, digital ID’s, communities build up, government and NGO partnerships, health issues, and of course, a new financial ecosystem for the huge underbanked population by capitalizing the Blockchain revolution to bridge the gap between cash, digital world.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2268691.0"
+    },
+    {
+      "Blog": "https://blog.lalaworld.io/"
+    },
+    {
+      "Email": "mailto:hello@lalaworld.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/MyLaLaWorld"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/LaLa_World/"
+    },
+    {
+      "Slack": "https://slacklalaworld.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/LaLaWorld"
+    },
+    {
+      "Twitter": "https://twitter.com/MyLaLaWorld"
+    },
+    {
+      "Website": "https://lalaworld.io/"
+    },
+    {
+      "Whitepaper": "https://lalaworld.io/whitepaper.pdf"
+    }
+  ],
+  "name": "LALA",
+  "symbol": "LALA"
+}

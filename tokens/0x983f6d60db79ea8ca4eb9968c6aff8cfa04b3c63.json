@@ -1,0 +1,46 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "SONM",
+  "addr": "0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63",
+  "decimals": 18,
+  "description": "SONM is the universal fog supercomputer powered by the Ethereum blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "http://a.sonm.io/bitcointalk"
+    },
+    {
+      "Blog": "https://blog.sonm.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/sonm/"
+    },
+    {
+      "Email": "mailto:support@sonm.io"
+    },
+    {
+      "Facebook": "http://a.sonm.io/facebook"
+    },
+    {
+      "Github": "http://a.sonm.io/github"
+    },
+    {
+      "Reddit": "http://a.sonm.io/reddit"
+    },
+    {
+      "Slack": "http://a.sonm.io/slack"
+    },
+    {
+      "Telegram": "http://a.sonm.io/telegram_public_en"
+    },
+    {
+      "Twitter": "http://a.sonm.io/twitter"
+    },
+    {
+      "Website": "https://sonm.io/"
+    },
+    {
+      "Whitepaper": "http://a.sonm.io/whitepaper"
+    }
+  ],
+  "name": "SONM Token",
+  "symbol": "SNM"
+}

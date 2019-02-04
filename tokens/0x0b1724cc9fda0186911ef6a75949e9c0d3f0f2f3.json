@@ -1,0 +1,24 @@
+{
+  "addr": "0x0b1724cc9fda0186911ef6a75949e9c0d3f0f2f3",
+  "decimals": 8,
+  "description": "ETHERIYA: AN Ethereum Token Backed Micro & Macro Freelance Marketplace",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1975694.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/etheriya/"
+    },
+    {
+      "Email": "mailto:etheriyaproject@gmail.com"
+    },
+    {
+      "Website": "http://www.etheriya.net/"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/0B9nA1PpRUjmuTG4ySFUzQXhwUkU/view"
+    }
+  ],
+  "name": "Etheriya",
+  "symbol": "RIYA"
+}

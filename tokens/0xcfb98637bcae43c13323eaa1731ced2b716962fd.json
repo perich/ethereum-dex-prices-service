@@ -1,0 +1,30 @@
+{
+  "addr": "0xcfb98637bcae43c13323eaa1731ced2b716962fd",
+  "decimals": 18,
+  "description": "World's first Browser-based Blockchain &amp; Ecosystem",
+  "links": [
+    {
+      "Blog": "https://medium.com/nimiq-network"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/nimiq/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Nimiq/"
+    },
+    {
+      "Slack": "https://nimiq-slackin.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/nimiqnetwork"
+    },
+    {
+      "Website": "https://nimiq.com"
+    },
+    {
+      "Website": "https://nimiq.com/"
+    }
+  ],
+  "name": "Nimiq Exchange",
+  "symbol": "NET"
+}

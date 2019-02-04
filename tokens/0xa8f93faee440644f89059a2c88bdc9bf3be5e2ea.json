@@ -1,0 +1,39 @@
+{
+  "addr": "0xa8f93faee440644f89059a2c88bdc9bf3be5e2ea",
+  "decimals": 18,
+  "description": "Cash Poker Pro is a modern poker room with a network structure and a mechanism for fast and confidential money transfers based on the blockchain technology.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2056999.0"
+    },
+    {
+      "Blog": "https://medium.com/@CashPokPro"
+    },
+    {
+      "Email": "mailto:cashppro@gmail.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/cashppro"
+    },
+    {
+      "Github": "https://github.com/cashpokerpro-dev/"
+    },
+    {
+      "Telegram": "https://t.me/cashpokerpro"
+    },
+    {
+      "Twitter": "https://twitter.com/CashPokPro"
+    },
+    {
+      "Website": "https://cashpokerpro.io/"
+    },
+    {
+      "Website": "https://cashpokerpro.io"
+    },
+    {
+      "Whitepaper": "https://cashpokerpro.io/whitepaper.pdf"
+    }
+  ],
+  "name": "Cash Poker Pro",
+  "symbol": "CASH"
+}

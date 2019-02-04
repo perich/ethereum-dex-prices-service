@@ -1,0 +1,36 @@
+{
+  "addr": "0x705ee96c1c160842c92c1aecfcffccc9c412e3d9",
+  "decimals": 18,
+  "description": "ClearPoll is a social public opinion poll network using blockchain to secure votes and poll results.",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/clearpoll/"
+    },
+    {
+      "Email": "mailto:info@clearpoll.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/groups/306720296476208/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/clearpoll/"
+    },
+    {
+      "Telegram": "https://t.me/clearpoll"
+    },
+    {
+      "Twitter": "https://twitter.com/voteclearpoll"
+    },
+    {
+      "Website": "https://www.clearpoll.io/"
+    },
+    {
+      "Website": "https://www.clearpoll.io"
+    },
+    {
+      "Whitepaper": "https://www.clearpoll.io/downloads/ClearPoll-Whitepaper.pdf"
+    }
+  ],
+  "name": "ClearPoll Token",
+  "symbol": "POLL"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0xb9e7f8568e08d5659f5d29c4997173d84cdf2607",
+  "decimals": 18,
+  "description": "Swarm City is a network of different hives/teams, each with its specific focus and approach. Find the team that focuses on your interests and connect!",
+  "links": [
+    {
+      "Blog": "https://medium.com/swarm-city-times"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/swarm-city/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/groups/SwarmCity/"
+    },
+    {
+      "Github": "https://github.com/swarmcity"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SwarmCity/"
+    },
+    {
+      "Slack": "https://slackinvite.swarm.city/"
+    },
+    {
+      "Twitter": "https://twitter.com/swarmcitydapp"
+    },
+    {
+      "Website": "https://swarm.city/"
+    }
+  ],
+  "name": "Swarm City Token",
+  "symbol": "SWT"
+}

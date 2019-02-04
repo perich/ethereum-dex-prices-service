@@ -1,0 +1,31 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "EBCC",
+  "addr": "0x76e82406a5040b605c6d30caf4802e7eb3184bbc",
+  "decimals": 6,
+  "description": "Ethereum Based Cross Crypto - Your Pass to Crypto Freedom",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2347142.0"
+    },
+    {
+      "Email": "mailto:support@ebcc.tech"
+    },
+    {
+      "Facebook": "https://www.facebook.com/eBCCToken/"
+    },
+    {
+      "Telegram": "https://t.me/ebcctoken"
+    },
+    {
+      "Twitter": "https://twitter.com/EBCC15"
+    },
+    {
+      "Website": "https://ebcc.tech/"
+    },
+    {
+      "Website": "https://ebcc.tech"
+    }
+  ],
+  "name": "eBitcoinCash",
+  "symbol": "eBCC"
+}

@@ -1,0 +1,33 @@
+{
+  "addr": "0x75c79b88face8892e7043797570c390bc2db52a7",
+  "decimals": 8,
+  "description": "GAS is an ERC20 token used for the Gas Files decentralized file storage platform. Gas Files offers privacy, security and a truly unlimited file storage solution!",
+  "links": [
+    {
+      "Email": "mailto:admin@gasfiles.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/mygasfiles"
+    },
+    {
+      "Github": "https://github.com/gasfiles/crowdsale/"
+    },
+    {
+      "Telegram": "https://t.me/gasfilessupport"
+    },
+    {
+      "Twitter": "https://twitter.com/gasfiles"
+    },
+    {
+      "Website": "https://www.gasfiles.com"
+    },
+    {
+      "Whitepaper": "https://www.gasfiles.com/wp.pdf"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2814987.0"
+    }
+  ],
+  "name": "Gas Files",
+  "symbol": "GAS"
+}

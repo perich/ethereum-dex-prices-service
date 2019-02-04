@@ -1,0 +1,39 @@
+{
+  "addr": "0x0b76544f6c413a555f309bf76260d1e02377c02a",
+  "decimals": 6,
+  "description": "We are a small startup group focusing on IoT based decentralized applications. Our team members are located in Singapore, Canada, US and China. Our INT foundation is located in Singapore with an official website of http://intchain.io.",
+  "links": [
+    {
+      "Email": "mailto:intfoundation@intchain.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/INTChain"
+    },
+    {
+      "Github": "https://github.com/intfoundation"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/INTCHAIN/"
+    },
+    {
+      "Slack": "https://intchainworkspace.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/INTChainOfficial"
+    },
+    {
+      "Twitter": "https://twitter.com/intchain"
+    },
+    {
+      "Website": "https://intchain.io/en/"
+    },
+    {
+      "Website": "https://intchain.io/"
+    },
+    {
+      "Whitepaper": "https://intchain.io/whitepaper/INT-whitepaper-1.0-EN.pdf"
+    }
+  ],
+  "name": "Internet Node Token",
+  "symbol": "INT"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0xc7579bb99af590ec71c316e1ac4436c535039594",
+  "decimals": 18,
+  "description": "TBIS - Titanium Blockchain Infrastructure Services is an Infrastructure as a Service platform that allows entire IT enterprises can be hosted on the Ethereum blockchain.",
+  "links": [
+    {
+      "Email": "mailto:james.connolly@tbis.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/TBISICO/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/TBISINC/"
+    },
+    {
+      "Slack": "https://tbis.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/tbisinc"
+    },
+    {
+      "Twitter": "https://twitter.com/TBISINC"
+    },
+    {
+      "Website": "https://tbis.io/"
+    },
+    {
+      "Website": "https://tbis.io"
+    },
+    {
+      "Whitepaper": "https://tbis.io/wp-content/uploads/2017/12/Titanium-Infrastructure-Services-White-Paper-v2.6.pdf"
+    }
+  ],
+  "name": "Titanium BAR Token",
+  "symbol": "BAR"
+}

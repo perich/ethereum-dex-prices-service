@@ -1,0 +1,39 @@
+{
+  "addr": "0x0835ecd15ddf08d4786304d71b4672dc5c40f011",
+  "decimals": 18,
+  "description": "DS Plus is a platform with a cryptocashback service, working on basis of a mobile application with the PlusCoin cryptocurrency integrated, based on the Ethereum Blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2067375.0"
+    },
+    {
+      "Blog": "https://medium.com/@DSPlus.io"
+    },
+    {
+      "Email": "mailto:mail@dsplus.pro"
+    },
+    {
+      "Facebook": "https://www.facebook.com/DS-PLUS-Fork-128078354505520/"
+    },
+    {
+      "Github": "https://github.com/dsplus/PlusCoin"
+    },
+    {
+      "Slack": "https://join.slack.com/t/pluscointeam/shared_invite/MjM3ODY2MDU1MDc5LTE1MDQ2NzcxOTEtZDQwMzU5NDZkZA"
+    },
+    {
+      "Telegram": "https://t.me/PlusCoinENG"
+    },
+    {
+      "Twitter": "https://twitter.com/DsplusF"
+    },
+    {
+      "Website": "https://pluscoin.io/"
+    },
+    {
+      "Whitepaper": "https://pluscoin.io/images/dsp/pluscoin_wp.pdf"
+    }
+  ],
+  "name": "PlusCoin",
+  "symbol": "PLC"
+}

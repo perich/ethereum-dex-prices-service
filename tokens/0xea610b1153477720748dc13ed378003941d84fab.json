@@ -1,0 +1,39 @@
+{
+  "addr": "0xea610b1153477720748dc13ed378003941d84fab",
+  "decimals": 18,
+  "description": "ALIS is a social media platform which provides our customers with reliable information from experts in no time. We were inspired by STEEM (https://steem.io) and their billions of evaluations to create a media platform specialized for the Japanese market. Our mission is to filter through the myriad of advertising and stealth marketing campaigns. Our goal is to provide more reliable information than traditional media outlets. Please read our whitepaper for further information.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2102935"
+    },
+    {
+      "Blog": "https://medium.com/@alismedia"
+    },
+    {
+      "Email": "mailto:info@alismedia.jp"
+    },
+    {
+      "Facebook": "https://www.facebook.com/pages/ALIS-Hong-Kong/129889614272883"
+    },
+    {
+      "Github": "https://github.com/AlisProject"
+    },
+    {
+      "Slack": "https://alis-slack.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/EpPqE0QWIaFrG3zTewongQ"
+    },
+    {
+      "Twitter": "https://twitter.com/ALIS_media"
+    },
+    {
+      "Website": "https://alismedia.jp/"
+    },
+    {
+      "Whitepaper": "https://alisproject.github.io/whitepaper/whitepaper_v1.01.pdf"
+    }
+  ],
+  "name": "AlisToken",
+  "symbol": "ALIS"
+}

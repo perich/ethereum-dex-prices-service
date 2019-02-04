@@ -1,0 +1,42 @@
+{
+  "addr": "0x1961b3331969ed52770751fc718ef530838b6dee",
+  "decimals": 18,
+  "description": "BitDegree brings blockchain technology to online education and courses.  BitDegree will enable rewarding participants with cryptocurrency, tracking achievements and provide tools for businesses to recruit talent.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2214321"
+    },
+    {
+      "Blog": "https://blog.bitdegree.org/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bitdegree/"
+    },
+    {
+      "Email": "mailto:hello@bitdegree.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bitdegree.org/"
+    },
+    {
+      "Github": "https://github.com/bitdegree"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/BitDegree/"
+    },
+    {
+      "Telegram": "https://t.me/bitdegree"
+    },
+    {
+      "Twitter": "https://twitter.com/bitdegree_org"
+    },
+    {
+      "Website": "https://www.bitdegree.org/"
+    },
+    {
+      "Whitepaper": "https://www.bitdegree.org/white-paper.pdf"
+    }
+  ],
+  "name": "BitDegree Token",
+  "symbol": "BDG"
+}

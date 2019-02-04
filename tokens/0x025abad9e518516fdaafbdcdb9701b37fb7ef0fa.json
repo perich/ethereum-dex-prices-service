@@ -1,0 +1,39 @@
+{
+  "addr": "0x025abad9e518516fdaafbdcdb9701b37fb7ef0fa",
+  "decimals": 0,
+  "description": "StarCredits is the ethereum token for entertainment project Back to Earth. It can be used to:\n-Sway real-time story outcomes\n-Earn in-game content\n-Unlock special features\n-Discover hidden puzzles\n-Purchase specific storylines\nGoldenTickets is the sister token to StarCredits (STRC) for the entertainment project Back to Earth. There are only 920 in circulation. They can be used on exclusive opportunities in the project, or traded in for a share of 88K $STRC that will be spilt evenly between the remaining GTKT during a second Token Sale.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1759190.0"
+    },
+    {
+      "Blog": "https://backto.earth/blog/"
+    },
+    {
+      "Email": "mailto:contact@backto.earth"
+    },
+    {
+      "Facebook": "https://www.facebook.com/backtoearthproductions/"
+    },
+    {
+      "Github": "https://github.com/sprux/BackToEarth"
+    },
+    {
+      "Telegram": "https://t.me/backtoearth"
+    },
+    {
+      "Twitter": "https://twitter.com/_backtoearth"
+    },
+    {
+      "Website": "https://backto.earth/"
+    },
+    {
+      "Website": "https://backto.earth"
+    },
+    {
+      "Whitepaper": "https://backto.earth/blog/back-to-earth-white-paper/"
+    }
+  ],
+  "name": "GoldenTickets",
+  "symbol": "GTKT"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0x8eb24319393716668d768dcec29356ae9cffe285",
+  "decimals": 8,
+  "description": "SingularityNET is a decentralized marketplace for AI algorithms",
+  "links": [
+    {
+      "Blog": "https://blog.singularitynet.io/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/singularitynet/"
+    },
+    {
+      "Email": "mailto:info@singularitynet.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/singularityNET.io"
+    },
+    {
+      "Github": "https://github.com/singnet/"
+    },
+    {
+      "Telegram": "https://t.me/singularitynet"
+    },
+    {
+      "Twitter": "https://twitter.com/singularity_net"
+    },
+    {
+      "Website": "https://singularitynet.io/"
+    },
+    {
+      "Whitepaper": "https://public.singularitynet.io/whitepaper.pdf"
+    }
+  ],
+  "name": "SingularityNET Token",
+  "symbol": "AGI"
+}

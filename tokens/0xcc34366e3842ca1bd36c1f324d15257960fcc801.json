@@ -1,0 +1,45 @@
+{
+  "addr": "0xcc34366e3842ca1bd36c1f324d15257960fcc801",
+  "decimals": 18,
+  "description": "All-in-one user-friendly multicurrency wallet. Cryptocard, available and acting in every country. Bridge between crypto and fiat currencies.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2375768"
+    },
+    {
+      "Blog": "https://medium.com/@bonpay"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/bonpay/"
+    },
+    {
+      "Email": "mailto:support@bonpay.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/bonpaycom"
+    },
+    {
+      "Github": "https://github.com/bonpay"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Bonpay/"
+    },
+    {
+      "Slack": "https://bonpay.herokuapp.com/"
+    },
+    {
+      "Telegram": "https://t.me/bonpay_eng"
+    },
+    {
+      "Twitter": "https://twitter.com/Bonpay_com"
+    },
+    {
+      "Website": "https://bonpay.com/"
+    },
+    {
+      "Whitepaper": "https://bonpay.com/whitepaper"
+    }
+  ],
+  "name": "Bonpay Token",
+  "symbol": "BON"
+}

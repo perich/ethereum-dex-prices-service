@@ -1,0 +1,36 @@
+{
+  "addr": "0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1",
+  "decimals": 18,
+  "description": "Melonport is the private company building the open-source Melon Protocol. The Melon protocol is a blockchain protocol for digital asset management built on the Ethereum platform. It enables participants to set up, manage and invest in digital asset management strategies in an open, competitive and decentralised manner.",
+  "links": [
+    {
+      "Blog": "https://medium.com/melonport-blog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/melon/"
+    },
+    {
+      "Email": "mailto:team@melonport.com"
+    },
+    {
+      "Github": "https://github.com/melonproject"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/melonproject/"
+    },
+    {
+      "Slack": "http://chat.melonport.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/melonport"
+    },
+    {
+      "Website": "https://melonport.com/"
+    },
+    {
+      "Whitepaper": "https://github.com/melonproject/greenpaper/blob/master/melonprotocol.pdf"
+    }
+  ],
+  "name": "Melon Token",
+  "symbol": "MLN"
+}

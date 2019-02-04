@@ -1,0 +1,39 @@
+{
+  "addr": "0x82b0e50478eeafde392d45d1259ed1071b6fda81",
+  "decimals": 18,
+  "description": "DNA is the fuel the feeds our application, Gene-Chain. Gene-Chain is a decentralized private storage and search system for genomic data. Gene-Chain allows users like yourself to upload and privately store your genomic data. You can then share your genomic data with your doctor, advisor, or anyone else you choose. We will keep it safe and private by storing it on the blockchain. In addition to sharing your genomic data, you can also 'sell' your genomic data, allow companies to search for specific criteria and offer to buy your genetic data from you. DNA is the currency in which the Gene-Chain application operates. No other tokens or currencies are accepted. DNA must be used.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=1968128"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/encrypgen/"
+    },
+    {
+      "Email": "mailto:drkoepsell@encrypgen.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Encrypgen"
+    },
+    {
+      "Github": "https://github.com/encrypgen/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/encrypgen/"
+    },
+    {
+      "Slack": "https://discordapp.com/invite/seFgDGy"
+    },
+    {
+      "Twitter": "https://twitter.com/encrypgen"
+    },
+    {
+      "Website": "https://www.encrypgen.com/"
+    },
+    {
+      "Website": "https://www.encrypgen.com/customer-portal/"
+    }
+  ],
+  "name": "DNA Token",
+  "symbol": "DNA"
+}

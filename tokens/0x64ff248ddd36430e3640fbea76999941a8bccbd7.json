@@ -1,0 +1,39 @@
+{
+  "addr": "0x64ff248ddd36430e3640fbea76999941a8bccbd7",
+  "decimals": 18,
+  "description": "FreelancerCoin is an Ethereum-based freelancing platform. Clients can pay freelancers using FreelancerCoin token while setting up a ‘smart contract’ via Blockchain technology that is never changed or altered.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@freelancercoin_ico/"
+    },
+    {
+      "Email": "mailto:support@freelancercoin.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/FreelancerCoin-211771076042708/"
+    },
+    {
+      "Github": "https://github.com/FreelancerCoin/FreelancerCoinContract"
+    },
+    {
+      "Instagram": "https://www.instagram.com/freelancercoin/"
+    },
+    {
+      "Telegram": "https://t.me/freelancercoin_official"
+    },
+    {
+      "Twitter": "https://twitter.com/freelancercoin_"
+    },
+    {
+      "Website": "https://www.freelancercoin.io/"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCreN9JEB9A6xCKZMNX0dcLA?view_as=subscriber"
+    },
+    {
+      "Whitepaper": "https://www.freelancercoin.io/assets/FREELANCERCOIN.pdf"
+    }
+  ],
+  "name": "FreelancerCoin",
+  "symbol": "LAN"
+}

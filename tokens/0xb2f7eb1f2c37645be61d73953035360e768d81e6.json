@@ -1,0 +1,36 @@
+{
+  "addr": "0xb2f7eb1f2c37645be61d73953035360e768d81e6",
+  "decimals": 18,
+  "description": "CRYPTOCURRENCY EXCHANGE",
+  "links": [
+    {
+      "Blog": "https://medium.com/@cobinhoodblog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/cobinhood/"
+    },
+    {
+      "Email": "mailto:support@cobinhood.com"
+    },
+    {
+      "Github": "https://github.com/cobinhood"
+    },
+    {
+      "Slack": "http://slack.cobinhood.com/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/GhBM6A2ktfrwdjzh9hDfQA"
+    },
+    {
+      "Twitter": "https://twitter.com/cobinhood"
+    },
+    {
+      "Website": "https://cobinhood.com/"
+    },
+    {
+      "Whitepaper": "https://cobinhood.com/assets/whitepaper/whitepaper_en.pdf"
+    }
+  ],
+  "name": "Cobinhood Token",
+  "symbol": "COB"
+}

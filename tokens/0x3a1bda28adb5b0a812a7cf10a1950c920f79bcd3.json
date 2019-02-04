@@ -1,0 +1,36 @@
+{
+  "addr": "0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3",
+  "decimals": 18,
+  "description": "FLIP crypto-token for buying and selling gaming digital goods:  Gameflip is introducing FLIP, a crypto-token that enables digital items on all gaming platforms to be sold as liquid assets.  FLIP leverages the Ethereum blockchain and ERC-20 token interface.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2234801"
+    },
+    {
+      "Blog": "https://medium.com/@fliptoken"
+    },
+    {
+      "Email": "mailto:support@gameflip.com"
+    },
+    {
+      "Github": "https://github.com/gameflip/"
+    },
+    {
+      "Telegram": "https://t.me/flip_token"
+    },
+    {
+      "Twitter": "https://twitter.com/Gameflip"
+    },
+    {
+      "Website": "https://tokensale.gameflip.com/"
+    },
+    {
+      "Website": "https://tokensale.gameflip.com"
+    },
+    {
+      "Whitepaper": "https://tokensale.gameflip.com/static/Gameflip_whitepaper.pdf"
+    }
+  ],
+  "name": "FLIP Token",
+  "symbol": "FLP"
+}

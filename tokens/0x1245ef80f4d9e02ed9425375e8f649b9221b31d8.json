@@ -1,0 +1,39 @@
+{
+  "addr": "0x1245ef80f4d9e02ed9425375e8f649b9221b31d8",
+  "decimals": 8,
+  "description": "TRADING CRYPTO-CURRENCY TERMINAL FOR TRADING ON TWO EXCHANGES SIMULTANEOUSLY!",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2242346"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/arbitragect/"
+    },
+    {
+      "Email": "mailto:kirill@arbitragect.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/groups/arbitragect/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/arbitrageCT/"
+    },
+    {
+      "Telegram": "https://t.me/ArbitrageCT"
+    },
+    {
+      "Twitter": "https://twitter.com/arbitrage_ct"
+    },
+    {
+      "Website": "https://arbitragect.com/"
+    },
+    {
+      "Website": "https://arbitragect.com/en/index.html"
+    },
+    {
+      "Whitepaper": "https://arbitragect.com/arbitragect_wp_en.pdf"
+    }
+  ],
+  "name": "ArbitrageCT",
+  "symbol": "ARCT"
+}

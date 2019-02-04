@@ -1,0 +1,36 @@
+{
+  "addr": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+  "decimals": 18,
+  "description": "OriginTrail enables seamless data sharing along any supply chain. Decentralized, blockchain-supported platform ensures trust, transparency, and security. It helps companies exchange relevant data seamlessly and in a secure way to build accountability, protect their brands and increase efficiencies.\nThe Trace token is the means of compensation between supply chain data producers and data consumers on one side and the OriginTrail node holders on the other. It provides the incentive to the nodes in the peer to peer network to perform the system functionalities.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2436140.0"
+    },
+    {
+      "Blog": "https://medium.com/origintrail"
+    },
+    {
+      "Facebook": "https://www.facebook.com/origintrail/"
+    },
+    {
+      "Github": "https://github.com/origintrail"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/origintrail"
+    },
+    {
+      "Telegram": "https://t.me/origintrail"
+    },
+    {
+      "Twitter": "https://twitter.com/origin_trail"
+    },
+    {
+      "Website": "https://origintrail.io"
+    },
+    {
+      "Whitepaper": "https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf"
+    }
+  ],
+  "name": "Trace Token",
+  "symbol": "TRAC"
+}

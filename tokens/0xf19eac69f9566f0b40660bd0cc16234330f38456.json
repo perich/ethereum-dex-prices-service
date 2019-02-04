@@ -1,0 +1,51 @@
+{
+  "addr": "0xf19eac69f9566f0b40660bd0cc16234330f38456",
+  "decimals": 18,
+  "description": "CraftR, a global decentralized P2P marketplace for buying and selling digital creative assets through the blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3053063"
+    },
+    {
+      "Blog": "https://medium.com/@craftrdev"
+    },
+    {
+      "Email": "mailto:info@craftr.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/CraftrToken"
+    },
+    {
+      "Github": "https://github.com/CraftrToken"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/craftrproject/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/craftr_token/"
+    },
+    {
+      "Slack": "https://craftrtokengroup.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/craftr_community"
+    },
+    {
+      "Telegram": "https://t.me/craftrtoken"
+    },
+    {
+      "Twitter": "https://twitter.com/craftr_token"
+    },
+    {
+      "Website": "https://craftr.io"
+    },
+    {
+      "Whitepaper": "https://www.craftr.io/WP/craftr-whitepaper-v2.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCfFK9U_9HRW1GMu9nouZzPA"
+    }
+  ],
+  "name": "CraftR",
+  "symbol": "CRAFTR"
+}

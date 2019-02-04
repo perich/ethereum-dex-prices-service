@@ -1,0 +1,30 @@
+{
+  "addr": "0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e",
+  "decimals": 8,
+  "description": "EtherBTC (ETHB) combines the speed and affordability of the Ethereum blockchain with the limited nature of bitcoin. Only 21,000,000 ETHB will ever exist, the same maximum number as bitcoin.",
+  "links": [
+    {
+      "Blog": "http://etherbtc.io/news/"
+    },
+    {
+      "Email": "mailto:info@etherbtc.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Etherbtc/"
+    },
+    {
+      "Twitter": "https://twitter.com/EtherBTC_io"
+    },
+    {
+      "Website": "http://etherbtc.io/"
+    },
+    {
+      "Website": "https://etherbtc.io"
+    },
+    {
+      "Whitepaper": "http://etherbtc.io/ETHERBTC_WHITE_PAPER.pdf"
+    }
+  ],
+  "name": "EtherBIT",
+  "symbol": "ETHB"
+}

@@ -1,0 +1,45 @@
+{
+  "addr": "0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
+  "decimals": 18,
+  "description": "The OST software platform helps businesses gain competitive advantage from blockchain and turn the potential of decentralization into reality.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2266379.0"
+    },
+    {
+      "Blog": "https://medium.com/ostdotcom"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ost/"
+    },
+    {
+      "Facebook": "https://www.facebook.com/OST"
+    },
+    {
+      "Github": "https://github.com/OpenSTFoundation"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/18209852"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/OSTdotcom"
+    },
+    {
+      "Telegram": "https://t.me/ostdotcom"
+    },
+    {
+      "Twitter": "https://twitter.com/OSTdotcom"
+    },
+    {
+      "Website": "https://ost.com"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/0Bwgf8QuAEOb7Z2xIeUlLd21DSjQ/view"
+    },
+    {
+      "YouTube": "https://www.youtube.com/ostdotcom"
+    }
+  ],
+  "name": "Simple Token",
+  "symbol": "ST"
+}

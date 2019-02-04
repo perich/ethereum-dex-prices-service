@@ -1,0 +1,33 @@
+{
+  "addr": "0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1",
+  "decimals": 18,
+  "description": "We aim to ensure that all digital assets holders and crypto wallet users have ultimate control over who inherits their digital and crypto assets. DGPT is being used to operate with the smart contract which in return will store any files you want and grant inheritance to your chosen individuals when the time is right by tracking your online presence.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2203117"
+    },
+    {
+      "Blog": "https://blog.digipulse.io/"
+    },
+    {
+      "Email": "mailto:hello@digipulse.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/digipulse.io/"
+    },
+    {
+      "Github": "https://github.com/digipulseio"
+    },
+    {
+      "Twitter": "https://twitter.com/DigiPulseIO"
+    },
+    {
+      "Website": "https://www.digipulse.io/"
+    },
+    {
+      "Whitepaper": "https://www.digipulse.io/whitepaper.pdf"
+    }
+  ],
+  "name": "DigiPulse Token",
+  "symbol": "DGPT"
+}

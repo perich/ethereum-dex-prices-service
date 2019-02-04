@@ -1,0 +1,42 @@
+{
+  "addr": "0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765",
+  "decimals": 8,
+  "description": "LiveEdu is building the next-gen decentralized online learning Lynda.com. Using the blockchain, we connect content creators to viewers who teach them how to build complete products. We are a Y-combinator company.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2310239.0"
+    },
+    {
+      "Blog": "https://medium.com/liveedu-ico"
+    },
+    {
+      "Email": "mailto:tokens@liveedu.tv"
+    },
+    {
+      "Facebook": "https://www.facebook.com/liveedutvlive"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/EDU_Ecosystem/"
+    },
+    {
+      "Telegram": "https://t.me/educoins"
+    },
+    {
+      "Telegram": "https://t.me/liveedu_chinese"
+    },
+    {
+      "Twitter": "https://twitter.com/liveedutv"
+    },
+    {
+      "Twitter": "https://twitter.com/edu_coins"
+    },
+    {
+      "Website": "https://tokensale.liveedu.tv/"
+    },
+    {
+      "Whitepaper": "https://tokensale.liveedu.tv/static/docs/LiveEdu-white-paper.pdf"
+    }
+  ],
+  "name": "Education",
+  "symbol": "EDU"
+}

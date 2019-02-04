@@ -1,0 +1,27 @@
+{
+  "addr": "0xfb7da9863e030495db8b4d067d665fc8433fff85",
+  "decimals": 18,
+  "description": "PCC PCORN is an adult entertainment platform build with the best software technologies and practices. There are two live adult services running on PCORN platform already: PORNCORN.VIDEO video streaming website, PCORN mobile app for Android. PCC token will be accepted as secure, confidential and private payment method for any of PCORN services (premium subscriptions and others).",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2185982"
+    },
+    {
+      "Email": "mailto:info@pccico.com"
+    },
+    {
+      "Telegram": "https://t.me/pccicoofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/PornCorn_Video"
+    },
+    {
+      "Website": "https://pccico.com/"
+    },
+    {
+      "Whitepaper": "https://pccico.com/docs/pcc_white_paper.pdf"
+    }
+  ],
+  "name": "PCC Token",
+  "symbol": "PCC"
+}

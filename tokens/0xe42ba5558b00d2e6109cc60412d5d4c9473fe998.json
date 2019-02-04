@@ -1,0 +1,30 @@
+{
+  "addr": "0xe42ba5558b00d2e6109cc60412d5d4c9473fe998",
+  "decimals": 18,
+  "description": "An ERC20 Token deployed using Ethereum smart contract. This is a privately issued token that lives on iMM Platform. This token is used to raise money for online and offline education development as well as trading. We aim to transcend a 30% total investment towards blockchain in education system and 70% of total investment into trading.",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/iMMTraders.Official/"
+    },
+    {
+      "Github": "https://github.com/immcoin"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/immcoin"
+    },
+    {
+      "Slack": "https://immcoin.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/immtradersclub"
+    },
+    {
+      "Website": "https://immcoin.io/"
+    },
+    {
+      "Whitepaper": "https://immcoin.io/whitepaper"
+    }
+  ],
+  "name": "iMM Coin",
+  "symbol": "IMC"
+}

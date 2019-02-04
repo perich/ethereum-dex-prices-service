@@ -1,0 +1,46 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "SMART",
+  "addr": "0x6f6deb5db0c4994a8283a01d6cfeeb27fc3bbe9c",
+  "decimals": 0,
+  "description": "SmartBillions is the first fully decentralized and transparent global lottery managed by Ethereum's smart contract.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2175951.0"
+    },
+    {
+      "Blog": "https://medium.com/@SmartBillions"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/smartbillions/"
+    },
+    {
+      "Email": "mailto:admin@smartbillions.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/smartbns/"
+    },
+    {
+      "Github": "https://github.com/SmartBillions/SmartBillions/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/SmartBillions/"
+    },
+    {
+      "Slack": "https://smartbillions.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/SmartBillionsGroup"
+    },
+    {
+      "Twitter": "https://twitter.com/smartbns/"
+    },
+    {
+      "Website": "https://smartbillions.com/"
+    },
+    {
+      "Whitepaper": "https://smartbillions.com/docs/SmartBillions_Smartpaper.pdf"
+    }
+  ],
+  "name": "SmartBillions Token",
+  "symbol": "Smart"
+}

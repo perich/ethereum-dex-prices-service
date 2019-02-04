@@ -1,0 +1,18 @@
+{
+  "addr": "0x122a86b5dff2d085afb49600b4cd7375d0d94a5f",
+  "decimals": 8,
+  "description": "ITL is a multi-wallet system integrated into debit cards, ITL is developing wireless P.O.S. terminals based on blockchain.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2940301.0"
+    },
+    {
+      "Twitter": "https://twitter.com/ItalianliraWs"
+    },
+    {
+      "Website": "https://www.italianlira.ws/"
+    }
+  ],
+  "name": "ITL (Italian Lira)",
+  "symbol": "ITL"
+}

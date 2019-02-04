@@ -1,0 +1,42 @@
+{
+  "addr": "0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a",
+  "decimals": 8,
+  "description": "Decentralized and 100% autonomous P2P VPN Network on blockchain with the first Internet bandwidth marketplace powered by own crypto-economy",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2254209"
+    },
+    {
+      "Blog": "https://medium.com/privatix"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/privatix/"
+    },
+    {
+      "Email": "mailto:support@privatix.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/Privatix.ltd/"
+    },
+    {
+      "Github": "https://github.com/Privatix"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/privatix"
+    },
+    {
+      "Telegram": "https://t.me/Privatix"
+    },
+    {
+      "Twitter": "https://twitter.com/Privatix1"
+    },
+    {
+      "Website": "https://privatix.io/"
+    },
+    {
+      "Whitepaper": "https://dxw4crzwfgmzw.cloudfront.net/whitepaper/PRIVATIX-WHITEPAPER.pdf"
+    }
+  ],
+  "name": "Privatix",
+  "symbol": "PRIX"
+}

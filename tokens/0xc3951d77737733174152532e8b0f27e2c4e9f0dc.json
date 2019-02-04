@@ -1,0 +1,39 @@
+{
+  "addr": "0xc3951d77737733174152532e8b0f27e2c4e9f0dc",
+  "decimals": 6,
+  "description": "Basic Amazon Web Services for $1 USD per month!  Offer available for Cloud Token payments only.",
+  "links": [
+    {
+      "Blog": "https://cloudwith.me/blog"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/cloud/"
+    },
+    {
+      "Email": "mailto:info@cloudwith.me"
+    },
+    {
+      "Facebook": "https://www.facebook.com/cloudwithme/"
+    },
+    {
+      "Github": "https://gist.github.com/cwmdev/a72fe06869d1296c10458df8b51b2d20"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/CLDWithMe/"
+    },
+    {
+      "Slack": "https://cloudwithme.slack.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/Cloudwith_me"
+    },
+    {
+      "Website": "https://cloudwith.me/"
+    },
+    {
+      "Whitepaper": "https://token.cloudwith.me/uploads/themepdf/en/cloud_ico_whitepaper.pdf"
+    }
+  ],
+  "name": "Cloud",
+  "symbol": "CLD"
+}

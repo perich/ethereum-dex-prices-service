@@ -1,0 +1,39 @@
+{
+  "addr": "0x9214ec02cb71cba0ada6896b8da260736a67ab10",
+  "decimals": 18,
+  "description": "REAL (Real Estate Asset Ledger) is a new Ethereum Smart-Contracts governed ecosystem that applies Blockchain technologies to the enormous Real Estate investment industry. Key to our ecosystem is the innovation of REAL Tokens, a unique Blockchain-secured digital asset with inherent value as a secure cryptocurrency, which may be traded or used to participate in Crowdfunding by purchasing Real Estate Participations (RPP) on our platform.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@real_token/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/real/"
+    },
+    {
+      "Email": "mailto:info@real.markets"
+    },
+    {
+      "Facebook": "https://www.facebook.com/realestateassetledger"
+    },
+    {
+      "Github": "https://github.com/RealEstateAssetLedger/real_contract"
+    },
+    {
+      "Slack": "https://realtokensale.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/realplatform"
+    },
+    {
+      "Twitter": "https://twitter.com/real_token"
+    },
+    {
+      "Website": "https://www.real.markets/"
+    },
+    {
+      "Whitepaper": "https://www.real.markets/REAL_Whitepaper.pdf"
+    }
+  ],
+  "name": "REAL",
+  "symbol": "REAL"
+}

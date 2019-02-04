@@ -1,0 +1,15 @@
+{
+  "addr": "0x468d58d6a52249844a166d0ef045dbdd7ce0c751",
+  "decimals": 18,
+  "description": "Member of RAR Tokens family.",
+  "links": [
+    {
+      "Website": "http://rartokens.com/"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/1yDrSfk5WxI_Gz5xT4F_wC-yzmcaM55gq/view"
+    }
+  ],
+  "name": "RAX Token",
+  "symbol": "RAX"
+}

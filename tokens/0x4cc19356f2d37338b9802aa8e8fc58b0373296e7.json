@@ -1,0 +1,13 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "SELFKEY",
+  "addr": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+  "decimals": 18,
+  "description": "SelfKey is a blockchain based digital identity system that allows its users to truly own and manage their digital identity and instantly apply for services.",
+  "links": [
+    {
+      "Website": "https://selfkey.org"
+    }
+  ],
+  "name": "SelfKey",
+  "symbol": "KEY"
+}

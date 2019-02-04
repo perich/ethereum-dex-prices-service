@@ -1,0 +1,33 @@
+{
+  "addr": "0x44f588aeeb8c44471439d1270b3603c66a9262f1",
+  "decimals": 18,
+  "description": "Snip is a blockchain-based news platform which is changing the way people get news by providing short, high-quality, personalized content. On Snip, anyone can become a writer and get rewarded with SnipCoin, and readers get to read the best stories.",
+  "links": [
+    {
+      "Blog": "https://medium.com/snip-news"
+    },
+    {
+      "Email": "mailto:info@snip.network"
+    },
+    {
+      "Facebook": "https://www.facebook.com/sniptoday"
+    },
+    {
+      "Github": "https://github.com/sniptoday"
+    },
+    {
+      "Telegram": "https://t.me/Sniptoday"
+    },
+    {
+      "Twitter": "https://twitter.com/sniptoday"
+    },
+    {
+      "Website": "https://www.snip.network/"
+    },
+    {
+      "Whitepaper": "https://media.snip.today/Snip_Whitepaper_en.pdf"
+    }
+  ],
+  "name": "SnipCoin",
+  "symbol": "SNIP"
+}

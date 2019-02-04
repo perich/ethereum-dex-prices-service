@@ -1,0 +1,30 @@
+{
+  "addr": "0x4c5601164e2048a4154de91fa5e0b07e626cab7f",
+  "decimals": 3,
+  "description": "A platform allows you to create beautiful single funnel for each crypto project on your mobile app. While many platforms only provide a single page service Funnel will be designed specifically for crypto-minded people by crypto-minded people. We will offer a library of pre-built templates and widgets (as well as the ability for you to create your own) using a drag &amp; drop content builder. Funnel platform aims to create fully responsive layouts for both desktop and mobile, with drag &amp; drop functionality, without the need for any design or programming knowledge.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2246775"
+    },
+    {
+      "Email": "mailto:mail@adfunnel.tech"
+    },
+    {
+      "Facebook": "https://www.facebook.com/AdFunnelTech/"
+    },
+    {
+      "Telegram": "https://t.me/adfunnelproject"
+    },
+    {
+      "Twitter": "https://twitter.com/AdFunnelTech"
+    },
+    {
+      "Website": "http://www.adfunnel.tech/"
+    },
+    {
+      "Whitepaper": "http://www.adfunnel.tech/AdFunnel-WP-v1.2.pdf"
+    }
+  ],
+  "name": "Funnel",
+  "symbol": "FNL"
+}

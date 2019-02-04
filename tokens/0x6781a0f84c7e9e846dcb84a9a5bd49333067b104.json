@@ -1,0 +1,48 @@
+{
+  "addr": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
+  "decimals": 18,
+  "description": "ZAP allows smart contracts and decentralized applications to communicate with an oracle layer delivering any arbitrary data feed. By combining real-time data feeds and powerful oraclization tools, ZAP is building an open, decentralized marketplace for creation, curation and monetization.",
+  "links": [
+    {
+      "Blog": "https://media.zapproject.org/"
+    },
+    {
+      "Email": "mailto:hello@zapproject.org"
+    },
+    {
+      "Facebook": "https://www.facebook.com/officialzapstore/"
+    },
+    {
+      "Github": "https://github.com/zapproject/"
+    },
+    {
+      "Instagram": "https://www.instagram.com/zap_org/"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/18282905/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/ZapStore/"
+    },
+    {
+      "Telegram": "https://t.me/ZapStore"
+    },
+    {
+      "Twitter": "https://twitter.com/zaporacles"
+    },
+    {
+      "Website": "https://zap.store/"
+    },
+    {
+      "Whitepaper": "https://zap.store/whitepaper.pdf"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=j1ibgCHuOR8"
+    },
+    {
+      "YouTube": "https://www.youtube.com/channel/UCj53uS32K8UwQCytBwPqmtg"
+    }
+  ],
+  "name": "ZAP TOKEN",
+  "symbol": "ZAP"
+}

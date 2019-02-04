@@ -1,0 +1,12 @@
+{
+  "addr": "0x10c0337c42843e0b8ce743d7d5ff39b711f3ad82",
+  "decimals": 18,
+  "description": "Windy is an ERC20 token created on the Ethereum Blockchain with a fixed supply of 21,000,000 coins. Created to support the process of building a mining system using wind energy and encourage the preservation of our planet.",
+  "links": [
+    {
+      "Website": "https://wndtoken.com/home"
+    }
+  ],
+  "name": "Windy",
+  "symbol": "WND"
+}

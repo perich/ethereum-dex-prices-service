@@ -1,0 +1,30 @@
+{
+  "addr": "0xdb45faeca61c70e271bffeaf66162fa68a1c4def",
+  "decimals": 0,
+  "description": "eBIT is a new ERC20 smart contract token. The Tokens will be distributed to our community to be used for credit in applications that can be build on the blockchain. eBIT is a decentralized and democratic token that gives all the power to our community. This token will be free to keep, trade, use for voting and as a credit in online applications.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2275080"
+    },
+    {
+      "Email": "mailto:contact@ebit.trade"
+    },
+    {
+      "Facebook": "https://www.facebook.com/eBITtokens/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/E6_NOUQsu1IybZhT5vI85g"
+    },
+    {
+      "Twitter": "https://twitter.com/ebit_tokens"
+    },
+    {
+      "Website": "https://www.ebit.trade/"
+    },
+    {
+      "Website": "https://www.ebit.trade"
+    }
+  ],
+  "name": "eBIT",
+  "symbol": "EBIT"
+}

@@ -1,0 +1,27 @@
+{
+  "addr": "0xcd0a53685b594a543181e6203433766648a8cd43",
+  "decimals": 3,
+  "description": "The ZXBT token has an original function. Sending tokens can be accompanied with the message or signature for identification. If desired, the sending of tokens can be used as a messenger.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2799398"
+    },
+    {
+      "Blog": "https://www.0xbt.net/blog/view/21093/zerroxbtoken-project-0xbt"
+    },
+    {
+      "Email": "mailto:0xbt@0xbt.net"
+    },
+    {
+      "Github": "https://github.com/ZerroXBToken/zxbt"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/ZerroXBToken/"
+    },
+    {
+      "Website": "https://zxbt.0xbt.net/"
+    }
+  ],
+  "name": "ZerroXBToken Project 0xbt",
+  "symbol": "ZXBT"
+}

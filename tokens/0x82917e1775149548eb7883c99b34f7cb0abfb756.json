@@ -1,0 +1,17 @@
+{
+  "addr": "0x82917e1775149548eb7883c99b34f7cb0abfb756",
+  "decimals": 8,
+  "links": [
+    {
+      "Telegram": "https://t.me/PeraBit"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2846825.0"
+    },
+    {
+      "Discord": "https://discord.gg/38p2Sut"
+    }
+  ],
+  "name": "PeraBit",
+  "symbol": "PBIT"
+}

@@ -1,0 +1,36 @@
+{
+  "addr": "0xf05a9382a4c3f29e2784502754293d88b835109c",
+  "decimals": 18,
+  "description": "Connecting vendors, buyers and agents over a fast, flexible and free global listing network.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2048725"
+    },
+    {
+      "Blog": "https://blog.rexmls.com/"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/real-estate-tokens/"
+    },
+    {
+      "Email": "mailto:support@rexmls.com"
+    },
+    {
+      "Github": "https://github.com/rexmls/RexToken"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/REXMLS/"
+    },
+    {
+      "Twitter": "https://twitter.com/rexmls"
+    },
+    {
+      "Website": "http://rexmls.com/"
+    },
+    {
+      "Whitepaper": "https://github.com/rexmls/whitepaper/blob/master/readme.md"
+    }
+  ],
+  "name": "REX - Real Estate tokens",
+  "symbol": "REX"
+}

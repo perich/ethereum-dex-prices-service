@@ -1,0 +1,43 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "EGAS",
+  "addr": "0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8",
+  "decimals": 8,
+  "description": "Smart Airdrop as Service (SAaS) solution",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2328682"
+    },
+    {
+      "Blog": "https://medium.com/@eth_gas"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/ethgas/"
+    },
+    {
+      "Email": "mailto:egas@ethgas.stream"
+    },
+    {
+      "Facebook": "https://www.facebook.com/ethgas/"
+    },
+    {
+      "Slack": "https://ethgas.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/ethgas"
+    },
+    {
+      "Twitter": "https://twitter.com/eth_gas"
+    },
+    {
+      "Website": "http://ethgas.stream/"
+    },
+    {
+      "Website": "http://www.ethgas.stream/"
+    },
+    {
+      "Whitepaper": "http://ethgas.stream/eGASwhitepaper.pdf"
+    }
+  ],
+  "name": "ETHGAS",
+  "symbol": "eGAS"
+}

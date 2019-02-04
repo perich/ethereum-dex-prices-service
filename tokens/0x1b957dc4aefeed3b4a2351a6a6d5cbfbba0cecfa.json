@@ -1,0 +1,39 @@
+{
+  "addr": "0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa",
+  "decimals": 18,
+  "description": "HOQU is the first decentralized marketing platform that allows merchants and affiliates to interact directly without brokers and ensures fair cost per actions deals based on a smart contracts.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2254411"
+    },
+    {
+      "Blog": "https://blog.hoqu.io/"
+    },
+    {
+      "Email": "mailto:info@hoqu.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/HOQUio"
+    },
+    {
+      "Github": "https://github.com/hoqu-io"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/HOQU/"
+    },
+    {
+      "Telegram": "https://t.me/HOQUIO"
+    },
+    {
+      "Twitter": "https://twitter.com/HOQU_IO"
+    },
+    {
+      "Website": "https://www.hoqu.io/"
+    },
+    {
+      "Whitepaper": "https://www.hoqu.io/hoqu-whitepaper-en.pdf"
+    }
+  ],
+  "name": "HOQU Token",
+  "symbol": "HQX"
+}

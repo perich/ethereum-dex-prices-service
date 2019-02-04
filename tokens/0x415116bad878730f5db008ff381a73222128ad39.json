@@ -1,0 +1,13 @@
+{
+  "__FORKDELTA_CUSTOM_SYMBOL": "EBCHB",
+  "addr": "0x415116bad878730f5db008ff381a73222128ad39",
+  "decimals": 18,
+  "description": "eBitcoinCash",
+  "links": [
+    {
+      "Website": "http://ebch.tech"
+    }
+  ],
+  "name": "EBitCoinCash",
+  "symbol": "EBCH"
+}

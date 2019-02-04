@@ -1,0 +1,39 @@
+{
+  "addr": "0x3136ef851592acf49ca4c825131e364170fa32b3",
+  "decimals": 18,
+  "description": "CoinFi is a platform that offers crowdsourced and professionally curated research, analysis, trading signals, trading algorithms, and market-moving news to give crypto traders real-time market intelligence.  The CoinFi token (COFI) is an ERC-20 token that will be used for access to the platform’s advanced trading signals/algos and premium research, which will require staking tokens to reward token owners and reduce volatility. The token will also be used to leverage the wisdom of the crowd. Community members who help curate news, produce research & analysis, and share trading signals will be rewarded within CoinFi's unique token-for-information ecosystem.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2571554"
+    },
+    {
+      "Blog": "https://blog.coinfi.com"
+    },
+    {
+      "Email": "mailto:contact@coinfi.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/CoinFiProject/"
+    },
+    {
+      "Github": "https://github.com/coinfi/coinfi"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/CoinFi/"
+    },
+    {
+      "Telegram": "https://t.me/coinfi"
+    },
+    {
+      "Twitter": "https://twitter.com/coin_fi"
+    },
+    {
+      "Website": "https://www.coinfi.com/"
+    },
+    {
+      "Whitepaper": "https://docs.google.com/document/d/1p6xaFl4nPv1CuJv6F2fkZ6qBq2lBS6ePyFna8QZt1KM/view"
+    }
+  ],
+  "name": "CoinFi",
+  "symbol": "COFI"
+}

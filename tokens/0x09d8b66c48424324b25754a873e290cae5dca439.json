@@ -1,0 +1,18 @@
+{
+  "addr": "0x09d8b66c48424324b25754a873e290cae5dca439",
+  "decimals": 18,
+  "description": "The Nova Token enables the creation, sale, and trading of collectible tokenized cards across any digital trading card game. The Nova Token can also be used to enter in-game tournaments and pay for other in-game purchases. This allows the Nova Token to completely replace fiat currencies in any game that implements it. Game developers that are integrated into the Nova Token platform benefit because they earn a share of Nova Token revenue.",
+  "links": [
+    {
+      "Facebook": "https://www.facebook.com/NovaBlitz/"
+    },
+    {
+      "Twitter": "https://twitter.com/NovaBlitz"
+    },
+    {
+      "Website": "https://novablitz.com/"
+    }
+  ],
+  "name": "Nova Token",
+  "symbol": "NVT"
+}

@@ -1,0 +1,27 @@
+{
+  "addr": "0xd7aa94f17d60be06414973a45ffa77efd6443f0f",
+  "decimals": 8,
+  "description": "Bitcoin Quick is a cryptocurrency, based on blockchain technology. It works on ethereum platform as a smart contract ERC-20 token. In this way our cryptocurrency transaction is 10 times faster than normal bitcoin transaction. Our cryptocurrency transaction fees are also very low when you compare with bitcoin transaction fees. You can adjust transaction fees with feature on our cryptocurrency. A bitcoin quick transaction can complete in less than 3 minutes with lowest transaction fees that belows 10 cents. You can send any amount (1 billion or 1 single cent) but transaction fee is same and less than 10 cents.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2345008.0"
+    },
+    {
+      "Email": "mailto:support@bitcoinquick.org"
+    },
+    {
+      "Telegram": "https://t.me/BitcoinQuick"
+    },
+    {
+      "Twitter": "https://twitter.com/BitcoinQuick"
+    },
+    {
+      "Website": "https://bitcoinquick.org/"
+    },
+    {
+      "Whitepaper": "https://bitcoinquick.org/whitepaper.pdf"
+    }
+  ],
+  "name": "Bitcoin Quick",
+  "symbol": "BTCQ"
+}

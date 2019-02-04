@@ -1,0 +1,27 @@
+{
+  "addr": "0x4156d3342d5c385a87d264f90653733592000581",
+  "decimals": 8,
+  "description": "Blockchain-Backed Loans",
+  "links": [
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/salt/"
+    },
+    {
+      "Email": "mailto:support@saltlending.com"
+    },
+    {
+      "Facebook": "http://facebook.com/SALTLENDING/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/BmtZ5kKgf4ekiNLggHRDmQ"
+    },
+    {
+      "Twitter": "https://twitter.com/SALTLending"
+    },
+    {
+      "Website": "https://saltlending.com/"
+    }
+  ],
+  "name": "Salt",
+  "symbol": "SALT"
+}

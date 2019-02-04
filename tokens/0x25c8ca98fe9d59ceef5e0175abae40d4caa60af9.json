@@ -1,0 +1,21 @@
+{
+  "addr": "0x25c8ca98fe9d59ceef5e0175abae40d4caa60af9",
+  "decimals": 18,
+  "description": "The company \"Flash Token\" is engaged in the mining and sale of equipment for mining since 2013. We successfully invest in promising crypto-currencies and ICO companies, we have our own crypto-investment fund and develop applications for digital crypto-currencies.",
+  "links": [
+    {
+      "Website": "https://flashtoken.io"
+    },
+    {
+      "Telegram": "https://t.me/flashcommunityru"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2574672.140"
+    },
+    {
+      "Github": "https://github.com/flashtoken"
+    }
+  ],
+  "name": "Flash Token",
+  "symbol": "FTOKEN"
+}

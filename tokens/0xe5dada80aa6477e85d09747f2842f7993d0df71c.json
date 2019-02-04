@@ -1,0 +1,33 @@
+{
+  "addr": "0xe5dada80aa6477e85d09747f2842f7993d0df71c",
+  "decimals": 18,
+  "description": "dock.io is a decentralized data exchange protocol that lets people connect their profiles, reputations and experiences across the web with privacy and security.",
+  "links": [
+    {
+      "Blog": "https://medium.com/dock-io"
+    },
+    {
+      "Email": "mailto:support@dock.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/getdock.io/"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/dockio/"
+    },
+    {
+      "Telegram": "https://t.me/dockio"
+    },
+    {
+      "Twitter": "https://twitter.com/dock_io"
+    },
+    {
+      "Website": "https://dock.io/"
+    },
+    {
+      "Whitepaper": "https://dock.io/whitepaper"
+    }
+  ],
+  "name": "DockToken",
+  "symbol": "DOCK"
+}

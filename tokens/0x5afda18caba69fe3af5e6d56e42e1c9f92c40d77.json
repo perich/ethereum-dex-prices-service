@@ -1,0 +1,42 @@
+{
+  "addr": "0x5afda18caba69fe3af5e6d56e42e1c9f92c40d77",
+  "decimals": 18,
+  "description": "At Dinnerful we dedicated to making dinner available on blockchain",
+  "links": [
+    {
+      "Blog": "https://medium.com/@DinnerfulDay"
+    },
+    {
+      "Email": "mailto:support@dinnerful.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/dinnerful"
+    },
+    {
+      "Github": "https://github.com/dinnerful"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/dinnerful/"
+    },
+    {
+      "Slack": "https://dinnerful.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/dinnerful"
+    },
+    {
+      "Twitter": "https://twitter.com/DinnerfulDay"
+    },
+    {
+      "Website": "https://www.dinnerfulnetwork.com/"
+    },
+    {
+      "Website": "https://dinnerfulnetwork.com/demo/"
+    },
+    {
+      "Whitepaper": "https://www.dinnerfulnetwork.com/content/whitepaper.pdf"
+    }
+  ],
+  "name": "MealCoinDinnerful",
+  "symbol": "MCD"
+}

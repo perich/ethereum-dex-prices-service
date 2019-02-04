@@ -1,0 +1,36 @@
+{
+  "addr": "0x9b8eb7a73a3c65fc3c892b494ab29cb061cf05ae",
+  "decimals": 0,
+  "description": "The Bithereum is designed to provide stability and growth to the Ethereum community.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2319535.0"
+    },
+    {
+      "Email": "mailto:digitamushroom@gmail.com"
+    },
+    {
+      "Github": "https://github.com/Bithereum"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/Bithereum4"
+    },
+    {
+      "Slack": "https://bithereumgroup.slack.com/"
+    },
+    {
+      "Telegram": "https://t.me/Bithereum4"
+    },
+    {
+      "Twitter": "https://twitter.com/Bithereum4"
+    },
+    {
+      "Website": "https://bithereum.tech/"
+    },
+    {
+      "Whitepaper": "https://bithereum.tech/BithereumWhitePaper.pdf"
+    }
+  ],
+  "name": "",
+  "symbol": "1BIT"
+}

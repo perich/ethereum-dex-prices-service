@@ -1,0 +1,36 @@
+{
+  "addr": "0xced4e93198734ddaff8492d525bd258d49eb388e",
+  "decimals": 18,
+  "description": "your blockchain asset experience",
+  "links": [
+    {
+      "Blog": "https://medium.com/eidoo"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/eidoo/"
+    },
+    {
+      "Email": "mailto:info@eidoo.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/eidoocrypto/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/AAAAAERSsZk99wFzx2v_Kw"
+    },
+    {
+      "Twitter": "https://twitter.com/eidoo_io"
+    },
+    {
+      "Website": "https://eidoo.io/"
+    },
+    {
+      "Website": "https://eidoo.io"
+    },
+    {
+      "Whitepaper": "https://eidoo.io/white-paper/"
+    }
+  ],
+  "name": "Eidoo Token",
+  "symbol": "EDO"
+}

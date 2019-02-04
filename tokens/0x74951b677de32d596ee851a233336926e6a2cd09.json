@@ -1,0 +1,30 @@
+{
+  "addr": "0x74951b677de32d596ee851a233336926e6a2cd09",
+  "decimals": 7,
+  "description": "A new revolutionary and innovative platform that will change the gambling scene forever with blockchain technology.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2128992.0"
+    },
+    {
+      "Email": "mailto:support@webetcrypto.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/We-Bet-Crypto-1925064624433439"
+    },
+    {
+      "Twitter": "https://twitter.com/webetcrypto"
+    },
+    {
+      "Website": "http://webetcrypto.io/wbc/"
+    },
+    {
+      "Website": "http://webetcrypto.io/"
+    },
+    {
+      "Whitepaper": "http://webetcrypto.io/wbc/wp-content/uploads/WBC-White-Paper.pdf"
+    }
+  ],
+  "name": "We Bet Crypto",
+  "symbol": "WBA"
+}

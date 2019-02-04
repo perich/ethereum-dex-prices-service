@@ -1,0 +1,39 @@
+{
+  "addr": "0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4",
+  "decimals": 8,
+  "description": "Well, to keep it simple, Zloadr is a viral news and media publishing platform built for creators; that amplifies news worthy content with the help of influencers and bounty hunters. Within the platform advertisers use ZDR tokens to benefit from millions of views and direct traffic of their adverts at a fraction of the cost by paying in Zloadr's currency- ZDR tokens.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2017088.0"
+    },
+    {
+      "Blog": "https://medium.com/@zloadr"
+    },
+    {
+      "Email": "mailto:info@zloadr.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/zloadrmedia/"
+    },
+    {
+      "Github": "https://github.com/zloadrplatform"
+    },
+    {
+      "Slack": "https://zloadr.slack.com/"
+    },
+    {
+      "Telegram": "https://telegram.me/Zloadr"
+    },
+    {
+      "Twitter": "https://twitter.com/zloadr"
+    },
+    {
+      "Website": "http://www.zloadr.com/"
+    },
+    {
+      "Whitepaper": "http://zloadr.com/whitepaper/whitepaper-en.pdf"
+    }
+  ],
+  "name": "Zloadr Token",
+  "symbol": "ZDR"
+}

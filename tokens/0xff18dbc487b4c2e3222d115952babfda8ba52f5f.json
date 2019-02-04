@@ -1,0 +1,27 @@
+{
+  "addr": "0xff18dbc487b4c2e3222d115952babfda8ba52f5f",
+  "decimals": 18,
+  "description": "LIFE is digital cash, like the cash in your online bank account. It is a consumer reward system for large businesses, charities, communities and innovation projects.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2196925.new#new"
+    },
+    {
+      "Email": "mailto:admin@lifelabs.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/LIFEtoken.ForEverydayPeople/"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/HFVijQ3hyhyQZa6LQCE-NQ"
+    },
+    {
+      "Twitter": "https://twitter.com/LIFEtoken_"
+    },
+    {
+      "Website": "http://www.lifelabs.io/"
+    }
+  ],
+  "name": "PureLifeCoin",
+  "symbol": "LIFE"
+}

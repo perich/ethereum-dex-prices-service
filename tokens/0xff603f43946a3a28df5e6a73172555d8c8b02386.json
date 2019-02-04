@@ -1,0 +1,36 @@
+{
+  "addr": "0xff603f43946a3a28df5e6a73172555d8c8b02386",
+  "decimals": 18,
+  "description": "ONEROOT Project brings together the tangible and intangible resources inside and outside the industry. In the process of optimizing and integrating resources, ONEROOT extends the idea of a shared economy and separates the right to use and the ownership of resources, and proposes the concept of a distributed business engine. With the help of blockchain technology, the co-builders can digitize the right to use resources, including software, hardware, manpower, etc., and establish transparent value exchange and cooperation rules, which greatly improve the resource utilization efficiency. In addition, participants have established a new cooperative relationship based on equal cooperation and common development, which has significant advantages compared with the traditional business model dominated by centralized entities.",
+  "links": [
+    {
+      "Blog": "https://medium.com/@oneroot"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/oneroot-network/"
+    },
+    {
+      "Email": "mailto:info@oneroot.io"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/OneRoot/"
+    },
+    {
+      "Telegram": "https://t.me/OneRootProject"
+    },
+    {
+      "Twitter": "https://twitter.com/OneRootNetwork"
+    },
+    {
+      "Website": "https://www.oneroot.io/"
+    },
+    {
+      "Whitepaper": "https://www.oneroot.io/static/pdf/whitepaperEN.pdfv"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=3121006"
+    }
+  ],
+  "name": "OneRoot Network Token",
+  "symbol": "RNT"
+}

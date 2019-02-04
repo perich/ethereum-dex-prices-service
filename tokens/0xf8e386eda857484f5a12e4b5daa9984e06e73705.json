@@ -1,0 +1,30 @@
+{
+  "addr": "0xf8e386eda857484f5a12e4b5daa9984e06e73705",
+  "decimals": 18,
+  "description": "Indorse is a decentralized network for professionals, which rewards users for sharing their skills and indorsing the skills of others.",
+  "links": [
+    {
+      "Blog": "https://medium.com/joinIndorse"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/indorse-token/"
+    },
+    {
+      "Email": "mailto:info@indorse.io"
+    },
+    {
+      "Slack": "https://joinindorse.herokuapp.com/"
+    },
+    {
+      "Twitter": "https://twitter.com/joinIndorse"
+    },
+    {
+      "Website": "https://indorse.io/"
+    },
+    {
+      "Whitepaper": "https://indorse.io/static/media/Indorse-Whitepaper-v1.1.a733cc8e.pdf"
+    }
+  ],
+  "name": "Indorse Token",
+  "symbol": "IND"
+}

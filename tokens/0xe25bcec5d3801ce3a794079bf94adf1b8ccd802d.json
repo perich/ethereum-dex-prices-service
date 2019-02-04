@@ -1,0 +1,42 @@
+{
+  "addr": "0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
+  "decimals": 18,
+  "description": "Designed to be the new generation blockchain, MATRIX differentiates itself from previous blockchains by offering breakthrough technologies in building AI-enabled autonomous and self-optimizing blockchain networks.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2648330.0"
+    },
+    {
+      "Email": "mailto:public@matrix.space"
+    },
+    {
+      "Facebook": "https://www.facebook.com/MatrixAINetworks"
+    },
+    {
+      "Github": "https://github.com/MatrixAINetwork"
+    },
+    {
+      "Linkedin": "https://www.linkedin.com/company/matrixainetwork"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/MatrixAINetwork"
+    },
+    {
+      "Telegram": "https://t.me/matrixainetwork"
+    },
+    {
+      "Twitter": "https://twitter.com/MatrixAINetwork"
+    },
+    {
+      "Website": "https://www.matrixchain.io/"
+    },
+    {
+      "Whitepaper": "https://www.matrixchain.io/static/pdf/MATRIXBusinessWhitePaper.pdf"
+    },
+    {
+      "Whitepaper": "https://www.matrixchain.io/static/pdf/MATRIXTechnicalWhitePaper.pdf"
+    }
+  ],
+  "name": "MATRIX AI Network",
+  "symbol": "MAN"
+}

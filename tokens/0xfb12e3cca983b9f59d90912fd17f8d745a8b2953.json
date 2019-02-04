@@ -1,0 +1,18 @@
+{
+  "addr": "0xfb12e3cca983b9f59d90912fd17f8d745a8b2953",
+  "decimals": 0,
+  "description": "The LUCK token is used to send appreciation to other wallet holders. In addition to providing good luck, it also bestows gifts to the wallet holder from time to time. Be sure to hold LUCK in a wallet you have the private key.",
+  "links": [
+    {
+      "Email": "mailto:contact@luckytoken.info"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/F7tt6gqS-2IkLBSYcO3jnQ"
+    },
+    {
+      "Website": "http://www.luckytoken.info/"
+    }
+  ],
+  "name": "LUCKY",
+  "symbol": "LUCK"
+}

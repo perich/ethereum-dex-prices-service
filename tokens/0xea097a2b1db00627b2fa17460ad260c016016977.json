@@ -1,0 +1,33 @@
+{
+  "addr": "0xea097a2b1db00627b2fa17460ad260c016016977",
+  "decimals": 18,
+  "description": "Upfiring is a web, iOS and Android application that creates a decentralized autonomous network between users' devices. The app is free to download and users can exchange files across the network, powering these transactions with Upfire.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2223828.0"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/upfiring/"
+    },
+    {
+      "Email": "mailto:support@upfiring.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/upfiring"
+    },
+    {
+      "Reddit": "https://www.reddit.com/r/Upfiring/"
+    },
+    {
+      "Twitter": "https://twitter.com/upfiringHQ"
+    },
+    {
+      "Website": "https://www.upfiring.com/"
+    },
+    {
+      "Whitepaper": "https://www.upfiring.com/Upfiring_Whitepaper.pdf"
+    }
+  ],
+  "name": "Upfiring",
+  "symbol": "UFR"
+}

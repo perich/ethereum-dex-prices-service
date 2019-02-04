@@ -1,0 +1,36 @@
+{
+  "addr": "0x2d9765a94ff22e0ca3afc3e3f4b116de2b67582a",
+  "decimals": 16,
+  "description": "Crowd Genie is a Singapore based licensed and fully operational peer-to-peer digital lending platform. Its vision is to create an Asia-wide tokenized platform that makes lending across borders possible, secured by blockchain, and asset exchange for liquidity.",
+  "links": [
+    {
+      "Website": "https://www.genieico.net/"
+    },
+    {
+      "Blog": "https://medium.com/@genieico"
+    },
+    {
+      "Whitepaper": "https://drive.google.com/file/d/1um3ClBgZr0Uoh2h6dk01zXhE_hiE7FFa/view"
+    },
+    {
+      "Facebook": "https://www.facebook.com/genieico/"
+    },
+    {
+      "Twitter": "https://twitter.com/Genie_ICO"
+    },
+    {
+      "Telegram": "https://t.me/joinchat/F9j7MhF-eb-t5SVPYptdyQ"
+    },
+    {
+      "Github": "https://github.com/crowdgenie/smart-contract"
+    },
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2434698.0"
+    },
+    {
+      "YouTube": "https://www.youtube.com/playlist?list=PL2bOogx1dP7pOwt6Ul3DfyclOyNQyR58_"
+    }
+  ],
+  "name": "CGCOINS",
+  "symbol": "CGC"
+}

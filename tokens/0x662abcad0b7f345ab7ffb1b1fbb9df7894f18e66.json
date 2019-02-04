@@ -1,0 +1,42 @@
+{
+  "addr": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66",
+  "decimals": 18,
+  "description": "CarTaxi is an Ethereum blockchain based decentralized platform that connects all car towing companies into one online network. It allows customers to transport their vehicles quickly, efficiently and safely anytime, anywhere.Among the mass of futuristic and real life projects, CarTaxi operates in the real sector, with a multibillion-dollar global market without competitors.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2113124"
+    },
+    {
+      "Blog": "https://medium.com/cartaxi"
+    },
+    {
+      "CoinMarketCap": "https://coinmarketcap.com/currencies/cartaxi-token/"
+    },
+    {
+      "Email": "mailto:info@cartaxi.io"
+    },
+    {
+      "Facebook": "https://www.facebook.com/cartaxi.io/"
+    },
+    {
+      "Github": "https://github.com/CarTaxiico"
+    },
+    {
+      "Reddit": "https://www.reddit.com/user/CarTaxiICO/"
+    },
+    {
+      "Telegram": "https://t.me/cartaxi_io"
+    },
+    {
+      "Twitter": "https://twitter.com/CarTaxi_24"
+    },
+    {
+      "Website": "https://cartaxi.io/"
+    },
+    {
+      "Whitepaper": "https://cartaxi.io/#dl-whitepaper"
+    }
+  ],
+  "name": "CarTaxi",
+  "symbol": "CTX"
+}

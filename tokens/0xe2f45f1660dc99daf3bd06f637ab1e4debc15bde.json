@@ -1,0 +1,39 @@
+{
+  "addr": "0xe2f45f1660dc99daf3bd06f637ab1e4debc15bde",
+  "decimals": 6,
+  "description": "Decentralized mobile eCommerce platform with no big brother, no fees and no restrictions with 5 patents.",
+  "links": [
+    {
+      "Bitcointalk": "https://bitcointalk.org/index.php?topic=2046484"
+    },
+    {
+      "Email": "mailto:contact@stuffgogo.com"
+    },
+    {
+      "Facebook": "https://www.facebook.com/stuffgogo"
+    },
+    {
+      "Github": "https://github.com/stuffgogo"
+    },
+    {
+      "Slack": "https://join.slack.com/t/stuffgogo/shared_invite/MjEzMzM3MzU0Nzg0LTE1MDAzMjgzMjctZDJkYzIwNjEwMQ"
+    },
+    {
+      "Telegram": "https://t.me/stuffgogoofficial"
+    },
+    {
+      "Twitter": "https://twitter.com/StuffGoGo"
+    },
+    {
+      "Website": "https://stuffgogo.com/"
+    },
+    {
+      "Website": "https://stuffgogo.com"
+    },
+    {
+      "Whitepaper": "https://stuffgogo.com/whitepaper/SGGWhitepaper.pdf"
+    }
+  ],
+  "name": "SggCoin",
+  "symbol": "SGG"
+}

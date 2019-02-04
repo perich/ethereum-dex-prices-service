@@ -1,0 +1,21 @@
+{
+  "addr": "0xe814aee960a85208c3db542c53e7d4a6c8d5f60f",
+  "decimals": 18,
+  "description": "The first crypto pegged to time on the Ethereum Blockchain",
+  "links": [
+    {
+      "Blog": "https://blog.chronologic.network/"
+    },
+    {
+      "Github": "https://github.com/chronologic/chronologic"
+    },
+    {
+      "Website": "https://chronologic.network/"
+    },
+    {
+      "Whitepaper": "https://chronologic.network/uploads/Chronologic_Whitepaper.pdf"
+    }
+  ],
+  "name": "DAY",
+  "symbol": "DAY"
+}
