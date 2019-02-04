@@ -6,7 +6,7 @@ const DDEX_URL = 'https://api.ddex.io/v3'
 const RADAR_RELAY_URL = 'https://api.radarrelay.com/v2'
 const ETHFINEX_URL = 'https://api.ethfinex.com/v1'
 const SATURN_URL = 'https://ticker.saturn.network/api/v2'
-
+const FORKDELTA_URL = 'https://api.forkdelta.com'
 const AIRSWAP_TOKEN_METADATA_URL = 'https://token-metadata.production.airswap.io'
 
 const TOP_TOKENS_DECIMAL_MAP = {
@@ -51,5 +51,6 @@ module.exports = {
   AIRSWAP_TOKEN_METADATA_URL,
   ETHFINEX_URL,
   SATURN_URL,
+  FORKDELTA_URL,
   TOP_TOKENS_DECIMAL_MAP,
 }
