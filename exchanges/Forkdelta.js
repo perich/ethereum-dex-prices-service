@@ -64,6 +64,9 @@ module.exports = class Forkdelta extends OrderBookExchange {
             this.service.socket.close()
             resolve({ asks: formattedAsks, bids: formattedBids })
           })
+          .catch(e => {
+            throw e
+          })
       } catch (error) {
         resolve(null)
       }
@@ -105,9 +108,13 @@ function Service() {
         { transports: ['websocket'] },
       )
 
+      self.socket.on('connect', () => {
+        resolve()
+      })
+
       setTimeout(() => {
         reject('Could not connect to socket')
-      }, 6000)
+      }, 5500)
     })
 
   self.getMarket = (token, user) => {
@@ -313,11 +320,11 @@ function Service() {
   }
 
   self.getOrderBook = () => {
-    const sells = self.state.orders.sells.slice(0, 25).map(order => ({
+    const sells = self.state.orders.sells.map(order => ({
       price: order.price.toFixed(9),
       amount: order.ethAvailableVolume.toFixed(9),
     }))
-    const buys = self.state.orders.buys.slice(0, 25).map(order => ({
+    const buys = self.state.orders.buys.map(order => ({
       price: order.price.toFixed(9),
       amount: order.ethAvailableVolume.toFixed(9),
     }))
