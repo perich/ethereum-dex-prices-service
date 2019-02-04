@@ -7,9 +7,9 @@
   "license": "MIT",
   "scripts": {
     "search": "node entrypoints/cli.js",
-    "lint": "eslint **.js",
-    "prettier:check": "prettier **.js -l",
-    "prettier:fix": "prettier **.js --write",
+    "lint": "eslint .",
+    "prettier:check": "prettier '**/*.js' -l",
+    "prettier:fix": "prettier --write '**/*.js'",
     "debug:cli": "node --inspect-brk entrypoints/cli.js",
     "debug:server": "node --inspect-brk entrypoints/server.js",
     "serve:express": "node entrypoints/server.js",
