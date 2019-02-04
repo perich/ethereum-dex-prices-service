@@ -5,6 +5,7 @@ const Bancor = require('./exchanges/Bancor.js')
 const AirSwap = require('./exchanges/AirSwap.js')
 const RadarRelay = require('./exchanges/RadarRelay.js')
 const Ethfinex = require('./exchanges/Ethfinex.js')
+const Forkdelta = require('./exchanges/Forkdelta.js')
 const { sortBids, sortAsks } = require('./helpers')
 
 // given a token symbol and amount, return offers from all dexes
@@ -22,6 +23,7 @@ module.exports = {
       new IDEX(),
       new Kyber(),
       new RadarRelay(),
+      new Forkdelta(),
     ]
 
     const promises = dexes.map(dex => dex.computePrice(symbol, amount, direction === 'SELL'))

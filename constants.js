@@ -5,6 +5,7 @@ const BANCOR_URL = 'https://api.bancor.network/0.1'
 const DDEX_URL = 'https://api.ddex.io/v3'
 const RADAR_RELAY_URL = 'https://api.radarrelay.com/v2'
 const ETHFINEX_URL = 'https://api.ethfinex.com/v1'
+const FORKDELTA_URL = 'https://api.forkdelta.com'
 
 const AIRSWAP_TOKEN_METADATA_URL = 'https://token-metadata.production.airswap.io'
 
@@ -49,5 +50,6 @@ module.exports = {
   RADAR_RELAY_URL,
   AIRSWAP_TOKEN_METADATA_URL,
   ETHFINEX_URL,
+  FORKDELTA_URL,
   TOP_TOKENS_DECIMAL_MAP,
 }
