@@ -29,7 +29,7 @@ module.exports = class SaturnNetwork extends OrderBookExchange {
 
   async _getTokenAddress(symbol) {
     const allTokens = await this._getCurrencies()
-    const tokenObj = allTokens.find(x => x.token.symbol === symbol)
+    const tokenObj = allTokens.find(x => x.token.symbol.toLowerCase() === symbol.toLowerCase())
     return tokenObj.token.address
   }
 
