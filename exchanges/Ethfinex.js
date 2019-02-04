@@ -3,10 +3,9 @@ const { ETHFINEX_URL } = require('../constants.js')
 const OrderBookExchange = require('./OrderBookExchange.js')
 
 module.exports = class Ethfinex extends OrderBookExchange {
-
   constructor() {
     super()
-    
+
     this.marketsUrl = `${ETHFINEX_URL}/symbols`
     this.orderbookUrl = `${ETHFINEX_URL}/book`
     this.name = 'Ethfinex'
@@ -17,13 +16,13 @@ module.exports = class Ethfinex extends OrderBookExchange {
    * Example: zrxeth
    * @param {string} symbol the symbol for which to create the ETH market ID
    */
-  generateEthMarketId(symbol) {
-    return symbol.toLowerCase() + 'eth'
+  static generateEthMarketId(symbol) {
+    return `${symbol.toLowerCase()}eth`
   }
 
   /**
    * Retrieve the available markets for Ethfinex.
-   * 
+   *
    * Example:
    * <pre><code>
    * [
@@ -46,7 +45,7 @@ module.exports = class Ethfinex extends OrderBookExchange {
   }
 
   _getRawOrderBook(symbol) {
-    let uri = `${this.orderbookUrl}/${this.generateEthMarketId(symbol)}`
+    const uri = `${this.orderbookUrl}/${Ethfinex.generateEthMarketId(symbol)}`
 
     const config = {
       timeout: 3000,
@@ -57,10 +56,10 @@ module.exports = class Ethfinex extends OrderBookExchange {
 
     return rp(config)
   }
-  
+
   /**
    * Create an order book that conforms to the generalized order book interface.
-   * 
+   *
    * Example:
    * <pre><code>
    * {
@@ -85,13 +84,13 @@ module.exports = class Ethfinex extends OrderBookExchange {
     return new Promise(async resolve => {
       try {
         const availableMarkets = await this.getAvailableMarkets()
-        const marketId = this.generateEthMarketId(symbol)
-        
+        const marketId = Ethfinex.generateEthMarketId(symbol)
+
         const isTokenAvailable = !!availableMarkets.find(market => market === marketId)
         if (!isTokenAvailable) {
           throw new Error(`${symbol} is not available on ${this.name}`)
         }
-        
+
         const book = await this._getRawOrderBook(symbol)
         const { asks, bids } = book
 
