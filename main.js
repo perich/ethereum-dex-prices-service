@@ -5,6 +5,7 @@ const Bancor = require('./exchanges/Bancor.js')
 const AirSwap = require('./exchanges/AirSwap.js')
 const RadarRelay = require('./exchanges/RadarRelay.js')
 const Ethfinex = require('./exchanges/Ethfinex.js')
+const SaturnNetwork = require('./exchanges/Saturn.js')
 const Forkdelta = require('./exchanges/Forkdelta.js')
 const { sortBids, sortAsks } = require('./helpers')
 
@@ -23,6 +24,7 @@ module.exports = {
       new IDEX(),
       new Kyber(),
       new RadarRelay(),
+      new SaturnNetwork('eth'),
       new Forkdelta(),
     ]
 
