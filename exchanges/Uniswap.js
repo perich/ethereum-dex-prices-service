@@ -1,28 +1,28 @@
 const tokenAbi = require('human-standard-token-abi')
-const Web3 = require('web3')
-const { utils } = require('ethers')
+const ethers = require('ethers')
 const tokens = require('../tokensBySymbol.json')
-const { GETH_NODE, UNISWAP_FACTORY_ABI, UNISWAP_FACTORY_ADDRESS } = require('../constants.js')
+const { UNISWAP_FACTORY_ABI, UNISWAP_FACTORY_ADDRESS } = require('../constants.js')
+
+const { utils } = ethers
 
 module.exports = class Uniswap {
   constructor() {
-    this.web3 = new Web3(new Web3.providers.HttpProvider(GETH_NODE))
-    this.factoryContract = this.web3.eth.contract(UNISWAP_FACTORY_ABI)
-    this.factoryContractInstance = this.factoryContract.at(UNISWAP_FACTORY_ADDRESS)
+    this.ethProvider = ethers.getDefaultProvider('homestead')
+    this.factoryContract = new ethers.Contract(UNISWAP_FACTORY_ADDRESS, UNISWAP_FACTORY_ABI, this.ethProvider)
     this.name = 'Uniswap'
   }
 
   // fetch all supported tokens traded on Uniswap
   async getExchangeLiquidityByAddress(symbol, address, decimals) {
-    const erc20Contract = await this.web3.eth.contract(tokenAbi).at(address)
-    const exchangeAddress = await this.factoryContractInstance.getExchange(address)
+    const erc20Contract = await new ethers.Contract(address, tokenAbi, this.ethProvider)
+    const exchangeAddress = await this.factoryContract.getExchange(address)
 
     if (exchangeAddress === '0x0000000000000000000000000000000000000000') {
       // token does not yet have an exchange on uniswap
       throw new Error(`no Uniswap market exists for ${symbol}`)
     }
 
-    const ethReserve = await this.web3.eth.getBalance(exchangeAddress)
+    const ethReserve = await this.ethProvider.getBalance(exchangeAddress)
     const erc20Reserve = await erc20Contract.balanceOf(exchangeAddress)
 
     const ethAmount = utils.formatUnits(utils.bigNumberify(ethReserve.toString(10)), 18)
