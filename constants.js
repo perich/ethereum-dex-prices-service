@@ -9,9 +9,6 @@ const SATURN_URL = 'https://ticker.saturn.network/api/v2'
 const FORKDELTA_URL = 'https://api.forkdelta.com'
 const AIRSWAP_TOKEN_METADATA_URL = 'https://token-metadata.production.airswap.io'
 
-const GETH_NODE = 'https://geth-cluster.airswap-api.com'
-const GETH_NODE2 = 'https://geth.production.airswap.io'
-
 const UNISWAP_FACTORY_ADDRESS = '0xc0a47dFe034B400B47bDaD5FecDa2621de6c4d95'
 const UNISWAP_FACTORY_ABI = [
   {
@@ -129,8 +126,6 @@ module.exports = {
   SATURN_URL,
   FORKDELTA_URL,
   TOP_TOKENS_DECIMAL_MAP,
-  GETH_NODE,
-  GETH_NODE2,
   UNISWAP_FACTORY_ADDRESS,
   UNISWAP_FACTORY_ABI,
 }
