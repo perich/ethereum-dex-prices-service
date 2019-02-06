@@ -7,6 +7,7 @@ const RadarRelay = require('./exchanges/RadarRelay.js')
 const Ethfinex = require('./exchanges/Ethfinex.js')
 const SaturnNetwork = require('./exchanges/Saturn.js')
 const Forkdelta = require('./exchanges/Forkdelta.js')
+const Uniswap = require('./exchanges/Uniswap.js')
 const { sortBids, sortAsks } = require('./helpers')
 
 // given a token symbol and amount, return offers from all dexes
@@ -26,6 +27,7 @@ module.exports = {
       new RadarRelay(),
       new SaturnNetwork('eth'),
       new Forkdelta(),
+      new Uniswap(),
     ]
 
     const promises = dexes.map(dex => dex.computePrice(symbol, amount, direction === 'SELL'))

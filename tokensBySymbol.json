@@ -13653,6 +13653,12 @@
     "name": "ChainTrade Coin",
     "symbol": "CTC"
   },
+  "FUN": {
+    "addr": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+    "decimals": 8,
+    "name": "FunFair",
+    "symbol": "FUN"
+  },
   "PST": {
     "addr": "0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9",
     "decimals": 18,
