@@ -9,6 +9,81 @@ const SATURN_URL = 'https://ticker.saturn.network/api/v2'
 const FORKDELTA_URL = 'https://api.forkdelta.com'
 const AIRSWAP_TOKEN_METADATA_URL = 'https://token-metadata.production.airswap.io'
 
+const GETH_NODE = 'https://geth-cluster.airswap-api.com'
+
+const UNISWAP_FACTORY_ADDRESS = '0xc0a47dFe034B400B47bDaD5FecDa2621de6c4d95'
+const UNISWAP_FACTORY_ABI = [
+  {
+    name: 'NewExchange',
+    inputs: [{ type: 'address', name: 'token', indexed: true }, { type: 'address', name: 'exchange', indexed: true }],
+    anonymous: false,
+    type: 'event',
+  },
+  {
+    name: 'initializeFactory',
+    outputs: [],
+    inputs: [{ type: 'address', name: 'template' }],
+    constant: false,
+    payable: false,
+    type: 'function',
+    gas: 35725,
+  },
+  {
+    name: 'createExchange',
+    outputs: [{ type: 'address', name: 'out' }],
+    inputs: [{ type: 'address', name: 'token' }],
+    constant: false,
+    payable: false,
+    type: 'function',
+    gas: 187911,
+  },
+  {
+    name: 'getExchange',
+    outputs: [{ type: 'address', name: 'out' }],
+    inputs: [{ type: 'address', name: 'token' }],
+    constant: true,
+    payable: false,
+    type: 'function',
+    gas: 715,
+  },
+  {
+    name: 'getToken',
+    outputs: [{ type: 'address', name: 'out' }],
+    inputs: [{ type: 'address', name: 'exchange' }],
+    constant: true,
+    payable: false,
+    type: 'function',
+    gas: 745,
+  },
+  {
+    name: 'getTokenWithId',
+    outputs: [{ type: 'address', name: 'out' }],
+    inputs: [{ type: 'uint256', name: 'token_id' }],
+    constant: true,
+    payable: false,
+    type: 'function',
+    gas: 736,
+  },
+  {
+    name: 'exchangeTemplate',
+    outputs: [{ type: 'address', name: 'out' }],
+    inputs: [],
+    constant: true,
+    payable: false,
+    type: 'function',
+    gas: 633,
+  },
+  {
+    name: 'tokenCount',
+    outputs: [{ type: 'uint256', name: 'out' }],
+    inputs: [],
+    constant: true,
+    payable: false,
+    type: 'function',
+    gas: 663,
+  },
+]
+
 const TOP_TOKENS_DECIMAL_MAP = {
   BNB: { decimals: 18, levels: calculateLevels(20) },
   MKR: { decimals: 18, levels: calculateLevels(0.25) },
@@ -53,4 +128,7 @@ module.exports = {
   SATURN_URL,
   FORKDELTA_URL,
   TOP_TOKENS_DECIMAL_MAP,
+  GETH_NODE,
+  UNISWAP_FACTORY_ADDRESS,
+  UNISWAP_FACTORY_ABI,
 }
