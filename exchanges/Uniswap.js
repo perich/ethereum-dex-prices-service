@@ -2,11 +2,11 @@ const tokenAbi = require('human-standard-token-abi')
 const Web3 = require('web3')
 const { utils } = require('ethers')
 const tokens = require('../tokensBySymbol.json')
-const { GETH_NODE, UNISWAP_FACTORY_ABI, UNISWAP_FACTORY_ADDRESS } = require('../constants.js')
+const { GETH_NODE, GETH_NODE2, UNISWAP_FACTORY_ABI, UNISWAP_FACTORY_ADDRESS } = require('../constants.js')
 
 module.exports = class Uniswap {
   constructor() {
-    this.web3 = new Web3(new Web3.providers.HttpProvider(GETH_NODE))
+    this.web3 = new Web3(new Web3.providers.HttpProvider(GETH_NODE2))
     this.factoryContract = this.web3.eth.contract(UNISWAP_FACTORY_ABI)
     this.factoryContractInstance = this.factoryContract.at(UNISWAP_FACTORY_ADDRESS)
     this.name = 'Uniswap'
