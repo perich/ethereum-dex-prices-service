@@ -56,6 +56,9 @@ module.exports = class Uniswap {
       const { addr, decimals } = Uniswap.getTokenMetadata(symbol)
       const { ethAmount, tokenAmount } = await this.getExchangeLiquidityByAddress(symbol, addr, decimals)
 
+      if (parseFloat(ethAmount) === 0 || parseFloat(tokenAmount) === 0) {
+        throw new Error(`no liquidity available for ${symbol}`)
+      }
       let totalPrice = null
       if (isSell) {
         totalPrice = Uniswap.getSellRate(desiredAmount, tokenAmount, ethAmount)

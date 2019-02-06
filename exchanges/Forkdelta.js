@@ -6,7 +6,7 @@ const { sha256 } = require('js-sha256')
 const ethUtil = require('ethereumjs-util')
 const Tx = require('ethereumjs-tx')
 
-const { FORKDELTA_URL } = require('../constants.js')
+const { FORKDELTA_URL, GETH_NODE } = require('../constants.js')
 const OrderBookExchange = require('./OrderBookExchange.js')
 const tokens = require('../tokensBySymbol.json')
 
@@ -37,7 +37,7 @@ module.exports = class Forkdelta extends OrderBookExchange {
         this.service
           .init({
             addressEtherDelta: '0x8d12a197cb00d4747a1fe03395095ce2a5cc6819',
-            provider: 'https://mainnet.infura.io/Ky03pelFIxoZdAUsr82w',
+            provider: GETH_NODE,
             socketURL: 'https://api.forkdelta.com',
             gasLimit: 150000,
             gasPrice: 4000000000,
