@@ -1,4 +1,5 @@
 /* eslint-disable class-methods-use-this */
+const { applyFeeToResult } = require('../helpers')
 
 module.exports = class OrderBookExchange {
   async _createCanonicalOrderBook() {
@@ -42,7 +43,7 @@ module.exports = class OrderBookExchange {
   }
 
   // compute the average token price based on DEX liquidity and desired token amount
-  async computePrice(symbol, desiredAmount, isSell) {
+  async computePrice(symbol, desiredAmount, isSell, fee) {
     const book = await this._createCanonicalOrderBook(symbol)
     let result = {
       exchangeName: this.name,
@@ -130,7 +131,9 @@ module.exports = class OrderBookExchange {
         }
       }
     }
-
+    if (fee !== 0) {
+      result = applyFeeToResult(result, fee)
+    }
     return { [this.name]: result }
   }
 }

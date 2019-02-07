@@ -38,4 +38,10 @@ module.exports = {
     }
     console.log(sortedResults)
   },
+  applyFeeToResult(result, fee) {
+    const { totalPrice, tokenAmount } = result
+    const newTotalPrice = totalPrice + totalPrice * fee
+    const newAveragePrice = newTotalPrice / tokenAmount
+    return { ...result, totalPrice: newTotalPrice, avgPrice: newAveragePrice }
+  },
 }
