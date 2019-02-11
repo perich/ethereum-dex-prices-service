@@ -66,6 +66,10 @@ module.exports = class Uniswap {
         totalPrice = Uniswap.getBuyRate(desiredAmount, ethAmount, tokenAmount)
       }
 
+      if (totalPrice <= 0) {
+        throw new Error(`not enough liqudity. only ${tokenAmount} ${symbol} available and ${ethAmount} ETH`)
+      }
+
       const avgPrice = totalPrice / desiredAmount
 
       result = {
