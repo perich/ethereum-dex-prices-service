@@ -45,78 +45,22 @@ module.exports = class OrderBookExchange {
   // compute the average token price based on DEX liquidity and desired token amount
   async computePrice(symbol, desiredAmount, isSell, fee) {
     const book = await this._createCanonicalOrderBook(symbol)
+
     let result = {
       exchangeName: this.name,
       timestamp: Date.now(),
       tokenSymbol: symbol,
       tokenAmount: desiredAmount,
     }
+
     if (book === '_createCanonicalOrderBook not implemented') {
       result.error = `The method _createCanonicalOrderBook must be implemented in the ${this.name} class`
     } else if (!book) {
       result.error = `no price data found on ${this.name} for ${symbol}`
-    } else if (isSell) {
-      const { bids } = book
-      let avgPrice = 0
-      let totalPrice
-      for (let i = 0; i < bids.length; i += 1) {
-        const bid = bids[i]
-        const prevBid = bids[i - 1]
-
-        if (desiredAmount > bid.lotAmount) {
-          continue
-        }
-
-        if (i === 0) {
-          avgPrice = bid.levelPrice
-          totalPrice = bid.levelPrice * desiredAmount
-          break
-        }
-        const remainder = desiredAmount - prevBid.lotAmount
-        totalPrice = prevBid.lotPrice + remainder * bid.levelPrice
-        avgPrice = totalPrice / desiredAmount
-        break
-      }
-
-      // book didn't have enough liquidity for this size order
-      if (avgPrice === 0) {
-        result.error = `not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`
-      } else {
-        result = {
-          exchangeName: this.name,
-          totalPrice,
-          tokenAmount: desiredAmount,
-          tokenSymbol: symbol,
-          avgPrice,
-          timestamp: Date.now(),
-          error: null,
-        }
-      }
     } else {
-      // it's a buy
-      const { asks } = book
-      let avgPrice = 0
-      let totalPrice
-      for (let i = 0; i < asks.length; i += 1) {
-        const ask = asks[i]
-        const prevAsk = asks[i - 1]
+      const { avgPrice, totalPrice } = isSell ? calculatePricing(book.bids) : calculatePricing(book.asks)
 
-        if (desiredAmount > ask.lotAmount) {
-          continue
-        }
-
-        if (i === 0) {
-          avgPrice = ask.levelPrice
-          totalPrice = ask.levelPrice * desiredAmount
-          break
-        }
-        const remainder = desiredAmount - prevAsk.lotAmount
-        totalPrice = prevAsk.lotPrice + remainder * ask.levelPrice
-        avgPrice = totalPrice / desiredAmount
-        break
-      }
-
-      // book didn't have enough liquidity for this size order
+      // Check if the market is liquid enough
       if (avgPrice === 0) {
         result.error = `not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`
       } else {
@@ -135,5 +79,37 @@ module.exports = class OrderBookExchange {
       result = applyFeeToResult(result, fee)
     }
     return { [this.name]: result }
+
+    /**
+     * Calculate the average and total price if the given amount were to be executed on the orderbook.
+     * @param {*} orders the orders from the side of the book the order would be executed against
+     */
+    function calculatePricing(orders) {
+      let avgPrice = 0
+      let totalPrice
+      for (let i = 0; i < orders.length; i += 1) {
+        const order = orders[i]
+        const previousOrder = orders[i - 1]
+
+        if (desiredAmount > order.lotAmount) {
+          continue
+        }
+
+        if (i === 0) {
+          avgPrice = order.levelPrice
+          totalPrice = order.levelPrice * desiredAmount
+          break
+        }
+        const remainder = desiredAmount - previousOrder.lotAmount
+        totalPrice = previousOrder.lotPrice + remainder * order.levelPrice
+        avgPrice = totalPrice / desiredAmount
+        break
+      }
+
+      return {
+        avgPrice,
+        totalPrice,
+      }
+    }
   }
 }
