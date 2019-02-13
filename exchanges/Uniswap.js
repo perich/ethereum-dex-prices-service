@@ -56,6 +56,13 @@ module.exports = class Uniswap {
       const { addr, decimals } = Uniswap.getTokenMetadata(symbol)
       const { ethAmount, tokenAmount } = await this.getExchangeLiquidityByAddress(symbol, addr, decimals)
 
+      // Any BNB sent to Uniswap will be lost forever
+      // https://twitter.com/UniswapExchange/status/1072286773554876416
+      // https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca
+      if (symbol === 'BNB') {
+        throw new Error('BNB can not be traded on Uniswap due to a bug in the token code')
+      }
+
       if (parseFloat(ethAmount) === 0 || parseFloat(tokenAmount) === 0) {
         throw new Error(`no liquidity available for ${symbol}`)
       }
