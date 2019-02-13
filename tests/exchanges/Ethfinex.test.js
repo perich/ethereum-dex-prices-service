@@ -46,9 +46,6 @@ describe('Ethfinex', () => {
         const badMarkets = ['defeth', 'xyzeth', 'abcbtc', 'defbtc', 'xyzbtc']
         getAvailableMarkets.mockResolvedValue(badMarkets)
 
-        // TODO: Optimally we can spy on the error being thrown to assert the code flow
-        // const _validateMarketAvailability = jest.spyOn(exchange, '_validateMarketAvailability')
-
         expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
           Ethfinex: {
             exchangeName: 'Ethfinex',
@@ -68,9 +65,6 @@ describe('Ethfinex', () => {
         _getRawOrderBook.mockImplementation(() => {
           throw new Error('something went wrong in _getRawOrderBook')
         })
-
-        // TODO: Optimally we can spy on the error being thrown to assert the code flow
-        // const _validateMarketAvailability = jest.spyOn(exchange, '_validateMarketAvailability')
 
         expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
           Ethfinex: {
@@ -175,13 +169,15 @@ describe('Ethfinex', () => {
       const _getRawOrderBook = jest.spyOn(exchange, '_getRawOrderBook')
       _getRawOrderBook.mockResolvedValue(orderBook)
 
+      const averagePrice = (3 * (2/5)) + (4 * (3/5))
+
       expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
         Ethfinex: {
           exchangeName: 'Ethfinex',
           totalPrice: 1800.0,
           tokenAmount: amount,
           tokenSymbol: symbol,
-          avgPrice: 3.6,
+          avgPrice: averagePrice,
           timestamp: expect.any(Number),
           error: null,
         },
@@ -195,13 +191,15 @@ describe('Ethfinex', () => {
       const _getRawOrderBook = jest.spyOn(exchange, '_getRawOrderBook')
       _getRawOrderBook.mockResolvedValue(orderBook)
 
+      const averagePrice = (1 * (3/5)) + (2 * (2/5))
+
       expect(exchange.computePrice(symbol, amount, true, fee)).resolves.toMatchObject({
         Ethfinex: {
           exchangeName: 'Ethfinex',
           totalPrice: 700.0,
           tokenAmount: amount,
           tokenSymbol: symbol,
-          avgPrice: 1.4,
+          avgPrice: averagePrice,
           timestamp: expect.any(Number),
           error: null,
         },
