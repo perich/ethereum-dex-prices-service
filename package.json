@@ -52,8 +52,5 @@
     "serverless-offline": "^3.31.3",
     "serverless-plugin-tracing": "^2.0.0",
     "serverless-ssm-fetch": "^1.0.1"
-  },
-  "jest": {
-    "testEnvironment": "node"
   }
 }

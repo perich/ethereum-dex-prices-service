@@ -169,7 +169,7 @@ describe('Ethfinex', () => {
       const _getRawOrderBook = jest.spyOn(exchange, '_getRawOrderBook')
       _getRawOrderBook.mockResolvedValue(orderBook)
 
-      const averagePrice = (3 * (2/5)) + (4 * (3/5))
+      const averagePrice = 3 * (2 / 5) + 4 * (3 / 5)
 
       expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
         Ethfinex: {
@@ -191,7 +191,7 @@ describe('Ethfinex', () => {
       const _getRawOrderBook = jest.spyOn(exchange, '_getRawOrderBook')
       _getRawOrderBook.mockResolvedValue(orderBook)
 
-      const averagePrice = (1 * (3/5)) + (2 * (2/5))
+      const averagePrice = 1 * (3 / 5) + 2 * (2 / 5)
 
       expect(exchange.computePrice(symbol, amount, true, fee)).resolves.toMatchObject({
         Ethfinex: {
