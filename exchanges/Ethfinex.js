@@ -57,6 +57,14 @@ module.exports = class Ethfinex extends OrderBookExchange {
     return rp(config)
   }
 
+  _validateMarketAvailability(markets, symbol) {
+    const marketId = Ethfinex.generateEthMarketId(symbol)
+    const isTokenAvailable = !!markets.find(market => market === marketId)
+    if (!isTokenAvailable) {
+      throw new Error(`${symbol} is not available on ${this.name}`)
+    }
+  }
+
   /**
    * Create an order book that conforms to the generalized order book interface.
    *
@@ -84,12 +92,7 @@ module.exports = class Ethfinex extends OrderBookExchange {
     return new Promise(async resolve => {
       try {
         const availableMarkets = await this.getAvailableMarkets()
-        const marketId = Ethfinex.generateEthMarketId(symbol)
-
-        const isTokenAvailable = !!availableMarkets.find(market => market === marketId)
-        if (!isTokenAvailable) {
-          throw new Error(`${symbol} is not available on ${this.name}`)
-        }
+        this._validateMarketAvailability(availableMarkets, symbol)
 
         const book = await this._getRawOrderBook(symbol)
         const { asks, bids } = book
