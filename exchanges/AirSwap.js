@@ -160,111 +160,115 @@ module.exports = class AirSwap {
   // 3. Sign the data and send it back over the wire
   // 4. Receive an "ok" and start sending and receiving RPC
   connect(reconnect = false) {
-    this.socket = new WebSocket(this.socketUrl)
-
-    // Check socket health every 30 seconds
-    this.socket.onopen = function healthCheck() {
-      this.isAlive = true
-      this.addEventListener('pong', () => {
-        this.isAlive = true
-      })
-
-      this.interval = setInterval(() => {
-        if (this.isAlive === false) {
-          console.log('no response for 30s; closing socket')
-          this.close()
-        }
-        this.isAlive = false
-        this.ping()
-      }, 30000)
-    }
-
-    // The connection was closed
-    this.socket.onclose = () => {
-      this.isAuthenticated = false
-      clearInterval(this.socket.interval)
-      if (reconnect) {
-        console.log(
-          'socket closed. this is usually because the system lost its connection to the internet or you connected to the indexer with the same ethereum address somewhere else.',
-        )
-        console.log('attempting reconnect in 10s')
-        setTimeout(() => {
-          this.connect()
-        }, 10000)
-      }
-    }
-
-    // There was an error on the connection
-    this.socket.onerror = event => {
-      throw new Error(event)
-    }
-
     // Promisify the `onmessage` handler. Allows us to return information
     // about the connection state after the authentication handshake
     return new Promise((resolve, reject) => {
-      // Received a message
-      this.socket.onmessage = event => {
-        // We are authenticating
-        if (!this.isAuthenticated) {
-          switch (event.data) {
-            // We have completed the challenge.
-            case 'ok':
-              this.isAuthenticated = true
-              console.log('Working...')
-              resolve(event.data)
-              break
-            case 'not authorized':
-              reject(new Error('Address is not authorized.'))
-              break
-            default:
-              // We have been issued a challenge.
-              this.wallet.signMessage(event.data).then(signature => {
-                this.socket.send(signature)
-              })
-          }
-        } else if (this.isAuthenticated) {
-          // We are already authenticated and are receiving an RPC.
-          let payload
-          let message
+      try {
+        this.socket = new WebSocket(this.socketUrl)
 
-          try {
-            payload = JSON.parse(event.data)
-            message = payload.message && JSON.parse(payload.message)
-          } catch (e) {
-            console.error('Error parsing payload', e, payload)
-          }
+        // Check socket health every 30 seconds
+        this.socket.onopen = function healthCheck() {
+          this.isAlive = true
+          this.addEventListener('pong', () => {
+            this.isAlive = true
+          })
 
-          if (!payload || !message) {
-            return
-          }
-
-          if (message.method) {
-            // Another peer is invoking a method.
-            if (this.RPC_METHOD_ACTIONS[message.method]) {
-              this.RPC_METHOD_ACTIONS[message.method](message)
+          this.interval = setInterval(() => {
+            if (this.isAlive === false) {
+              console.log('no response for 30s; closing socket')
+              this.close()
             }
-          } else if (message.id) {
-            // We have received a response from a method call.
-            const isError = Object.prototype.hasOwnProperty.call(message, 'error')
+            this.isAlive = false
+            this.ping()
+          }, 30000)
+        }
 
-            if (!isError && message.result) {
-              // Resolve the call if a resolver exists.
-              if (typeof this.RESOLVERS[message.id] === 'function') {
-                this.RESOLVERS[message.id](message.result)
-              }
-            } else if (isError) {
-              // Reject the call if a resolver exists.
-              if (typeof this.REJECTORS[message.id] === 'function') {
-                this.REJECTORS[message.id](message.error)
-              }
-            }
-
-            // Call lifecycle finished; tear down resolver, rejector, and timeout
-            delete this.RESOLVERS[message.id]
-            delete this.REJECTORS[message.id]
-            clearTimeout(this.TIMEOUTS[message.id])
+        // The connection was closed
+        this.socket.onclose = () => {
+          this.isAuthenticated = false
+          clearInterval(this.socket.interval)
+          if (reconnect) {
+            console.log(
+              'socket closed. this is usually because the system lost its connection to the internet or you connected to the indexer with the same ethereum address somewhere else.',
+            )
+            console.log('attempting reconnect in 10s')
+            setTimeout(() => {
+              this.connect()
+            }, 10000)
           }
         }
+
+        // There was an error on the connection
+        this.socket.onerror = event => {
+          reject(event)
+        }
+
+        // Received a message
+        this.socket.onmessage = event => {
+          // We are authenticating
+          if (!this.isAuthenticated) {
+            switch (event.data) {
+              // We have completed the challenge.
+              case 'ok':
+                this.isAuthenticated = true
+                console.log('Working...')
+                resolve(event.data)
+                break
+              case 'not authorized':
+                reject(new Error('Address is not authorized.'))
+                break
+              default:
+                // We have been issued a challenge.
+                this.wallet.signMessage(event.data).then(signature => {
+                  this.socket.send(signature)
+                })
+            }
+          } else if (this.isAuthenticated) {
+            // We are already authenticated and are receiving an RPC.
+            let payload
+            let message
+
+            try {
+              payload = JSON.parse(event.data)
+              message = payload.message && JSON.parse(payload.message)
+            } catch (e) {
+              console.error('Error parsing payload', e, payload)
+            }
+
+            if (!payload || !message) {
+              return
+            }
+
+            if (message.method) {
+              // Another peer is invoking a method.
+              if (this.RPC_METHOD_ACTIONS[message.method]) {
+                this.RPC_METHOD_ACTIONS[message.method](message)
+              }
+            } else if (message.id) {
+              // We have received a response from a method call.
+              const isError = Object.prototype.hasOwnProperty.call(message, 'error')
+
+              if (!isError && message.result) {
+                // Resolve the call if a resolver exists.
+                if (typeof this.RESOLVERS[message.id] === 'function') {
+                  this.RESOLVERS[message.id](message.result)
+                }
+              } else if (isError) {
+                // Reject the call if a resolver exists.
+                if (typeof this.REJECTORS[message.id] === 'function') {
+                  this.REJECTORS[message.id](message.error)
+                }
+              }
+
+              // Call lifecycle finished; tear down resolver, rejector, and timeout
+              delete this.RESOLVERS[message.id]
+              delete this.REJECTORS[message.id]
+              clearTimeout(this.TIMEOUTS[message.id])
+            }
+          }
+        }
+      } catch (e) {
+        reject(e)
       }
     })
   }
