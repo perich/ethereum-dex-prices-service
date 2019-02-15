@@ -2,8 +2,10 @@ module.exports = {
   env: {
     node: true,
     es6: true,
+    'jest/globals': true,
   },
-  extends: ['airbnb-base'],
+  extends: ['airbnb-base', 'plugin:jest/recommended'],
+  plugins: ['jest'],
   rules: {
     'comma-dangle': 'off',
     'function-paren-newline': 'off',

@@ -1,12 +1,12 @@
-const IDEX = require('./exchanges/IDEX.js')
-const DDEX = require('./exchanges/DDEX.js')
-const Kyber = require('./exchanges/Kyber.js')
-const Bancor = require('./exchanges/Bancor.js')
 const AirSwap = require('./exchanges/AirSwap.js')
-const RadarRelay = require('./exchanges/RadarRelay.js')
+const Bancor = require('./exchanges/Bancor.js')
+const DDEX = require('./exchanges/DDEX.js')
 const Ethfinex = require('./exchanges/Ethfinex.js')
-const SaturnNetwork = require('./exchanges/Saturn.js')
 const Forkdelta = require('./exchanges/Forkdelta.js')
+const IDEX = require('./exchanges/IDEX.js')
+const Kyber = require('./exchanges/Kyber.js')
+const RadarRelay = require('./exchanges/RadarRelay.js')
+const SaturnNetwork = require('./exchanges/Saturn.js')
 const Uniswap = require('./exchanges/Uniswap.js')
 const { sortBids, sortAsks } = require('./helpers')
 const { DDEX_TAKER_FEE } = require('./constants')
@@ -23,11 +23,11 @@ module.exports = {
       new Bancor(decimals),
       new DDEX(),
       new Ethfinex(),
+      new Forkdelta(),
       new IDEX(),
       new Kyber(),
       new RadarRelay(),
       new SaturnNetwork('eth'),
-      new Forkdelta(),
       new Uniswap(),
     ]
 
