@@ -8,6 +8,7 @@ const Kyber = require('./exchanges/Kyber.js')
 const RadarRelay = require('./exchanges/RadarRelay.js')
 const SaturnNetwork = require('./exchanges/Saturn.js')
 const Uniswap = require('./exchanges/Uniswap.js')
+const Switcheo = require('./exchanges/Switcheo.js')
 const { sortBids, sortAsks } = require('./helpers')
 const { DDEX_TAKER_FEE } = require('./constants')
 
@@ -29,6 +30,7 @@ module.exports = {
       new RadarRelay(),
       new SaturnNetwork('eth'),
       new Uniswap(),
+      new Switcheo(),
     ]
 
     const promises = dexes.map(dex =>
