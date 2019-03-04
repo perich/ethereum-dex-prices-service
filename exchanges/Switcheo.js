@@ -6,7 +6,7 @@ module.exports = class Switcheo extends OrderBookExchange {
   constructor() {
     super()
     this.url = `${SWITCHEO_URL}/v2/offers/book`
-    this.name = 'Switcheo Exchange'
+    this.name = 'Switcheo'
   }
 
   // fetch the raw order book from the exchange
