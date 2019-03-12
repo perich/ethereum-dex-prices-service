@@ -7469,6 +7469,13 @@
     "name": "Bulleon",
     "symbol": "BLN"
   },
+  "FOAM": {
+    "addr": "0x4946fcea7c692606e8908002e55a582af44ac121",
+    "decimals": 18,
+    "description": "Proof of location",
+    "name": "FOAM Token",
+    "symbol": "FOAM"
+  },
   "ASTRO": {
     "addr": "0x7b22938ca841aa392c93dbb7f4c42178e3d65e88",
     "decimals": 4,
