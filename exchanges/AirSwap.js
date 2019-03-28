@@ -2,7 +2,7 @@ const rp = require('request-promise')
 const WebSocket = require('ws')
 const ethers = require('ethers')
 const uuid = require('uuid4')
-const { AIRSWAP_TOKEN_METADATA_URL } = require('../constants.js')
+const { AIRSWAP_HEADLESS_API, AIRSWAP_TOKEN_METADATA_URL } = require('../constants.js')
 
 const { Wallet, utils } = ethers
 const TIMEOUT = 6000
@@ -17,6 +17,7 @@ module.exports = class AirSwap {
 
     // Set the websocket url based on environment
     this.socketUrl = 'wss://connect.airswap-api.com/websocket'
+    this.headlessUrl = `${AIRSWAP_HEADLESS_API}/getQuotes`
     this.metadataUrl = `${AIRSWAP_TOKEN_METADATA_URL}/tokens`
 
     // Websocket authentication state
@@ -40,6 +41,14 @@ module.exports = class AirSwap {
     return rp(config)
   }
 
+  getQuotes({ makerToken, takerToken, makerAmount, takerAmount }) {
+    return rp(
+      `${
+        this.headlessUrl
+      }?makerToken=${makerToken}&takerToken=${takerToken}&makerAmount=${makerAmount}&takerAmount=${takerAmount}`,
+    )
+  }
+
   async computePrice(symbol, desiredAmount, isSell) {
     let result = {}
     try {
@@ -57,16 +66,28 @@ module.exports = class AirSwap {
         decimalAdjustedAmount = utils.parseUnits(String(desiredAmount), tokenDecimals)
       }
 
-      await this.connect()
+      // const intents = isSell
+      //   ? await this.findIntents(['0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'], [tokenObj.address])
+      //   : await this.findIntents([tokenObj.address], ['0x0000000000000000000000000000000000000000'])
 
-      const intents = isSell
-        ? await this.findIntents(['0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'], [tokenObj.address])
-        : await this.findIntents([tokenObj.address], ['0x0000000000000000000000000000000000000000'])
-      if (!intents || !intents.length) throw unavailableError
+      // if (!intents || !intents.length) throw unavailableError
+
+      // const orders = isSell
+      //   ? await this.getOrders(intents, null, decimalAdjustedAmount)
+      //   : await this.getOrders(intents, decimalAdjustedAmount)
 
       const orders = isSell
-        ? await this.getOrders(intents, null, decimalAdjustedAmount)
-        : await this.getOrders(intents, decimalAdjustedAmount)
+        ? await this.getQuotes({
+            makerToken: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2',
+            takerToken: tokenObj.address,
+            takerAmount: decimalAdjustedAmount,
+          }).then(o => JSON.parse(o))
+        : await this.getQuotes({
+            makerToken: tokenObj.address,
+            takerToken: '0x0000000000000000000000000000000000000000',
+            makerAmount: decimalAdjustedAmount,
+          }).then(o => JSON.parse(o))
+
       if (!orders || !orders.length) throw noOrderError
 
       const [bestOrder] = orders.sort((a, b) => {
@@ -107,7 +128,7 @@ module.exports = class AirSwap {
         tokenAmount: desiredAmount,
       }
     }
-    this.disconnect()
+
     return { [this.name]: result }
   }
 

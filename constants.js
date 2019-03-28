@@ -8,6 +8,7 @@ const ETHFINEX_URL = 'https://api.ethfinex.com/v1'
 const SATURN_URL = 'https://ticker.saturn.network/api/v2'
 const FORKDELTA_URL = 'https://api.forkdelta.com'
 const AIRSWAP_TOKEN_METADATA_URL = 'https://token-metadata.production.airswap.io'
+const AIRSWAP_HEADLESS_API = 'https://headless.production.airswap.io'
 const SWITCHEO_URL = 'https://api.switcheo.network'
 
 // DDEX charges a 0.3% taker fee
@@ -126,6 +127,7 @@ module.exports = {
   DDEX_URL,
   DDEX_TAKER_FEE,
   RADAR_RELAY_URL,
+  AIRSWAP_HEADLESS_API,
   AIRSWAP_TOKEN_METADATA_URL,
   ETHFINEX_URL,
   SATURN_URL,

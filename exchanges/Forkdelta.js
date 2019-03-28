@@ -43,13 +43,17 @@ module.exports = class Forkdelta extends OrderBookExchange {
             gasPrice: 4000000000,
           })
           .then(() =>
-            this.service.waitForMarket(
-              { addr },
-              {
-                addr: '',
-                pk: '',
-              },
-            ),
+            this.service
+              .waitForMarket(
+                { addr },
+                {
+                  addr: '',
+                  pk: '',
+                },
+              )
+              .catch(e => {
+                resolve(null)
+              }),
           )
           .then(() => {
             const { buys, sells } = this.service.getOrderBook()
@@ -65,7 +69,7 @@ module.exports = class Forkdelta extends OrderBookExchange {
             resolve({ asks: formattedAsks, bids: formattedBids })
           })
           .catch(e => {
-            throw e
+            resolve(null)
           })
       } catch (error) {
         resolve(null)
