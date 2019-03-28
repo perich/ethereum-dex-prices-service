@@ -12,6 +12,7 @@ module.exports = {
     'object-curly-newline': 'off',
     'arrow-parens': 'off',
     'no-console': 'off',
+    indent: 'off',
     'no-continue': 'off',
     'no-use-before-define': 'off',
     'no-mixed-operators': 'off',
