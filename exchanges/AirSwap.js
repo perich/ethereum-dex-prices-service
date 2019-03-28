@@ -42,11 +42,14 @@ module.exports = class AirSwap {
   }
 
   getQuotes({ makerToken, takerToken, makerAmount, takerAmount }) {
-    return rp(
-      `${
-        this.headlessUrl
-      }?makerToken=${makerToken}&takerToken=${takerToken}&makerAmount=${makerAmount}&takerAmount=${takerAmount}`,
-    )
+    let uri = `${this.headlessUrl}?makerToken=${makerToken}&takerToken=${takerToken}`
+    if (makerAmount) {
+      uri += `&makerAmount=${makerAmount}`
+    }
+    if (takerAmount) {
+      uri += `&takerAmount=${takerAmount}`
+    }
+    return rp(uri)
   }
 
   async computePrice(symbol, desiredAmount, isSell) {
