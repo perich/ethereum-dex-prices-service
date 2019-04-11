@@ -7476,6 +7476,20 @@
     "name": "FOAM Token",
     "symbol": "FOAM"
   },
+  "LOOM": {
+    "addr": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+    "decimals": 18,
+    "description": "Loom Network’s DPoS sidechains allow for truly scalable blockchain games and DApps with the security of Ethereum mainnet. Like EOS on Ethereum.",
+    "name": "LOOM Token",
+    "symbol": "LOOM"
+  },
+  "LEV": {
+    "addr": "0x0f4ca92660efad97a9a70cb0fe969c755439772c",
+    "decimals": 9,
+    "description": "decentralized marign trading",
+    "name": "Leverj",
+    "symbol": "LEV"
+  },
   "ASTRO": {
     "addr": "0x7b22938ca841aa392c93dbb7f4c42178e3d65e88",
     "decimals": 4,
