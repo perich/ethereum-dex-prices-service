@@ -2,6 +2,8 @@ const rp = require('request-promise')
 const { DDEX_URL } = require('../constants.js')
 const OrderBookExchange = require('./OrderBookExchange.js')
 
+const flippableBooks = ['DAI', 'TUSD', 'USDC', 'USDT', 'PAX']
+
 module.exports = class DDEX extends OrderBookExchange {
   constructor() {
     super()
@@ -12,7 +14,7 @@ module.exports = class DDEX extends OrderBookExchange {
   // fetch the raw order book from the exchange
   _getRawOrderBook(symbol) {
     let uri = `${this.url}/${symbol}-WETH/orderbook?level=2`
-    if (symbol === 'DAI') {
+    if (flippableBooks.includes(symbol)) {
       uri = `${this.url}/WETH-${symbol}/orderbook?level=2`
     }
     const config = {
@@ -36,7 +38,7 @@ module.exports = class DDEX extends OrderBookExchange {
           data: { orderBook },
         } = await this._getRawOrderBook(symbol)
 
-        const { asks, bids } = symbol === 'DAI' ? DDEX._flipBook(orderBook) : orderBook
+        const { asks, bids } = flippableBooks.includes(symbol) ? DDEX._flipBook(orderBook) : orderBook
 
         if (!asks.length || !bids.length) {
           throw new Error()
