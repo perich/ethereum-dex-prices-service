@@ -38,10 +38,6 @@ module.exports = class DDEX extends OrderBookExchange {
 
         const { asks, bids } = symbol === 'DAI' ? DDEX._flipBook(orderBook) : orderBook
 
-        if (!asks.length || !bids.length) {
-          throw new Error()
-        }
-
         const formattedAsks = asks.map(walkBook)
 
         lotPrice = 0
