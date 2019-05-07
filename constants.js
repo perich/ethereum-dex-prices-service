@@ -87,6 +87,29 @@ const UNISWAP_FACTORY_ABI = [
   },
 ]
 
+const ETH2DAI_ADDRESS = '0x39755357759cE0d7f32dC8dC45414CCa409AE24e'
+const ETH2DAI_ABI = [
+  {
+    name: 'getBuyAmount',
+    outputs: [{ name: 'fill_amt', type: 'uint256' }],
+    inputs: [{ name: 'buy_gem', type: 'address' }, { name: 'pay_gem', type: 'address' }, { name: 'pay_amt', type: 'uint256' }],
+    constant: true,
+    payable: false,
+    type: 'function'
+  },
+  {
+    name: 'getPayAmount',
+    outputs: [{ name: 'fill_amt', type: 'uint256' }],
+    inputs: [{ name: 'pay_gem', type: 'address' }, { name: 'buy_gem', type: 'address' }, { name: 'buy_amt', type: 'uint256' }],
+    constant: true,
+    payable: false,
+    type: 'function'
+  }
+]
+
+const WETH_ADDRESS = '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2'
+const WETH_DECIMALS = 18
+
 const TOP_TOKENS_DECIMAL_MAP = {
   BNB: { decimals: 18, levels: calculateLevels(20) },
   MKR: { decimals: 18, levels: calculateLevels(0.25) },
@@ -135,5 +158,9 @@ module.exports = {
   TOP_TOKENS_DECIMAL_MAP,
   UNISWAP_FACTORY_ADDRESS,
   UNISWAP_FACTORY_ABI,
+  ETH2DAI_ADDRESS,
+  ETH2DAI_ABI,
+  WETH_ADDRESS,
+  WETH_DECIMALS,
   SWITCHEO_URL,
 }
