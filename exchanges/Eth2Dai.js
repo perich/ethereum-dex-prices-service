@@ -36,11 +36,6 @@ module.exports = class Eth2Dai {
         : await this.exchangeContract.getPayAmount(WETH_ADDRESS, addr, desiredAmountInWei)
 
       const totalPrice = parseFloat(utils.formatUnits(utils.bigNumberify(totalPriceInWei.toString()), WETH_DECIMALS))
-
-      if (totalPrice <= 0) {
-        throw new Error(`not enough liquidity on ${this.name} for ${desiredAmount} ${symbol}`)
-      }
-
       const avgPrice = totalPrice / desiredAmount
 
       result = {
