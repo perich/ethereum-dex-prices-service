@@ -25,7 +25,7 @@ module.exports = class RadarRelay extends OrderBookExchange {
     const marketId = symbol === 'DAI' ? 'WETH-DAI' : `${symbol}-WETH`
     const config = {
       timeout: 3000,
-      uri: `${this.marketsUrl}/${marketId.toLowerCase()}/book`,
+      uri: `${this.marketsUrl}/${marketId}/book`,
       method: 'GET',
       json: true,
     }
