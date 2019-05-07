@@ -7161,6 +7161,13 @@
     "name": "We Bet Crypto",
     "symbol": "WBA"
   },
+  "WBTC": {
+    "addr": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 8,
+    "description": "Wrapped BTC",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC"
+  },
   "ERO": {
     "addr": "0x74ceda77281b339142a36817fa5f9e29412bab85",
     "decimals": 8,
