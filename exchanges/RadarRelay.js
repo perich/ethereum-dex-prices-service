@@ -21,8 +21,7 @@ module.exports = class RadarRelay extends OrderBookExchange {
   }
 
   // fetch the raw order book from the exchange
-  _getRawOrderBook(symbol) {
-    const marketId = symbol === 'DAI' ? 'WETH-DAI' : `${symbol}-WETH`
+  _getRawOrderBook(marketId) {
     const config = {
       timeout: 3000,
       uri: `${this.marketsUrl}/${marketId}/book`,
@@ -65,7 +64,7 @@ module.exports = class RadarRelay extends OrderBookExchange {
         if (!isTokenAvailable) {
           throw new Error(`${marketId} is not available on ${this.name}`)
         }
-        const book = await this._getRawOrderBook(symbol)
+        const book = await this._getRawOrderBook(marketId)
         const { asks, bids } = symbol === 'DAI' ? RadarRelay._flipBook(book) : book
 
         const formattedAsks = asks.map(walkBook)
