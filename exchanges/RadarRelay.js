@@ -9,10 +9,10 @@ module.exports = class RadarRelay extends OrderBookExchange {
     this.name = 'Radar Relay'
   }
 
-  getAvailableMarkets() {
+  _getMarketDetails(marketId) {
     const config = {
       timeout: 3000,
-      uri: this.marketsUrl,
+      uri: `${this.marketsUrl}/${marketId}`,
       method: 'GET',
       json: true,
     }
@@ -58,12 +58,12 @@ module.exports = class RadarRelay extends OrderBookExchange {
 
     return new Promise(async resolve => {
       try {
-        const availableMarkets = await this.getAvailableMarkets()
         const marketId = symbol === 'DAI' ? 'WETH-DAI' : `${symbol}-WETH`
-        const isTokenAvailable = !!availableMarkets.find(market => market.id === marketId)
-        if (!isTokenAvailable) {
+        const marketDetails = await this._getMarketDetails(marketId)
+        if (!marketDetails.active) {
           throw new Error(`${marketId} is not available on ${this.name}`)
         }
+
         const book = await this._getRawOrderBook(marketId)
         const { asks, bids } = symbol === 'DAI' ? RadarRelay._flipBook(book) : book
 
