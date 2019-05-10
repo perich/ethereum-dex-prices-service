@@ -1,6 +1,7 @@
 const AirSwap = require('./exchanges/AirSwap.js')
 const Bancor = require('./exchanges/Bancor.js')
 const DDEX = require('./exchanges/DDEX.js')
+const Eth2Dai = require('./exchanges/Eth2Dai.js')
 const Ethfinex = require('./exchanges/Ethfinex.js')
 const Forkdelta = require('./exchanges/Forkdelta.js')
 const IDEX = require('./exchanges/IDEX.js')
@@ -23,6 +24,7 @@ module.exports = {
       new AirSwap(),
       new Bancor(decimals),
       new DDEX(),
+      new Eth2Dai(),
       new Ethfinex(),
       new Forkdelta(),
       new IDEX(),
