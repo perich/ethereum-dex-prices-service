@@ -14,8 +14,18 @@ module.exports = class Uniswap {
 
   // fetch all supported tokens traded on Uniswap
   async getExchangeLiquidityByAddress(symbol, address, decimals) {
-    const erc20Contract = await new ethers.Contract(address, tokenAbi, this.ethProvider)
-    const exchangeAddress = await this.factoryContract.getExchange(address)
+    // Although TUSD has migrated to a new contract some time ago (0x0000000000085d4780b73119b644ae5ecd22b376),
+    // it is still accessible under the previous address (0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E)
+    // and it's actually the previous address that the Uniswap reserve exists for.
+    let tokenAddress
+    if (address.toUpperCase() === '0x0000000000085d4780b73119b644ae5ecd22b376'.toUpperCase()) {
+      tokenAddress = '0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E'
+    } else {
+      tokenAddress = address
+    }
+
+    const erc20Contract = await new ethers.Contract(tokenAddress, tokenAbi, this.ethProvider)
+    const exchangeAddress = await this.factoryContract.getExchange(tokenAddress)
 
     if (exchangeAddress === '0x0000000000000000000000000000000000000000') {
       // token does not yet have an exchange on uniswap
