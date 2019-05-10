@@ -2,6 +2,8 @@ const rp = require('request-promise')
 const { IDEX_URL } = require('../constants.js')
 const OrderBookExchange = require('./OrderBookExchange.js')
 
+const quoteSymbols = ['WBTC', 'TUSD', 'USDC', 'DAI']
+
 module.exports = class IDEX extends OrderBookExchange {
   constructor() {
     super()
@@ -12,7 +14,7 @@ module.exports = class IDEX extends OrderBookExchange {
   // fetch the raw order book from the exchange
   _getRawOrderBook(symbol) {
     const body = {
-      market: symbol === 'WBTC' ? 'WBTC_ETH' : `ETH_${symbol}`,
+      market: quoteSymbols.includes(symbol) ? `${symbol}_ETH` : `ETH_${symbol}`,
       count: 100,
     }
     const config = {
@@ -35,7 +37,7 @@ module.exports = class IDEX extends OrderBookExchange {
     return new Promise(async resolve => {
       try {
         const book = await this._getRawOrderBook(symbol)
-        const { asks, bids } = symbol === 'WBTC' ? IDEX._flipBook(book) : book
+        const { asks, bids } = quoteSymbols.includes(symbol) ? IDEX._flipBook(book) : book
 
         const formattedAsks = asks.map(walkBook)
 
