@@ -18,8 +18,8 @@ module.exports = class Uniswap {
     // it is still accessible under the previous address (0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E)
     // and it's actually the previous address that the Uniswap reserve exists for.
     let tokenAddress
-    if (address.toUpperCase() === "0x0000000000085d4780b73119b644ae5ecd22b376".toUpperCase()) {
-      tokenAddress = "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E"
+    if (address.toUpperCase() === '0x0000000000085d4780b73119b644ae5ecd22b376'.toUpperCase()) {
+      tokenAddress = '0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E'
     } else {
       tokenAddress = address
     }
