@@ -8404,6 +8404,18 @@
     "name": "",
     "symbol": "DAI"
   },
+  "USDC": {
+    "addr": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "decimals": 6,
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  "TUSD": {
+    "addr": "0x0000000000085d4780b73119b644ae5ecd22b376",
+    "decimals": 18,
+    "name": "TrueUSD",
+    "symbol": "TUSD"
+  },
   "SIFT": {
     "addr": "0x8a187d5285d316bcbc9adafc08b51d70a0d8e000",
     "decimals": 0,
