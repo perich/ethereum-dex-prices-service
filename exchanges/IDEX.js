@@ -2,7 +2,7 @@ const rp = require('request-promise')
 const { IDEX_URL } = require('../constants.js')
 const OrderBookExchange = require('./OrderBookExchange.js')
 
-const quoteSymbols = ['WBTC', 'TUSD', 'USDC', 'DAI']
+const quoteSymbols = ['TUSD', 'USDC', 'EURS', 'DAI']
 
 module.exports = class IDEX extends OrderBookExchange {
   constructor() {
