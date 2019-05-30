@@ -8,7 +8,7 @@ const Tx = require('ethereumjs-tx')
 
 const { FORKDELTA_URL } = require('../constants.js')
 const OrderBookExchange = require('./OrderBookExchange.js')
-const tokens = require('../tokensBySymbol.json')
+const { tokenSymbolResolver } = require('../tokenSymbolResolver.js')
 
 module.exports = class Forkdelta extends OrderBookExchange {
   constructor() {
@@ -19,20 +19,13 @@ module.exports = class Forkdelta extends OrderBookExchange {
     this.name = 'Forkdelta'
   }
 
-  static getTokenMetadata(symbol) {
-    if (tokens[symbol]) {
-      return tokens[symbol]
-    }
-    throw new Error(`${symbol} not available on Forkdelta`)
-  }
-
   async _createCanonicalOrderBook(symbol) {
     let lotPrice = 0
     let lotAmount = 0
 
     return new Promise(async resolve => {
       try {
-        const { addr } = Forkdelta.getTokenMetadata(symbol)
+        const { addr } = await tokenSymbolResolver(symbol)
 
         this.service
           .init({

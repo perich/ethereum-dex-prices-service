@@ -1,6 +1,6 @@
 const tokenAbi = require('human-standard-token-abi')
 const ethers = require('ethers')
-const tokens = require('../tokensBySymbol.json')
+const { tokenSymbolResolver } = require('../tokenSymbolResolver.js')
 const { UNISWAP_FACTORY_ABI, UNISWAP_FACTORY_ADDRESS } = require('../constants.js')
 
 const { utils } = ethers
@@ -40,13 +40,6 @@ module.exports = class Uniswap {
     return { ethAmount, tokenAmount }
   }
 
-  static getTokenMetadata(symbol) {
-    if (tokens[symbol]) {
-      return tokens[symbol]
-    }
-    throw new Error(`no token metadata available for ${symbol}, can't get decimals`)
-  }
-
   static getBuyRate(tokenAmountBought, inputReserve, outputReserve) {
     const numerator = tokenAmountBought * inputReserve * 1000
     const denominator = (outputReserve - tokenAmountBought) * 997
@@ -63,7 +56,7 @@ module.exports = class Uniswap {
   async computePrice(symbol, desiredAmount, isSell) {
     let result = {}
     try {
-      const { addr, decimals } = Uniswap.getTokenMetadata(symbol)
+      const { addr, decimals } = await tokenSymbolResolver(symbol)
       const { ethAmount, tokenAmount } = await this.getExchangeLiquidityByAddress(symbol, addr, decimals)
 
       // Any BNB sent to Uniswap will be lost forever

@@ -1,5 +1,5 @@
 const ethers = require('ethers')
-const tokens = require('../tokensBySymbol.json')
+const { tokenSymbolResolver } = require('../tokenSymbolResolver.js')
 const { ETH2DAI_ABI, ETH2DAI_ADDRESS, WETH_ADDRESS, WETH_DECIMALS } = require('../constants.js')
 
 const { utils } = ethers
@@ -9,13 +9,6 @@ module.exports = class Eth2Dai {
     this.ethProvider = ethers.getDefaultProvider('homestead')
     this.exchangeContract = new ethers.Contract(ETH2DAI_ADDRESS, ETH2DAI_ABI, this.ethProvider)
     this.name = 'Eth2Dai'
-  }
-
-  static getTokenMetadata(symbol) {
-    if (tokens[symbol]) {
-      return tokens[symbol]
-    }
-    throw new Error(`no token metadata available for ${symbol}, can't get decimals`)
   }
 
   async computePrice(symbol, desiredAmount, isSell) {
@@ -28,7 +21,7 @@ module.exports = class Eth2Dai {
         throw new Error('only DAI is supported on ETH2DAI at the moment')
       }
 
-      const { addr, decimals } = Eth2Dai.getTokenMetadata(symbol)
+      const { addr, decimals } = await tokenSymbolResolver(symbol)
 
       const desiredAmountInWei = utils.parseUnits(desiredAmount.toString(), decimals)
       const totalPriceInWei = isSell
