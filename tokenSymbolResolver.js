@@ -20,18 +20,26 @@ const tokenSymbolResolver = async symbol => {
       try {
         // get all tokens and find by relevant symbol
         const cgTokensList = JSON.parse(await rp(`${COINGECKO_API_URL}/coins/list`))
-        const matchedTokenObj = cgTokensList.find(tokenObj => tokenObj.symbol.toUpperCase() === symbol.toUpperCase())
-        if (!matchedTokenObj) throw new Error(`${symbol} not found in coingecko api`)
-        const matchedTokenMetadata = JSON.parse(await rp(`${COINGECKO_API_URL}/coins/${matchedTokenObj.id}`))
-        if (!matchedTokenMetadata.contract_address) throw new Error(`${symbol} not found in coingecko api`)
+        const matchedTokens = cgTokensList.filter(tokenObj => tokenObj.symbol.toUpperCase() === symbol.toUpperCase())
+        if (matchedTokens.length === 0) throw new Error(`${symbol} not found in coingecko api`)
+
+        // it's possible there could be multiple tokens that match the symbol
+        // so we will return the one with the highest market cap between the group
+        const bestTokenMetadataMatch = (await Promise.all(
+          matchedTokens.map(obj => rp(`${COINGECKO_API_URL}/coins/${obj.id}`)),
+        ))
+          .map(JSON.parse)
+          .reduce((a, b) => (a.market_cap_rank > b.market_cap_rank ? b : a))
+
+        if (!bestTokenMetadataMatch.contract_address) throw new Error(`${symbol} not found in coingecko api`)
 
         // get decimals using airswap api
         const { decimals } = JSON.parse(
-          await rp(`${AIRSWAP_TOKEN_METADATA_URL}/crawlTokenData?address=${matchedTokenMetadata.contract_address}`),
+          await rp(`${AIRSWAP_TOKEN_METADATA_URL}/crawlTokenData?address=${bestTokenMetadataMatch.contract_address}`),
         )
 
         // resolve with token address and decimals
-        resolve({ addr: matchedTokenMetadata.contract_address, decimals })
+        resolve({ addr: bestTokenMetadataMatch.contract_address, decimals })
       } catch (e) {
         reject(e)
       } finally {
