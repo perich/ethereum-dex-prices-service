@@ -52,5 +52,9 @@
     "serverless-offline": "^3.31.3",
     "serverless-plugin-tracing": "^2.0.0",
     "serverless-ssm-fetch": "^1.0.1"
+  },
+  "resolutions": {
+    "*/**/js-yaml": "3.13.1",
+    "*/**/handlebars": "^4.0.14"
   }
 }
