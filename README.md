@@ -14,6 +14,38 @@ Find the best price for any asset on any Decentralized Exchange (DEX) at any tim
 
 #### [Example Web App](https://dexindex.io)
 
+## Quick Start
+
+NPM
+`npm install --save ethereum-dex-prices-service`
+
+Yarn
+`yarn add ethereum-dex-prices-service`
+
+In your project
+
+```JavaScript
+const { main } = require('ethereum-dex-prices-service')
+
+async function getDexPrices() {
+  const results = await main('DAI', 500, 'buy')
+  results.forEach(obj => {
+    // do some stuff
+  })
+}
+```
+
+or just import individual DEX classes
+
+```JavaScript
+const { AirSwap } = require('ethereum-dex-prices-service')
+
+async function getAirSwapPrice() {
+  const result = await AirSwap.computePrice('DAI', 500, 'buy', 0)
+  console.log(result)
+}
+```
+
 ## Architecture
 
 The service is composed of modular ES6 classes. Each decentralized exchange or "DEX" has its own class inside the `exchanges/` directory. Classic order book style DEX's inherit from the base `OrderBookExchange` class. Unique DEX's like AirSwap, Kyber, and Bancor use their own inidividual classes. Every class implements a method called `computePrice` to return price data in a generalized schema.
