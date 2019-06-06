@@ -45,4 +45,16 @@ module.exports = {
       return sortedResults
     })
   },
+  AirSwap,
+  Bancor,
+  DDEX,
+  Eth2Dai,
+  Ethfinex,
+  Forkdelta,
+  IDEX,
+  Kyber,
+  RadarRelay,
+  SaturnNetwork,
+  Uniswap,
+  Switcheo,
 }

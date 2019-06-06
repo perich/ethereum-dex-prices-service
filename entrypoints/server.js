@@ -1,7 +1,7 @@
 const express = require('express')
 const cors = require('cors')
 
-const { main } = require('../main.js')
+const { main } = require('../index.js')
 
 const app = express()
 const port = 1337

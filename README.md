@@ -2,17 +2,49 @@
 
 An open source utility for the Ethereum community.
 
-Find the best price for any asset on any DEX at any time.
+Find the best price for any asset on any Decentralized Exchange (DEX) at any time.
 
 ## Introduction
 
-`ethereum-dex-prices-service` is a NodeJS library for fetching real time price data from Ethereum decentralized exchanges. This repository contains free, open-source tools that anyone can use.
+`ethereum-dex-prices-service` is a JavaScript library for fetching real time price data from Ethereum decentralized exchanges. This repository contains free, open-source tools that anyone can use.
 
 - Quickly launch an HTTP server to serve DEX prices in your applications
 - Execute price searches from the command line to find cheap prices and arbitrage opportunities
-- Export modular ES6 classes to add DEX API support to your NodeJS projects
+- Add DEX prices API support in your NodeJS and web projects by simply importing the library's modular classes
 
 #### [Example Web App](https://dexindex.io)
+
+## Quick Start
+
+NPM
+`npm install --save ethereum-dex-prices-service`
+
+Yarn
+`yarn add ethereum-dex-prices-service`
+
+In your project
+
+```JavaScript
+const { main } = require('ethereum-dex-prices-service')
+
+async function getDexPrices() {
+  const results = await main('DAI', 500, 'buy')
+  results.forEach(obj => {
+    // do some stuff
+  })
+}
+```
+
+or just import individual DEX classes
+
+```JavaScript
+const { AirSwap } = require('ethereum-dex-prices-service')
+
+async function getAirSwapPrice() {
+  const result = await AirSwap.computePrice('DAI', 500, 'buy', 0)
+  console.log(result)
+}
+```
 
 ## Architecture
 
