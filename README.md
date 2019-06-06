@@ -28,7 +28,7 @@ In your project
 const { main } = require('ethereum-dex-prices-service')
 
 async function getDexPrices() {
-  const results = await main('DAI', 500, 'buy')
+  const results = await main('DAI', 500, 'BUY')
   results.forEach(obj => {
     // do some stuff
   })
@@ -41,7 +41,7 @@ or just import individual DEX classes
 const { AirSwap } = require('ethereum-dex-prices-service')
 
 async function getAirSwapPrice() {
-  const result = await AirSwap.computePrice('DAI', 500, 'buy', 0)
+  const result = await AirSwap.computePrice('DAI', 500, 'BUY', 0)
   console.log(result)
 }
 ```
