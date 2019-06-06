@@ -1,7 +1,16 @@
 {
   "name": "ethereum-dex-prices-service",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Search crypto asset prices from the most popular Ethereum decentralized exchanges, based on real liquidity",
+  "keywords": [
+    "ethereum",
+    "dex",
+    "decentralized",
+    "exchange",
+    "prices",
+    "crypto",
+    "trading"
+  ],
   "main": "index.js",
   "author": "Graham Perich <g@perich.dev>",
   "license": "MIT",
