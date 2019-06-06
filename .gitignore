@@ -6,5 +6,7 @@ jspm_packages
 .serverless
 
 # Jest
-
 coverage/
+
+# Local Dev Testing
+scratchpad.js

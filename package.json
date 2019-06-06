@@ -1,20 +1,20 @@
 {
-  "name": "ethereum-dex-worker",
-  "version": "1.0.0",
-  "description": "An API wrapper that fetches prices from the most popular Ethereum decentralized exchanges",
+  "name": "ethereum-dex-prices-service",
+  "version": "0.1.0",
+  "description": "Search crypto asset prices from the most popular Ethereum decentralized exchanges, based on real liquidity",
   "main": "main.js",
-  "author": "graham@fluidity.io",
+  "author": "Graham Perich <g@perich.dev>",
   "license": "MIT",
   "scripts": {
     "search": "node entrypoints/cli.js",
-    "lint": "eslint .",
-    "prettier:check": "prettier '**/*.js' -l",
-    "prettier:fix": "prettier --write '**/*.js'",
     "debug:cli": "node --inspect-brk entrypoints/cli.js",
     "debug:server": "node --inspect-brk entrypoints/server.js",
     "serve:express": "node entrypoints/server.js",
     "serve:serverless": "serverless offline start",
     "generateTokenMetadata": "node generateTokensBySymbol.js",
+    "prettier:check": "prettier '**/*.js' -l",
+    "prettier:fix": "prettier --write '**/*.js'",
+    "lint": "eslint .",
     "test": "jest"
   },
   "pre-commit": [
