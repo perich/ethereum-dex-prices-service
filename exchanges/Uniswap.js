@@ -65,7 +65,7 @@ module.exports = class Uniswap {
       if (symbol === 'BNB') {
         throw new Error('BNB can not be traded on Uniswap due to a bug in the token code')
       }
-
+ 
       if (parseFloat(ethAmount) === 0 || parseFloat(tokenAmount) === 0) {
         throw new Error(`no liquidity available for ${symbol}`)
       }

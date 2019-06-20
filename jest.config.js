@@ -24,8 +24,20 @@ module.exports = {
   collectCoverageFrom: [
     // TODO: Once all tests have been added for existing files, default to all JavaScript files
     // "./**/*.js",
-    './exchanges/Ethfinex.js',
-    './exchanges/Uniswap.js'
+    "./exchanges/*.js",
+
+    // Remove exchanges from the exclusion list as tests are added
+    "!./exchanges/AirSwap.js",
+    "!./exchanges/Bancor.js",
+    "!./exchanges/DDEX.js",
+    "!./exchanges/Eth2Dai.js",
+    "!./exchanges/Forkdelta.js",
+    "!./exchanges/IDEX.js",
+    "!./exchanges/Kyber.js",
+    "!./exchanges/OrderBookExchange.js",
+    "!./exchanges/RadarRelay.js",
+    "!./exchanges/Saturn.js",
+    "!./exchanges/Switcheo.js",
   ],
 
   // The directory where Jest should output its coverage files
