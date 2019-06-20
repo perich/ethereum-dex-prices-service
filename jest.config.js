@@ -25,6 +25,7 @@ module.exports = {
     // TODO: Once all tests have been added for existing files, default to all JavaScript files
     // "./**/*.js",
     './exchanges/Ethfinex.js',
+    './exchanges/Uniswap.js'
   ],
 
   // The directory where Jest should output its coverage files

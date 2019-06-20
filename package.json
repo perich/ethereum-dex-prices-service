@@ -24,7 +24,7 @@
     "prettier:check": "prettier '**/*.js' -l",
     "prettier:fix": "prettier --write '**/*.js'",
     "lint": "eslint .",
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "pre-commit": [
     "yarn lint",

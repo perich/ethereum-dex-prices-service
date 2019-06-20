@@ -8,6 +8,7 @@ describe('Ethfinex', () => {
   const amount = 500
   const fee = 0
 
+  const expectedExchangeName = 'Ethfinex'
   const noPriceDataMessage = 'no price data found on Ethfinex for abc'
   const noLiquidityMessage = 'not enough liquidity on Ethfinex for 500 abc'
 
@@ -32,7 +33,7 @@ describe('Ethfinex', () => {
 
         expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
           Ethfinex: {
-            exchangeName: 'Ethfinex',
+            exchangeName: expectedExchangeName,
             tokenAmount: amount,
             tokenSymbol: symbol,
             timestamp: expect.any(Number),
@@ -48,7 +49,7 @@ describe('Ethfinex', () => {
 
         expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
           Ethfinex: {
-            exchangeName: 'Ethfinex',
+            exchangeName: expectedExchangeName,
             tokenAmount: amount,
             tokenSymbol: symbol,
             timestamp: expect.any(Number),
@@ -68,7 +69,7 @@ describe('Ethfinex', () => {
 
         expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
           Ethfinex: {
-            exchangeName: 'Ethfinex',
+            exchangeName: expectedExchangeName,
             tokenAmount: amount,
             tokenSymbol: symbol,
             timestamp: expect.any(Number),
@@ -89,7 +90,7 @@ describe('Ethfinex', () => {
 
           expect(exchange.computePrice(symbol, amount, true, fee)).resolves.toMatchObject({
             Ethfinex: {
-              exchangeName: 'Ethfinex',
+              exchangeName: expectedExchangeName,
               tokenAmount: amount,
               tokenSymbol: symbol,
               timestamp: expect.any(Number),
@@ -110,7 +111,7 @@ describe('Ethfinex', () => {
 
           expect(exchange.computePrice(symbol, amount, true, fee)).resolves.toMatchObject({
             Ethfinex: {
-              exchangeName: 'Ethfinex',
+              exchangeName: expectedExchangeName,
               tokenAmount: amount,
               tokenSymbol: symbol,
               timestamp: expect.any(Number),
@@ -130,7 +131,7 @@ describe('Ethfinex', () => {
 
           expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
             Ethfinex: {
-              exchangeName: 'Ethfinex',
+              exchangeName: expectedExchangeName,
               tokenAmount: amount,
               tokenSymbol: symbol,
               timestamp: expect.any(Number),
@@ -151,7 +152,7 @@ describe('Ethfinex', () => {
 
           expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
             Ethfinex: {
-              exchangeName: 'Ethfinex',
+              exchangeName: expectedExchangeName,
               tokenAmount: amount,
               tokenSymbol: symbol,
               timestamp: expect.any(Number),
@@ -173,7 +174,7 @@ describe('Ethfinex', () => {
 
       expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
         Ethfinex: {
-          exchangeName: 'Ethfinex',
+          exchangeName: expectedExchangeName,
           totalPrice: 1800.0,
           tokenAmount: amount,
           tokenSymbol: symbol,
@@ -195,7 +196,7 @@ describe('Ethfinex', () => {
 
       expect(exchange.computePrice(symbol, amount, true, fee)).resolves.toMatchObject({
         Ethfinex: {
-          exchangeName: 'Ethfinex',
+          exchangeName: expectedExchangeName,
           totalPrice: 700.0,
           tokenAmount: amount,
           tokenSymbol: symbol,
@@ -218,7 +219,7 @@ describe('Ethfinex', () => {
 
       expect(exchange.computePrice(symbol, amount, false, fee)).resolves.toMatchObject({
         Ethfinex: {
-          exchangeName: 'Ethfinex',
+          exchangeName: expectedExchangeName,
           totalPrice: 1000.0,
           tokenAmount: amount,
           tokenSymbol: symbol,
