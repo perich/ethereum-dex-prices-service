@@ -23,10 +23,8 @@ module.exports = class Bancor {
     }
     const tokenDataResponse = await rp(config)
     const {
-      data: {
-        currencies: { page },
-      },
-    } = tokenDataResponse
+      data: { page }
+      } = tokenDataResponse
     return page
   }
 
@@ -108,7 +106,7 @@ module.exports = class Bancor {
     const sellRateResponse = await rp(config)
     const { data } = sellRateResponse
     if (!data) {
-      throw new Error(`error fetching buy rate from ${this.name}`)
+      throw new Error(`error fetching buy rate from ${this.name} for asset ID ${id} at amount ${desiredAmount}`)
     } else {
       if (this.tokenDecimals === '0') {
         return data
@@ -136,7 +134,7 @@ module.exports = class Bancor {
       const tokenDetails = await this.getTokenDataForSymbol(symbol)
       this.tokenDecimals = String(tokenDetails.details[0].decimals)
 
-      const tokenId = tokenObj._id
+      const tokenId = tokenObj.id
       const totalPrice = isSell
         ? await this.getSellRate(tokenId, desiredAmount)
         : await this.getBuyRate(tokenId, desiredAmount)
