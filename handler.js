@@ -1,4 +1,4 @@
-const { main } = require('./main')
+const { main } = require('./index')
 const { TOP_TOKENS_DECIMAL_MAP } = require('./constants')
 
 const makeResponse = (response, origin = null) => ({

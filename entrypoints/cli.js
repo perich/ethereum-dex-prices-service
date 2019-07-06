@@ -1,4 +1,4 @@
-const { main } = require('../main')
+const { main } = require('../index')
 const { pipeResultsToCommandLine } = require('../helpers')
 
 // BUY or SELL
