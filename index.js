@@ -1,4 +1,5 @@
 const AirSwap = require('./exchanges/AirSwap.js')
+const BambooRelay = require('./exchanges/BambooRelay.js')
 const Bancor = require('./exchanges/Bancor.js')
 const DDEX = require('./exchanges/DDEX.js')
 const Eth2Dai = require('./exchanges/Eth2Dai.js')
@@ -23,6 +24,7 @@ module.exports = {
     const dexes = [
       new AirSwap(),
       new Bancor(decimals),
+      new BambooRelay(),
       new DDEX(),
       new Eth2Dai(),
       new Ethfinex(),
@@ -46,6 +48,7 @@ module.exports = {
     })
   },
   AirSwap,
+  BambooRelay,
   Bancor,
   DDEX,
   Eth2Dai,
