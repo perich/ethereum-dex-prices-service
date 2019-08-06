@@ -36,7 +36,7 @@ module.exports = class Uniswap {
     const erc20Reserve = await erc20Contract.balanceOf(exchangeAddress)
 
     const ethAmount = utils.formatUnits(utils.bigNumberify(ethReserve.toString(10)), 18)
-    const tokenAmount = utils.formatUnits(utils.bigNumberify(erc20Reserve.toString(10)), decimals)
+    const tokenAmount = utils.formatUnits(utils.bigNumberify(erc20Reserve.toString(10)), Number(decimals))
     return { ethAmount, tokenAmount }
   }
 
