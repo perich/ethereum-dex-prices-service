@@ -38,10 +38,11 @@ module.exports = {
     }
     console.log(sortedResults)
   },
-  applyFeeToResult(result, fee) {
+  applyFeeToResult(result, fee, isSell) {
     const { totalPrice, tokenAmount } = result
-    const newTotalPrice = totalPrice + totalPrice * fee
+    const newTotalPrice = isSell ? totalPrice - (totalPrice * fee) : totalPrice + (totalPrice * fee)
     const newAveragePrice = newTotalPrice / tokenAmount
+    console.log(`Fee applied! old total price: ${totalPrice}; new price: ${newTotalPrice}`)
     return { ...result, totalPrice: newTotalPrice, avgPrice: newAveragePrice }
   },
 }

@@ -76,7 +76,7 @@ module.exports = class OrderBookExchange {
       }
     }
     if (fee !== 0) {
-      result = applyFeeToResult(result, fee)
+      result = applyFeeToResult(result, fee, isSell)
     }
     return { [this.name]: result }
 
