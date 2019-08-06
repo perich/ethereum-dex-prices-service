@@ -130,6 +130,7 @@ const TOP_TOKENS_DECIMAL_MAP = {
   REP: { decimals: 18, levels: calculateLevels(10) },
   GNO: { decimals: 18, levels: calculateLevels(8) },
   DAI: { decimals: 18, levels: calculateLevels(100) },
+  USDC: { decimals: 18, levels: calculateLevels(100) },
   MANA: { decimals: 18, levels: calculateLevels(2000) },
   WTC: { decimals: 18, levels: calculateLevels(83) },
   BNT: { decimals: 18, levels: calculateLevels(140) },
