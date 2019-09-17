@@ -2,7 +2,7 @@ const rp = require('request-promise')
 const WebSocket = require('ws')
 const ethers = require('ethers')
 const uuid = require('uuid4')
-const { AIRSWAP_HEADLESS_API, AIRSWAP_TOKEN_METADATA_URL } = require('../constants.js')
+const { AIRSWAP_HEADLESS_API, AIRSWAP_TOKEN_METADATA_URL, WETH_ADDRESS } = require('../constants.js')
 
 const { Wallet, utils } = ethers
 const TIMEOUT = 6000
@@ -41,14 +41,16 @@ module.exports = class AirSwap {
     return rp(config)
   }
 
-  getQuotes({ makerToken, takerToken, makerAmount, takerAmount }) {
+  getQuotes({ makerToken, takerToken, makerParam, takerParam }) {
     let uri = `${this.headlessUrl}?makerToken=${makerToken}&takerToken=${takerToken}`
-    if (makerAmount) {
-      uri += `&makerAmount=${makerAmount}`
+
+    if (makerParam) {
+      uri += `&makerParam=${makerParam}`
     }
-    if (takerAmount) {
-      uri += `&takerAmount=${takerAmount}`
+    if (takerParam) {
+      uri += `&takerParam=${takerParam}`
     }
+    console.log('querying ', uri)
     return rp(uri)
   }
 
@@ -81,37 +83,41 @@ module.exports = class AirSwap {
 
       const orders = isSell
         ? await this.getQuotes({
-            makerToken: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2',
+            makerToken: WETH_ADDRESS.toLowerCase(),
             takerToken: tokenObj.address,
-            takerAmount: decimalAdjustedAmount,
+            takerParam: decimalAdjustedAmount,
           }).then(o => JSON.parse(o))
         : await this.getQuotes({
             makerToken: tokenObj.address,
-            takerToken: '0x0000000000000000000000000000000000000000',
-            makerAmount: decimalAdjustedAmount,
+            takerToken: WETH_ADDRESS.toLowerCase(),
+            makerParam: decimalAdjustedAmount,
           }).then(o => JSON.parse(o))
+
+      console.log('orders \n', orders)
 
       if (!orders || !orders.length) throw noOrderError
 
+      // need to handle v1 and v2 data types here
+      // https://headless.production.airswap.io/getQuotes?makerToken=0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359&takerToken=0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2&makerParam=500000000000000000000
       const [bestOrder] = orders.sort((a, b) => {
-        if (a.makerAmount && !b.makerAmount) return -1
-        if (b.makerAmount && !a.makerAmount) return 1
-        if (a.makerAmount && b.makerAmount) {
-          return parseInt(a.makerAmount, 10) > parseInt(b.makerAmount, 10) ? -1 : 1
+        if (a.makerParam && !b.makerParam) return -1
+        if (b.makerParam && !a.makerParam) return 1
+        if (a.makerParam && b.makerParam) {
+          return parseInt(a.makerParam, 10) > parseInt(b.makerParam, 10) ? -1 : 1
         }
         return 0
       })
 
-      if (!bestOrder.makerAmount || !bestOrder.takerAmount) {
+      if (!bestOrder.makerParam || !bestOrder.takerParma) {
         throw noOrderError
       }
 
       const formattedMakerAmount = isSell
-        ? utils.formatUnits(bestOrder.makerAmount, 18)
-        : utils.formatUnits(bestOrder.makerAmount, tokenDecimals)
+        ? utils.formatUnits(bestOrder.makerParam, 18)
+        : utils.formatUnits(bestOrder.makerParam, tokenDecimals)
       const formattedTakerAmount = isSell
-        ? utils.formatUnits(bestOrder.takerAmount, tokenDecimals)
-        : utils.formatUnits(bestOrder.takerAmount, 18)
+        ? utils.formatUnits(bestOrder.takerParam, tokenDecimals)
+        : utils.formatUnits(bestOrder.takerParam, 18)
 
       result = {
         exchangeName: this.name,
