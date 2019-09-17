@@ -1,6 +1,6 @@
 # Ethereum DEX Prices Service
 
-![npm](https://img.shields.io/npm/v/ethereum-dex-prices-service) ![NPM](https://img.shields.io/npm/l/ethereum-dex-prices-service) ![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/perich/ethereum-dex-prices-service) ![GitHub last commit](https://img.shields.io/github/last-commit/perich/ethereum-dex-prices-service)
+[![npm](https://img.shields.io/npm/v/ethereum-dex-prices-service)](https://www.npmjs.com/package/ethereum-dex-prices-service) ![NPM](https://img.shields.io/npm/l/ethereum-dex-prices-service) [![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/perich/ethereum-dex-prices-service)](https://lgtm.com/projects/g/perich/ethereum-dex-prices-service/context:javascript) ![GitHub last commit](https://img.shields.io/github/last-commit/perich/ethereum-dex-prices-service)
 
 An open source utility for the Ethereum community.
 
