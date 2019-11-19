@@ -1,7 +1,12 @@
 const tokenAbi = require('human-standard-token-abi')
 const ethers = require('ethers')
 const { tokenSymbolResolver } = require('../tokenSymbolResolver.js')
-const { UNISWAP_FACTORY_ABI, UNISWAP_FACTORY_ADDRESS } = require('../constants.js')
+const {
+  UNISWAP_FACTORY_ABI,
+  UNISWAP_FACTORY_ADDRESS,
+  SNX_TOKEN_ADDRESS,
+  SNX_PROXY_ADDRESS,
+} = require('../constants.js')
 
 const { utils } = ethers
 
@@ -57,7 +62,20 @@ module.exports = class Uniswap {
     let result = {}
     try {
       const { addr, decimals } = await tokenSymbolResolver(symbol)
-      const { ethAmount, tokenAmount } = await this.getExchangeLiquidityByAddress(symbol, addr, decimals)
+      let overrideAddr
+
+      // SNX has some unique behaviors. It uses a proxy upgrade pattern where multiple proxy addresses now all point to the same token.
+      // The SNX uniswap pool with liquidity maps to one of their token proxy contracts (0xc011a73ee) not the true token address (0xc011a72400)
+      if (addr.toLowerCase() === SNX_TOKEN_ADDRESS) {
+        overrideAddr = SNX_PROXY_ADDRESS
+      }
+
+      // 0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f
+      const { ethAmount, tokenAmount } = await this.getExchangeLiquidityByAddress(
+        symbol,
+        overrideAddr || addr,
+        decimals,
+      )
 
       // Any BNB sent to Uniswap will be lost forever
       // https://twitter.com/UniswapExchange/status/1072286773554876416
