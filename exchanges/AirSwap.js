@@ -1,15 +1,10 @@
-const wtf = require('wtfnode')
 const rp = require('request-promise')
 const cp = require('child_process')
 const path = require('path')
 const ethers = require('ethers')
-// const uuid = require('uuid4')
-const Router = require('airswap.js/src/protocolMessaging/index.js')
 const { AIRSWAP_TOKEN_METADATA_URL } = require('../constants.js')
 
 const { utils } = ethers
-// const TIMEOUT = 6000
-// const INDEXER_ADDRESS = '0x0000000000000000000000000000000000000000'
 
 module.exports = class AirSwap {
   constructor() {
@@ -27,19 +22,17 @@ module.exports = class AirSwap {
     return rp(config)
   }
 
-  fetchIndexerIntents(method, { senderToken, signerToken, signerParam, senderParam }) {
+  static fetchIndexerIntents(method, { senderToken, signerToken, signerParam, senderParam }) {
     if (!senderToken || !signerToken) {
       throw new Error('Must specify senderToken and signerToken')
     }
     // airswap.js kicks off some event polling processes when we execute the worker
     // it's spawned in a child process so that it doesn't stop the parent process from terminating
     const child = cp.fork(path.join(__dirname, './airswapWorker.js'), [])
-    this.child = child
     child.send({ method, senderToken, signerToken, signerParam, senderParam })
     return new Promise(resolve => {
       child.on('message', data => {
-        // console.log('got quotes', data)
-        child.kill('SIGKILL')
+        child.kill()
         resolve(data)
       })
     })
@@ -63,12 +56,12 @@ module.exports = class AirSwap {
       }
 
       const orders = isSell
-        ? await this.fetchIndexerIntents('getSignerSideQuotes', {
+        ? await AirSwap.fetchIndexerIntents('getSignerSideQuotes', {
             signerToken: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2',
             senderToken: tokenObj.address,
             senderParam: decimalAdjustedAmount.toString(),
           })
-        : await this.fetchIndexerIntents('getSenderSideQuotes', {
+        : await AirSwap.fetchIndexerIntents('getSenderSideQuotes', {
             signerToken: tokenObj.address,
             senderToken: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2',
             signerParam: decimalAdjustedAmount.toString(),
@@ -85,7 +78,6 @@ module.exports = class AirSwap {
         return 0
       })
 
-      console.log('bestOrder', bestOrder)
       if (!bestOrder.maker.param || !bestOrder.taker.param) {
         throw noOrderError
       }
@@ -115,8 +107,7 @@ module.exports = class AirSwap {
         tokenAmount: desiredAmount,
       }
     }
-    this.child.kill('SIGKILL')
-    wtf.dump()
+
     return { [this.name]: result }
   }
 }
