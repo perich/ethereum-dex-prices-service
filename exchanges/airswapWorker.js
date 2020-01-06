@@ -31,7 +31,7 @@ indexer.ready.then(async () => {
         const params = {
           signerToken,
           senderToken,
-          signerParam,
+          signerAmount: signerParam,
           locator: intent.locator,
           locatorType: intent.locatorType,
         }
@@ -47,7 +47,7 @@ indexer.ready.then(async () => {
         const params = {
           signerToken,
           senderToken,
-          senderParam,
+          senderAmount: senderParam,
           locator: intent.locator,
           locatorType: intent.locatorType,
         }

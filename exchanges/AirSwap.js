@@ -68,26 +68,27 @@ module.exports = class AirSwap {
           })
 
       if (!orders || !orders.length) throw noOrderError
+      console.log(orders)
 
       const [bestOrder] = orders.sort((a, b) => {
-        if (a.maker.param && !b.maker.param) return -1
-        if (b.maker.param && !a.maker.param) return 1
-        if (a.maker.param && b.maker.param) {
-          return parseInt(a.maker.param, 10) > parseInt(b.maker.param, 10) ? -1 : 1
+        if (a.maker.amount && !b.maker.amount) return -1
+        if (b.maker.amount && !a.maker.amount) return 1
+        if (a.maker.amount && b.maker.amount) {
+          return parseInt(a.maker.amount, 10) > parseInt(b.maker.amount, 10) ? -1 : 1
         }
         return 0
       })
 
-      if (!bestOrder.maker.param || !bestOrder.taker.param) {
+      if (!bestOrder.maker.amount || !bestOrder.taker.amount) {
         throw noOrderError
       }
 
       const formattedMakerAmount = isSell
-        ? utils.formatUnits(bestOrder.maker.param, 18)
-        : utils.formatUnits(bestOrder.maker.param, tokenDecimals)
+        ? utils.formatUnits(bestOrder.maker.amount, 18)
+        : utils.formatUnits(bestOrder.maker.amount, tokenDecimals)
       const formattedTakerAmount = isSell
-        ? utils.formatUnits(bestOrder.taker.param, tokenDecimals)
-        : utils.formatUnits(bestOrder.taker.param, 18)
+        ? utils.formatUnits(bestOrder.taker.amount, tokenDecimals)
+        : utils.formatUnits(bestOrder.taker.amount, 18)
 
       result = {
         exchangeName: this.name,
