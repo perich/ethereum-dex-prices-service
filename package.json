@@ -31,7 +31,7 @@
     "yarn prettier:check"
   ],
   "dependencies": {
-    "airswap.js": "^0.1.110",
+    "airswap.js": "^0.1.114",
     "bignumber.js": "^8.0.2",
     "cors": "^2.8.5",
     "eslint": "^5.10.0",
