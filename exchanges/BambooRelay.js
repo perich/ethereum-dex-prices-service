@@ -7,6 +7,16 @@ module.exports = class BambooRelay extends OrderBookExchange {
     super()
     this.marketsUrl = `${BAMBOO_RELAY_URL}/markets`
     this.name = 'Bamboo Relay'
+    // Markets with WETH as the base asset
+    this.inverseMarkets = [
+      'DAI',
+      'SAI',
+      'USDC',
+      'TUSD',
+      'IDRT',
+      'GUSD',
+      'USDT',
+    ]
   }
 
   _getMarketDetails(marketId) {
@@ -60,7 +70,8 @@ module.exports = class BambooRelay extends OrderBookExchange {
 
     return new Promise(async resolve => {
       try {
-        const marketId = `${symbol}-WETH`
+        const isInversePair = this.inverseMarkets.indexOf(symbol) !== -1
+        const marketId = isInversePair ? `WETH-${symbol}` : `${symbol}-WETH`
         const marketDetails = await this._getMarketDetails(marketId)
         if (!marketDetails.active) {
           throw new Error(`${marketId} is not available on ${this.name}`)
@@ -68,7 +79,7 @@ module.exports = class BambooRelay extends OrderBookExchange {
 
         const book = await this._getRawOrderBook(marketId)
 
-        const { asks, bids } = book
+        const { asks, bids } = isInversePair ? BambooRelay._flipBook(book) : book
 
         const formattedAsks = asks.map(walkBook)
 
