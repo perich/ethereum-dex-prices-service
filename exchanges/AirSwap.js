@@ -84,11 +84,11 @@ module.exports = class AirSwap {
       }
 
       const formattedMakerAmount = isSell
-        ? utils.formatUnits(bestOrder.maker.amount, 18)
-        : utils.formatUnits(bestOrder.maker.amount, tokenDecimals)
+        ? utils.formatUnits(String(bestOrder.maker.amount), 18)
+        : utils.formatUnits(String(bestOrder.maker.amount), tokenDecimals)
       const formattedTakerAmount = isSell
-        ? utils.formatUnits(bestOrder.taker.amount, tokenDecimals)
-        : utils.formatUnits(bestOrder.taker.amount, 18)
+        ? utils.formatUnits(String(bestOrder.taker.amount), tokenDecimals)
+        : utils.formatUnits(String(bestOrder.taker.amount), 18)
 
       result = {
         exchangeName: this.name,
