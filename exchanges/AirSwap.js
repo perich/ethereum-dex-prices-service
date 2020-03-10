@@ -71,6 +71,9 @@ module.exports = class AirSwap {
       console.log(orders)
 
       const [bestOrder] = orders.sort((a, b) => {
+        if (!a && b) return 1
+        if (a && !b) return -1
+        if (!a && !b) return 0
         if (a.maker.amount && !b.maker.amount) return -1
         if (b.maker.amount && !a.maker.amount) return 1
         if (a.maker.amount && b.maker.amount) {

@@ -4,17 +4,17 @@ const ethers = require('ethers')
 
 const indexer = new Indexer()
 
-let message
-
-process.on('message', msg => {
-  message = msg
+const message = new Promise(resolve => {
+  process.on('message', msg => {
+    resolve(msg)
+  })
 })
 
 indexer.ready.then(async () => {
   const router = new Router({ requireAuthentication: false, address: ethers.Wallet.createRandom().address })
   try {
     const intents = await indexer.getIntents()
-    const { method, senderToken, signerToken, senderParam, signerParam } = message
+    const { method, senderToken, signerToken, senderParam, signerParam } = await message
     const filteredIntents = intents.filter(intent => {
       if (
         intent.signerToken === signerToken.toLowerCase() && // eslint-disable-line
@@ -35,7 +35,7 @@ indexer.ready.then(async () => {
           locator: intent.locator,
           locatorType: intent.locatorType,
         }
-        return router.getSenderSideQuote(intent.identifier, params)
+        return router.getSenderSideQuote(intent.identifier, params).catch(e => null)
       })
 
       const quotes = await Promise.all(quotePromises)
@@ -51,7 +51,7 @@ indexer.ready.then(async () => {
           locator: intent.locator,
           locatorType: intent.locatorType,
         }
-        return router.getSignerSideQuote(intent.identifier, params)
+        return router.getSignerSideQuote(intent.identifier, params).catch(e => null)
       })
       const quotes = await Promise.all(quotePromises)
       process.send(quotes)
