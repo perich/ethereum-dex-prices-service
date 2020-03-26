@@ -45,11 +45,8 @@ module.exports = class AirSwap {
       })
 
       const quotes = await Promise.all(quotePromises)
-      console.log('AIRSWAP QUOTES')
-      console.log(quotes)
       const best = isSell ? getBestByLowestSignerAmount(quotes) : getBestByLowestSenderAmount(quotes)
-      console.log('BEST QUOTE')
-      console.log(best)
+      if (!best) throw new Error('No quotes returned by any AirSwap maker')
       const formattedSignerAmount = isSell
         ? parseFloat(toDecimalString(best.signer.amount, 18))
         : parseFloat(toDecimalString(best.signer.amount, decimals))
