@@ -28,19 +28,14 @@ module.exports = class AirSwap {
       // Iterate to get quotes from all Servers.
       const quotePromises = []
       locators.forEach(async locator => {
-        try {
-          if (isSell) {
-            quotePromises.push(
-              new Server(locator).getSignerSideQuote(desiredAmountAtomic, signerToken, senderToken).catch(e => e),
-            )
-          } else {
-            quotePromises.push(
-              new Server(locator).getSenderSideQuote(desiredAmountAtomic, signerToken, senderToken).catch(e => e),
-            )
-          }
-          console.log(`[ ✓ AirSwap Quote Received from ${locator} ]`)
-        } catch (error) {
-          console.log(`[ ✗ AirSwap Quote Request Error (${error.code}) ${locator}: ${error.message} ]`)
+        if (isSell) {
+          quotePromises.push(
+            new Server(locator).getSignerSideQuote(desiredAmountAtomic, signerToken, senderToken).catch(e => e),
+          )
+        } else {
+          quotePromises.push(
+            new Server(locator).getSenderSideQuote(desiredAmountAtomic, signerToken, senderToken).catch(e => e),
+          )
         }
       })
 
