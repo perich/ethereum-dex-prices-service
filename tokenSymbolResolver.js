@@ -39,7 +39,7 @@ const tokenSymbolResolver = async symbol => {
         )
 
         // resolve with token address and decimals
-        resolve({ addr: bestTokenMetadataMatch.contract_address, decimals })
+        resolve({ addr: bestTokenMetadataMatch.contract_address, decimals: parseInt(decimals, 10) })
       } catch (e) {
         reject(e)
       } finally {
