@@ -1,6 +1,11 @@
 const { Indexer, Server } = require('@airswap/protocols')
 const { chainIds } = require('@airswap/constants')
-const { getBestByLowestSenderAmount, getBestByLowestSignerAmount, toDecimalString } = require('@airswap/utils')
+const {
+  isValidQuote,
+  getBestByLowestSenderAmount,
+  getBestByLowestSignerAmount,
+  toDecimalString,
+} = require('@airswap/utils')
 
 const ethers = require('ethers')
 const { WETH_ADDRESS } = require('../constants.js')
@@ -39,7 +44,7 @@ module.exports = class AirSwap {
         }
       })
 
-      const quotes = await Promise.all(quotePromises)
+      const quotes = (await Promise.all(quotePromises)).filter(isValidQuote)
       const best = isSell ? getBestByLowestSignerAmount(quotes) : getBestByLowestSenderAmount(quotes)
       if (!best) throw new Error('No quotes returned by any AirSwap maker')
       const formattedSignerAmount = isSell
